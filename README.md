@@ -2,6 +2,17 @@
 
 An interactive map of Gateway2Work resources, built from the Leaflet map template.
 
+## The data: statewide Colorado layers
+
+`Data/` holds 23 GeoJSON layers (1,089 locations) for the categories in TSRG's *Colorado Workforce Development Ecosystem* GIS framework: referral sources, employment service providers, employment destinations and community supports.
+
+- **[Data/SOURCES.md](Data/SOURCES.md)**: start here. Every layer, its source, and how its locations were found.
+- **`Data/sources/`**: one write-up per layer: what was searched, what was used and why, corrections, open questions.
+- **[Data/sources/FOLLOW_UP.md](Data/sources/FOLLOW_UP.md)**: remaining manual steps (including L19 and L21).
+- **`scripts/`**: the build scripts (Python, built-in modules only). `python3 scripts/run_all.py` rebuilds everything. Original downloads are kept in `Data/raw/`, and geocoder answers are cached in `scripts/cache/`.
+
+Every map point's popup shows its `source`, `source_url`, `retrieved` date, and `geocode` method.
+
 ## About the template
 
 A ready-made interactive map. It includes address search, a layer list with collapsible groups, a legend that updates as layers are switched on and off, show/hide switches, popups, hover highlights and name labels that fit inside areas. Add your own GeoJSON files and the map builds itself.

@@ -1,0 +1,3383 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "5280 High School",
+    "category": "Recovery-Friendly Employers",
+    "address": "1200 W Mississippi Ave",
+    "city": "Denver",
+    "zip": "80223",
+    "website": "https://www.5280highschool.org/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.00159,
+     39.696648
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "7670 Grill",
+    "category": "Recovery-Friendly Employers",
+    "address": "517 Byers Ave",
+    "city": "Hot Sulphur Springs",
+    "zip": "80451",
+    "website": "https://www.7670grill.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.106436,
+     40.07293
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "A Way Forward",
+    "category": "Recovery-Friendly Employers",
+    "address": "600 Terry Street",
+    "city": "Longmont",
+    "zip": "80501",
+    "website": "https://awfnobarriers.org/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.105081,
+     40.169088
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "AGC of Colorado",
+    "category": "Recovery-Friendly Employers",
+    "address": "1114 W. 7th Ave., Suite 200",
+    "city": "Denver",
+    "zip": "80204",
+    "website": "https://www.agccolorado.org/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Certified Recovery Friendly Workplace"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.00183,
+     39.727269
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Acme Fine Goods",
+    "category": "Recovery-Friendly Employers",
+    "address": "915 Walnut St",
+    "city": "Louisville",
+    "zip": "80027",
+    "website": "Acmefinegoods.com",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.131899,
+     39.978769
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Action Creates Change LLC",
+    "category": "Recovery-Friendly Employers",
+    "address": "2502 Downs Way",
+    "city": "Fort Collins",
+    "zip": "80526",
+    "website": "https://www.actioncreateschange.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "osm-nominatim",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.1319,
+     40.553754
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Advocates for Recovery Colorado",
+    "category": "Recovery-Friendly Employers",
+    "address": "3440 W 71st Pl",
+    "city": "Westminster",
+    "zip": "80030",
+    "website": "https://www.advocatesforrecovery.org/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Certified Recovery Friendly Workplace"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.032221,
+     39.826037
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "All Points North",
+    "category": "Recovery-Friendly Employers",
+    "address": "2205 Cordillera Way",
+    "city": "Edwards",
+    "zip": "81632",
+    "website": "https://apn.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.632804,
+     39.644071
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "AllHealth Network",
+    "category": "Recovery-Friendly Employers",
+    "address": "116 Inverness Drive East Suite 105",
+    "city": "Englewood",
+    "zip": "80112",
+    "website": "allhealthnetwork.org",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.865292,
+     39.579122
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "American Subcontractors Association of Colorado",
+    "category": "Recovery-Friendly Employers",
+    "address": "601 16th Street, #C437",
+    "city": "Golden",
+    "zip": "80401",
+    "website": "https://asacolorado.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Certified Recovery Friendly Workplace"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.216155,
+     39.753244
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Avid4 Adventure",
+    "category": "Recovery-Friendly Employers",
+    "address": "3200 Carbon Place #102",
+    "city": "Boulder",
+    "zip": "80301",
+    "website": "https://avid4.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Certified Recovery Friendly Workplace"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.251442,
+     40.026315
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Ayurvida Mazie",
+    "category": "Recovery-Friendly Employers",
+    "address": "930 Button Rock Dr. Unit 43",
+    "city": "Longmont",
+    "zip": "80504",
+    "website": "www.ayurvidamazie.com",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.059955,
+     40.175009
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Baker Construction",
+    "category": "Recovery-Friendly Employers",
+    "address": "8209 Southpark Circle, Suite 150",
+    "city": "Littleton",
+    "zip": "80120",
+    "website": "https://bakerconstruction.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.028574,
+     39.566279
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Benchmark 5280",
+    "category": "Recovery-Friendly Employers",
+    "address": "3501 Allison St.",
+    "city": "Wheat Ridge",
+    "zip": "80033",
+    "website": "https://benchmark5280.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.085569,
+     39.765768
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Better Tomorrow",
+    "category": "Recovery-Friendly Employers",
+    "address": "465 Anglers Dr Ste B",
+    "city": "Steamboat Springs",
+    "zip": "80487",
+    "website": "https://bettertomorrowco.org/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.823777,
+     40.467216
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Boulder Chamber",
+    "category": "Recovery-Friendly Employers",
+    "address": "2440 Pearl St",
+    "city": "Boulder",
+    "zip": "80302",
+    "website": "https://www.boulderchamber.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.263885,
+     40.02113
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Boulder County",
+    "category": "Recovery-Friendly Employers",
+    "address": "2025 14th Street",
+    "city": "Boulder",
+    "zip": "80306",
+    "website": "https://bouldercounty.gov/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.277531,
+     40.018705
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Bravo Vail",
+    "category": "Recovery-Friendly Employers",
+    "address": "2271 N Frontage Rd W C",
+    "city": "Vail",
+    "zip": "81657",
+    "website": "https://www.bravovail.org/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.420589,
+     39.628769
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Brinkman Construction Inc",
+    "category": "Recovery-Friendly Employers",
+    "address": "3528 Precision Dr. Suite 100",
+    "city": "Fort Collins",
+    "zip": "80528",
+    "website": "Brinkmanconstruction.com",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.012487,
+     40.517723
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Buenas Causes Studio",
+    "category": "Recovery-Friendly Employers",
+    "address": "7575 E 29th Pl Apt 1127",
+    "city": "Denver",
+    "zip": "80238",
+    "website": "https://buenascauses.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.899932,
+     39.75844
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Building Hope Summit County",
+    "category": "Recovery-Friendly Employers",
+    "address": "701 Granite St # 270",
+    "city": "Frisco",
+    "zip": "80443",
+    "website": "https://buildinghopesummit.org/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "osm-nominatim",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Certified Recovery Friendly Workplace"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.09336,
+     39.575681
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Centers for Health, Work & Environment",
+    "category": "Recovery-Friendly Employers",
+    "address": "13001 E 17th Place, 3rd Floor W3111",
+    "city": "Aurora",
+    "zip": "80045",
+    "website": "https://coloradosph.cuanschutz.edu/research-and-practice/centers-programs/chwe",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Certified Recovery Friendly Workplace"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.837258,
+     39.74454
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Change Please",
+    "category": "Recovery-Friendly Employers",
+    "address": "2115 N Scranton St Suite 1080",
+    "city": "Aurora",
+    "zip": "80045",
+    "website": "https://changeplease.org/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Certified Recovery Friendly Workplace"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.839661,
+     39.748399
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Children's Hospital Colorado",
+    "category": "Recovery-Friendly Employers",
+    "address": "13123 E 16th Ave",
+    "city": "Aurora",
+    "zip": "80045",
+    "website": "https://www.childrenscolorado.org/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Certified Recovery Friendly Workplace"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.836913,
+     39.741346
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Cimarron Coffee and Books",
+    "category": "Recovery-Friendly Employers",
+    "address": "380 Sherman St",
+    "city": "Ridgeway",
+    "zip": "81432",
+    "website": "https://www.cimarronroasters.com/pages/coffee-and-books",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.755516,
+     38.151373
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Clear Path Recovery",
+    "category": "Recovery-Friendly Employers",
+    "address": "9429 CR 79",
+    "city": "Fleming",
+    "zip": "80728",
+    "website": "www.cprecovery.com",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "osm-nominatim",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Certified Recovery Friendly Workplace"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102.837826,
+     40.576419
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado Consortium for Prescription Drug Abuse Prevention",
+    "category": "Recovery-Friendly Employers",
+    "address": "12850 E Montview Blvd",
+    "city": "Aurora",
+    "zip": "80045",
+    "website": "https://corxconsortium.org/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.837516,
+     39.747659
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado Department of Law",
+    "category": "Recovery-Friendly Employers",
+    "address": "1300 Broadway #10th",
+    "city": "Denver",
+    "zip": "80203",
+    "website": "https://coag.gov/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Certified Recovery Friendly Workplace"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.987319,
+     39.736907
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado Department of Public Health and Environment",
+    "category": "Recovery-Friendly Employers",
+    "address": "4300 Cherry Creek Drive South",
+    "city": "Glendale",
+    "zip": "80246",
+    "website": "https://cdphe.colorado.gov/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Certified Recovery Friendly Workplace"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.937508,
+     39.705486
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado Division of Vocational Rehabilitation",
+    "category": "Recovery-Friendly Employers",
+    "address": "633 17th Street",
+    "city": "Denver",
+    "zip": "80202",
+    "website": "https://dvr.colorado.gov/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Certified Recovery Friendly Workplace"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.990541,
+     39.745872
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado School of Public Health",
+    "category": "Recovery-Friendly Employers",
+    "address": "13001 E 17th Place, 3rd Floor W3111",
+    "city": "Aurora",
+    "zip": "80045",
+    "website": "https://coloradosph.cuanschutz.edu/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Certified Recovery Friendly Workplace"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.837258,
+     39.74454
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado State University Career Center",
+    "category": "Recovery-Friendly Employers",
+    "address": "Campus Delivery 8033, 1101 Center Ave Mall",
+    "city": "Fort Collins",
+    "zip": "80523",
+    "website": "career.colostate.edu",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.083787,
+     40.572787
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Commercial Fence & Iron Works",
+    "category": "Recovery-Friendly Employers",
+    "address": "10270 S Progress Way # B",
+    "city": "Parker",
+    "zip": "80134",
+    "website": "www.cfence.com",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.76929,
+     39.530536
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Community Compassion Outreach",
+    "category": "Recovery-Friendly Employers",
+    "address": "21738 US-160",
+    "city": "Durango",
+    "zip": "81301",
+    "website": "https://www.communitycompassionoutreach.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.889336,
+     37.269514
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Culinary Hospitality Outreach Wellness",
+    "category": "Recovery-Friendly Employers",
+    "address": "280 E. 1st. Ave., #1969",
+    "city": "Broomfield",
+    "zip": "80038",
+    "website": "https://chowco.org/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Certified Recovery Friendly Workplace"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.068003,
+     39.915924
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "DPR Construction",
+    "category": "Recovery-Friendly Employers",
+    "address": "2 N Cascade Ste 100",
+    "city": "Colorado Springs, CO",
+    "zip": "80903",
+    "website": "https://www.dpr.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.825249,
+     38.834653
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Denver Center for the Performing Arts",
+    "category": "Recovery-Friendly Employers",
+    "address": "1101 13th Street",
+    "city": "Denver",
+    "zip": "80204",
+    "website": "https://www.denvercenter.org/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.999294,
+     39.745146
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Denver Public Schools",
+    "category": "Recovery-Friendly Employers",
+    "address": "1860 Lincoln St.",
+    "city": "Denver",
+    "zip": "80203",
+    "website": "http://thecommons.dpsk12.org/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Certified Recovery Friendly Workplace"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.986044,
+     39.745674
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "District Attorney 20th Judicial District",
+    "category": "Recovery-Friendly Employers",
+    "address": "1777 6th Street",
+    "city": "Boulder",
+    "zip": "80302",
+    "website": "https://bouldercounty.gov/district-attorney/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Certified Recovery Friendly Workplace"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.287299,
+     40.013982
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Drunken Monkeys",
+    "category": "Recovery-Friendly Employers",
+    "address": "7314 Washington Street",
+    "city": "Denver",
+    "zip": "80229",
+    "website": "https://www.facebook.com/DM7314/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.977839,
+     39.829896
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Dusky Grouse Coffee",
+    "category": "Recovery-Friendly Employers",
+    "address": "1585 mid valley dr, suite 4",
+    "city": "Steamboat Springs",
+    "zip": "80487",
+    "website": "https://duskygrousecoffee.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.826931,
+     40.464641
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Eagle River Water & Sanitation District",
+    "category": "Recovery-Friendly Employers",
+    "address": "846 Forest Rd.",
+    "city": "Vail",
+    "zip": "81657",
+    "website": "https://www.erwsd.org/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.393774,
+     39.641186
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Elevations Credit Union",
+    "category": "Recovery-Friendly Employers",
+    "address": "1 Environmental Way",
+    "city": "Broomfield",
+    "zip": "80021",
+    "website": "https://www.elevationscu.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.12643,
+     39.926312
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Encore Electric",
+    "category": "Recovery-Friendly Employers",
+    "address": "7125 W Jefferson Avenue, Suite 400",
+    "city": "Lakewood",
+    "zip": "80235",
+    "website": "https://www.encoreelectric.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Certified Recovery Friendly Workplace"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.074493,
+     39.650135
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Esters Denver",
+    "category": "Recovery-Friendly Employers",
+    "address": "1950 S Holly St",
+    "city": "Denver",
+    "zip": "80222",
+    "website": "https://www.estersdenver.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.922195,
+     39.681303
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Face It TOGETHER",
+    "category": "Recovery-Friendly Employers",
+    "address": "104 S Cascade Ave Ste 211",
+    "city": "Colorado Springs",
+    "zip": "80903",
+    "website": "https://www.wefaceittogether.org/our-locations/colorado",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.825361,
+     38.832443
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Fire on the Mountain",
+    "category": "Recovery-Friendly Employers",
+    "address": "3801 W 32nd Ave",
+    "city": "Denver",
+    "zip": "80211",
+    "website": "https://www.fotmdenver.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Certified Recovery Friendly Workplace"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.037034,
+     39.762181
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Footers Catering",
+    "category": "Recovery-Friendly Employers",
+    "address": "6543 WADSWORTH BLVD",
+    "city": "ARVADA",
+    "zip": "80003",
+    "website": "https://footerscatering.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Certified Recovery Friendly Workplace"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.081566,
+     39.815172
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Fort Collins Retail Nursery",
+    "category": "Recovery-Friendly Employers",
+    "address": "2121 E Mulberry St.",
+    "city": "Fort Collins",
+    "zip": "80524",
+    "website": "https://fortcollinsnursery.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.038555,
+     40.580613
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Foundry Treatment Center Steamboat",
+    "category": "Recovery-Friendly Employers",
+    "address": "1915 Alpine Plaza",
+    "city": "Steamboat Springs",
+    "zip": "80487",
+    "website": "https://www.forgingnewlives.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.820926,
+     40.461698
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Fransen Pittman General Contractors",
+    "category": "Recovery-Friendly Employers",
+    "address": "9563 S Kingston Ct,",
+    "city": "Centennial",
+    "zip": "80112",
+    "website": "https://fransenpittman.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.861171,
+     39.543117
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Glacier Construction",
+    "category": "Recovery-Friendly Employers",
+    "address": "9801 E Easter Ave",
+    "city": "Centennial",
+    "zip": "80112",
+    "website": "https://gcci.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.875301,
+     39.58786
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Glenwood Spring Chamber Resort Association",
+    "category": "Recovery-Friendly Employers",
+    "address": "802 Grand Avenue",
+    "city": "Glenwood Springs",
+    "zip": "81601",
+    "website": "https://www.glenwoodchamber.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.324673,
+     39.546633
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Grand County Rural Health Network",
+    "category": "Recovery-Friendly Employers",
+    "address": "416 Byers Ave",
+    "city": "Hot Sulphur Springs",
+    "zip": "80451",
+    "website": "https://gcruralhealth.org/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.105115,
+     40.072813
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Guarantee Electrical Construction Company",
+    "category": "Recovery-Friendly Employers",
+    "address": "3790 Wheeling St",
+    "city": "Denver",
+    "zip": "80239",
+    "website": "https://www.geco.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.832928,
+     39.766895
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Hahns Peak Consulting",
+    "category": "Recovery-Friendly Employers",
+    "address": "1807 Trouvaille Ct",
+    "city": "Steamboat Springs",
+    "zip": "80477",
+    "website": "https://www.hahnspeakconsulting.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.803367,
+     40.483752
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Happiness Squad",
+    "category": "Recovery-Friendly Employers",
+    "address": "623 Juniper Ave",
+    "city": "Boulder",
+    "zip": "80304",
+    "website": "www.happinesssquad.com",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.288899,
+     40.037306
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HardBeauty",
+    "category": "Recovery-Friendly Employers",
+    "address": "840 Kinner St",
+    "city": "Castle Rock",
+    "zip": "80109",
+    "website": "https://hardbeauty.life/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "osm-nominatim",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.862992,
+     39.37964
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HardBeauty Foundation",
+    "category": "Recovery-Friendly Employers",
+    "address": "840 Kinner St",
+    "city": "Castle Rock",
+    "zip": "80109",
+    "website": "https://www.hardbeautyfoundation.org/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "osm-nominatim",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.862992,
+     39.37964
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HardBeauty Mechanical",
+    "category": "Recovery-Friendly Employers",
+    "address": "971 Yarnell Dr.",
+    "city": "Larkspur",
+    "zip": "80118",
+    "website": "https://www.hardbeautymechanical.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.907023,
+     39.152425
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Hazelbrook Recovery",
+    "category": "Recovery-Friendly Employers",
+    "address": "14109 E. Exposition Ave",
+    "city": "Aurora",
+    "zip": "80013",
+    "website": "https://hazelbrooksoberliving.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.824721,
+     39.703941
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Healing Warriors Program",
+    "category": "Recovery-Friendly Employers",
+    "address": "1044 West Drake Road",
+    "city": "Fort Collins",
+    "zip": "80526",
+    "website": "https://www.healingwarriorsprogram.org/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.09546,
+     40.552763
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Healthy Harvest",
+    "category": "Recovery-Friendly Employers",
+    "address": "246 Basher Dr #7",
+    "city": "Berthoud",
+    "zip": "80513",
+    "website": "https://healthyharvestnongmo.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.984765,
+     40.339292
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Heggem-Lundquist Paint Company",
+    "category": "Recovery-Friendly Employers",
+    "address": "1391 S Cherokee St",
+    "city": "Denver",
+    "zip": "80223",
+    "website": "https://www.heggem-lundquist.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Certified Recovery Friendly Workplace"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.991092,
+     39.691399
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Helen & Arthur E. Johnson Depression Center, University of Colorado Anschutz Medical Campus",
+    "category": "Recovery-Friendly Employers",
+    "address": "1890 N Revere Ct",
+    "city": "Aurora",
+    "zip": "80045",
+    "website": "coloradodepressioncenter.org",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.841952,
+     39.74464
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "High Rockies Harm Reduction",
+    "category": "Recovery-Friendly Employers",
+    "address": "670 Buggy Cir",
+    "city": "Carbondale",
+    "zip": "81623",
+    "website": "www.highrockiesharmreduction.com",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Certified Recovery Friendly Workplace"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.220556,
+     39.409366
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Hinman Pie",
+    "category": "Recovery-Friendly Employers",
+    "address": "3600 East 40th Ave",
+    "city": "Denver",
+    "zip": "80205",
+    "website": "https://www.hinmanpie.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.945583,
+     39.772833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Hope COS",
+    "category": "Recovery-Friendly Employers",
+    "address": "5440 North Union Blvd",
+    "city": "Colorado Springs",
+    "zip": "80918",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.775477,
+     38.910069
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Hope in the Valley",
+    "category": "Recovery-Friendly Employers",
+    "address": "1317 17th St",
+    "city": "Alamosa",
+    "zip": "81101",
+    "website": "https://hopealamosa.org/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.876484,
+     37.454764
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Hospital Homies",
+    "category": "Recovery-Friendly Employers",
+    "address": "2162 Alpine Dr",
+    "city": "Erie",
+    "zip": "80516",
+    "website": "WWW.Hospitalhomies.org",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.012657,
+     40.013986
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Hot Sulphur Springs Resort and Spa",
+    "category": "Recovery-Friendly Employers",
+    "address": "5609 County Road 20",
+    "city": "Hot Sulphur Springs",
+    "zip": "80451",
+    "website": "https://www.hotsulphursprings.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.112552,
+     40.072911
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Housing Catalyst",
+    "category": "Recovery-Friendly Employers",
+    "address": "1715 W. Mountain Ave",
+    "city": "Fort Collins",
+    "zip": "80521",
+    "website": "https://housingcatalyst.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.106996,
+     40.587077
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Huntington National Bank",
+    "category": "Recovery-Friendly Employers",
+    "address": "8085 S Chester St.",
+    "city": "Centennial",
+    "zip": "80112",
+    "website": "https://www.huntington.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.879225,
+     39.571129
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Hyder Construction Inc.",
+    "category": "Recovery-Friendly Employers",
+    "address": "1031 Santa Fe Dr Suite 300",
+    "city": "Denver",
+    "zip": "80204",
+    "website": "https://www.hyderinc.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.998725,
+     39.732604
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Indigenous Wellbriety",
+    "category": "Recovery-Friendly Employers",
+    "address": "20 W Main Street",
+    "city": "Cortez",
+    "zip": "81321",
+    "website": "https://indigenouswellbriety.org/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.585488,
+     37.348676
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Interstate Medical Licensure Compact Commission",
+    "category": "Recovery-Friendly Employers",
+    "address": "7921 Southpark Plaza #109",
+    "city": "Littleton",
+    "zip": "80120",
+    "website": "https://imlcc.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Certified Recovery Friendly Workplace"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.003707,
+     39.572324
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "JHL Constructors",
+    "category": "Recovery-Friendly Employers",
+    "address": "9100 E Panorama Dr Ste 300",
+    "city": "Englewood",
+    "zip": "80112",
+    "website": "https://www.jhlconstructors.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.883318,
+     39.578057
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Key Bank",
+    "category": "Recovery-Friendly Employers",
+    "address": "1675 Broadway",
+    "city": "Denver",
+    "zip": "80202",
+    "website": "https://www.key.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.987469,
+     39.742822
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Kismet Cafe",
+    "category": "Recovery-Friendly Employers",
+    "address": "618 Clinton St",
+    "city": "Rideway",
+    "zip": "81432",
+    "website": "https://www.kismetcafe.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.758177,
+     38.152383
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Lake & Lantern Cafe",
+    "category": "Recovery-Friendly Employers",
+    "address": "84-2 CO HWY 105",
+    "city": "Palmer Lake",
+    "zip": "80133",
+    "website": "https://lakeandlantern.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.915171,
+     39.12184
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Lift Up Routt County",
+    "category": "Recovery-Friendly Employers",
+    "address": "2125 Curve Court",
+    "city": "Steamboat Springs",
+    "zip": "80487",
+    "website": "https://liftuprc.org/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.857037,
+     40.499805
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Little Piggy Hospitality (Blackbelly Boulder, Blackbelly Denver, Santo)",
+    "category": "Recovery-Friendly Employers",
+    "address": "1606 Conestoga Street",
+    "city": "Boulder",
+    "zip": "80301",
+    "website": "blackbelly.com",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.228074,
+     40.01489
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Lived Experience Consult, LLC",
+    "category": "Recovery-Friendly Employers",
+    "address": "1067 Ingalls St Apt 10j",
+    "city": "Lakewood",
+    "zip": "80214",
+    "website": "https://livedexperienceconsulting.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.06381,
+     39.734253
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Louisville Chamber of Commerce",
+    "category": "Recovery-Friendly Employers",
+    "address": "901 Main Street",
+    "city": "Louisville",
+    "zip": "80027",
+    "website": "louisvillechamber.com",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.132222,
+     39.978767
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "MINES and Associates",
+    "category": "Recovery-Friendly Employers",
+    "address": "10367 W Centennial Rd, #100",
+    "city": "Littleton",
+    "zip": "80127",
+    "website": "https://minesandassociates.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Certified Recovery Friendly Workplace"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.114996,
+     39.567537
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Maria Droste Counseling Center",
+    "category": "Recovery-Friendly Employers",
+    "address": "1355 South Colorado Blvd. Suite C-100",
+    "city": "Denver",
+    "zip": "80222",
+    "website": "www.mariadroste.org",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.940812,
+     39.691946
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Meritch",
+    "category": "Recovery-Friendly Employers",
+    "address": "720 Corporate Cir Ste K",
+    "city": "Golden",
+    "zip": "80401",
+    "website": "https://www.meritech.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.1929,
+     39.717847
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Milestone Community Wellness, LLC",
+    "category": "Recovery-Friendly Employers",
+    "address": "740 W. Broadway St.",
+    "city": "Sterling",
+    "zip": "80751",
+    "website": "www.milestonecommunitywellness.org",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-nonexact",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.210009,
+     40.632969
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Morris and Mae Food Hall",
+    "category": "Recovery-Friendly Employers",
+    "address": "18475 W Colfax Ave, Ste 132,",
+    "city": "Golden",
+    "zip": "80401",
+    "website": "https://morrisandmae.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "osm-street-approx",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.197631,
+     39.721473
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Murphy Company",
+    "category": "Recovery-Friendly Employers",
+    "address": "12789 Emerson St",
+    "city": "Thornton",
+    "zip": "80241",
+    "website": "https://murphynet.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.974201,
+     39.928446
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "NAMI Colorado",
+    "category": "Recovery-Friendly Employers",
+    "address": "3333 S Bannock St",
+    "city": "Englewood",
+    "zip": "80110",
+    "website": "https://namicolorado.org/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Certified Recovery Friendly Workplace"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.990061,
+     39.655985
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "North Colorado Health Alliance",
+    "category": "Recovery-Friendly Employers",
+    "address": "2930 11th Ave",
+    "city": "Evans",
+    "zip": "80620",
+    "website": "https://northcoloradohealthalliance.org/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Certified Recovery Friendly Workplace"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.696837,
+     40.390359
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "North County",
+    "category": "Recovery-Friendly Employers",
+    "address": "94 Rampart Way",
+    "city": "Denver",
+    "zip": "80230",
+    "website": "https://www.northcountydenver.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.898134,
+     39.720047
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Northpoint Recovery",
+    "category": "Recovery-Friendly Employers",
+    "address": "4565 Kendall Pkwy",
+    "city": "Loveland",
+    "zip": "80538",
+    "website": "https://www.northpointcolorado.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "osm-street-approx",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.00973,
+     40.42863
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "OZO Coffee Roasters",
+    "category": "Recovery-Friendly Employers",
+    "address": "1898 S. Flatiron Ct",
+    "city": "Boulder",
+    "zip": "80301",
+    "website": "www.ozocoffee.com",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.218883,
+     40.020157
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Odie B's",
+    "category": "Recovery-Friendly Employers",
+    "address": "2651 W 38th Ave",
+    "city": "Denver",
+    "zip": "80211",
+    "website": "https://www.odie-bs.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Certified Recovery Friendly Workplace"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.019764,
+     39.769324
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Off the Beaten Path Bookstore and Cafe",
+    "category": "Recovery-Friendly Employers",
+    "address": "68 9th St",
+    "city": "Steamboat Springs",
+    "zip": "80487",
+    "website": "https://steamboatbooks.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Certified Recovery Friendly Workplace"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.835814,
+     40.486581
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Olive and Finch Collective",
+    "category": "Recovery-Friendly Employers",
+    "address": "5500 E Pacific Place",
+    "city": "Denver",
+    "zip": "80222",
+    "website": "https://www.oliveandfinch.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.923821,
+     39.679182
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Omni Institute",
+    "category": "Recovery-Friendly Employers",
+    "address": "1536 Wynkoop St",
+    "city": "Denver",
+    "zip": "80202",
+    "website": "https://www.omni.org/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Certified Recovery Friendly Workplace"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.001609,
+     39.751275
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Otero County Health Department",
+    "category": "Recovery-Friendly Employers",
+    "address": "13 West 3rd Street",
+    "city": "La Junta",
+    "zip": "81050",
+    "website": "https://oterocounty.colorado.gov/departments/health-department",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.543946,
+     37.985998
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Partners for Youth",
+    "category": "Recovery-Friendly Employers",
+    "address": "2673 Jacob Circle Unit 100",
+    "city": "Steamboat Springs",
+    "zip": "80487",
+    "website": "https://partnersyouth.org/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.858053,
+     40.507151
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Peak Abundance dba Nederland Food Pantry",
+    "category": "Recovery-Friendly Employers",
+    "address": "196 W 1st St PO Box 154",
+    "city": "Nederland",
+    "zip": "80466",
+    "website": "https://www.nederlandfoodpantry.org/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.512076,
+     39.961825
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Peer 180 RCO",
+    "category": "Recovery-Friendly Employers",
+    "address": "201 South Ave",
+    "city": "Grand Junction",
+    "zip": "81501",
+    "website": "https://peer-180.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.569613,
+     39.063942
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Pinkard Construction Co.",
+    "category": "Recovery-Friendly Employers",
+    "address": "9195 W. Sixth Ave",
+    "city": "Lakewood",
+    "zip": "80215",
+    "website": "https://www.pinkardbuilds.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "osm-street-approx",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.158309,
+     39.713727
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Pitkin County Government",
+    "category": "Recovery-Friendly Employers",
+    "address": "530 East Main Street",
+    "city": "Aspen",
+    "zip": "81611",
+    "website": "https://pitkincounty.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Certified Recovery Friendly Workplace"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.817656,
+     39.190398
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Primrose",
+    "category": "Recovery-Friendly Employers",
+    "address": "1110 Yampa Street unit 100",
+    "city": "Steamboat Springs",
+    "zip": "80487",
+    "website": "https://www.primrosesteamboat.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.838823,
+     40.48733
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Reconnected Foundation",
+    "category": "Recovery-Friendly Employers",
+    "address": "20 Eagle Road Unit 110",
+    "city": "Avon",
+    "zip": "81620",
+    "website": "https://reconnected.org/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.487432,
+     39.622332
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Recovery Cafe Longmont",
+    "category": "Recovery-Friendly Employers",
+    "address": "402 Kimbark St",
+    "city": "Longmont",
+    "zip": "80501",
+    "website": "https://recoverycafelongmont.org/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Certified Recovery Friendly Workplace"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.101119,
+     40.165817
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Red Rock Recovery Center",
+    "category": "Recovery-Friendly Employers",
+    "address": "8805 W 14th Ave # 200",
+    "city": "Lakewood",
+    "zip": "80215",
+    "website": "https://www.redrockrecoverycenter.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Certified Recovery Friendly Workplace"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.095613,
+     39.738478
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "RedHawk Tree Service",
+    "category": "Recovery-Friendly Employers",
+    "address": "2321 W 11th Street Rd",
+    "city": "Greeley",
+    "zip": "80634",
+    "website": "redhawktreeservice.com",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.717318,
+     40.420627
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Revolution Recovery Services",
+    "category": "Recovery-Friendly Employers",
+    "address": "48 E Beaver Creek Blvd",
+    "city": "Avon",
+    "zip": "81620",
+    "website": "https://revolutionrs.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.521041,
+     39.634895
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Rocky Mountain Tap and Garden",
+    "category": "Recovery-Friendly Employers",
+    "address": "1071 Courtesy Road",
+    "city": "Louisville",
+    "zip": "80027",
+    "website": "Rockymountaintap.com",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.127897,
+     39.980415
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "SOBER AF Entertainment",
+    "category": "Recovery-Friendly Employers",
+    "address": "485 2nd Ave #4202",
+    "city": "Longmont",
+    "zip": "80501",
+    "website": "https://soberafe.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.101535,
+     40.161865
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "San Luis Valley Local Foods Coalition",
+    "category": "Recovery-Friendly Employers",
+    "address": "412 State Ave",
+    "city": "Alamosa",
+    "zip": "81101",
+    "website": "https://slvlocalfoods.org/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.865417,
+     37.469104
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Serenity Recovery Connection",
+    "category": "Recovery-Friendly Employers",
+    "address": "985 W Fillmore St",
+    "city": "Colorado Springs",
+    "zip": "80907",
+    "website": "https://srchope.org/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Certified Recovery Friendly Workplace"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.839405,
+     38.87631
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Sister Carmen Community Center",
+    "category": "Recovery-Friendly Employers",
+    "address": "655 Aspen Ridge Dr",
+    "city": "Lafayette",
+    "zip": "80026",
+    "website": "https://sistercarmen.org/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Certified Recovery Friendly Workplace"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.106461,
+     40.003264
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Sober Outdoors, Inc.",
+    "category": "Recovery-Friendly Employers",
+    "address": "6307 Village Lane",
+    "city": "Centennial",
+    "zip": "80111",
+    "website": "https://www.soberoutdoors.org/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.835242,
+     39.60118
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Speedy Sparkle Car Wash",
+    "category": "Recovery-Friendly Employers",
+    "address": "1414 Hecla Way",
+    "city": "Louisville",
+    "zip": "80027",
+    "website": "Www.speedysparklecarwash.com",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.123012,
+     39.987895
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Stone Brother's Moving",
+    "category": "Recovery-Friendly Employers",
+    "address": "215 Cotton St",
+    "city": "Fort Morgan",
+    "zip": "80701",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.783101,
+     40.245601
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Stoney's Bar & Grill",
+    "category": "Recovery-Friendly Employers",
+    "address": "1111 Lincoln St",
+    "city": "Denver",
+    "zip": "80203",
+    "website": "https://www.stoneysbarandgrill.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.986203,
+     39.734038
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Tag Restaurant Group",
+    "category": "Recovery-Friendly Employers",
+    "address": "3457 Ringsby Ct Unit 202",
+    "city": "Denver",
+    "zip": "80216",
+    "website": "https://www.tagrestaurantgroup.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.981797,
+     39.771853
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "The Art of Concrete",
+    "category": "Recovery-Friendly Employers",
+    "address": "7803 E Harvard Ave",
+    "city": "Denver",
+    "zip": "80231",
+    "website": "https://www.theartofconcretellc.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.896809,
+     39.671274
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "The Conflict Center",
+    "category": "Recovery-Friendly Employers",
+    "address": "4140 Tejon St",
+    "city": "Denver",
+    "zip": "80211",
+    "website": "https://conflictcenter.org/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.011146,
+     39.773421
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "The Family Center/La Familia",
+    "category": "Recovery-Friendly Employers",
+    "address": "309 Hickory Street #5",
+    "city": "Fort Collins",
+    "zip": "80524",
+    "website": "www.thefamilycenterfc.org",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.081852,
+     40.603433
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "The Health Partnership",
+    "category": "Recovery-Friendly Employers",
+    "address": "2720 Lincoln Ave",
+    "city": "Steamboat Springs",
+    "zip": "80488",
+    "website": "https://thehealthpartnership.org/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.864424,
+     40.503072
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "The Latino Chamber of Commerce",
+    "category": "Recovery-Friendly Employers",
+    "address": "1925 Pike Rd. Ste. 202",
+    "city": "Longmont",
+    "zip": "80501",
+    "website": "https://www.latinochamberco.org/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Certified Recovery Friendly Workplace"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.124471,
+     40.137869
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "The Matthews House",
+    "category": "Recovery-Friendly Employers",
+    "address": "415 Mason Ct. #1",
+    "city": "Fort Collins",
+    "zip": "80524",
+    "website": "www.thematthewshouse.org",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.079625,
+     40.593052
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "The Reentry Initiative",
+    "category": "Recovery-Friendly Employers",
+    "address": "402 Kimbark St",
+    "city": "Longmont",
+    "zip": "80501",
+    "website": "https://www.reentryinitiative.org/ ",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.101119,
+     40.165817
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "The Steadman Group",
+    "category": "Recovery-Friendly Employers",
+    "address": "4460 Aaron Place",
+    "city": "Boulder",
+    "zip": "80303",
+    "website": "https://steadmangroup.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Certified Recovery Friendly Workplace"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.238599,
+     40.012374
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "The Yarn Consolery LLC",
+    "category": "Recovery-Friendly Employers",
+    "address": "1270 W Caley Ave",
+    "city": "Littleton",
+    "zip": "80120",
+    "website": "https://theyarnconsoleryllc.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.003046,
+     39.602323
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Through the Looking Glass Recovery",
+    "category": "Recovery-Friendly Employers",
+    "address": "56960 ME Rd.",
+    "city": "Collbran",
+    "zip": "81624",
+    "website": "https://throughtheglassrecovery.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "osm-nominatim",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.991715,
+     39.19442
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Tilt Pinball",
+    "category": "Recovery-Friendly Employers",
+    "address": "640 Main St",
+    "city": "Louisville",
+    "zip": "80027",
+    "website": "www.tiltcolorado.com",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.132059,
+     39.976297
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Timberline Tax Group llC",
+    "category": "Recovery-Friendly Employers",
+    "address": "361 Centential Pkwy",
+    "city": "Louisvile",
+    "zip": "80027",
+    "website": "Timberlinetax.com",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.168982,
+     39.965358
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Top Notch Plumbing",
+    "category": "Recovery-Friendly Employers",
+    "address": "3005 W. 29th St. Ste D",
+    "city": "Greeley",
+    "zip": "80631",
+    "website": "https://www.topnotchplumbingllc.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.727599,
+     40.388987
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Town Hall Collaborative",
+    "category": "Recovery-Friendly Employers",
+    "address": "525 Santa Fe Drive",
+    "city": "Denver",
+    "zip": "80204",
+    "website": "https://www.townhallcollaborative.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.99865,
+     39.724545
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Tupelo Honey",
+    "category": "Recovery-Friendly Employers",
+    "address": "1650 Wewatta St #104",
+    "city": "Denver",
+    "zip": "80202",
+    "website": "https://tupelohoneycafe.com/restaurant/denver/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.001994,
+     39.753575
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Unbound Courage",
+    "category": "Recovery-Friendly Employers",
+    "address": "212 E Kiowa Ave Suite 7",
+    "city": "Fort Morgan",
+    "zip": "80701",
+    "website": "https://www.facebook.com/p/Unbound-Courage-100090994444444/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.799605,
+     40.24979
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Ute Trail Motel",
+    "category": "Recovery-Friendly Employers",
+    "address": "120 Byers Avenue",
+    "city": "Hot Sulphur Springs",
+    "zip": "80451",
+    "website": "https://utetrailmotel.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.101415,
+     40.072791
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Valley Hope Addiction Treatment & Recovery",
+    "category": "Recovery-Friendly Employers",
+    "address": "22422 East Mainstreet",
+    "city": "Parker",
+    "zip": "80138",
+    "website": "https://valleyhope.org/locations/colorado/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.737217,
+     39.518044
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Velocity BioGroup",
+    "category": "Recovery-Friendly Employers",
+    "address": "400 North Park Avenue unit 10-b",
+    "city": "Breckenridge",
+    "zip": "80424",
+    "website": "https://www.velocitybiogroup.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.047468,
+     39.490249
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "W. E. O'Neil Construction Company",
+    "category": "Recovery-Friendly Employers",
+    "address": "229 Vallejo Street",
+    "city": "Denver",
+    "zip": "80223",
+    "website": "https://www.weoneil.com/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.013254,
+     39.720551
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Work Rx",
+    "category": "Recovery-Friendly Employers",
+    "address": "7544 East 4th Ave #309",
+    "city": "Denver",
+    "zip": "80230",
+    "website": "www.work-rx.com",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "osm-nominatim",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Certified Recovery Friendly Workplace"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.900915,
+     39.722314
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "YOLO Foundation",
+    "category": "Recovery-Friendly Employers",
+    "address": "2619 11th Street Road",
+    "city": "Greeley",
+    "zip": "80634",
+    "website": "https://www.theyolofoundation.org/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Certified Recovery Friendly Workplace"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.722704,
+     40.420872
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Young People in Recovery",
+    "category": "Recovery-Friendly Employers",
+    "address": "1415 Park Ave W",
+    "city": "Denver",
+    "zip": "80205",
+    "website": "https://youngpeopleinrecovery.org/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.989942,
+     39.756612
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Your Story Recovery, LLC.",
+    "category": "Recovery-Friendly Employers",
+    "address": "743 Nyssa Dr",
+    "city": "Loveland",
+    "zip": "80538",
+    "website": "www.yourstoryrecovery.org",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.067544,
+     40.416806
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Zumaya",
+    "category": "Recovery-Friendly Employers",
+    "address": "1143 Santa Fe Dr.",
+    "city": "Denver",
+    "zip": "80204",
+    "website": "https://www.zumaya.org/",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.998738,
+     39.734367
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "iFurnish",
+    "category": "Recovery-Friendly Employers",
+    "address": "725 Ten Mile Drive",
+    "city": "Frisco",
+    "zip": "80443",
+    "source": "Colorado Recovery Friendly Workplace Initiative - participating companies list",
+    "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
+    "geocode": "osm-street-approx",
+    "retrieved": "2026-11-13",
+    "rfw_status": "Participating (pledged)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.093506,
+     39.586255
+    ]
+   }
+  }
+ ]
+}

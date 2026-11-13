@@ -1,0 +1,176 @@
+{
+ "source": "https://www.oxfordvacancies.com/?state=CO (queried per county)",
+ "retrieved": "2026-11-13",
+ "houses_listed": 79,
+ "note": "Aggregated counts only; individual house names, addresses and resident contacts intentionally NOT stored",
+ "by_city": {
+  "Thornton": {
+   "county": "Adams",
+   "houses": 4,
+   "beds": 32,
+   "types": {
+    "Unknown": 4
+   }
+  },
+  "Aurora": {
+   "county": "Adams",
+   "houses": 6,
+   "beds": 49,
+   "types": {
+    "Unknown": 6
+   }
+  },
+  "Centennial": {
+   "county": "Arapahoe",
+   "houses": 3,
+   "beds": 24,
+   "types": {
+    "Unknown": 3
+   }
+  },
+  "Littleton": {
+   "county": "Arapahoe",
+   "houses": 1,
+   "beds": 8,
+   "types": {
+    "Unknown": 1
+   }
+  },
+  "Longmont": {
+   "county": "Boulder",
+   "houses": 3,
+   "beds": 24,
+   "types": {
+    "Unknown": 3
+   }
+  },
+  "Broomfield": {
+   "county": "Broomfield",
+   "houses": 3,
+   "beds": 25,
+   "types": {
+    "Unknown": 3
+   }
+  },
+  "Denver": {
+   "county": "Denver",
+   "houses": 4,
+   "beds": 30,
+   "types": {
+    "Unknown": 4
+   }
+  },
+  "Colorado Springs": {
+   "county": "El Paso",
+   "houses": 15,
+   "beds": 117,
+   "types": {
+    "Unknown": 15
+   }
+  },
+  "Manitou Springs": {
+   "county": "El Paso",
+   "houses": 1,
+   "beds": 8,
+   "types": {
+    "Unknown": 1
+   }
+  },
+  "Gunnison": {
+   "county": "Gunnison",
+   "houses": 2,
+   "beds": 14,
+   "types": {
+    "Unknown": 2
+   }
+  },
+  "Lakewood": {
+   "county": "Jefferson",
+   "houses": 1,
+   "beds": 10,
+   "types": {
+    "Unknown": 1
+   }
+  },
+  "Arvada": {
+   "county": "Jefferson",
+   "houses": 4,
+   "beds": 36,
+   "types": {
+    "Unknown": 4
+   }
+  },
+  "Wheat Ridge": {
+   "county": "Jefferson",
+   "houses": 1,
+   "beds": 9,
+   "types": {
+    "Unknown": 1
+   }
+  },
+  "Fort Collins": {
+   "county": "Larimer",
+   "houses": 4,
+   "beds": 32,
+   "types": {
+    "Unknown": 4
+   }
+  },
+  "Loveland": {
+   "county": "Larimer",
+   "houses": 4,
+   "beds": 32,
+   "types": {
+    "Unknown": 4
+   }
+  },
+  "Grand Junction": {
+   "county": "Mesa",
+   "houses": 7,
+   "beds": 61,
+   "types": {
+    "Unknown": 7
+   }
+  },
+  "Craig": {
+   "county": "Moffat",
+   "houses": 2,
+   "beds": 20,
+   "types": {
+    "Unknown": 2
+   }
+  },
+  "Montrose": {
+   "county": "Montrose",
+   "houses": 2,
+   "beds": 16,
+   "types": {
+    "Unknown": 2
+   }
+  },
+  "Pueblo": {
+   "county": "Pueblo",
+   "houses": 7,
+   "beds": 60,
+   "types": {
+    "Unknown": 7
+   }
+  },
+  "Greeley": {
+   "county": "Weld",
+   "houses": 4,
+   "beds": 31,
+   "types": {
+    "Unknown": 4
+   }
+  },
+  "Firestone": {
+   "county": "Weld",
+   "houses": 1,
+   "beds": 8,
+   "types": {
+    "Unknown": 1
+   }
+  }
+ }
+}

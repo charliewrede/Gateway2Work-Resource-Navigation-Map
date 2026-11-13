@@ -1,0 +1,243 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado Center for Nursing Excellence",
+    "category": "Apprenticeship and Pre-Apprenticeship Programs",
+    "address": "7535 E Hampden Avenue Suite 110",
+    "city": "Denver",
+    "zip": "80231",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 4,
+    "main_fields": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing, Interpersonal and Social Skills",
+    "entity_type": "Private Non-Profit",
+    "apprenticeship_programs": "Yes",
+    "apprenticeship_program_names": "Health Careers Pre-Apprentice Academy (HCPA)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.9034,
+     39.653172
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado Mountain College",
+    "category": "Apprenticeship and Pre-Apprenticeship Programs",
+    "address": "802 Grand Avenue",
+    "city": "Glenwood Springs",
+    "zip": "81601",
+    "website": "http://catalog.coloradomtn.edu/preview_program.php?catoid=8&poid=841&_ga=1.209011090.1442955121.1458243191",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 179,
+    "main_fields": "Hospitality Administration/Management, Teacher Education and Professional Development, Specific Levels and Methods, Culinary Arts and Related Services",
+    "entity_type": "Other",
+    "apprenticeship_programs": "Yes",
+    "apprenticeship_program_names": "(apprenticeship named in description)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.324673,
+     39.546633
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Pikes Peak State College",
+    "category": "Apprenticeship and Pre-Apprenticeship Programs",
+    "address": "5675 South Academy Blvd",
+    "city": "Colorado Springs",
+    "zip": "80906",
+    "website": "https://www.ppcc.edu/programs/computer-aided-drafting/",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 145,
+    "main_fields": "Vehicle Maintenance and Repair Technologies/Technicians, Liberal Arts and Sciences, General Studies and Humanities, Precision Metal Working",
+    "entity_type": "Other",
+    "apprenticeship_programs": "Yes",
+    "apprenticeship_program_names": "(apprenticeship named in description)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.784796,
+     38.765381
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Red Rocks Community College",
+    "category": "Apprenticeship and Pre-Apprenticeship Programs",
+    "address": "13300 W 6th Ave",
+    "city": "Lakewood",
+    "zip": "80228",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "osm-street-approx",
+    "retrieved": "2026-11-13",
+    "program_count": 56,
+    "main_fields": "Allied Health Diagnostic, Intervention, and Treatment Professions, Environmental Control Technologies/Technicians, Drafting/Design Engineering Technologies/Technicians",
+    "entity_type": "Other",
+    "apprenticeship_programs": "Yes",
+    "apprenticeship_program_names": "(apprenticeship named in description)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.114342,
+     39.725763
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "The Master's Apprentice",
+    "category": "Apprenticeship and Pre-Apprenticeship Programs",
+    "address": "646 Mariposa St.",
+    "city": "Denver",
+    "zip": "80204",
+    "website": "www.themastersapprentice.org",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 4,
+    "main_fields": "Construction Trades, General",
+    "entity_type": "Other",
+    "apprenticeship_programs": "Yes",
+    "apprenticeship_program_names": "Pre-Apprenticeship for skilled trades 1; Pre-Apprenticeship for skilled trades 2; Pre-Apprenticeship for skilled trades 3; Pre-Apprenticeship for skilled trades 4"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.002781,
+     39.726573
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Trinidad State Junior College",
+    "category": "Apprenticeship and Pre-Apprenticeship Programs",
+    "address": "1011 Main Street",
+    "city": "Alamosa",
+    "zip": "81101",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 63,
+    "main_fields": "Business Administration, Management and Operations, Vehicle Maintenance and Repair Technologies/Technicians, Cosmetology and Related Personal Grooming Services",
+    "entity_type": "Other",
+    "apprenticeship_programs": "Yes",
+    "apprenticeship_program_names": "(apprenticeship named in description)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.871749,
+     37.468217
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "UCCS Colorado Cybersecurity Apprenticeship Program (C - CAP)",
+    "category": "Apprenticeship and Pre-Apprenticeship Programs",
+    "address": "1420 Austin Bluffs Parkway",
+    "city": "Colorado Springs",
+    "zip": "80918",
+    "website": "https://business.uccs.edu/c-cap",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 1,
+    "main_fields": "Computer Systems Analysis",
+    "entity_type": "Other",
+    "apprenticeship_programs": "Yes",
+    "apprenticeship_program_names": "Cybersecurity Analyst Registered Apprenticeship Program"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.800012,
+     38.891238
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Western Colorado Community College",
+    "category": "Apprenticeship and Pre-Apprenticeship Programs",
+    "address": "2508 Blichmann Ave",
+    "city": "Grand Junction",
+    "zip": "81505",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 51,
+    "main_fields": "Business Administration, Management and Operations, Precision Metal Working, Allied Health Diagnostic, Intervention, and Treatment Professions",
+    "entity_type": "Other",
+    "apprenticeship_programs": "Yes",
+    "apprenticeship_program_names": "(apprenticeship named in description)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.586812,
+     39.096896
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Western Slope Plumbers And Pipefitters Joint Apprenticeship And Journeyman",
+    "category": "Apprenticeship and Pre-Apprenticeship Programs",
+    "address": "3168 Pipe Court Suite 100",
+    "city": "Grand Junction",
+    "zip": "81504",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 1,
+    "main_fields": "Plumbing and Related Water Supply Services",
+    "entity_type": "Other",
+    "apprenticeship_programs": "Yes",
+    "apprenticeship_program_names": "(apprenticeship named in description)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.465121,
+     39.061251
+    ]
+   }
+  }
+ ]
+}

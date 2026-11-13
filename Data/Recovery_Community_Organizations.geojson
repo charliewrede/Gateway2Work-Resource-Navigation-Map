@@ -1,0 +1,97 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Advocates for Recovery Colorado (headquarters)",
+    "category": "Recovery Community Organizations",
+    "address": "3440 W 71st Place",
+    "city": "Westminster",
+    "zip": "80030",
+    "website": "https://advocatesforrecovery.org/",
+    "services": "Peer-run RCO; peer & family recovery support (BHA-licensed per CARS); RFW certified",
+    "source": "Organization website; ARCO / CAPRSS / CARS directories",
+    "source_url": "https://advocatesforrecovery.org/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.032221,
+     39.826037
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Advocates for Recovery Colorado - Aurora hub",
+    "category": "Recovery Community Organizations",
+    "address": "1445 Dayton Street",
+    "city": "Aurora",
+    "zip": "80010",
+    "website": "https://advocatesforrecovery.org/",
+    "services": "Peer recovery support hub",
+    "source": "Organization website; ARCO / CAPRSS / CARS directories",
+    "source_url": "https://advocatesforrecovery.org/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.875309,
+     39.73916
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Free Recovery Community (Free Cafe)",
+    "category": "Recovery Community Organizations",
+    "address": "2122 S Lafayette Street",
+    "city": "Denver",
+    "zip": "80210",
+    "website": "https://freerecoverycommunity.org/",
+    "services": "Peer recovery community center",
+    "source": "Organization website; ARCO / CAPRSS / CARS directories",
+    "source_url": "https://freerecoverycommunity.org/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.97102,
+     39.678064
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Serenity Recovery Connection",
+    "category": "Recovery Community Organizations",
+    "address": "985 W Fillmore Street",
+    "city": "Colorado Springs",
+    "zip": "80907",
+    "website": "https://www.coloradogives.org/organization/Serenityrecoveryconnection",
+    "services": "Peer-led RCO (CAPRSS accredited; ARCO member); RFW certified",
+    "source": "Organization website; ARCO / CAPRSS / CARS directories",
+    "source_url": "https://caprss.org/accredited-organizations/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.839405,
+     38.87631
+    ]
+   }
+  }
+ ]
+}

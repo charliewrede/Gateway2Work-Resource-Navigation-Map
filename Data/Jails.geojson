@@ -1,0 +1,1431 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Adams County Detention Facility",
+    "category": "Jails",
+    "address": "150 N 19Th Ave",
+    "city": "Brighton",
+    "zip": "80601",
+    "county": "Adams",
+    "phone": "(303) 654-1850",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.1 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "capacity": 1600,
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.797751,
+     39.990816
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Alamosa County Detention Center",
+    "category": "Jails",
+    "address": "1315 17Th St",
+    "city": "Alamosa",
+    "zip": "81101",
+    "county": "Alamosa",
+    "phone": "(719) 589-6608",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.1 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.876204,
+     37.455209
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Arapahoe County Detention Facility",
+    "category": "Jails",
+    "address": "7375 S Potomac St",
+    "city": "Centennial",
+    "zip": "80112",
+    "county": "Arapahoe",
+    "phone": "(720) 874-3500",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.3 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "capacity": 1400,
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.832649,
+     39.581541
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Archuleta County Detention Center",
+    "category": "Jails",
+    "address": "125 Harman Park Drive",
+    "city": "Pagosa Springs",
+    "zip": "81147",
+    "county": "Archuleta",
+    "source": "Pagosa Springs SUN, 'Archuleta County jail now operating' (2020-11-25); address from county jail-site resolution (Pagosa SUN)",
+    "source_url": "https://www.pagosasun.com/stories/archuleta-county-jail-now-operating,14769",
+    "geocode": "census-rooftop",
+    "operator": "County Sheriff",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.05121,
+     37.266639
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Aurora City Detention & Jail",
+    "category": "Jails",
+    "address": "14999 E Alameda Pkwy",
+    "city": "Aurora",
+    "zip": "80012",
+    "county": "Arapahoe",
+    "phone": "(303) 739-6194",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.3 km from Census geocode of address",
+    "operator": "Municipal",
+    "capacity": 220,
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.814285,
+     39.712194
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Baca County Jail",
+    "category": "Jails",
+    "address": "265 E. 2Nd Ave",
+    "city": "Springfield",
+    "zip": "81073",
+    "county": "Baca",
+    "phone": "(719) 523-4511",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.1 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102.614006,
+     37.41289
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Bent County Jail (Sheriff's Office)",
+    "category": "Jails",
+    "address": "11100 County Road GG.5",
+    "city": "Las Animas",
+    "zip": "81054",
+    "county": "Bent",
+    "phone": "719-456-1363",
+    "source": "Bent County Sheriff's Office official site (contact page); DCJ 2020 report Appendix C lists Bent as reporting jail",
+    "source_url": "https://bentsheriff.gov/contact-us/",
+    "geocode": "census-rooftop",
+    "operator": "County Sheriff",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.210677,
+     37.968616
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Boulder County Jail",
+    "category": "Jails",
+    "address": "3200 Airport Road",
+    "city": "Boulder",
+    "zip": "80301",
+    "county": "Boulder",
+    "phone": "(303) 441-4650",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.2 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "capacity": 536,
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.232278,
+     40.033866
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Broomfield Detention Center",
+    "category": "Jails",
+    "address": "11600 Ridge Pkwy",
+    "city": "Broomfield",
+    "zip": "80021",
+    "county": "Broomfield",
+    "phone": "(720) 887-2000",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.2 km from Census geocode of address",
+    "operator": "Municipal",
+    "capacity": 218,
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.148096,
+     39.907754
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Chaffee County Detention Facility",
+    "category": "Jails",
+    "address": "148 Crestone Blvd",
+    "city": "Salida",
+    "zip": "81201",
+    "county": "Chaffee",
+    "phone": "(719) 539-2596",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.1 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "capacity": 105,
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.998575,
+     38.538352
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Clear Creek County Sheriffs Office Jail",
+    "category": "Jails",
+    "address": "405 Argentine Street",
+    "city": "Georgetown",
+    "zip": "80444",
+    "county": "Clear Creek",
+    "phone": "(303) 679-2376",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.1 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.698546,
+     39.705866
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Conejos County Jail",
+    "category": "Jails",
+    "address": "14044 County Rd G.5",
+    "city": "Antonito",
+    "zip": "81120",
+    "county": "Conejos",
+    "phone": "(719) 376-6778",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.8 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.005332,
+     37.085913
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Costilla County Jail",
+    "category": "Jails",
+    "address": "103 Gasper Street",
+    "city": "San Luis",
+    "zip": "81152",
+    "county": "Costilla",
+    "phone": "(719) 672-0673",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.0 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.426092,
+     37.198428
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Crowley County Sheriffs Office Jail",
+    "category": "Jails",
+    "address": "110 East 6Th Street",
+    "city": "Ordway",
+    "zip": "81063",
+    "county": "Crowley",
+    "phone": "(719) 267-5555",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.0 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.756158,
+     38.221976
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Delta County Detention Facility",
+    "category": "Jails",
+    "address": "555 Palmer Street",
+    "city": "Delta",
+    "zip": "81416",
+    "county": "Delta",
+    "phone": "(970) 874-2021",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.0 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "capacity": 98,
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.072683,
+     38.739634
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Denver County Jail",
+    "category": "Jails",
+    "address": "10500 East Smith Road",
+    "city": "Denver",
+    "zip": "80239",
+    "county": "Denver",
+    "phone": "(720) 913-3642",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.2 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.863915,
+     39.76757
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Douglas County Sheriffs Office Jail",
+    "category": "Jails",
+    "address": "4000 Justice Way",
+    "city": "Castle Rock",
+    "zip": "80109",
+    "county": "Douglas",
+    "phone": "(303) 660-7559",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.3 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "capacity": 518,
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.864494,
+     39.402115
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Eagle County Detention Facility",
+    "category": "Jails",
+    "address": "885 East Chambers Avenue",
+    "city": "Eagle",
+    "zip": "81631",
+    "county": "Eagle",
+    "phone": "(970) 328-8500",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.1 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.818045,
+     39.663864
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "El Paso County Criminal Justice Center",
+    "category": "Jails",
+    "address": "2739 East Las Vegas Street",
+    "city": "Colorado Springs",
+    "zip": "80906",
+    "county": "El Paso",
+    "phone": "(719) 390-2000",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.2 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "capacity": 1725,
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.779598,
+     38.787689
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "El Paso County Metro Work Release Facility",
+    "category": "Jails",
+    "address": "210 S Tejon St",
+    "city": "Colorado Springs",
+    "zip": "80903",
+    "county": "El Paso",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.1 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "status_note": "Former Metro Detention Facility building, now the Sheriff's work-release facility (Gazette; EPSO Detention Bureau page)",
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.824584,
+     38.830756
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Elbert County Jail",
+    "category": "Jails",
+    "address": "751 Ute Avenue",
+    "city": "Kiowa",
+    "zip": "80117",
+    "county": "Elbert",
+    "phone": "(303) 621-2027",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.4 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.464031,
+     39.342269
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Fremont County Detention Center",
+    "category": "Jails",
+    "address": "100 Justice Center Road",
+    "city": "Canon City",
+    "zip": "81212",
+    "county": "Fremont",
+    "phone": "(719) 276-5555",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.1 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "capacity": 235,
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.182002,
+     38.446244
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Garfield County Detention Facility",
+    "category": "Jails",
+    "address": "107 8Th Street",
+    "city": "Glenwood Springs",
+    "zip": "81601",
+    "county": "Garfield",
+    "phone": "(970) 945-1377",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.1 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "capacity": 204,
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.326989,
+     39.547318
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Gilpin County Justice Center",
+    "category": "Jails",
+    "address": "2960 Dory Hill Road",
+    "city": "Black Hawk",
+    "zip": "80403",
+    "county": "Gilpin",
+    "phone": "(303) 582-3576",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.1 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "capacity": 55,
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.482199,
+     39.8392
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Grand County Jail",
+    "category": "Jails",
+    "address": "670 Spring Street",
+    "city": "Hot Sulphur Springs",
+    "zip": "80451",
+    "county": "Grand",
+    "phone": "(970) 725-3311",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.0 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.10449,
+     40.072085
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Gunnison County Detention Center",
+    "category": "Jails",
+    "address": "510 Bidwell",
+    "city": "Gunnison",
+    "zip": "81230",
+    "county": "Gunnison",
+    "phone": "(970) 641-1108",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.1 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.932336,
+     38.539535
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Huerfano County Jail",
+    "category": "Jails",
+    "address": "500 South Albert Street",
+    "city": "Walsenburg",
+    "zip": "81089",
+    "county": "Huerfano",
+    "phone": "(719) 738-1740",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.1 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.782124,
+     37.624048
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Jackson County Jail (Sheriff's Office)",
+    "category": "Jails",
+    "address": "396 Lafever Street",
+    "city": "Walden",
+    "zip": "80480",
+    "county": "Jackson",
+    "phone": "970-723-4242",
+    "source": "Jackson County official site, Sheriff - Jail page; DCJ 2020 report Appendix C lists Jackson as reporting jail",
+    "source_url": "https://jacksoncounty.colorado.gov/sheriff-jail",
+    "geocode": "census-rooftop",
+    "operator": "County Sheriff",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.283383,
+     40.731142
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Jefferson County Detention Facility",
+    "category": "Jails",
+    "address": "200 Jefferson County Parkway",
+    "city": "Golden",
+    "zip": "80419",
+    "county": "Jefferson",
+    "phone": "(303) 271-5444",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.1 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "capacity": 1300,
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.201294,
+     39.730869
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Kit Carson County Jail",
+    "category": "Jails",
+    "address": "251 16Th Street",
+    "city": "Burlington",
+    "zip": "80807",
+    "county": "Kit Carson",
+    "phone": "(719) 346-7006",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.1 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102.271544,
+     39.302961
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "La Plata County Jail",
+    "category": "Jails",
+    "address": "742 Turner Dr",
+    "city": "Durango",
+    "zip": "81303",
+    "county": "La Plata",
+    "phone": "(970) 247-1161",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.1 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "capacity": 293,
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.878423,
+     37.247639
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Larimer County Jail",
+    "category": "Jails",
+    "address": "2405 Midpoint Drive",
+    "city": "Fort Collins",
+    "zip": "80525",
+    "county": "Larimer",
+    "phone": "(970) 498-5200",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.1 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "capacity": 617,
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.033215,
+     40.564242
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Las Animas County Jail",
+    "category": "Jails",
+    "address": "2309 East Main Street",
+    "city": "Trinidad",
+    "zip": "81082",
+    "county": "Las Animas",
+    "phone": "(719) 846-2211",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.0 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.485046,
+     37.182621
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Lincoln County Jail",
+    "category": "Jails",
+    "address": "103 Third Avenue",
+    "city": "Hugo",
+    "zip": "80821",
+    "county": "Lincoln",
+    "phone": "(719) 743-2846",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.1 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "capacity": 40,
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.473901,
+     39.132118
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Logan County Detention Center",
+    "category": "Jails",
+    "address": "110 Riverview Road",
+    "city": "Sterling",
+    "zip": "80751",
+    "county": "Logan",
+    "phone": "(970) 522-2578",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.2 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "capacity": 126,
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.17827,
+     40.622473
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Mesa County Jail",
+    "category": "Jails",
+    "address": "215 Rice Street",
+    "city": "Grand Junction",
+    "zip": "81501",
+    "county": "Mesa",
+    "phone": "(970) 244-3930",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.1 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "capacity": 440,
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.574093,
+     39.068351
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Moffat County Detention Facility",
+    "category": "Jails",
+    "address": "800 West 1St Street",
+    "city": "Craig",
+    "zip": "81625",
+    "county": "Moffat",
+    "phone": "(970) 824-4498",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.1 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "capacity": 101,
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.556428,
+     40.506128
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Montezuma County Detention Center",
+    "category": "Jails",
+    "address": "730 East Driscoll Street",
+    "city": "Cortez",
+    "zip": "81321",
+    "county": "Montezuma",
+    "phone": "(970) 565-4348",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.1 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "capacity": 104,
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.575958,
+     37.359323
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Montrose County Jail",
+    "category": "Jails",
+    "address": "1200 North Grand Ave",
+    "city": "Montrose",
+    "zip": "81401",
+    "county": "Montrose",
+    "phone": "(970) 252-4023",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.2 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.890291,
+     38.487175
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Morgan County Jail",
+    "category": "Jails",
+    "address": "801 East Beaver",
+    "city": "Fort Morgan",
+    "zip": "80701",
+    "county": "Morgan",
+    "phone": "(970) 542-3455",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.1 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.789336,
+     40.252073
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Otero County Jail",
+    "category": "Jails",
+    "address": "222 East 2Nd Street",
+    "city": "La Junta",
+    "zip": "81050",
+    "county": "Otero",
+    "phone": "(719) 384-5941",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.0 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "capacity": 34,
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.539582,
+     37.986697
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Park County Jail",
+    "category": "Jails",
+    "address": "1180 County Road 16",
+    "city": "Fairplay",
+    "zip": "80440",
+    "county": "Park",
+    "phone": "(719) 836-4373",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.2 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.988923,
+     39.223672
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Pitkin County Jail",
+    "category": "Jails",
+    "address": "530 E Main St",
+    "city": "Aspen",
+    "zip": "81611",
+    "county": "Pitkin",
+    "phone": "(970) 920-5331",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.0 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.817219,
+     39.190587
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Prowers County Jail",
+    "category": "Jails",
+    "address": "103 East Oak Street",
+    "city": "Lamar",
+    "zip": "81052",
+    "county": "Prowers",
+    "phone": "(719) 336-8054",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.1 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "capacity": 57,
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102.618324,
+     38.086589
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Pueblo County Detention Center",
+    "category": "Jails",
+    "address": "909 Court St",
+    "city": "Pueblo",
+    "zip": "81003",
+    "county": "Pueblo",
+    "phone": "(719) 583-6125",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.0 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "capacity": 780,
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.61077,
+     38.275251
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Pueblo County Work Release Facility",
+    "category": "Jails",
+    "address": "1600 West 24Th Street",
+    "city": "Pueblo",
+    "zip": "81003",
+    "county": "Pueblo",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.5 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "capacity": 80,
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.633524,
+     38.289538
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Rio Grande County Jail",
+    "category": "Jails",
+    "address": "640 Cherry Street",
+    "city": "Del Norte",
+    "zip": "81132",
+    "county": "Rio Grande",
+    "phone": "(719) 657-4000",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.0 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.350472,
+     37.676518
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Routt County Jail",
+    "category": "Jails",
+    "address": "2025 Shield Drive",
+    "city": "Steamboat Springs",
+    "zip": "80487",
+    "county": "Routt",
+    "phone": "(970) 879-1090",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.1 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "capacity": 54,
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.860917,
+     40.501926
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "San Miguel County Jail",
+    "category": "Jails",
+    "address": "684 Cr 63L",
+    "city": "Telluride",
+    "zip": "81435",
+    "county": "San Miguel",
+    "phone": "(970) 728-1911",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.1 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "capacity": 37,
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.906073,
+     37.945998
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Summit County Jail",
+    "category": "Jails",
+    "address": "501 North Park Avenue",
+    "city": "Breckenridge",
+    "zip": "80424",
+    "county": "Summit",
+    "phone": "(970) 453-2232",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.1 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "capacity": 95,
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.046984,
+     39.491327
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Teller County Jail",
+    "category": "Jails",
+    "address": "288 Weaverville Rd",
+    "city": "Divide",
+    "zip": "80814",
+    "county": "Teller",
+    "phone": "(719) 687-7770",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.1 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "capacity": 126,
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.151308,
+     38.94303
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Van Cise-Simonet Detention Center",
+    "category": "Jails",
+    "address": "490 W Colfax Avenue",
+    "city": "Denver",
+    "zip": "80204",
+    "county": "Denver",
+    "phone": "(720) 337-0400",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.1 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.993488,
+     39.739254
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Washington County Justice Center",
+    "category": "Jails",
+    "address": "26861 Us Hwy 34",
+    "city": "Akron",
+    "zip": "80720",
+    "county": "Washington",
+    "phone": "(970) 345-2244",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.2 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "capacity": 250,
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.191921,
+     40.158538
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Weld County North Jail Complex",
+    "category": "Jails",
+    "address": "2110 O Street",
+    "city": "Greeley",
+    "zip": "80631",
+    "county": "Weld",
+    "phone": "(970) 356-4015",
+    "source": "HIFLD Prison Boundaries (DHS), via public ArcGIS mirror 'Prison_Points'; operating status checked against DCJ jail-data county list",
+    "source_url": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Prison_Points/FeatureServer/0",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD point 0.3 km from Census geocode of address",
+    "operator": "County Sheriff",
+    "capacity": 80,
+    "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.709553,
+     40.450851
+    ]
+   }
+  }
+ ]
+}

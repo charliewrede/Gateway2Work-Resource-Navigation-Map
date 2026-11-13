@@ -1,0 +1,502 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Center for Employment Opportunities (CEO) - Colorado Springs",
+    "category": "Reentry and Transitional Services",
+    "address": "888 Garden of the Gods Road, Suite 110",
+    "city": "Colorado Springs",
+    "zip": "80907",
+    "phone": "719-694-5450",
+    "website": "https://www.ceoworks.org/locations/colorado-springs",
+    "services": "Transitional paid employment, job coaching and placement, retention services",
+    "source": "Organization website / directory listing (see source_url)",
+    "source_url": "https://remerg.com/resources/center-for-employment-opportunities-3/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "wagees_partner": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.843944,
+     38.896729
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Center for Employment Opportunities (CEO) - Denver",
+    "category": "Reentry and Transitional Services",
+    "address": "3532 N Franklin Street, Suite S",
+    "city": "Denver",
+    "zip": "80205",
+    "phone": "720-279-8489",
+    "website": "https://www.ceoworks.org/locations/denver",
+    "services": "Transitional paid employment, job coaching and placement, retention services for people recently released",
+    "source": "Organization website / directory listing (see source_url)",
+    "source_url": "https://www.ceoworks.org/locations/denver",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "wagees_partner": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.968348,
+     39.766169
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado Criminal Justice Reform Coalition (CCJRC)",
+    "category": "Reentry and Transitional Services",
+    "address": "821 22nd Street",
+    "city": "Denver",
+    "zip": "80205",
+    "website": "https://www.ccjrc.org/",
+    "services": "Reentry resources, advocacy and justice-system connections; helped create WAGEES",
+    "source": "Organization website / directory listing (see source_url)",
+    "source_url": "https://www.ccjrc.org/wagees",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "wagees_partner": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.985969,
+     39.751656
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Cooperating Ministry of Logan County",
+    "category": "Reentry and Transitional Services",
+    "address": "230 N 10th Avenue",
+    "city": "Sterling",
+    "zip": "80751",
+    "phone": "970-522-6405",
+    "website": "https://www.coopminlc.com/",
+    "services": "Reentry support; WAGEES partner (Sterling parole area)",
+    "source": "Colorado WAGEES Community Partners roster (wageesco.org, LCCL)",
+    "source_url": "https://www.coopminlc.com/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "wagees_partner": "Yes"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.22473,
+     40.626975
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Elk Meadow Enduring Connections",
+    "category": "Reentry and Transitional Services",
+    "address": "685 Citadel Drive East, Suite 510",
+    "city": "Colorado Springs",
+    "zip": "80909",
+    "phone": "719-452-0393",
+    "services": "Reentry services; WAGEES partner (Colorado Springs)",
+    "source": "Colorado WAGEES Community Partners roster (wageesco.org, LCCL)",
+    "source_url": "https://wageesco.org/community-partners/elk-meadow-enduring-connections/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "wagees_partner": "Yes"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.75876,
+     38.842974
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Hazelbrook Community Center",
+    "category": "Reentry and Transitional Services",
+    "address": "1120 N Circle Drive, Suite 120",
+    "city": "Colorado Springs",
+    "zip": "80909",
+    "phone": "719-748-7285",
+    "website": "https://hazelbrookcommunity.org",
+    "services": "Reentry services; WAGEES partner (Colorado Springs, Englewood)",
+    "source": "Colorado WAGEES Community Partners roster (wageesco.org, LCCL)",
+    "source_url": "https://wageesco.org/community-partners/hazelbrook/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "wagees_partner": "Yes"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.775897,
+     38.848059
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Homeward Alliance",
+    "category": "Reentry and Transitional Services",
+    "address": "242 Conifer Street",
+    "city": "Fort Collins",
+    "zip": "80524",
+    "phone": "970-658-9878",
+    "website": "https://www.homewardalliance.org/",
+    "services": "Reentry and housing navigation; WAGEES partner (Larimer, Jackson)",
+    "source": "Colorado WAGEES Community Partners roster (wageesco.org, LCCL)",
+    "source_url": "https://wageesco.org/community-partners/homeward-alliance/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "wagees_partner": "Yes"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.073933,
+     40.602863
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Life-Line Colorado",
+    "category": "Reentry and Transitional Services",
+    "address": "1240 W Bayaud Avenue",
+    "city": "Denver",
+    "zip": "80223",
+    "phone": "720-328-5650",
+    "website": "https://life-linecolorado.org/",
+    "services": "Peer reentry mentoring and support; WAGEES partner (Denver, Englewood, Westminster)",
+    "source": "Colorado WAGEES Community Partners roster (wageesco.org, LCCL)",
+    "source_url": "https://wageesco.org/community-partners/life-line-colorado/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "wagees_partner": "Yes"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.00288,
+     39.714768
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Loaves & Fishes Ministries",
+    "category": "Reentry and Transitional Services",
+    "address": "241 Justice Center Road",
+    "city": "Canon City",
+    "zip": "81212",
+    "phone": "719-275-0593",
+    "website": "http://lfministries.org/",
+    "services": "Reentry support; WAGEES partner (Canon City)",
+    "source": "Colorado WAGEES Community Partners roster (wageesco.org, LCCL)",
+    "source_url": "https://wageesco.org/community-partners/loaves-and-fishes/",
+    "geocode": "osm-street-approx",
+    "retrieved": "2026-11-13",
+    "wagees_partner": "Yes"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.183261,
+     38.44661
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Manna Soup Kitchen",
+    "category": "Reentry and Transitional Services",
+    "address": "1100 Avenida Del Sol",
+    "city": "Durango",
+    "zip": "81301",
+    "phone": "970-385-5095",
+    "website": "https://www.mannasoupkitchen.org/",
+    "services": "Reentry and basic-needs support; WAGEES partner (Durango)",
+    "source": "Colorado WAGEES Community Partners roster (wageesco.org, LCCL)",
+    "source_url": "https://wageesco.org/community-partners/manna/",
+    "geocode": "osm-nominatim",
+    "retrieved": "2026-11-13",
+    "wagees_partner": "Yes"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.885965,
+     37.277566
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Second Chance Center",
+    "category": "Reentry and Transitional Services",
+    "address": "224 Potomac Street",
+    "city": "Aurora",
+    "zip": "80011",
+    "phone": "303-909-0813",
+    "website": "https://www.scccolorado.org/",
+    "services": "Reentry case management, employment prep, housing (CREW transitional housing), record-sealing events; WAGEES partner (Aurora, Englewood, Westminster)",
+    "source": "Colorado WAGEES Community Partners roster (wageesco.org, LCCL)",
+    "source_url": "https://wageesco.org/community-partners/second-chance-center/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "wagees_partner": "Yes"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.828209,
+     39.718952
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Servicios de La Raza",
+    "category": "Reentry and Transitional Services",
+    "address": "3131 W 14th Avenue",
+    "city": "Denver",
+    "zip": "80204",
+    "phone": "303-953-5918",
+    "website": "https://serviciosdelaraza.org/",
+    "services": "Culturally responsive reentry and employment services; WAGEES partner",
+    "source": "Colorado WAGEES Community Partners roster (wageesco.org, LCCL)",
+    "source_url": "https://wageesco.org/community-partners/servicios-de-la-raza/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "wagees_partner": "Yes"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.026771,
+     39.738349
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "The Don't Look Back Center",
+    "category": "Reentry and Transitional Services",
+    "address": "14211 E 4th Avenue, Building 3, Suite 305",
+    "city": "Aurora",
+    "zip": "80011",
+    "phone": "720-638-8397",
+    "website": "https://thedontlookbackcenter.org/",
+    "services": "Gender-responsive reentry services; WAGEES partner (Aurora)",
+    "source": "Colorado WAGEES Community Partners roster (wageesco.org, LCCL)",
+    "source_url": "https://wageesco.org/community-partners/tdlbc/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "wagees_partner": "Yes"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.82381,
+     39.722064
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "The Empowerment Program (women only)",
+    "category": "Reentry and Transitional Services",
+    "address": "1600 York Street",
+    "city": "Denver",
+    "zip": "80206",
+    "phone": "303-320-1989",
+    "website": "https://www.empowermentprogram.org/",
+    "services": "Gender-responsive reentry, housing, employment and health services for women; WAGEES partner",
+    "source": "Colorado WAGEES Community Partners roster (wageesco.org, LCCL)",
+    "source_url": "https://wageesco.org/community-partners/the-empowerment-program/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "wagees_partner": "Yes"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.959703,
+     39.741674
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "The Freedom Institute - Grand Junction (Western Slope WAGEES)",
+    "category": "Reentry and Transitional Services",
+    "address": "930 Main Street",
+    "city": "Grand Junction",
+    "zip": "81501",
+    "phone": "970-778-5558",
+    "services": "Reentry services; WAGEES partner (Grand Junction, Rifle, Craig by appointment)",
+    "source": "Colorado WAGEES Community Partners roster (wageesco.org, LCCL)",
+    "source_url": "https://wageesco.org/community-partners/freedom-institute-grand-junction/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "wagees_partner": "Yes"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.557126,
+     39.067363
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "The Freedom Institute - Montrose (Western Slope WAGEES)",
+    "category": "Reentry and Transitional Services",
+    "address": "307 E Main Street",
+    "city": "Montrose",
+    "zip": "81401",
+    "phone": "970-787-5972",
+    "services": "Reentry services; WAGEES partner (Montrose)",
+    "source": "Colorado WAGEES Community Partners roster (wageesco.org, LCCL)",
+    "source_url": "https://wageesco.org/community-partners/freedom-institute-montrose/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "wagees_partner": "Yes"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.877655,
+     38.478866
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "The Pinon Project",
+    "category": "Reentry and Transitional Services",
+    "address": "210 E Main Street",
+    "city": "Cortez",
+    "zip": "81321",
+    "phone": "970-564-3811",
+    "website": "https://www.pinonproject.org/",
+    "services": "Reentry and family services; WAGEES partner (Cortez/Durango area)",
+    "source": "Colorado WAGEES Community Partners roster (wageesco.org, LCCL)",
+    "source_url": "https://wageesco.org/community-partners/the-pinon-project/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "wagees_partner": "Yes"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.582319,
+     37.34872
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "The Reentry Initiative",
+    "category": "Reentry and Transitional Services",
+    "address": "402 Kimbark Street",
+    "city": "Longmont",
+    "zip": "80501",
+    "phone": "720-640-9513",
+    "website": "https://www.reentryinitiative.org/",
+    "services": "Reentry mentoring, employment and transitional support; WAGEES partner (Boulder, Longmont)",
+    "source": "Colorado WAGEES Community Partners roster (wageesco.org, LCCL)",
+    "source_url": "https://wageesco.org/community-partners/the-reentry-initiative/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "wagees_partner": "Yes"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.101119,
+     40.165817
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "The Rock Found",
+    "category": "Reentry and Transitional Services",
+    "address": "1542 7th Avenue",
+    "city": "Greeley",
+    "zip": "80631",
+    "phone": "970-352-9571",
+    "website": "https://www.therockfound.org/",
+    "services": "Reentry employment, transitional housing, community reintegration; WAGEES partner (Weld)",
+    "source": "Colorado WAGEES Community Partners roster (wageesco.org, LCCL)",
+    "source_url": "https://wageesco.org/community-partners/the-rock-found/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "wagees_partner": "Yes"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.689054,
+     40.414818
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Valley-Wide Health Systems (WAGEES reentry)",
+    "category": "Reentry and Transitional Services",
+    "address": "711 Barnes Avenue",
+    "city": "La Junta",
+    "zip": "81050",
+    "phone": "719-384-5446",
+    "website": "https://valley-widehealth.org/",
+    "services": "Reentry services; WAGEES partner (La Junta parole area)",
+    "source": "Colorado WAGEES Community Partners roster (wageesco.org, LCCL)",
+    "source_url": "https://wageesco.org/valley-wide",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "wagees_partner": "Yes",
+    "verified": "WAGEES page printed ZIP as 80150 (typo); corrected to La Junta's 81050"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.554303,
+     37.981658
+    ]
+   }
+  }
+ ]
+}

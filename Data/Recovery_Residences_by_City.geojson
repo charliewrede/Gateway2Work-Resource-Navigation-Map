@@ -1,0 +1,555 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Oxford Houses - Arvada (4 houses, 36 beds)",
+    "category": "Recovery Residences / Sober Living",
+    "city": "Arvada",
+    "county": "Jefferson",
+    "website": "https://www.oxfordvacancies.com/?state=CO",
+    "services": "Peer-run, self-supporting recovery homes (Oxford House model); apply online",
+    "source": "Oxford House vacancy directory (aggregated to city)",
+    "source_url": "https://www.oxfordvacancies.com/?state=CO (queried per county)",
+    "geocode": "APPROXIMATE - city center (individual homes intentionally not mapped)",
+    "oxford_houses": 4,
+    "beds": 36,
+    "house_types": "Unknown: 4",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.081157,
+     39.80055
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Oxford Houses - Aurora (6 houses, 49 beds)",
+    "category": "Recovery Residences / Sober Living",
+    "city": "Aurora",
+    "county": "Adams",
+    "website": "https://www.oxfordvacancies.com/?state=CO",
+    "services": "Peer-run, self-supporting recovery homes (Oxford House model); apply online",
+    "source": "Oxford House vacancy directory (aggregated to city)",
+    "source_url": "https://www.oxfordvacancies.com/?state=CO (queried per county)",
+    "geocode": "APPROXIMATE - city center (individual homes intentionally not mapped)",
+    "oxford_houses": 6,
+    "beds": 49,
+    "house_types": "Unknown: 6",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.873338,
+     39.740144
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Oxford Houses - Broomfield (3 houses, 25 beds)",
+    "category": "Recovery Residences / Sober Living",
+    "city": "Broomfield",
+    "county": "Broomfield",
+    "website": "https://www.oxfordvacancies.com/?state=CO",
+    "services": "Peer-run, self-supporting recovery homes (Oxford House model); apply online",
+    "source": "Oxford House vacancy directory (aggregated to city)",
+    "source_url": "https://www.oxfordvacancies.com/?state=CO (queried per county)",
+    "geocode": "APPROXIMATE - city center (individual homes intentionally not mapped)",
+    "oxford_houses": 3,
+    "beds": 25,
+    "house_types": "Unknown: 3",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.05208,
+     39.940399
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Oxford Houses - Castle Rock (1 houses, 9 beds)",
+    "category": "Recovery Residences / Sober Living",
+    "city": "Castle Rock",
+    "county": "Douglas",
+    "website": "https://www.oxfordvacancies.com/?state=CO",
+    "services": "Peer-run, self-supporting recovery homes (Oxford House model); apply online",
+    "source": "Oxford House vacancy directory (aggregated to city)",
+    "source_url": "https://www.oxfordvacancies.com/?state=CO (queried per county)",
+    "geocode": "APPROXIMATE - city center (individual homes intentionally not mapped)",
+    "oxford_houses": 1,
+    "beds": 9,
+    "house_types": "Men: 1",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.858682,
+     39.372255
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Oxford Houses - Centennial (3 houses, 24 beds)",
+    "category": "Recovery Residences / Sober Living",
+    "city": "Centennial",
+    "county": "Arapahoe",
+    "website": "https://www.oxfordvacancies.com/?state=CO",
+    "services": "Peer-run, self-supporting recovery homes (Oxford House model); apply online",
+    "source": "Oxford House vacancy directory (aggregated to city)",
+    "source_url": "https://www.oxfordvacancies.com/?state=CO (queried per county)",
+    "geocode": "APPROXIMATE - city center (individual homes intentionally not mapped)",
+    "oxford_houses": 3,
+    "beds": 24,
+    "house_types": "Unknown: 3",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.876923,
+     39.579155
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Oxford Houses - Colorado Springs (15 houses, 117 beds)",
+    "category": "Recovery Residences / Sober Living",
+    "city": "Colorado Springs",
+    "county": "El Paso",
+    "website": "https://www.oxfordvacancies.com/?state=CO",
+    "services": "Peer-run, self-supporting recovery homes (Oxford House model); apply online",
+    "source": "Oxford House vacancy directory (aggregated to city)",
+    "source_url": "https://www.oxfordvacancies.com/?state=CO (queried per county)",
+    "geocode": "APPROXIMATE - city center (individual homes intentionally not mapped)",
+    "oxford_houses": 15,
+    "beds": 117,
+    "house_types": "Unknown: 15",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.825348,
+     38.833958
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Oxford Houses - Craig (2 houses, 20 beds)",
+    "category": "Recovery Residences / Sober Living",
+    "city": "Craig",
+    "county": "Moffat",
+    "website": "https://www.oxfordvacancies.com/?state=CO",
+    "services": "Peer-run, self-supporting recovery homes (Oxford House model); apply online",
+    "source": "Oxford House vacancy directory (aggregated to city)",
+    "source_url": "https://www.oxfordvacancies.com/?state=CO (queried per county)",
+    "geocode": "APPROXIMATE - city center (individual homes intentionally not mapped)",
+    "oxford_houses": 2,
+    "beds": 20,
+    "house_types": "Unknown: 2",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.546454,
+     40.515249
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Oxford Houses - Denver (4 houses, 30 beds)",
+    "category": "Recovery Residences / Sober Living",
+    "city": "Denver",
+    "county": "Denver",
+    "website": "https://www.oxfordvacancies.com/?state=CO",
+    "services": "Peer-run, self-supporting recovery homes (Oxford House model); apply online",
+    "source": "Oxford House vacancy directory (aggregated to city)",
+    "source_url": "https://www.oxfordvacancies.com/?state=CO (queried per county)",
+    "geocode": "APPROXIMATE - city center (individual homes intentionally not mapped)",
+    "oxford_houses": 4,
+    "beds": 30,
+    "house_types": "Unknown: 4",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.984862,
+     39.739236
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Oxford Houses - Firestone (1 houses, 8 beds)",
+    "category": "Recovery Residences / Sober Living",
+    "city": "Firestone",
+    "county": "Weld",
+    "website": "https://www.oxfordvacancies.com/?state=CO",
+    "services": "Peer-run, self-supporting recovery homes (Oxford House model); apply online",
+    "source": "Oxford House vacancy directory (aggregated to city)",
+    "source_url": "https://www.oxfordvacancies.com/?state=CO (queried per county)",
+    "geocode": "APPROXIMATE - city center (individual homes intentionally not mapped)",
+    "oxford_houses": 1,
+    "beds": 8,
+    "house_types": "Unknown: 1",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.939222,
+     40.114028
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Oxford Houses - Fort Collins (4 houses, 32 beds)",
+    "category": "Recovery Residences / Sober Living",
+    "city": "Fort Collins",
+    "county": "Larimer",
+    "website": "https://www.oxfordvacancies.com/?state=CO",
+    "services": "Peer-run, self-supporting recovery homes (Oxford House model); apply online",
+    "source": "Oxford House vacancy directory (aggregated to city)",
+    "source_url": "https://www.oxfordvacancies.com/?state=CO (queried per county)",
+    "geocode": "APPROXIMATE - city center (individual homes intentionally not mapped)",
+    "oxford_houses": 4,
+    "beds": 32,
+    "house_types": "Unknown: 4",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.077011,
+     40.587178
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Oxford Houses - Grand Junction (7 houses, 61 beds)",
+    "category": "Recovery Residences / Sober Living",
+    "city": "Grand Junction",
+    "county": "Mesa",
+    "website": "https://www.oxfordvacancies.com/?state=CO",
+    "services": "Peer-run, self-supporting recovery homes (Oxford House model); apply online",
+    "source": "Oxford House vacancy directory (aggregated to city)",
+    "source_url": "https://www.oxfordvacancies.com/?state=CO (queried per county)",
+    "geocode": "APPROXIMATE - city center (individual homes intentionally not mapped)",
+    "oxford_houses": 7,
+    "beds": 61,
+    "house_types": "Unknown: 7",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.56448,
+     39.067257
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Oxford Houses - Greeley (4 houses, 31 beds)",
+    "category": "Recovery Residences / Sober Living",
+    "city": "Greeley",
+    "county": "Weld",
+    "website": "https://www.oxfordvacancies.com/?state=CO",
+    "services": "Peer-run, self-supporting recovery homes (Oxford House model); apply online",
+    "source": "Oxford House vacancy directory (aggregated to city)",
+    "source_url": "https://www.oxfordvacancies.com/?state=CO (queried per county)",
+    "geocode": "APPROXIMATE - city center (individual homes intentionally not mapped)",
+    "oxford_houses": 4,
+    "beds": 31,
+    "house_types": "Unknown: 4",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.709132,
+     40.423314
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Oxford Houses - Gunnison (2 houses, 14 beds)",
+    "category": "Recovery Residences / Sober Living",
+    "city": "Gunnison",
+    "county": "Gunnison",
+    "website": "https://www.oxfordvacancies.com/?state=CO",
+    "services": "Peer-run, self-supporting recovery homes (Oxford House model); apply online",
+    "source": "Oxford House vacancy directory (aggregated to city)",
+    "source_url": "https://www.oxfordvacancies.com/?state=CO (queried per county)",
+    "geocode": "APPROXIMATE - city center (individual homes intentionally not mapped)",
+    "oxford_houses": 2,
+    "beds": 14,
+    "house_types": "Unknown: 2",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.926928,
+     38.544355
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Oxford Houses - Lakewood (1 houses, 10 beds)",
+    "category": "Recovery Residences / Sober Living",
+    "city": "Lakewood",
+    "county": "Jefferson",
+    "website": "https://www.oxfordvacancies.com/?state=CO",
+    "services": "Peer-run, self-supporting recovery homes (Oxford House model); apply online",
+    "source": "Oxford House vacancy directory (aggregated to city)",
+    "source_url": "https://www.oxfordvacancies.com/?state=CO (queried per county)",
+    "geocode": "APPROXIMATE - city center (individual homes intentionally not mapped)",
+    "oxford_houses": 1,
+    "beds": 10,
+    "house_types": "Unknown: 1",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.084669,
+     39.708574
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Oxford Houses - Littleton (1 houses, 8 beds)",
+    "category": "Recovery Residences / Sober Living",
+    "city": "Littleton",
+    "county": "Arapahoe",
+    "website": "https://www.oxfordvacancies.com/?state=CO",
+    "services": "Peer-run, self-supporting recovery homes (Oxford House model); apply online",
+    "source": "Oxford House vacancy directory (aggregated to city)",
+    "source_url": "https://www.oxfordvacancies.com/?state=CO (queried per county)",
+    "geocode": "APPROXIMATE - city center (individual homes intentionally not mapped)",
+    "oxford_houses": 1,
+    "beds": 8,
+    "house_types": "Unknown: 1",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.016649,
+     39.613321
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Oxford Houses - Longmont (3 houses, 24 beds)",
+    "category": "Recovery Residences / Sober Living",
+    "city": "Longmont",
+    "county": "Boulder",
+    "website": "https://www.oxfordvacancies.com/?state=CO",
+    "services": "Peer-run, self-supporting recovery homes (Oxford House model); apply online",
+    "source": "Oxford House vacancy directory (aggregated to city)",
+    "source_url": "https://www.oxfordvacancies.com/?state=CO (queried per county)",
+    "geocode": "APPROXIMATE - city center (individual homes intentionally not mapped)",
+    "oxford_houses": 3,
+    "beds": 24,
+    "house_types": "Unknown: 3",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.101928,
+     40.167212
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Oxford Houses - Loveland (4 houses, 32 beds)",
+    "category": "Recovery Residences / Sober Living",
+    "city": "Loveland",
+    "county": "Larimer",
+    "website": "https://www.oxfordvacancies.com/?state=CO",
+    "services": "Peer-run, self-supporting recovery homes (Oxford House model); apply online",
+    "source": "Oxford House vacancy directory (aggregated to city)",
+    "source_url": "https://www.oxfordvacancies.com/?state=CO (queried per county)",
+    "geocode": "APPROXIMATE - city center (individual homes intentionally not mapped)",
+    "oxford_houses": 4,
+    "beds": 32,
+    "house_types": "Unknown: 4",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.07498,
+     40.397761
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Oxford Houses - Manitou Springs (1 houses, 8 beds)",
+    "category": "Recovery Residences / Sober Living",
+    "city": "Manitou Springs",
+    "county": "El Paso",
+    "website": "https://www.oxfordvacancies.com/?state=CO",
+    "services": "Peer-run, self-supporting recovery homes (Oxford House model); apply online",
+    "source": "Oxford House vacancy directory (aggregated to city)",
+    "source_url": "https://www.oxfordvacancies.com/?state=CO (queried per county)",
+    "geocode": "APPROXIMATE - city center (individual homes intentionally not mapped)",
+    "oxford_houses": 1,
+    "beds": 8,
+    "house_types": "Unknown: 1",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.917873,
+     38.858578
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Oxford Houses - Montrose (2 houses, 16 beds)",
+    "category": "Recovery Residences / Sober Living",
+    "city": "Montrose",
+    "county": "Montrose",
+    "website": "https://www.oxfordvacancies.com/?state=CO",
+    "services": "Peer-run, self-supporting recovery homes (Oxford House model); apply online",
+    "source": "Oxford House vacancy directory (aggregated to city)",
+    "source_url": "https://www.oxfordvacancies.com/?state=CO (queried per county)",
+    "geocode": "APPROXIMATE - city center (individual homes intentionally not mapped)",
+    "oxford_houses": 2,
+    "beds": 16,
+    "house_types": "Unknown: 2",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.876277,
+     38.478193
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Oxford Houses - Pueblo (7 houses, 60 beds)",
+    "category": "Recovery Residences / Sober Living",
+    "city": "Pueblo",
+    "county": "Pueblo",
+    "website": "https://www.oxfordvacancies.com/?state=CO",
+    "services": "Peer-run, self-supporting recovery homes (Oxford House model); apply online",
+    "source": "Oxford House vacancy directory (aggregated to city)",
+    "source_url": "https://www.oxfordvacancies.com/?state=CO (queried per county)",
+    "geocode": "APPROXIMATE - city center (individual homes intentionally not mapped)",
+    "oxford_houses": 7,
+    "beds": 60,
+    "house_types": "Unknown: 7",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.614187,
+     38.263995
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Oxford Houses - Thornton (4 houses, 32 beds)",
+    "category": "Recovery Residences / Sober Living",
+    "city": "Thornton",
+    "county": "Adams",
+    "website": "https://www.oxfordvacancies.com/?state=CO",
+    "services": "Peer-run, self-supporting recovery homes (Oxford House model); apply online",
+    "source": "Oxford House vacancy directory (aggregated to city)",
+    "source_url": "https://www.oxfordvacancies.com/?state=CO (queried per county)",
+    "geocode": "APPROXIMATE - city center (individual homes intentionally not mapped)",
+    "oxford_houses": 4,
+    "beds": 32,
+    "house_types": "Unknown: 4",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.985181,
+     39.869552
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Oxford Houses - Wheat Ridge (1 houses, 9 beds)",
+    "category": "Recovery Residences / Sober Living",
+    "city": "Wheat Ridge",
+    "county": "Jefferson",
+    "website": "https://www.oxfordvacancies.com/?state=CO",
+    "services": "Peer-run, self-supporting recovery homes (Oxford House model); apply online",
+    "source": "Oxford House vacancy directory (aggregated to city)",
+    "source_url": "https://www.oxfordvacancies.com/?state=CO (queried per county)",
+    "geocode": "APPROXIMATE - city center (individual homes intentionally not mapped)",
+    "oxford_houses": 1,
+    "beds": 9,
+    "house_types": "Unknown: 1",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.077206,
+     39.766098
+    ]
+   }
+  }
+ ]
+}

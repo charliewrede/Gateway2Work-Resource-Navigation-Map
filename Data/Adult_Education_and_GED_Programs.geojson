@@ -1,0 +1,893 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Adult and Family Education School District 11 - Pikes Peak State College",
+    "category": "Adult Education and GED Programs",
+    "address": "5675 S Academy Blvd, Colorado Springs, CO 80906",
+    "county": "El Paso",
+    "phone": "719-328-3001",
+    "website": "www.d11.org/adulted",
+    "services": "Adult basic/secondary education, ESL, HSE (GED/HiSET) prep",
+    "source": "Colorado Department of Education, Adult Education Initiatives 'Find a Program' map",
+    "source_url": "https://ed.cde.state.co.us/cdeadult/grantees/grantees-current-grantees",
+    "geocode": "census-rooftop",
+    "program": "Adult and Family Education School District 11",
+    "site_name": "Pikes Peak State College",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.784796,
+     38.765381
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Adult and Family Education School District 11 - Roy J Wasson Academic Campus",
+    "category": "Adult Education and GED Programs",
+    "address": "2115 Afton Way Colorado Springs, CO 80909",
+    "county": "El Paso",
+    "phone": "719-328-3001",
+    "website": "www.d11.org/adulted",
+    "services": "Adult basic/secondary education, ESL, HSE (GED/HiSET) prep",
+    "source": "Colorado Department of Education, Adult Education Initiatives 'Find a Program' map",
+    "source_url": "https://ed.cde.state.co.us/cdeadult/grantees/grantees-current-grantees",
+    "geocode": "census-rooftop",
+    "program": "Adult and Family Education School District 11",
+    "site_name": "Roy J Wasson Academic Campus",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.783832,
+     38.861003
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Arapahoe/Douglas Works! - Aurora Workforce Center",
+    "category": "Adult Education and GED Programs",
+    "address": "15400 E 14th Place, Aurora, CO 80011",
+    "phone": "303-636-1160",
+    "website": "www.adworks.org",
+    "services": "Adult basic/secondary education, ESL, HSE (GED/HiSET) prep",
+    "source": "Colorado Department of Education, Adult Education Initiatives 'Find a Program' map",
+    "source_url": "https://ed.cde.state.co.us/cdeadult/grantees/grantees-current-grantees",
+    "geocode": "census-rooftop",
+    "program": "Arapahoe/Douglas Works!",
+    "site_name": "Aurora Workforce Center",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.808897,
+     39.738734
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Asian Pacific Development Center (adult education, now via Aurora Mental Health & Recovery)",
+    "category": "Adult Education and GED Programs",
+    "address": "1537 Alton Street",
+    "city": "Aurora",
+    "zip": "80010",
+    "phone": "303-923-6320",
+    "source": "CDE 2024-28 AEFLA grantee list; address from Aurora Mental Health & Recovery program page",
+    "source_url": "https://auroramhr.org/?p=17271",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.882343,
+     39.740867
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado Northwestern Community College",
+    "category": "Adult Education and GED Programs",
+    "address": "2801 W. 9th St. Craig, CO 81625",
+    "county": "Moffat",
+    "phone": "970-824-0831",
+    "website": "https://www.cncc.edu/community/adult-basic-education/adult-basic-education-faq",
+    "services": "Adult basic/secondary education, ESL, HSE (GED/HiSET) prep",
+    "source": "Colorado Department of Education, Adult Education Initiatives 'Find a Program' map",
+    "source_url": "https://ed.cde.state.co.us/cdeadult/grantees/grantees-current-grantees",
+    "geocode": "census-rooftop",
+    "program": "Colorado Northwestern Community College",
+    "site_name": "Colorado Northwestern Community College",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.581787,
+     40.52121
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Community Educational Outreach",
+    "category": "Adult Education and GED Programs",
+    "address": "7251 E 49th Avenue",
+    "city": "Commerce City",
+    "zip": "80022",
+    "phone": "303-921-8600",
+    "source": "CDE 2024-28 AEFLA grantee list; address from CDE adult ed program directory (2015)",
+    "source_url": "https://www.cde.state.co.us/sites/default/files/docs/cdeadult/CO%20Adult%20Ed%20Programs_9%2025%2015%20(2).pdf",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "status_note": "Address from a 2015 CDE directory; confirm."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.904298,
+     39.785307
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Durango Adult Education Center",
+    "category": "Adult Education and GED Programs",
+    "address": "701 Camino del Rio, ste 301 Durango, CO 81301",
+    "county": "La Plata",
+    "phone": "970-385-4354",
+    "website": "www.durangoadulted.org",
+    "services": "Adult basic/secondary education, ESL, HSE (GED/HiSET) prep",
+    "source": "Colorado Department of Education, Adult Education Initiatives 'Find a Program' map",
+    "source_url": "https://ed.cde.state.co.us/cdeadult/grantees/grantees-current-grantees",
+    "geocode": "census-rooftop",
+    "program": "Durango Adult Education Center",
+    "site_name": "Durango Adult Education Center",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.884208,
+     37.271754
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Durango Adult Education Center - Cortez Adult Education Center",
+    "category": "Adult Education and GED Programs",
+    "address": "10 W. Main St Suite 110, Cortez, Colorado 81321",
+    "county": "Montezuma",
+    "phone": "970-564-7004",
+    "website": "www.durangoadulted.org",
+    "services": "Adult basic/secondary education, ESL, HSE (GED/HiSET) prep",
+    "source": "Colorado Department of Education, Adult Education Initiatives 'Find a Program' map",
+    "source_url": "https://ed.cde.state.co.us/cdeadult/grantees/grantees-current-grantees",
+    "geocode": "census-rooftop",
+    "program": "Durango Adult Education Center",
+    "site_name": "Cortez Adult Education Center",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.585365,
+     37.348678
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Emily Griffith Technical College - Emily Griffith Campus",
+    "category": "Adult Education and GED Programs",
+    "address": "1860 Lincoln St, Denver, CO 80203",
+    "county": "Denver",
+    "phone": "720-423-4700",
+    "website": "www.emilygriffith.edu/",
+    "services": "Adult basic/secondary education, ESL, HSE (GED/HiSET) prep",
+    "source": "Colorado Department of Education, Adult Education Initiatives 'Find a Program' map",
+    "source_url": "https://ed.cde.state.co.us/cdeadult/grantees/grantees-current-grantees",
+    "geocode": "census-rooftop",
+    "program": "Emily Griffith Technical College",
+    "site_name": "Emily Griffith Campus",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.986044,
+     39.745674
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Emily Griffith Technical College - Project Worthmore Campus",
+    "category": "Adult Education and GED Programs",
+    "address": "1633 Florence St, Aurora, CO 80010",
+    "county": "Arapahoe",
+    "phone": "720-460-1393",
+    "website": "www.emilygriffith.edu/",
+    "services": "Adult basic/secondary education, ESL, HSE (GED/HiSET) prep",
+    "source": "Colorado Department of Education, Adult Education Initiatives 'Find a Program' map",
+    "source_url": "https://ed.cde.state.co.us/cdeadult/grantees/grantees-current-grantees",
+    "geocode": "census-rooftop",
+    "program": "Emily Griffith Technical College",
+    "site_name": "Project Worthmore Campus",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.871769,
+     39.742585
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Goodwill of Colorado - EXCEL center",
+    "category": "Adult Education and GED Programs",
+    "address": "15445 E Iliff Avenue, Aurora, CO 80013",
+    "county": "Arapahoe",
+    "phone": "720-864-9674",
+    "website": "https://excelcentercolorado.org/",
+    "services": "Adult basic/secondary education, ESL, HSE (GED/HiSET) prep",
+    "source": "Colorado Department of Education, Adult Education Initiatives 'Find a Program' map",
+    "source_url": "https://ed.cde.state.co.us/cdeadult/grantees/grantees-current-grantees",
+    "geocode": "census-rooftop",
+    "program": "Goodwill of Colorado",
+    "site_name": "EXCEL center",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.808112,
+     39.674826
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Harrison School District 2 - Pikes Peak United Way Family Success Center",
+    "category": "Adult Education and GED Programs",
+    "address": "1520 Verde Dr, Colorado Springs, CO 80910",
+    "county": "El Paso",
+    "phone": "719-579-2130",
+    "website": "www.hsd2.org",
+    "services": "Adult basic/secondary education, ESL, HSE (GED/HiSET) prep",
+    "source": "Colorado Department of Education, Adult Education Initiatives 'Find a Program' map",
+    "source_url": "https://ed.cde.state.co.us/cdeadult/grantees/grantees-current-grantees",
+    "geocode": "osm-nominatim",
+    "program": "Harrison School District 2",
+    "site_name": "Pikes Peak United Way Family Success Center",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.770815,
+     38.810758
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Larimer County Economic & Workforce Development (adult education)",
+    "category": "Adult Education and GED Programs",
+    "address": "200 W Oak Street, Suite 5000",
+    "city": "Fort Collins",
+    "zip": "80521",
+    "phone": "970-498-6600",
+    "source": "CDE 2025-29 AELA grantee list; address from larimer.gov/ewd",
+    "source_url": "https://www.larimer.gov/ewd",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.079045,
+     40.585656
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Mesa County Libraries - CMU Tech",
+    "category": "Adult Education and GED Programs",
+    "address": "2508 Blichmann Ave, Grand Junction, CO 81505",
+    "county": "Mesa",
+    "phone": "970-683-2443",
+    "website": "https://mesacountylibraries.org/services/adultlearningcenter/",
+    "services": "Adult basic/secondary education, ESL, HSE (GED/HiSET) prep",
+    "source": "Colorado Department of Education, Adult Education Initiatives 'Find a Program' map",
+    "source_url": "https://ed.cde.state.co.us/cdeadult/grantees/grantees-current-grantees",
+    "geocode": "census-rooftop",
+    "program": "Mesa County Libraries",
+    "site_name": "CMU Tech",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.586812,
+     39.096896
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Mesa County Libraries - Central Library",
+    "category": "Adult Education and GED Programs",
+    "address": "443 North 6th Street, Grand Junction, CO 81501",
+    "county": "Mesa",
+    "phone": "970-683-2443",
+    "website": "https://mesacountylibraries.org/services/adultlearningcenter/",
+    "services": "Adult basic/secondary education, ESL, HSE (GED/HiSET) prep",
+    "source": "Colorado Department of Education, Adult Education Initiatives 'Find a Program' map",
+    "source_url": "https://ed.cde.state.co.us/cdeadult/grantees/grantees-current-grantees",
+    "geocode": "census-rooftop",
+    "program": "Mesa County Libraries",
+    "site_name": "Central Library",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.562843,
+     39.070787
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Mesa County Libraries - Clifton Library",
+    "category": "Adult Education and GED Programs",
+    "address": "3270 D 1/2 Rd Clifton Colorado 81520",
+    "county": "Mesa",
+    "phone": "970-683-2443",
+    "website": "https://mesacountylibraries.org/services/adultlearningcenter/",
+    "services": "Adult basic/secondary education, ESL, HSE (GED/HiSET) prep",
+    "source": "Colorado Department of Education, Adult Education Initiatives 'Find a Program' map",
+    "source_url": "https://ed.cde.state.co.us/cdeadult/grantees/grantees-current-grantees",
+    "geocode": "census-rooftop",
+    "program": "Mesa County Libraries",
+    "site_name": "Clifton Library",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.44644,
+     39.070088
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Metropolitan State University of Denver - Daniel C. Vallez Family Education Center",
+    "category": "Adult Education and GED Programs",
+    "address": "7125 Mariposa St, Denver, CO 80221",
+    "county": "Denver",
+    "phone": "303-615-1163",
+    "website": "www.msudenver.edu/flp/",
+    "services": "Adult basic/secondary education, ESL, HSE (GED/HiSET) prep",
+    "source": "Colorado Department of Education, Adult Education Initiatives 'Find a Program' map",
+    "source_url": "https://ed.cde.state.co.us/cdeadult/grantees/grantees-current-grantees",
+    "geocode": "census-rooftop",
+    "program": "Metropolitan State University of Denver",
+    "site_name": "Daniel C. Vallez Family Education Center",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.003067,
+     39.826182
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Metropolitan State University of Denver - Eagle Point Recreation Center",
+    "category": "Adult Education and GED Programs",
+    "address": "6060 Parkway Dr., Commerce City, CO 80022",
+    "phone": "303-289-3760",
+    "website": "https://www.c3gov.com/Parks-Recreation-Golf",
+    "services": "Adult basic/secondary education, ESL, HSE (GED/HiSET) prep",
+    "source": "Colorado Department of Education, Adult Education Initiatives 'Find a Program' map",
+    "source_url": "https://ed.cde.state.co.us/cdeadult/grantees/grantees-current-grantees",
+    "geocode": "census-rooftop",
+    "program": "Metropolitan State University of Denver",
+    "site_name": "Eagle Point Recreation Center",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.930878,
+     39.805871
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Montrose Adult Education Center - Zion Lutheran Church (ZLC)",
+    "category": "Adult Education and GED Programs",
+    "address": "701 S Junction Ave, Montrose, CO 81401",
+    "county": "Montrose",
+    "phone": "970-787-0281",
+    "website": "https://sites.google.com/mcsd.org/maec/registration-orientation?authuser=0",
+    "services": "Adult basic/secondary education, ESL, HSE (GED/HiSET) prep",
+    "source": "Colorado Department of Education, Adult Education Initiatives 'Find a Program' map",
+    "source_url": "https://ed.cde.state.co.us/cdeadult/grantees/grantees-current-grantees",
+    "geocode": "census-rooftop",
+    "program": "Montrose Adult Education Center",
+    "site_name": "Zion Lutheran Church (ZLC)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.865327,
+     38.477728
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Northeastern Junior College - Knowles Hall",
+    "category": "Adult Education and GED Programs",
+    "address": "100 College Avenue, Sterling, CO 80751",
+    "county": "Logan",
+    "phone": "970-521-6793",
+    "website": "njc.edu",
+    "services": "Adult basic/secondary education, ESL, HSE (GED/HiSET) prep",
+    "source": "Colorado Department of Education, Adult Education Initiatives 'Find a Program' map",
+    "source_url": "https://ed.cde.state.co.us/cdeadult/grantees/grantees-current-grantees",
+    "geocode": "census-rooftop",
+    "program": "Northeastern Junior College",
+    "site_name": "Knowles Hall",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.197466,
+     40.63685
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Northeastern Junior College - NJC Yuma Campus",
+    "category": "Adult Education and GED Programs",
+    "address": "910 S Main St. Yuma, CO 80759",
+    "county": "Yuma",
+    "phone": "970-521-6793",
+    "website": "njc.edu",
+    "services": "Adult basic/secondary education, ESL, HSE (GED/HiSET) prep",
+    "source": "Colorado Department of Education, Adult Education Initiatives 'Find a Program' map",
+    "source_url": "https://ed.cde.state.co.us/cdeadult/grantees/grantees-current-grantees",
+    "geocode": "census-rooftop",
+    "program": "Northeastern Junior College",
+    "site_name": "NJC Yuma Campus",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102.723968,
+     40.117367
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Northeastern Junior College - Phillips County Family Education Services",
+    "category": "Adult Education and GED Programs",
+    "address": "22505 US-385, Holyoke, CO 80734",
+    "county": "Phillips",
+    "phone": "970-521-6793",
+    "website": "njc.edu",
+    "services": "GED, ESL, IET",
+    "source": "Colorado Department of Education, Adult Education Initiatives 'Find a Program' map",
+    "source_url": "https://ed.cde.state.co.us/cdeadult/grantees/grantees-current-grantees",
+    "geocode": "osm-street-approx",
+    "program": "Northeastern Junior College",
+    "site_name": "Phillips County Family Education Services",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102.30233,
+     40.593747
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Pikes Peak Library District - Penrose Library",
+    "category": "Adult Education and GED Programs",
+    "address": "20 N. Cascade Ave., Colorado Springs, CO 80903",
+    "phone": "719-531-6333 ext. 7015",
+    "website": "https://ppld.org/penrose-library",
+    "services": "Adult basic/secondary education, ESL, HSE (GED/HiSET) prep",
+    "source": "Colorado Department of Education, Adult Education Initiatives 'Find a Program' map",
+    "source_url": "https://ed.cde.state.co.us/cdeadult/grantees/grantees-current-grantees",
+    "geocode": "census-rooftop",
+    "program": "Pikes Peak Library District",
+    "site_name": "Penrose Library",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.825245,
+     38.834777
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Pikes Peak Library District - Ruth Holley Library",
+    "category": "Adult Education and GED Programs",
+    "address": "685 N Murray Blvd, Colorado Springs, CO 80915",
+    "county": "El Paso",
+    "phone": "719-531-6333",
+    "website": "https://ppld.org/adult-education",
+    "services": "Adult basic/secondary education, ESL, HSE (GED/HiSET) prep",
+    "source": "Colorado Department of Education, Adult Education Initiatives 'Find a Program' map",
+    "source_url": "https://ed.cde.state.co.us/cdeadult/grantees/grantees-current-grantees",
+    "geocode": "census-rooftop",
+    "program": "Pikes Peak Library District",
+    "site_name": "Ruth Holley Library",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.747966,
+     38.843288
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "SEL Tutoring - Fremont County Head Start",
+    "category": "Adult Education and GED Programs",
+    "address": "1718 Brookside Ave, Cañon City, CO 81212",
+    "county": "Fremont",
+    "phone": "719-485-2456",
+    "website": "seltutoring.com",
+    "services": "Adult basic/secondary education, ESL, HSE (GED/HiSET) prep",
+    "source": "Colorado Department of Education, Adult Education Initiatives 'Find a Program' map",
+    "source_url": "https://ed.cde.state.co.us/cdeadult/grantees/grantees-current-grantees",
+    "geocode": "census-rooftop",
+    "program": "SEL Tutoring",
+    "site_name": "Fremont County Head Start",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.190092,
+     38.416884
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "SEL Tutoring - Northside Christian Church",
+    "category": "Adult Education and GED Programs",
+    "address": "2901 High St, Pueblo, CO 81008",
+    "county": "Pueblo",
+    "phone": "719-485-2456",
+    "website": "seltutoring.com",
+    "services": "Adult basic/secondary education, ESL, HSE (GED/HiSET) prep",
+    "source": "Colorado Department of Education, Adult Education Initiatives 'Find a Program' map",
+    "source_url": "https://ed.cde.state.co.us/cdeadult/grantees/grantees-current-grantees",
+    "geocode": "census-rooftop",
+    "program": "SEL Tutoring",
+    "site_name": "Northside Christian Church",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.626574,
+     38.298008
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "SEL Tutoring - Pueblo Workforce Center",
+    "category": "Adult Education and GED Programs",
+    "address": "1045 W 6th St, Pueblo, CO 81003",
+    "county": "Pueblo",
+    "phone": "719-485-2456",
+    "website": "seltutoring.com",
+    "services": "Adult basic/secondary education, ESL, HSE (GED/HiSET) prep",
+    "source": "Colorado Department of Education, Adult Education Initiatives 'Find a Program' map",
+    "source_url": "https://ed.cde.state.co.us/cdeadult/grantees/grantees-current-grantees",
+    "geocode": "census-rooftop",
+    "program": "SEL Tutoring",
+    "site_name": "Pueblo Workforce Center",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.620314,
+     38.271834
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Spring Institute - Aurora Central High School",
+    "category": "Adult Education and GED Programs",
+    "address": "11700 E 11th Ave, Aurora, CO 80010",
+    "county": "Arapahoe",
+    "phone": "(303) 863-0188",
+    "website": "https://springinstitute.org/adult-education/",
+    "services": "Beginning ESL, DL",
+    "source": "Colorado Department of Education, Adult Education Initiatives 'Find a Program' map",
+    "source_url": "https://ed.cde.state.co.us/cdeadult/grantees/grantees-current-grantees",
+    "geocode": "census-rooftop",
+    "program": "Spring Institute",
+    "site_name": "Aurora Central High School",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.852921,
+     39.732853
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Spring Institute - Aurora West College Prep",
+    "category": "Adult Education and GED Programs",
+    "address": "10100 E 13th Ave, Aurora, CO 80010",
+    "county": "Arapahoe",
+    "phone": "(303) 863-0188",
+    "website": "https://springinstitute.org/adult-education/",
+    "services": "Intermediate ESL, DL",
+    "source": "Colorado Department of Education, Adult Education Initiatives 'Find a Program' map",
+    "source_url": "https://ed.cde.state.co.us/cdeadult/grantees/grantees-current-grantees",
+    "geocode": "census-rooftop",
+    "program": "Spring Institute",
+    "site_name": "Aurora West College Prep",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.870549,
+     39.736388
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Spring Institute - Boston K-8 School",
+    "category": "Adult Education and GED Programs",
+    "address": "1365 Boston St, Aurora, CO 80010",
+    "county": "Arapahoe",
+    "phone": "(303) 863-0188",
+    "website": "https://springinstitute.org/adult-education/",
+    "services": "Beginning ESL, DL",
+    "source": "Colorado Department of Education, Adult Education Initiatives 'Find a Program' map",
+    "source_url": "https://ed.cde.state.co.us/cdeadult/grantees/grantees-current-grantees",
+    "geocode": "census-rooftop",
+    "program": "Spring Institute",
+    "site_name": "Boston K-8 School",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.880029,
+     39.73792
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Spring Institute - Crawford Elementary School",
+    "category": "Adult Education and GED Programs",
+    "address": "1600 Florence St, Aurora, CO 80010",
+    "county": "Adams",
+    "phone": "(303) 863-0188",
+    "website": "https://springinstitute.org/adult-education/",
+    "services": "Intermediate ESL, DL",
+    "source": "Colorado Department of Education, Adult Education Initiatives 'Find a Program' map",
+    "source_url": "https://ed.cde.state.co.us/cdeadult/grantees/grantees-current-grantees",
+    "geocode": "census-rooftop",
+    "program": "Spring Institute",
+    "site_name": "Crawford Elementary School",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.871628,
+     39.74203
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Spring Institute - Fulton Academy of Excellence",
+    "category": "Adult Education and GED Programs",
+    "address": "755 Fulton St, Aurora, CO 80010",
+    "county": "Arapahoe",
+    "phone": "(303) 863-0188",
+    "website": "https://springinstitute.org/adult-education/",
+    "services": "Beginning ESL, DL",
+    "source": "Colorado Department of Education, Adult Education Initiatives 'Find a Program' map",
+    "source_url": "https://ed.cde.state.co.us/cdeadult/grantees/grantees-current-grantees",
+    "geocode": "census-rooftop",
+    "program": "Spring Institute",
+    "site_name": "Fulton Academy of Excellence",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.870683,
+     39.728823
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Trinidad State College Adult Education Services - Huerfano County Community Center",
+    "category": "Adult Education and GED Programs",
+    "address": "928 Russell St, Walsenburg, CO 81089",
+    "county": "Huerfano",
+    "phone": "(719) 846-5640",
+    "website": "https://www.trinidadstate.edu/adult-education/index.html",
+    "services": "Adult basic/secondary education, ESL, HSE (GED/HiSET) prep",
+    "source": "Colorado Department of Education, Adult Education Initiatives 'Find a Program' map",
+    "source_url": "https://ed.cde.state.co.us/cdeadult/grantees/grantees-current-grantees",
+    "geocode": "census-rooftop",
+    "program": "Trinidad State College Adult Education Services",
+    "site_name": "Huerfano County Community Center",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.777837,
+     37.621725
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Trinidad State College Adult Education Services - Trinidad State College - Latuda Hall",
+    "category": "Adult Education and GED Programs",
+    "address": "600 Prospect St Trinidad, CO 81082",
+    "county": "Las Animas",
+    "phone": "(719) 846-5640",
+    "website": "https://www.trinidadstate.edu/adult-education/index.html",
+    "services": "Adult basic/secondary education, ESL, HSE (GED/HiSET) prep",
+    "source": "Colorado Department of Education, Adult Education Initiatives 'Find a Program' map",
+    "source_url": "https://ed.cde.state.co.us/cdeadult/grantees/grantees-current-grantees",
+    "geocode": "census-rooftop",
+    "program": "Trinidad State College Adult Education Services",
+    "site_name": "Trinidad State College - Latuda Hall",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.513657,
+     37.173527
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Trinidad State College Adult Education Services - Trinidad State College Classroom 203",
+    "category": "Adult Education and GED Programs",
+    "address": "1011 Main St Room 203, Alamosa, CO 81101",
+    "county": "Alamosa",
+    "phone": "(719) 846-5640",
+    "website": "https://www.trinidadstate.edu/adult-education/index.html",
+    "services": "Adult basic/secondary education, ESL, HSE (GED/HiSET) prep",
+    "source": "Colorado Department of Education, Adult Education Initiatives 'Find a Program' map",
+    "source_url": "https://ed.cde.state.co.us/cdeadult/grantees/grantees-current-grantees",
+    "geocode": "census-rooftop",
+    "program": "Trinidad State College Adult Education Services",
+    "site_name": "Trinidad State College Classroom 203",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.871749,
+     37.468217
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Workforce Boulder County",
+    "category": "Adult Education and GED Programs",
+    "address": "1333 Iris Ave., Boulder, CO 80304",
+    "phone": "720-776-0822",
+    "website": "https://bouldercounty.gov/departments/community-services/workforce-boulder-county/",
+    "services": "Adult basic/secondary education, ESL, HSE (GED/HiSET) prep",
+    "source": "Colorado Department of Education, Adult Education Initiatives 'Find a Program' map",
+    "source_url": "https://ed.cde.state.co.us/cdeadult/grantees/grantees-current-grantees",
+    "geocode": "census-rooftop",
+    "program": "Workforce Boulder County",
+    "site_name": "Workforce Boulder County",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.280463,
+     40.036474
+    ]
+   }
+  }
+ ]
+}

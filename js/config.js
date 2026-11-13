@@ -105,12 +105,13 @@ export const MAP = {
     title: "Gateway2Work Resource Navigation Map",
 
     // Where the map starts before the data has loaded: [latitude, longitude].
-    // An ARRAY [📖 Array] of two numbers. Here: downtown Denver.
+    // An ARRAY [📖 Array] of two numbers. Here: the middle of Colorado.
     // (Find any place's numbers by right-clicking it in Google Maps.)
-    center: [39.7392, -104.9903],
+    center: [39.0, -105.55],
 
     // Zoom level [📖 Zoom level]: 1 shows the whole world, 18 shows single houses.
-    zoom: 11,
+    // 7 shows the whole state.
+    zoom: 7,
 
     // Once loaded, the map zooms to fit this layer (use its id).
     // Leave it as null [📖 null and undefined] to fit everything that is
@@ -157,12 +158,13 @@ export const SEARCH = {
     // An array of two arrays: the box's bottom-left and top-right corners.
     // Set to null to allow any address. Results are always nudged toward
     // MAP.center.
+    // The whole state of Colorado.
     bounds: [
-        [39.45, -105.35],
-        [40.10, -104.55]
+        [36.99, -109.06],
+        [41.00, -102.04]
     ],
 
-    outsideBoundsMessage: "Please select an address inside the map area.",
+    outsideBoundsMessage: "Please select an address in Colorado.",
 
     // How many suggestions to show at most.
     maxResults: 6,
@@ -318,20 +320,44 @@ export const POPUPS = {
 
 export const LAYERS = [
 
-    // An outline layer with a name written inside each area
-    {
-        file: "example-areas.geojson",
-        label: "Example Areas",
-        type: "outline",
-        labelField: "name"
-    },
+    // Gateway2Work statewide layers. Numbers (L1-L25) match the TSRG
+    // "Colorado Workforce Development Ecosystem" GIS categories. How each file
+    // was built and sourced: Data/SOURCES.md and Data/sources/*.md.
+    // Groups follow the framework's cross-cutting roles.
 
-    // A point layer with a custom popup (everything else automatic)
-    {
-        file: "example-places.geojson",
-        label: "Example Places",
-        popup: POPUPS.examplePlace
-    }
+    // ---- Employment destinations -------------------------------------------
+    { file: "Recovery_Friendly_Employers.geojson",            label: "Recovery-Friendly Employers (L1)",              group: "Employment Destinations", color: "#2E7D32", shape: "star" },
+    { file: "Social_Enterprises_and_Transitional_Employment.geojson", label: "Social Enterprises & Transitional Jobs (L25)", group: "Employment Destinations", color: "#00897B", shape: "hexagon", visible: false },
+    { file: "Apprenticeship_Programs.geojson",                label: "Apprenticeship Programs (L17)",                 group: "Employment Destinations", color: "#558B2F", shape: "cross", visible: false },
+
+    // ---- Employment service providers --------------------------------------
+    { file: "Workforce_Centers.geojson",                      label: "Workforce Centers (L2)",                        group: "Employment Service Providers", color: "#1565C0", shape: "square" },
+    { file: "Reentry_and_Transitional_Services.geojson",      label: "Reentry & Transitional Services (L10)",         group: "Employment Service Providers", color: "#6A1B9A", shape: "diamond" },
+    { file: "IPS_Agencies.geojson",                           label: "IPS Supported Employment (L8)",                 group: "Employment Service Providers", color: "#0277BD", shape: "triangle", visible: false },
+    { file: "DVR_Offices.geojson",                            label: "Vocational Rehabilitation (DVR) Offices (L9)",  group: "Employment Service Providers", color: "#283593", shape: "circle", visible: false },
+    { file: "Workforce_Development_Training_Providers.geojson", label: "Training Providers - WIOA ETPL (L3)",         group: "Employment Service Providers", color: "#5C6BC0", shape: "circle", visible: false },
+    { file: "Community_Colleges_and_Technical_Schools.geojson", label: "Community Colleges & Technical Schools (L16)", group: "Employment Service Providers", color: "#F9A825", shape: "book", visible: false },
+    { file: "Adult_Education_and_GED_Programs.geojson",       label: "Adult Education & GED (L18)",                   group: "Employment Service Providers", color: "#FF8F00", shape: "book", visible: false },
+    { file: "Community_Mental_Health_Providers.geojson",      label: "Community Mental Health Providers (L23)",       group: "Employment Service Providers", color: "#AD1457", shape: "hexagon", visible: false },
+    { file: "Veterans_Employment_and_Reentry.geojson",        label: "Veterans Services (L24)",                       group: "Employment Service Providers", color: "#37474F", shape: "star", visible: false },
+
+    // ---- Referral sources ---------------------------------------------------
+    { file: "Prisons.geojson",                                label: "Prisons (L7)",                                  group: "Referral Sources", color: "#4E342E", shape: "square", visible: false },
+    { file: "Jails.geojson",                                  label: "Jails (L6)",                                    group: "Referral Sources", color: "#795548", shape: "square", visible: false },
+    { file: "Community_Corrections.geojson",                  label: "Community Corrections (L5)",                    group: "Referral Sources", color: "#8D6E63", shape: "diamond", visible: false },
+    { file: "Probation_and_Parole_Offices.geojson",           label: "Probation & Parole Offices (L11)",              group: "Referral Sources", color: "#5D4037", shape: "triangle", visible: false },
+    { file: "Halfway_Houses_and_Transitional_Housing.geojson", label: "Halfway Houses & Transitional Housing (L12)",   group: "Referral Sources", color: "#A1887F", shape: "drop", visible: false },
+    { file: "Substance_Use_and_Mental_Health_Treatment.geojson", label: "Treatment & Mental Health Centers (L4)",     group: "Referral Sources", color: "#C62828", shape: "cross", visible: false },
+    { file: "Recovery_Residences_by_City.geojson",            label: "Recovery Residences - by city (L14)",           group: "Referral Sources", color: "#EF6C00", shape: "drop", visible: false },
+
+    // ---- Community supports -------------------------------------------------
+    { file: "Recovery_Community_Organizations.geojson",       label: "Recovery Community Organizations (L13)",        group: "Community Supports", color: "#D81B60", shape: "star", visible: false },
+    { file: "Homelessness_and_Housing_Services.geojson",      label: "Homelessness & Housing Services (L15)",         group: "Community Supports", color: "#6D4C41", shape: "hexagon", visible: false },
+    { file: "Community_and_Faith_Based_Organizations.geojson", label: "Community & Faith-Based Organizations (L20)",   group: "Community Supports", color: "#7B1FA2", shape: "circle", visible: false },
+    { file: "Legal_Aid_and_Record_Sealing.geojson",           label: "Legal Aid & Record Sealing (L22)",              group: "Community Supports", color: "#00838F", shape: "book", visible: false },
+
+    // L19 (Human Services Departments) and L21 (Staffing & Second-Chance
+    // Employers) are not built yet: see Data/sources/19_and_21_NOT_YET_BUILT.md
 
     // ---- More examples (remove the // to use) -------------------------------
     //

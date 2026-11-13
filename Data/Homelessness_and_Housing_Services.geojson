@@ -1,0 +1,189 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Boulder Shelter for the Homeless",
+    "category": "Homelessness and Housing Service Providers",
+    "address": "4869 Broadway",
+    "city": "Boulder",
+    "zip": "80304",
+    "website": "https://www.bouldershelter.org/",
+    "services": "Shelter and housing-focused case management",
+    "source": "Address source: provider website",
+    "source_url": "https://www.bouldershelter.org/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.282199,
+     40.062857
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Catholic Charities of Denver (shelter services, HQ)",
+    "category": "Homelessness and Housing Service Providers",
+    "address": "6240 Smith Road",
+    "city": "Denver",
+    "zip": "80216",
+    "website": "https://ccdenver.org/",
+    "services": "Samaritan House and other shelters",
+    "source": "Address source: provider website",
+    "source_url": "https://ccdenver.org/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.915877,
+     39.773503
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado Coalition for the Homeless",
+    "category": "Homelessness and Housing Service Providers",
+    "address": "2111 Champa Street",
+    "city": "Denver",
+    "zip": "80205",
+    "website": "https://www.coloradocoalition.org/",
+    "services": "Supportive housing, health care, housing navigation",
+    "source": "Address source: provider website",
+    "source_url": "https://www.coloradocoalition.org/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.987789,
+     39.751353
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Denver Rescue Mission (headquarters)",
+    "category": "Homelessness and Housing Service Providers",
+    "address": "6100 Smith Road",
+    "city": "Denver",
+    "zip": "80216",
+    "website": "https://denverrescuemission.org/",
+    "services": "Emergency shelter, recovery & workforce programs",
+    "source": "Address source: provider website",
+    "source_url": "https://denverrescuemission.org/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.917553,
+     39.773752
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Fort Collins Rescue Mission",
+    "category": "Homelessness and Housing Service Providers",
+    "address": "316 Jefferson Street",
+    "city": "Fort Collins",
+    "zip": "80524",
+    "website": "https://denverrescuemission.org/",
+    "services": "Emergency shelter (Denver Rescue Mission affiliate)",
+    "source": "Address source: provider website",
+    "source_url": "https://denverrescuemission.org/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.073881,
+     40.588886
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Homeward Alliance (Murphy Center)",
+    "category": "Homelessness and Housing Service Providers",
+    "address": "242 Conifer Street",
+    "city": "Fort Collins",
+    "zip": "80524",
+    "website": "https://www.homewardalliance.org/",
+    "services": "Day center, housing navigation, reentry (WAGEES)",
+    "source": "Address source: WAGEES partner page",
+    "source_url": "https://www.homewardalliance.org/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.073933,
+     40.602863
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Pueblo Rescue Mission",
+    "category": "Homelessness and Housing Service Providers",
+    "address": "728 W 4th Street",
+    "city": "Pueblo",
+    "zip": "81003",
+    "services": "Emergency shelter",
+    "source": "Address source: third-party directory (shelterlist.com) - confirm",
+    "source_url": "https://www.shelterlist.com/state/colorado",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "status_note": "Address from third-party directory only; confirm."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.616723,
+     38.270446
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Springs Rescue Mission",
+    "category": "Homelessness and Housing Service Providers",
+    "address": "5 W Las Vegas Street",
+    "city": "Colorado Springs",
+    "zip": "80903",
+    "website": "https://springsrescuemission.org/",
+    "services": "Emergency shelter, recovery, workforce development",
+    "source": "Address source: provider website",
+    "source_url": "https://springsrescuemission.org/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.826237,
+     38.818438
+    ]
+   }
+  }
+ ]
+}

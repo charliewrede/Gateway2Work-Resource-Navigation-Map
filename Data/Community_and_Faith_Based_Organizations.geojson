@@ -1,0 +1,346 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Catholic Charities of Denver (shelter services, HQ)",
+    "category": "Community-Based and Faith-Based Organizations",
+    "address": "6240 Smith Road",
+    "city": "Denver",
+    "zip": "80216",
+    "website": "https://ccdenver.org/",
+    "services": "Samaritan House and other shelters",
+    "source": "Address source: provider website",
+    "source_url": "https://ccdenver.org/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "org_type": "Faith-based",
+    "also_in_layer": "Homelessness and Housing Services"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.915877,
+     39.773503
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Cooperating Ministry of Logan County",
+    "category": "Community-Based and Faith-Based Organizations",
+    "address": "230 N 10th Avenue",
+    "city": "Sterling",
+    "zip": "80751",
+    "phone": "970-522-6405",
+    "website": "https://www.coopminlc.com/",
+    "services": "Reentry support; WAGEES partner (Sterling parole area)",
+    "source": "Colorado WAGEES Community Partners roster (wageesco.org, LCCL)",
+    "source_url": "https://www.coopminlc.com/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "wagees_partner": "Yes",
+    "org_type": "Faith-based",
+    "also_in_layer": "Reentry and Transitional Services"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.22473,
+     40.626975
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Denver Rescue Mission (headquarters)",
+    "category": "Community-Based and Faith-Based Organizations",
+    "address": "6100 Smith Road",
+    "city": "Denver",
+    "zip": "80216",
+    "website": "https://denverrescuemission.org/",
+    "services": "Emergency shelter, recovery & workforce programs",
+    "source": "Address source: provider website",
+    "source_url": "https://denverrescuemission.org/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "org_type": "Faith-based",
+    "also_in_layer": "Homelessness and Housing Services"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.917553,
+     39.773752
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Fort Collins Rescue Mission",
+    "category": "Community-Based and Faith-Based Organizations",
+    "address": "316 Jefferson Street",
+    "city": "Fort Collins",
+    "zip": "80524",
+    "website": "https://denverrescuemission.org/",
+    "services": "Emergency shelter (Denver Rescue Mission affiliate)",
+    "source": "Address source: provider website",
+    "source_url": "https://denverrescuemission.org/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "org_type": "Faith-based",
+    "also_in_layer": "Homelessness and Housing Services"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.073881,
+     40.588886
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Hazelbrook Community Center",
+    "category": "Community-Based and Faith-Based Organizations",
+    "address": "1120 N Circle Drive, Suite 120",
+    "city": "Colorado Springs",
+    "zip": "80909",
+    "phone": "719-748-7285",
+    "website": "https://hazelbrookcommunity.org",
+    "services": "Reentry services; WAGEES partner (Colorado Springs, Englewood)",
+    "source": "Colorado WAGEES Community Partners roster (wageesco.org, LCCL)",
+    "source_url": "https://wageesco.org/community-partners/hazelbrook/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "wagees_partner": "Yes",
+    "org_type": "Community-based",
+    "also_in_layer": "Reentry and Transitional Services"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.775897,
+     38.848059
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Life-Line Colorado",
+    "category": "Community-Based and Faith-Based Organizations",
+    "address": "1240 W Bayaud Avenue",
+    "city": "Denver",
+    "zip": "80223",
+    "phone": "720-328-5650",
+    "website": "https://life-linecolorado.org/",
+    "services": "Peer reentry mentoring and support; WAGEES partner (Denver, Englewood, Westminster)",
+    "source": "Colorado WAGEES Community Partners roster (wageesco.org, LCCL)",
+    "source_url": "https://wageesco.org/community-partners/life-line-colorado/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "wagees_partner": "Yes",
+    "org_type": "Community-based (peer mentoring)",
+    "also_in_layer": "Reentry and Transitional Services"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.00288,
+     39.714768
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Loaves & Fishes Ministries",
+    "category": "Community-Based and Faith-Based Organizations",
+    "address": "241 Justice Center Road",
+    "city": "Canon City",
+    "zip": "81212",
+    "phone": "719-275-0593",
+    "website": "http://lfministries.org/",
+    "services": "Reentry support; WAGEES partner (Canon City)",
+    "source": "Colorado WAGEES Community Partners roster (wageesco.org, LCCL)",
+    "source_url": "https://wageesco.org/community-partners/loaves-and-fishes/",
+    "geocode": "osm-street-approx",
+    "retrieved": "2026-11-13",
+    "wagees_partner": "Yes",
+    "org_type": "Faith-based",
+    "also_in_layer": "Reentry and Transitional Services"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.183261,
+     38.44661
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Manna Soup Kitchen",
+    "category": "Community-Based and Faith-Based Organizations",
+    "address": "1100 Avenida Del Sol",
+    "city": "Durango",
+    "zip": "81301",
+    "phone": "970-385-5095",
+    "website": "https://www.mannasoupkitchen.org/",
+    "services": "Reentry and basic-needs support; WAGEES partner (Durango)",
+    "source": "Colorado WAGEES Community Partners roster (wageesco.org, LCCL)",
+    "source_url": "https://wageesco.org/community-partners/manna/",
+    "geocode": "osm-nominatim",
+    "retrieved": "2026-11-13",
+    "wagees_partner": "Yes",
+    "org_type": "Community-based (meals, reentry)",
+    "also_in_layer": "Reentry and Transitional Services"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.885965,
+     37.277566
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Pueblo Rescue Mission",
+    "category": "Community-Based and Faith-Based Organizations",
+    "address": "728 W 4th Street",
+    "city": "Pueblo",
+    "zip": "81003",
+    "services": "Emergency shelter",
+    "source": "Address source: third-party directory (shelterlist.com) - confirm",
+    "source_url": "https://www.shelterlist.com/state/colorado",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "status_note": "Address from third-party directory only; confirm.",
+    "org_type": "Faith-based",
+    "also_in_layer": "Homelessness and Housing Services"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.616723,
+     38.270446
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Servicios de La Raza",
+    "category": "Community-Based and Faith-Based Organizations",
+    "address": "3131 W 14th Avenue",
+    "city": "Denver",
+    "zip": "80204",
+    "phone": "303-953-5918",
+    "website": "https://serviciosdelaraza.org/",
+    "services": "Culturally responsive reentry and employment services; WAGEES partner",
+    "source": "Colorado WAGEES Community Partners roster (wageesco.org, LCCL)",
+    "source_url": "https://wageesco.org/community-partners/servicios-de-la-raza/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "wagees_partner": "Yes",
+    "org_type": "Community-based (Latino services)",
+    "also_in_layer": "Reentry and Transitional Services"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.026771,
+     39.738349
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Springs Rescue Mission",
+    "category": "Community-Based and Faith-Based Organizations",
+    "address": "5 W Las Vegas Street",
+    "city": "Colorado Springs",
+    "zip": "80903",
+    "website": "https://springsrescuemission.org/",
+    "services": "Emergency shelter, recovery, workforce development",
+    "source": "Address source: provider website",
+    "source_url": "https://springsrescuemission.org/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "org_type": "Faith-based",
+    "also_in_layer": "Homelessness and Housing Services"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.826237,
+     38.818438
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "The Empowerment Program (women only)",
+    "category": "Community-Based and Faith-Based Organizations",
+    "address": "1600 York Street",
+    "city": "Denver",
+    "zip": "80206",
+    "phone": "303-320-1989",
+    "website": "https://www.empowermentprogram.org/",
+    "services": "Gender-responsive reentry, housing, employment and health services for women; WAGEES partner",
+    "source": "Colorado WAGEES Community Partners roster (wageesco.org, LCCL)",
+    "source_url": "https://wageesco.org/community-partners/the-empowerment-program/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "wagees_partner": "Yes",
+    "org_type": "Community-based (women)",
+    "also_in_layer": "Reentry and Transitional Services"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.959703,
+     39.741674
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "The Pinon Project",
+    "category": "Community-Based and Faith-Based Organizations",
+    "address": "210 E Main Street",
+    "city": "Cortez",
+    "zip": "81321",
+    "phone": "970-564-3811",
+    "website": "https://www.pinonproject.org/",
+    "services": "Reentry and family services; WAGEES partner (Cortez/Durango area)",
+    "source": "Colorado WAGEES Community Partners roster (wageesco.org, LCCL)",
+    "source_url": "https://wageesco.org/community-partners/the-pinon-project/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "wagees_partner": "Yes",
+    "org_type": "Community-based (family resource center)",
+    "also_in_layer": "Reentry and Transitional Services"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.582319,
+     37.34872
+    ]
+   }
+  }
+ ]
+}

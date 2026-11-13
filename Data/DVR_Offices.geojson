@@ -1,0 +1,347 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "DVR Administrative Office (CDLE)",
+    "category": "DVR Offices and Authorized Service Providers",
+    "address": "707 17th Street, Suite 2700",
+    "city": "Denver",
+    "zip": "80202",
+    "website": "https://dvr.colorado.gov",
+    "services": "Vocational rehabilitation for people with disabilities (incl. mental health and substance use disorders)",
+    "source": "Colorado Division of Vocational Rehabilitation office list",
+    "source_url": "https://dvr.colorado.gov/contact-us",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.991029,
+     39.746243
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "DVR Alamosa Office",
+    "category": "DVR Offices and Authorized Service Providers",
+    "address": "305 Murphy Drive, Unit B",
+    "city": "Alamosa",
+    "zip": "81101",
+    "phone": "719-589-5158",
+    "website": "https://dvr.colorado.gov",
+    "services": "Vocational rehabilitation for people with disabilities (incl. mental health and substance use disorders)",
+    "source": "Colorado Division of Vocational Rehabilitation office list",
+    "source_url": "https://dvr.colorado.gov/dvr-programs-services/dvr-questionnaire/dvr-phone-numbers",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "status_note": "Co-located with Alamosa Workforce Center"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.884708,
+     37.47541
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "DVR Aurora Office",
+    "category": "DVR Offices and Authorized Service Providers",
+    "address": "12510 E Iliff Avenue, Suite 303",
+    "city": "Aurora",
+    "zip": "80014",
+    "phone": "303-671-4160",
+    "website": "https://dvr.colorado.gov",
+    "services": "Vocational rehabilitation for people with disabilities (incl. mental health and substance use disorders)",
+    "source": "Colorado Division of Vocational Rehabilitation office list",
+    "source_url": "https://aging.networkofcare.org/denverregion-co/services/agency?pid=ColoradoDivisionofVocationalRehabilitation_965_1_0",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "status_note": "From Network of Care directory; confirm"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.842322,
+     39.674847
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "DVR Colorado Springs Office",
+    "category": "DVR Offices and Authorized Service Providers",
+    "address": "1365 Garden of the Gods Road, Suite 250",
+    "city": "Colorado Springs",
+    "zip": "80907",
+    "phone": "719-635-3585",
+    "website": "https://dvr.colorado.gov",
+    "services": "Vocational rehabilitation for people with disabilities (incl. mental health and substance use disorders)",
+    "source": "Colorado Division of Vocational Rehabilitation office list",
+    "source_url": "https://dvr.colorado.gov/dvr-programs-services/dvr-questionnaire/dvr-phone-numbers",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.853838,
+     38.896423
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "DVR Delta Office",
+    "category": "DVR Offices and Authorized Service Providers",
+    "address": "206 Ute Street",
+    "city": "Delta",
+    "zip": "81416",
+    "phone": "970-874-5781",
+    "website": "https://dvr.colorado.gov",
+    "services": "Vocational rehabilitation for people with disabilities (incl. mental health and substance use disorders)",
+    "source": "Colorado Division of Vocational Rehabilitation office list",
+    "source_url": "https://dvr.colorado.gov/dvr-programs-services/dvr-questionnaire/dvr-phone-numbers",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "status_note": "Co-located with Delta Workforce Center"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.069693,
+     38.747232
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "DVR Durango Office",
+    "category": "DVR Offices and Authorized Service Providers",
+    "address": "160 Rock Point Drive, Suite A",
+    "city": "Durango",
+    "zip": "81301",
+    "phone": "970-247-3161",
+    "website": "https://dvr.colorado.gov",
+    "services": "Vocational rehabilitation for people with disabilities (incl. mental health and substance use disorders)",
+    "source": "Colorado Division of Vocational Rehabilitation office list",
+    "source_url": "https://dvr.colorado.gov/dvr-programs-services/dvr-questionnaire/dvr-phone-numbers",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.890604,
+     37.271974
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "DVR Englewood Office",
+    "category": "DVR Offices and Authorized Service Providers",
+    "address": "750 W Hampden Avenue, Suite 225",
+    "city": "Englewood",
+    "zip": "80110",
+    "website": "https://dvr.colorado.gov",
+    "services": "Vocational rehabilitation for people with disabilities (incl. mental health and substance use disorders)",
+    "source": "Colorado Division of Vocational Rehabilitation office list",
+    "source_url": "https://dvr.colorado.gov/contact-us",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "status_note": "Listed on DVR Contact Us page; role not stated"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.996448,
+     39.653153
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "DVR Fort Morgan Office",
+    "category": "DVR Offices and Authorized Service Providers",
+    "address": "426 Ensign Street",
+    "city": "Fort Morgan",
+    "zip": "80701",
+    "phone": "970-867-9401",
+    "website": "https://dvr.colorado.gov",
+    "services": "Vocational rehabilitation for people with disabilities (incl. mental health and substance use disorders)",
+    "source": "Colorado Division of Vocational Rehabilitation office list",
+    "source_url": "https://dvr.colorado.gov/dvr-programs-services/dvr-questionnaire/dvr-phone-numbers",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "status_note": "Co-located with Fort Morgan Workforce Center"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.802702,
+     40.251633
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "DVR Golden Office",
+    "category": "DVR Offices and Authorized Service Providers",
+    "address": "3500 Illinois Street",
+    "city": "Golden",
+    "zip": "80401",
+    "phone": "303-866-4121",
+    "website": "https://dvr.colorado.gov",
+    "services": "Vocational rehabilitation for people with disabilities (incl. mental health and substance use disorders)",
+    "source": "Colorado Division of Vocational Rehabilitation office list",
+    "source_url": "https://dvr.colorado.gov/dvr-programs-services/dvr-questionnaire/dvr-phone-numbers",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "status_note": "Suite 400 (DVR page) vs Suite 1400 (other listing)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.210322,
+     39.734915
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "DVR Grand Junction Office",
+    "category": "DVR Offices and Authorized Service Providers",
+    "address": "222 S 6th Street, Suite 215",
+    "city": "Grand Junction",
+    "zip": "81501",
+    "phone": "970-248-7103",
+    "website": "https://dvr.colorado.gov",
+    "services": "Vocational rehabilitation for people with disabilities (incl. mental health and substance use disorders)",
+    "source": "Colorado Division of Vocational Rehabilitation office list",
+    "source_url": "https://dvr.colorado.gov/dvr-programs-services/dvr-questionnaire/dvr-phone-numbers",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.562669,
+     39.066081
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "DVR Limon Office",
+    "category": "DVR Offices and Authorized Service Providers",
+    "address": "825 Second Street",
+    "city": "Limon",
+    "zip": "80828",
+    "phone": "719-775-8819",
+    "website": "https://dvr.colorado.gov",
+    "services": "Vocational rehabilitation for people with disabilities (incl. mental health and substance use disorders)",
+    "source": "Colorado Division of Vocational Rehabilitation office list",
+    "source_url": "https://dvr.colorado.gov/dvr-programs-services/dvr-questionnaire/dvr-phone-numbers",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.686939,
+     39.261832
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "DVR Montrose Office",
+    "category": "DVR Offices and Authorized Service Providers",
+    "address": "1551 Ogden Road",
+    "city": "Montrose",
+    "zip": "81401",
+    "phone": "970-249-4468",
+    "website": "https://dvr.colorado.gov",
+    "services": "Vocational rehabilitation for people with disabilities (incl. mental health and substance use disorders)",
+    "source": "Colorado Division of Vocational Rehabilitation office list",
+    "source_url": "https://askjan.org/organizations/Colorado-Division-of-Vocational-Rehabilitation.cfm",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "status_note": "Older listing; confirm"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.864527,
+     38.450909
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "DVR Northglenn Office",
+    "category": "DVR Offices and Authorized Service Providers",
+    "address": "11990 Grant Street, Suite 201",
+    "city": "Northglenn",
+    "zip": "80233",
+    "phone": "303-866-2110",
+    "website": "https://dvr.colorado.gov",
+    "services": "Vocational rehabilitation for people with disabilities (incl. mental health and substance use disorders)",
+    "source": "Colorado Division of Vocational Rehabilitation office list",
+    "source_url": "https://dvr.colorado.gov/dvr-programs-services/dvr-questionnaire/dvr-phone-numbers",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.98134,
+     39.911353
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "DVR Trinidad Office",
+    "category": "DVR Offices and Authorized Service Providers",
+    "address": "140 N Commercial Street",
+    "city": "Trinidad",
+    "zip": "81082",
+    "phone": "719-220-4354",
+    "website": "https://dvr.colorado.gov",
+    "services": "Vocational rehabilitation for people with disabilities (incl. mental health and substance use disorders)",
+    "source": "Colorado Division of Vocational Rehabilitation office list",
+    "source_url": "https://dvr.colorado.gov/dvr-programs-services/dvr-questionnaire/dvr-phone-numbers",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "status_note": "Co-located with Trinidad Workforce Center"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.505385,
+     37.168154
+    ]
+   }
+  }
+ ]
+}

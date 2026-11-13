@@ -1,0 +1,258 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "AllHealth Network - IPS (Littleton)",
+    "category": "IPS Agencies",
+    "address": "5500 S Sycamore Street",
+    "city": "Littleton",
+    "zip": "80120",
+    "phone": "303-730-8858",
+    "services": "IPS supported employment (rapid job search, competitive jobs, integrated with treatment)",
+    "source": "Colorado IPS rosters: BHA IPS page (current); SOR IPS report 2022-23; address: SAMHSA FindTreatment record",
+    "source_url": "https://bha.colorado.gov/individual-placement-and-support-ips-supported-employment",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "area_served": "Arapahoe and Douglas counties",
+    "listed_in": "BHA IPS page (current); SOR IPS report 2022-23"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.014963,
+     39.616828
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Axis Health System - IPS",
+    "category": "IPS Agencies",
+    "address": "1125 Three Springs Boulevard",
+    "city": "Durango",
+    "zip": "81301",
+    "phone": "970-259-2162",
+    "services": "IPS supported employment (rapid job search, competitive jobs, integrated with treatment)",
+    "source": "Colorado IPS rosters: BHA IPS page (current); address: main office (Layer 23; confirm)",
+    "source_url": "https://bha.colorado.gov/individual-placement-and-support-ips-supported-employment",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "area_served": "Durango, Montrose, Gunnison, Crested Butte, Telluride, Pagosa Springs",
+    "listed_in": "BHA IPS page (current)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.824719,
+     37.23491
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Behavioral Health Group (BHG) Longmont - IPS",
+    "category": "IPS Agencies",
+    "address": "850 23rd Avenue",
+    "city": "Longmont",
+    "zip": "80501",
+    "phone": "303-245-0123",
+    "services": "IPS supported employment (rapid job search, competitive jobs, integrated with treatment)",
+    "source": "Colorado IPS rosters: BHA IPS page (current); SOR IPS report 2022-23; address: SAMHSA FindTreatment record (BHG Longmont Treatment Center)",
+    "source_url": "https://bha.colorado.gov/individual-placement-and-support-ips-supported-employment",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "area_served": "Longmont / Boulder County",
+    "listed_in": "BHA IPS page (current); SOR IPS report 2022-23"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.105282,
+     40.19958
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado Coalition for the Homeless - IPS",
+    "category": "IPS Agencies",
+    "address": "2111 Champa Street",
+    "city": "Denver",
+    "zip": "80205",
+    "services": "IPS supported employment (rapid job search, competitive jobs, integrated with treatment)",
+    "source": "Colorado IPS rosters: older state list only; address: organization headquarters (GuideStar profile: 2111 Champa St, 80205)",
+    "source_url": "https://www.colorado.gov/pacific/cdhs/individual-placement-and-support-ips-supported-employment",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "area_served": "Denver metro",
+    "listed_in": "older state list only",
+    "status_note": "Listed only on ~2020 state IPS list; confirm program is still active."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.987789,
+     39.751353
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Community Reach Center - IPS",
+    "category": "IPS Agencies",
+    "address": "8989 Huron Street",
+    "city": "Thornton",
+    "zip": "80260",
+    "phone": "303-853-3500",
+    "services": "IPS supported employment (rapid job search, competitive jobs, integrated with treatment)",
+    "source": "Colorado IPS rosters: older state list only; address: main office (Layer 23)",
+    "source_url": "https://www.colorado.gov/pacific/cdhs/individual-placement-and-support-ips-supported-employment",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "area_served": "Adams County",
+    "listed_in": "older state list only",
+    "status_note": "Listed only on ~2020 state IPS list; confirm program is still active."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.99674,
+     39.858849
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Crossroads Turning Points - IPS (Pueblo)",
+    "category": "IPS Agencies",
+    "address": "509 E 13th Street",
+    "city": "Pueblo",
+    "zip": "81001",
+    "phone": "719-546-6666",
+    "services": "IPS supported employment (rapid job search, competitive jobs, integrated with treatment)",
+    "source": "Colorado IPS rosters: SOR IPS report 2022-23; older state list; address: SAMHSA FindTreatment record",
+    "source_url": "https://www.sorcolorado.org/wp-content/uploads/2024/03/SOR_IPS-Annual-Report-22-23_Final_for-BHA.pdf",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "area_served": "Pueblo area",
+    "listed_in": "SOR IPS report 2022-23; older state list"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.60107,
+     38.279082
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Diversus Health - IPS (SUD)",
+    "category": "IPS Agencies",
+    "address": "115 S Parkside Drive",
+    "city": "Colorado Springs",
+    "zip": "80910",
+    "phone": "719-572-6100",
+    "services": "IPS supported employment (rapid job search, competitive jobs, integrated with treatment)",
+    "source": "Colorado IPS rosters: BHA IPS page (current); older state list; address: main office (Layer 23)",
+    "source_url": "https://bha.colorado.gov/individual-placement-and-support-ips-supported-employment",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "area_served": "Colorado Springs, El Paso, Park, Teller",
+    "listed_in": "BHA IPS page (current); older state list"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.785503,
+     38.829893
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Jefferson Center for Mental Health - IPS",
+    "category": "IPS Agencies",
+    "address": "4851 Independence Street",
+    "city": "Wheat Ridge",
+    "zip": "80033",
+    "phone": "303-425-0300",
+    "services": "IPS supported employment (rapid job search, competitive jobs, integrated with treatment)",
+    "source": "Colorado IPS rosters: older state list only; address: main office (Layer 23)",
+    "source_url": "https://www.colorado.gov/pacific/cdhs/individual-placement-and-support-ips-supported-employment",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "area_served": "Jefferson County",
+    "listed_in": "older state list only",
+    "status_note": "Listed only on ~2020 state IPS list; confirm program is still active."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.104949,
+     39.784983
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "North Range Behavioral Health - IPS",
+    "category": "IPS Agencies",
+    "address": "1306 11th Avenue",
+    "city": "Greeley",
+    "zip": "80631",
+    "phone": "970-347-2120",
+    "services": "IPS supported employment (rapid job search, competitive jobs, integrated with treatment)",
+    "source": "Colorado IPS rosters: older state list only; address: main office (Layer 23)",
+    "source_url": "https://www.colorado.gov/pacific/cdhs/individual-placement-and-support-ips-supported-employment",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "area_served": "Weld County",
+    "listed_in": "older state list only",
+    "status_note": "Listed only on ~2020 state IPS list; confirm program is still active."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.696226,
+     40.418312
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "SummitStone Health Partners - IPS",
+    "category": "IPS Agencies",
+    "address": "1217 Riverside Avenue",
+    "city": "Fort Collins",
+    "zip": "80524",
+    "phone": "970-494-4200",
+    "services": "IPS supported employment (rapid job search, competitive jobs, integrated with treatment)",
+    "source": "Colorado IPS rosters: SOR IPS report 2022-23; older state list; address: main office (Layer 23)",
+    "source_url": "https://www.sorcolorado.org/wp-content/uploads/2024/03/SOR_IPS-Annual-Report-22-23_Final_for-BHA.pdf",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "area_served": "Fort Collins, Loveland, Estes Park",
+    "listed_in": "SOR IPS report 2022-23; older state list"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.055029,
+     40.576205
+    ]
+   }
+  }
+ ]
+}

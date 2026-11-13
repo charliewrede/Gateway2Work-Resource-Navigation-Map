@@ -1,0 +1,612 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Arkansas Valley Correctional Facility",
+    "category": "Prisons",
+    "address": "12750 Hwy 96 at Lane 13",
+    "city": "Ordway",
+    "zip": "81034",
+    "source": "Colorado Department of Corrections, Facility Address List (Mar 2025)",
+    "source_url": "https://seams.org/wp-content/uploads/2025/03/Attachment-A-Facilty-Address-List.pdf",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD centroid is 0.6 km from Census geocode of address",
+    "operator": "Colorado Department of Corrections (state-operated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.842185,
+     38.191468
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Arrowhead Correctional Center",
+    "category": "Prisons",
+    "address": "57500 East Highway 50 & Evans Road",
+    "city": "Canon City",
+    "zip": "81212",
+    "source": "Colorado Department of Corrections, Facility Address List (Mar 2025)",
+    "source_url": "https://seams.org/wp-content/uploads/2025/03/Attachment-A-Facilty-Address-List.pdf",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD centroid is 0.6 km from Census geocode of address",
+    "operator": "Colorado Department of Corrections (state-operated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.159096,
+     38.436103
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Bent County Correctional Facility",
+    "category": "Prisons",
+    "address": "11560 Road FF.75",
+    "city": "Las Animas",
+    "zip": "81054",
+    "phone": "719-456-2610",
+    "source": "CoreCivic facility page; CDOC private prisons page",
+    "source_url": "https://www.corecivic.com/facilities/bent-county-correctional-facility",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "CoreCivic page lists Colorado DOC as government partner (checked 2026-11-13)",
+    "operator": "CoreCivic (private) - houses CDOC inmates under contract",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.204792,
+     38.064563
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Buena Vista Correctional Complex",
+    "category": "Prisons",
+    "address": "15125 Hwy 24 & 285",
+    "city": "Buena Vista",
+    "zip": "81211",
+    "source": "Colorado Department of Corrections, Facility Address List (Mar 2025)",
+    "source_url": "https://seams.org/wp-content/uploads/2025/03/Attachment-A-Facilty-Address-List.pdf",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD centroid is 1.4 km from Census geocode of address",
+    "operator": "Colorado Department of Corrections (state-operated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.114966,
+     38.822183
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Centennial Correctional Facility",
+    "category": "Prisons",
+    "address": "57500 East Highway 50 & Evans Road",
+    "city": "Canon City",
+    "zip": "81212",
+    "source": "Colorado Department of Corrections, Facility Address List (Mar 2025)",
+    "source_url": "https://seams.org/wp-content/uploads/2025/03/Attachment-A-Facilty-Address-List.pdf",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD centroid is 0.5 km from Census geocode of address",
+    "operator": "Colorado Department of Corrections (state-operated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.151673,
+     38.437767
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado State Penitentiary",
+    "category": "Prisons",
+    "address": "57500 East Highway 50 & Evans Road",
+    "city": "Canon City",
+    "zip": "81212",
+    "source": "Colorado Department of Corrections, Facility Address List (Mar 2025)",
+    "source_url": "https://seams.org/wp-content/uploads/2025/03/Attachment-A-Facilty-Address-List.pdf",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD centroid is 0.2 km from Census geocode of address",
+    "operator": "Colorado Department of Corrections (state-operated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.15801,
+     38.440805
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado Territorial Correctional Facility",
+    "category": "Prisons",
+    "address": "275 West Hwy 50",
+    "city": "Canon City",
+    "zip": "81212",
+    "source": "Colorado Department of Corrections, Facility Address List (Mar 2025)",
+    "source_url": "https://seams.org/wp-content/uploads/2025/03/Attachment-A-Facilty-Address-List.pdf",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD centroid is 0.5 km from Census geocode of address",
+    "operator": "Colorado Department of Corrections (state-operated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.248695,
+     38.438023
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Crowley County Correctional Facility",
+    "category": "Prisons",
+    "address": "6564 Highway 96",
+    "city": "Olney Springs",
+    "zip": "81062",
+    "phone": "719-267-3548",
+    "source": "CoreCivic facility page; CDOC private prisons page",
+    "source_url": "https://www.corecivic.com/facilities/crowley-county-correctional-facility",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "CoreCivic page lists Colorado DOC as government partner (checked 2026-11-13)",
+    "operator": "CoreCivic (private) - houses CDOC inmates under contract",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.957302,
+     38.156739
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Delta Correctional Center",
+    "category": "Prisons",
+    "address": "11363 Lockhart Road",
+    "city": "Delta",
+    "zip": "81416",
+    "source": "Colorado Department of Corrections, Facility Address List (Mar 2025)",
+    "source_url": "https://seams.org/wp-content/uploads/2025/03/Attachment-A-Facilty-Address-List.pdf",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "operator": "Colorado Department of Corrections (state-operated)",
+    "status_note": "Possible closure discussed in 2025 budget (KVNF, 2025-03-06). Confirm operating status.",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.148611,
+     38.709116
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Denver Reception & Diagnostic Center",
+    "category": "Prisons",
+    "address": "10900 Smith Road",
+    "city": "Denver",
+    "zip": "80239",
+    "source": "Colorado Department of Corrections, Facility Address List (Mar 2025)",
+    "source_url": "https://seams.org/wp-content/uploads/2025/03/Attachment-A-Facilty-Address-List.pdf",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD centroid is 0.2 km from Census geocode of address",
+    "operator": "Colorado Department of Corrections (state-operated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.860803,
+     39.766777
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Denver Women's Correctional Facility",
+    "category": "Prisons",
+    "address": "3600 Havana Street",
+    "city": "Denver",
+    "zip": "80239",
+    "source": "Colorado Department of Corrections, Facility Address List (Mar 2025)",
+    "source_url": "https://seams.org/wp-content/uploads/2025/03/Attachment-A-Facilty-Address-List.pdf",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD centroid is 0.6 km from Census geocode of address",
+    "operator": "Colorado Department of Corrections (state-operated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.860784,
+     39.765102
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "FCI Englewood",
+    "category": "Prisons",
+    "address": "9595 West Quincy Avenue",
+    "city": "Littleton",
+    "zip": "80123",
+    "phone": "303-763-4300",
+    "website": "https://www.bop.gov/locations/institutions/eng/",
+    "source": "Federal Bureau of Prisons locations feed",
+    "source_url": "https://www.bop.gov/PublicInfo/execute/locations?todo=query&output=json",
+    "geocode": "source (BOP locations feed)",
+    "operator": "Federal Bureau of Prisons",
+    "facility_type": "Federal Correctional Institution",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.107027,
+     39.638744
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "FCI Florence",
+    "category": "Prisons",
+    "address": "5880 Hwy 67 South",
+    "city": "Florence",
+    "zip": "81226",
+    "phone": "719-784-9100",
+    "website": "https://www.bop.gov/locations/institutions/flf/",
+    "source": "Federal Bureau of Prisons locations feed",
+    "source_url": "https://www.bop.gov/PublicInfo/execute/locations?todo=query&output=json",
+    "geocode": "HIFLD footprint centroid (BOP feed gives one shared point for all Florence units)",
+    "operator": "Federal Bureau of Prisons",
+    "facility_type": "Federal Correctional Institution",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.101625,
+     38.358586
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "FPC Florence (minimum-security camp)",
+    "category": "Prisons",
+    "address": "5880 Hwy 67 South",
+    "city": "Florence",
+    "zip": "81226",
+    "phone": "719-784-9100",
+    "source": "HIFLD Prison Boundaries; BOP FCI Florence page",
+    "source_url": "https://www.bop.gov/locations/institutions/flf/",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "operator": "Federal Bureau of Prisons",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.102642,
+     38.365339
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Four Mile Correctional Center",
+    "category": "Prisons",
+    "address": "57500 East Highway 50 & Evans Road",
+    "city": "Canon City",
+    "zip": "81212",
+    "source": "Colorado Department of Corrections, Facility Address List (Mar 2025)",
+    "source_url": "https://seams.org/wp-content/uploads/2025/03/Attachment-A-Facilty-Address-List.pdf",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD centroid is 1.4 km from Census geocode of address",
+    "operator": "Colorado Department of Corrections (state-operated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.147851,
+     38.42977
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Fremont Correctional Facility",
+    "category": "Prisons",
+    "address": "57500 East Highway 50 & Evans Road",
+    "city": "Canon City",
+    "zip": "81212",
+    "source": "Colorado Department of Corrections, Facility Address List (Mar 2025)",
+    "source_url": "https://seams.org/wp-content/uploads/2025/03/Attachment-A-Facilty-Address-List.pdf",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD centroid is 2.1 km from Census geocode of address",
+    "operator": "Colorado Department of Corrections (state-operated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.161617,
+     38.422642
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "La Vista Correctional Facility",
+    "category": "Prisons",
+    "address": "1401 West 17th Street",
+    "city": "Pueblo",
+    "zip": "81003",
+    "source": "Colorado Department of Corrections, Facility Address List (Mar 2025)",
+    "source_url": "https://seams.org/wp-content/uploads/2025/03/Attachment-A-Facilty-Address-List.pdf",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD centroid is 0.3 km from Census geocode of address",
+    "operator": "Colorado Department of Corrections (state-operated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.628197,
+     38.28485
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Limon Correctional Facility",
+    "category": "Prisons",
+    "address": "49030 State Hwy 71",
+    "city": "Limon",
+    "zip": "80826",
+    "source": "Colorado Department of Corrections, Facility Address List (Mar 2025)",
+    "source_url": "https://seams.org/wp-content/uploads/2025/03/Attachment-A-Facilty-Address-List.pdf",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD centroid is 0.4 km from Census geocode of address",
+    "operator": "Colorado Department of Corrections (state-operated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.691685,
+     39.218085
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Rifle Correctional Center",
+    "category": "Prisons",
+    "address": "200 County Road 219",
+    "city": "Rifle",
+    "zip": "81650",
+    "source": "Colorado Department of Corrections, Facility Address List (Mar 2025)",
+    "source_url": "https://seams.org/wp-content/uploads/2025/03/Attachment-A-Facilty-Address-List.pdf",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "operator": "Colorado Department of Corrections (state-operated)",
+    "status_note": "Proposed for closure in state budget talks (2025); local officials opposed. Evacuated Aug 2025 due to wildfire. Confirm operating status.",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.779049,
+     39.650166
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "San Carlos Correctional Facility",
+    "category": "Prisons",
+    "address": "1410 West 13th Street",
+    "city": "Pueblo",
+    "zip": "81003",
+    "source": "Colorado Department of Corrections, Facility Address List (Mar 2025)",
+    "source_url": "https://seams.org/wp-content/uploads/2025/03/Attachment-A-Facilty-Address-List.pdf",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD centroid is 0.6 km from Census geocode of address",
+    "operator": "Colorado Department of Corrections (state-operated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.631779,
+     38.280088
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Sterling Correctional Facility",
+    "category": "Prisons",
+    "address": "12101 Hwy 61",
+    "city": "Sterling",
+    "zip": "80751",
+    "source": "Colorado Department of Corrections, Facility Address List (Mar 2025)",
+    "source_url": "https://seams.org/wp-content/uploads/2025/03/Attachment-A-Facilty-Address-List.pdf",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD centroid is 0.4 km from Census geocode of address",
+    "operator": "Colorado Department of Corrections (state-operated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.162102,
+     40.611235
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "The Beacon at Skyline Correctional Center",
+    "category": "Prisons",
+    "address": "East Canon Complex",
+    "city": "Canon City",
+    "zip": "81212",
+    "source": "Wikipedia 'Skyline Correctional Center'; Denver7 news report (2025)",
+    "source_url": "https://en.wikipedia.org/wiki/Skyline_Correctional_Center",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "operator": "Colorado Department of Corrections (state-operated)",
+    "status_note": "Not on CDOC Mar 2025 address list; reported proposed for closure in 2025. Confirm status before publication.",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.159054,
+     38.430137
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Trinidad Correctional Facility",
+    "category": "Prisons",
+    "address": "21000 Hwy 350 East",
+    "city": "Model",
+    "zip": "81059",
+    "source": "Colorado Department of Corrections, Facility Address List (Mar 2025)",
+    "source_url": "https://seams.org/wp-content/uploads/2025/03/Attachment-A-Facilty-Address-List.pdf",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "operator": "Colorado Department of Corrections (state-operated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.286657,
+     37.300346
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "USP Florence - High",
+    "category": "Prisons",
+    "address": "5880 Hwy 67 S",
+    "city": "Florence",
+    "zip": "81226",
+    "phone": "719-784-9454",
+    "website": "https://www.bop.gov/locations/institutions/flp/",
+    "source": "Federal Bureau of Prisons locations feed",
+    "source_url": "https://www.bop.gov/PublicInfo/execute/locations?todo=query&output=json",
+    "geocode": "HIFLD footprint centroid (BOP feed gives one shared point for all Florence units)",
+    "operator": "Federal Bureau of Prisons",
+    "facility_type": "U.S. Penitentiary",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.094963,
+     38.362051
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "USP Florence ADMAX",
+    "category": "Prisons",
+    "address": "5880 Hwy 67 South",
+    "city": "Florence",
+    "zip": "81226",
+    "phone": "719-784-9464",
+    "website": "https://www.bop.gov/locations/institutions/flm/",
+    "source": "Federal Bureau of Prisons locations feed",
+    "source_url": "https://www.bop.gov/PublicInfo/execute/locations?todo=query&output=json",
+    "geocode": "HIFLD footprint centroid (BOP feed gives one shared point for all Florence units)",
+    "operator": "Federal Bureau of Prisons",
+    "facility_type": "U.S. Penitentiary",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.09489,
+     38.356385
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Youthful Offender System",
+    "category": "Prisons",
+    "address": "1300 West 13th Street",
+    "city": "Pueblo",
+    "zip": "81003",
+    "source": "Colorado Department of Corrections, Facility Address List (Mar 2025)",
+    "source_url": "https://seams.org/wp-content/uploads/2025/03/Attachment-A-Facilty-Address-List.pdf",
+    "geocode": "HIFLD Prison Boundaries footprint centroid",
+    "verified": "HIFLD centroid is 0.3 km from Census geocode of address",
+    "operator": "Colorado Department of Corrections (state-operated)",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.62754,
+     38.279017
+    ]
+   }
+  }
+ ]
+}

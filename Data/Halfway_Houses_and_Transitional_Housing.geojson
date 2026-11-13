@@ -1,0 +1,81 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Bridge House Ready to Work - Aurora",
+    "category": "Halfway Houses and Transitional Housing",
+    "address": "3176 S Peoria Court",
+    "city": "Aurora",
+    "zip": "80014",
+    "phone": "303-575-4962",
+    "website": "https://boulderbridgehouse.org/",
+    "services": "Paid work + transitional housing program; WAGEES partner (Boulder, Aurora, Englewood)",
+    "source": "Colorado WAGEES Community Partners roster (wageesco.org, LCCL)",
+    "source_url": "https://wageesco.org/community-partners/bridge-house-ready-to-work-boulder/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "housing_type": "Reentry transitional housing with employment (Ready to Work)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.847178,
+     39.661122
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Bridge House Ready to Work - Boulder",
+    "category": "Halfway Houses and Transitional Housing",
+    "address": "4747 Table Mesa Drive",
+    "city": "Boulder",
+    "zip": "80305",
+    "phone": "303-575-4962",
+    "website": "https://boulderbridgehouse.org/",
+    "services": "Paid work + transitional housing program; WAGEES partner (Boulder, Aurora, Englewood)",
+    "source": "Colorado WAGEES Community Partners roster (wageesco.org, LCCL)",
+    "source_url": "https://wageesco.org/community-partners/bridge-house-ready-to-work-boulder/",
+    "geocode": "osm-nominatim",
+    "retrieved": "2026-11-13",
+    "housing_type": "Reentry transitional housing with employment (Ready to Work)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.237223,
+     39.986175
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "RRK Enterprise dba Independence House",
+    "category": "Halfway Houses and Transitional Housing",
+    "address": "2765 South Federal Blvd",
+    "city": "Denver",
+    "zip": "80236",
+    "phone": "303-919-7231",
+    "website": "https://ind-house.com/",
+    "source": "Federal Bureau of Prisons RRC feed",
+    "source_url": "https://www.bop.gov/PublicInfo/execute/rrc?todo=query&output=json",
+    "geocode": "source (BOP)",
+    "housing_type": "Federal Residential Reentry Center (BOP halfway house)",
+    "beds": "25 (20 male, 5 female)",
+    "contract_expires": "05-31-2030",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.025623,
+     39.666271
+    ]
+   }
+  }
+ ]
+}

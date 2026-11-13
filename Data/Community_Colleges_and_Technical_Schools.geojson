@@ -1,0 +1,1414 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Academy of Natural Therapy Inc",
+    "category": "Community Colleges and Technical Schools",
+    "address": "625 8th Ave",
+    "city": "Greeley",
+    "zip": "80631",
+    "county": "Weld",
+    "phone": "9703521181",
+    "website": "www.natural-therapy.com/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Private career/technical school",
+    "ipeds_sector": "Private for-profit less-than-2-year",
+    "ipeds_unitid": 449454,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.691075,
+     40.426259
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Aims Community College",
+    "category": "Community Colleges and Technical Schools",
+    "address": "5401 W. 20th St.",
+    "city": "Greeley",
+    "zip": "80634",
+    "county": "Weld",
+    "phone": "9703308008",
+    "website": "www.aims.edu/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Public community/technical college",
+    "ipeds_sector": "Public (IPEDS 4-year; primarily associate/certificate)",
+    "ipeds_unitid": 126207,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.763415,
+     40.409559
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Apex College of Veterinary Technology",
+    "category": "Community Colleges and Technical Schools",
+    "address": "330 South El Paso Street",
+    "city": "Colorado Springs",
+    "zip": "80903",
+    "county": "El Paso",
+    "phone": "7193758228",
+    "website": "https://www.apexcvt.edu/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Private career/technical school",
+    "ipeds_sector": "Private for-profit 2-year",
+    "ipeds_unitid": 494986,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.813477,
+     38.828277
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Arapahoe Community College",
+    "category": "Community Colleges and Technical Schools",
+    "address": "5900 S. Santa Fe Dr.",
+    "city": "Littleton",
+    "zip": "80160",
+    "county": "Arapahoe",
+    "phone": "3037974222",
+    "website": "www.arapahoe.edu/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Public community/technical college",
+    "ipeds_sector": "Public (IPEDS 4-year; primarily associate/certificate)",
+    "system": "Colorado Community College System",
+    "ipeds_unitid": 126289,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.018631,
+     39.607505
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Auguste Escoffier School of Culinary Arts-Boulder",
+    "category": "Community Colleges and Technical Schools",
+    "address": "637 S Broadway, Ste H",
+    "city": "Boulder",
+    "zip": "80305",
+    "county": "Boulder",
+    "phone": "3034947988",
+    "website": "www.escoffier.edu/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Private career/technical school",
+    "ipeds_sector": "Private for-profit 2-year",
+    "ipeds_unitid": 454810,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.250075,
+     39.983475
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Avalon Institute-Aurora",
+    "category": "Community Colleges and Technical Schools",
+    "address": "2231 S Peoria Street",
+    "city": "Aurora",
+    "zip": "80014",
+    "county": "Arapahoe",
+    "phone": "3037521560",
+    "website": "avalon.edu/aurora-co/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Cosmetology/beauty school",
+    "ipeds_sector": "Private for-profit less-than-2-year",
+    "ipeds_unitid": 372356,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.848602,
+     39.676308
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Aveda Institute-Denver",
+    "category": "Community Colleges and Technical Schools",
+    "address": "801 Kalamath",
+    "city": "Denver",
+    "zip": "80204",
+    "county": "Denver",
+    "phone": "30356775001009",
+    "website": "avedainspiregreatness.com/denver-campus",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Cosmetology/beauty school",
+    "ipeds_sector": "Private for-profit less-than-2-year",
+    "ipeds_unitid": 459277,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.000615,
+     39.729146
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Bel-Rea Institute of Animal Technology",
+    "category": "Community Colleges and Technical Schools",
+    "address": "1681 S Dayton St",
+    "city": "Denver",
+    "zip": "80247",
+    "county": "Arapahoe",
+    "phone": "3037518700",
+    "website": "www.belrea.edu/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Private career/technical school",
+    "ipeds_sector": "Private for-profit 2-year",
+    "ipeds_unitid": 126359,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.876207,
+     39.686194
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "CMU Tech (formerly Western Colorado Community College) - Bishop Campus",
+    "category": "Community Colleges and Technical Schools",
+    "address": "2508 Blichmann Avenue",
+    "city": "Grand Junction",
+    "zip": "81505",
+    "phone": "970-255-2600",
+    "source": "Colorado Mesa University contact page; CMU Tech campus map (renamed from WCCC Aug 1, 2023)",
+    "source_url": "https://www.coloradomesa.edu/campus-info/contact.html",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "school_type": "Public community/technical college"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.586812,
+     39.096896
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Cheeks Beauty Academy",
+    "category": "Community Colleges and Technical Schools",
+    "address": "5010 Granite Street",
+    "city": "Loveland",
+    "zip": "80538",
+    "county": "Larimer",
+    "phone": "9706674122",
+    "website": "cheeksusa.com/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Cosmetology/beauty school",
+    "ipeds_sector": "Private for-profit less-than-2-year",
+    "ipeds_unitid": 381699,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.078334,
+     40.445169
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado Academy of Veterinary Technology",
+    "category": "Community Colleges and Technical Schools",
+    "address": "2766 Janitell Road",
+    "city": "Colorado Springs",
+    "zip": "80906",
+    "county": "El Paso",
+    "phone": "7192199636",
+    "website": "www.cavt.edu/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Private career/technical school",
+    "ipeds_sector": "Private for-profit 2-year",
+    "ipeds_unitid": 461953,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.790429,
+     38.794277
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado Media School",
+    "category": "Community Colleges and Technical Schools",
+    "address": "4380 S. Syracuse St. Suite 400",
+    "city": "Denver",
+    "zip": "80237",
+    "county": "Denver",
+    "phone": "3039377070",
+    "website": "beonair.com/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Private career/technical school",
+    "ipeds_sector": "Private for-profit less-than-2-year",
+    "ipeds_unitid": 443632,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.898784,
+     39.637456
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado Mountain College",
+    "category": "Community Colleges and Technical Schools",
+    "address": "802 Grand Ave.",
+    "city": "Glenwood Springs",
+    "zip": "81601",
+    "county": "Garfield",
+    "phone": "8006218559",
+    "website": "coloradomtn.edu/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Public community/technical college",
+    "ipeds_sector": "Public (IPEDS 4-year; primarily associate/certificate)",
+    "ipeds_unitid": 126711,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.324441,
+     39.54636
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado Northwestern Community College",
+    "category": "Community Colleges and Technical Schools",
+    "address": "500 Kennedy Drive",
+    "city": "Rangely",
+    "zip": "81648",
+    "county": "Rio Blanco",
+    "phone": "9706752261",
+    "website": "www.cncc.edu/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Public community/technical college",
+    "ipeds_sector": "Public (IPEDS 4-year; primarily associate/certificate)",
+    "system": "Colorado Community College System",
+    "ipeds_unitid": 126748,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.790048,
+     40.081112
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado School of Healing Arts",
+    "category": "Community Colleges and Technical Schools",
+    "address": "7655 W Mississippi Ste 300",
+    "city": "Lakewood",
+    "zip": "80226",
+    "county": "Jefferson",
+    "phone": "3039862320",
+    "website": "www.csha.net/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Private career/technical school",
+    "ipeds_sector": "Private for-profit less-than-2-year",
+    "ipeds_unitid": 381732,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.082406,
+     39.697033
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado School of Trades",
+    "category": "Community Colleges and Technical Schools",
+    "address": "1575 Hoyt St",
+    "city": "Lakewood",
+    "zip": "80215",
+    "county": "Jefferson",
+    "phone": "30323346972",
+    "website": "https://schooloftrades.edu/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Private career/technical school",
+    "ipeds_sector": "Private for-profit 2-year",
+    "ipeds_unitid": 126784,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.104174,
+     39.74181
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Community College of Aurora",
+    "category": "Community Colleges and Technical Schools",
+    "address": "16000 E CentreTech Pky",
+    "city": "Aurora",
+    "zip": "80011",
+    "county": "Arapahoe",
+    "phone": "3033604700",
+    "website": "https://www.ccaurora.edu/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Public community/technical college",
+    "ipeds_sector": "Public 2-year",
+    "system": "Colorado Community College System",
+    "ipeds_unitid": 126863,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.802673,
+     39.71788
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Community College of Denver",
+    "category": "Community Colleges and Technical Schools",
+    "address": "1111 W. Colfax Ave.",
+    "city": "Denver",
+    "zip": "80204",
+    "county": "Denver",
+    "phone": "3035562600",
+    "website": "www.ccd.edu/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Public community/technical college",
+    "ipeds_sector": "Public (IPEDS 4-year; primarily associate/certificate)",
+    "system": "Colorado Community College System",
+    "ipeds_unitid": 126942,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.001044,
+     39.741413
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Dr. Ida Rolf Institute",
+    "category": "Community Colleges and Technical Schools",
+    "address": "5055 Chaparral Court, Suite 103",
+    "city": "Boulder",
+    "zip": "80301",
+    "county": "Boulder",
+    "phone": "3034495903",
+    "website": "https://rolf.org/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Private career/technical school",
+    "ipeds_sector": "Private nonprofit less-than-2-year",
+    "ipeds_unitid": 262466,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.203076,
+     40.066263
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Emily Griffith Technical College",
+    "category": "Community Colleges and Technical Schools",
+    "address": "1860 Lincoln Street",
+    "city": "Denver",
+    "zip": "80203",
+    "county": "Denver",
+    "phone": "7204234700",
+    "website": "www.emilygriffith.edu/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Public community/technical college",
+    "ipeds_sector": "Public less-than-2-year",
+    "ipeds_unitid": 127158,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.985751,
+     39.74575
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Empire Beauty School-Aurora",
+    "category": "Community Colleges and Technical Schools",
+    "address": "16800 E. Mississippi Ave.",
+    "city": "Aurora",
+    "zip": "80017",
+    "county": "Arapahoe",
+    "phone": "8009204593",
+    "website": "www.empire.edu/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Cosmetology/beauty school",
+    "ipeds_sector": "Private for-profit less-than-2-year",
+    "ipeds_unitid": 447175,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.792572,
+     39.695935
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Empire Beauty School-Littleton",
+    "category": "Community Colleges and Technical Schools",
+    "address": "8996 W. Bowles Ave. # E-F",
+    "city": "Littleton",
+    "zip": "80123",
+    "county": "Jefferson",
+    "phone": "8009204593",
+    "website": "www.empire.edu/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Cosmetology/beauty school",
+    "ipeds_sector": "Private for-profit less-than-2-year",
+    "ipeds_unitid": 447166,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.097089,
+     39.608128
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Empire Beauty School-Thornton",
+    "category": "Community Colleges and Technical Schools",
+    "address": "3811 E 120th Ave",
+    "city": "Thornton",
+    "zip": "80233",
+    "county": "Adams",
+    "phone": "8009204593",
+    "website": "www.empire.edu/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Cosmetology/beauty school",
+    "ipeds_sector": "Private for-profit less-than-2-year",
+    "ipeds_unitid": 128337,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.94357,
+     39.915253
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Front Range Community College",
+    "category": "Community Colleges and Technical Schools",
+    "address": "3645 W 112th Ave",
+    "city": "Westminster",
+    "zip": "80031",
+    "county": "Adams",
+    "phone": "3034045000",
+    "website": "https://www.frontrange.edu/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Public community/technical college",
+    "ipeds_sector": "Public (IPEDS 4-year; primarily associate/certificate)",
+    "system": "Colorado Community College System",
+    "ipeds_unitid": 127200,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.038068,
+     39.901452
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "IBMC College",
+    "category": "Community Colleges and Technical Schools",
+    "address": "3842 South Mason Street",
+    "city": "Fort Collins",
+    "zip": "80525",
+    "county": "Larimer",
+    "phone": "9702232669",
+    "website": "www.ibmc.edu/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Private career/technical school",
+    "ipeds_sector": "Private for-profit 2-year",
+    "ipeds_unitid": 372329,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.078989,
+     40.534067
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Intellitec College-Colorado Springs",
+    "category": "Community Colleges and Technical Schools",
+    "address": "2315 East Pikes Peak Avenue",
+    "city": "Colorado Springs",
+    "zip": "80909",
+    "county": "El Paso",
+    "phone": "71963276261101",
+    "website": "intellitec.edu/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Private career/technical school",
+    "ipeds_sector": "Private for-profit 2-year",
+    "ipeds_unitid": 128179,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.78721,
+     38.832183
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Intellitec College-Grand Junction",
+    "category": "Community Colleges and Technical Schools",
+    "address": "772 Horizon Dr.",
+    "city": "Grand Junction",
+    "zip": "81506",
+    "county": "Mesa",
+    "phone": "9702458101",
+    "website": "intellitec.edu/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Private career/technical school",
+    "ipeds_sector": "Private for-profit 2-year",
+    "ipeds_unitid": 128188,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.53062,
+     39.116346
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "International Salon and Spa Academy",
+    "category": "Community Colleges and Technical Schools",
+    "address": "5707 N Academy Blvd",
+    "city": "Colorado Springs",
+    "zip": "80918",
+    "county": "El Paso",
+    "phone": "71959714131009",
+    "website": "https://www.csbeautyschools.com/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Cosmetology/beauty school",
+    "ipeds_sector": "Private for-profit less-than-2-year",
+    "ipeds_unitid": 127316,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.786252,
+     38.913621
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Lamar Community College",
+    "category": "Community Colleges and Technical Schools",
+    "address": "2401 S Main St",
+    "city": "Lamar",
+    "zip": "81052",
+    "county": "Prowers",
+    "phone": "7193362248",
+    "website": "https://www.lamarcc.edu/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Public community/technical college",
+    "ipeds_sector": "Public 2-year",
+    "system": "Colorado Community College System",
+    "ipeds_unitid": 127389,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102.616144,
+     38.068886
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Lincoln College of Technology-Denver",
+    "category": "Community Colleges and Technical Schools",
+    "address": "11194 E 45th Ave",
+    "city": "Denver",
+    "zip": "80239",
+    "county": "Denver",
+    "phone": "303722572443000",
+    "website": "www.lincolntech.edu/campus/denver-co",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Private career/technical school",
+    "ipeds_sector": "Private for-profit 2-year",
+    "ipeds_unitid": 126951,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.856171,
+     39.77651
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Morgan Community College",
+    "category": "Community Colleges and Technical Schools",
+    "address": "920 Barlow Road",
+    "city": "Fort Morgan",
+    "zip": "80701",
+    "county": "Morgan",
+    "phone": "9705423100",
+    "website": "https://www.morgancc.edu/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Public community/technical college",
+    "ipeds_sector": "Public (IPEDS 4-year; primarily associate/certificate)",
+    "system": "Colorado Community College System",
+    "ipeds_unitid": 127617,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.771822,
+     40.258792
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "National Institute for Medical Assistant Advancement (NIMAA)",
+    "category": "Community Colleges and Technical Schools",
+    "address": "1525 Raleigh Street Suite 260",
+    "city": "Denver",
+    "zip": "80204",
+    "county": "Denver",
+    "phone": "7207109050",
+    "website": "https://www.nimaa.edu/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Private career/technical school",
+    "ipeds_sector": "Private nonprofit less-than-2-year",
+    "ipeds_unitid": 496618,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.042047,
+     39.741297
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Northeastern Junior College",
+    "category": "Community Colleges and Technical Schools",
+    "address": "100 College Avenue",
+    "city": "Sterling",
+    "zip": "80751",
+    "county": "Logan",
+    "phone": "9705216600",
+    "website": "www.njc.edu/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Public community/technical college",
+    "ipeds_sector": "Public 2-year",
+    "system": "Colorado Community College System",
+    "ipeds_unitid": 127732,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.197329,
+     40.637215
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Otero College",
+    "category": "Community Colleges and Technical Schools",
+    "address": "1802 Colorado Avenue",
+    "city": "La Junta",
+    "zip": "81050",
+    "county": "Otero",
+    "phone": "7193846800",
+    "website": "www.otero.edu/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Public community/technical college",
+    "ipeds_sector": "Public 2-year",
+    "system": "Colorado Community College System",
+    "ipeds_unitid": 127778,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.544874,
+     37.969984
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Paul Mitchell the School-Colorado Springs",
+    "category": "Community Colleges and Technical Schools",
+    "address": "118 West Colorado Avenue",
+    "city": "Colorado Springs",
+    "zip": "80903",
+    "county": "El Paso",
+    "phone": "7196361426",
+    "website": "paulmitchell.edu/coloradosprings",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Cosmetology/beauty school",
+    "ipeds_sector": "Private for-profit less-than-2-year",
+    "ipeds_unitid": 459286,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.828339,
+     38.832889
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Paul Mitchell the School-Denver",
+    "category": "Community Colleges and Technical Schools",
+    "address": "405 South Teller Street",
+    "city": "Lakewood",
+    "zip": "80226",
+    "county": "Jefferson",
+    "phone": "3032331733",
+    "website": "paulmitchell.edu/denver",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Cosmetology/beauty school",
+    "ipeds_sector": "Private for-profit less-than-2-year",
+    "ipeds_unitid": 482176,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.077283,
+     39.70898
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Pickens Technical College",
+    "category": "Community Colleges and Technical Schools",
+    "address": "500 Airport Blvd",
+    "city": "Aurora",
+    "zip": "80011",
+    "county": "Arapahoe",
+    "phone": "303344491027734",
+    "website": "www.pickenstech.org/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Public community/technical college",
+    "ipeds_sector": "Public 2-year",
+    "ipeds_unitid": 128151,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.789683,
+     39.723705
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Pikes Peak State College",
+    "category": "Community Colleges and Technical Schools",
+    "address": "5675 S Academy Blvd",
+    "city": "Colorado Springs",
+    "zip": "80906",
+    "county": "El Paso",
+    "phone": "7195022000",
+    "website": "https://www.pikespeak.edu/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Public community/technical college",
+    "ipeds_sector": "Public (IPEDS 4-year; primarily associate/certificate)",
+    "system": "Colorado Community College System",
+    "ipeds_unitid": 127820,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.787261,
+     38.764287
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Pima Medical Institute-Aurora",
+    "category": "Community Colleges and Technical Schools",
+    "address": "13750 E. Mississippi Avenue",
+    "city": "Aurora",
+    "zip": "80012",
+    "county": "Arapahoe",
+    "phone": "3033687462",
+    "website": "https://pmi.edu/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Private career/technical school",
+    "ipeds_sector": "Private for-profit 2-year",
+    "ipeds_unitid": 461689,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.831481,
+     39.6956
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Pima Medical Institute-Colorado Springs",
+    "category": "Community Colleges and Technical Schools",
+    "address": "5725 Mark Dabling Blvd, Suite 150",
+    "city": "Colorado Springs",
+    "zip": "80919",
+    "county": "El Paso",
+    "phone": "7194827462",
+    "website": "https://pmi.edu/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Private career/technical school",
+    "ipeds_sector": "Private for-profit 2-year",
+    "ipeds_unitid": 442134,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.820989,
+     38.914019
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Pima Medical Institute-Denver",
+    "category": "Community Colleges and Technical Schools",
+    "address": "7475 Dakin St. Suite 100",
+    "city": "Denver",
+    "zip": "80221",
+    "county": "Adams",
+    "phone": "3034261800",
+    "website": "https://pmi.edu/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Private career/technical school",
+    "ipeds_sector": "Private for-profit 2-year",
+    "ipeds_unitid": 404912,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.00252,
+     39.831679
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Pueblo Community College",
+    "category": "Community Colleges and Technical Schools",
+    "address": "900 W Orman Ave",
+    "city": "Pueblo",
+    "zip": "81004",
+    "county": "Pueblo",
+    "phone": "7195493200",
+    "website": "www.pueblocc.edu/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Public community/technical college",
+    "ipeds_sector": "Public (IPEDS 4-year; primarily associate/certificate)",
+    "system": "Colorado Community College System",
+    "ipeds_unitid": 127884,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.636258,
+     38.262124
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Red Rocks Community College",
+    "category": "Community Colleges and Technical Schools",
+    "address": "13300 W Sixth Ave",
+    "city": "Lakewood",
+    "zip": "80228",
+    "county": "Jefferson",
+    "phone": "3039146600",
+    "website": "www.rrcc.edu/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Public community/technical college",
+    "ipeds_sector": "Public (IPEDS 4-year; primarily associate/certificate)",
+    "system": "Colorado Community College System",
+    "ipeds_unitid": 127909,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.150094,
+     39.720277
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "San Juan Basin Technical College",
+    "category": "Community Colleges and Technical Schools",
+    "address": "33057 Highway 160",
+    "city": "Mancos",
+    "zip": "81328",
+    "phone": "970-565-8457",
+    "source": "U.S. Dept. of Education DAPIP accreditation database (via SkillPlum listing)",
+    "source_url": "https://skillplum.com/school/san-juan-basin-technical-college-mancos-co",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "school_type": "Public community/technical college"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.43864,
+     37.352456
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Spartan College of Aeronautics and Technology",
+    "category": "Community Colleges and Technical Schools",
+    "address": "10851 W 120th Ave",
+    "city": "Broomfield",
+    "zip": "80021",
+    "county": "Broomfield",
+    "phone": "3034661714",
+    "website": "www.spartan.edu/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Private career/technical school",
+    "ipeds_sector": "Private for-profit 2-year",
+    "ipeds_unitid": 126605,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.119096,
+     39.914822
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Stacey James Institute",
+    "category": "Community Colleges and Technical Schools",
+    "address": "16534 Keystone Boulevard, Unit C",
+    "city": "Parker",
+    "zip": "80134",
+    "county": "Douglas",
+    "phone": "3038101033",
+    "website": "www.staceyjamesinstitute.com/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Cosmetology/beauty school",
+    "ipeds_sector": "Private for-profit less-than-2-year",
+    "ipeds_unitid": 491792,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.794689,
+     39.533193
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Technical College of the Rockies",
+    "category": "Community Colleges and Technical Schools",
+    "address": "1765 hwy 50",
+    "city": "Delta",
+    "zip": "81416",
+    "county": "Delta",
+    "phone": "9708747671",
+    "website": "www.tcr.edu/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Public community/technical college",
+    "ipeds_sector": "Public less-than-2-year",
+    "ipeds_unitid": 126915,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.031072,
+     38.702524
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "The Salon Professional Academy-Colorado Springs",
+    "category": "Community Colleges and Technical Schools",
+    "address": "4388 Austin Bluffs Pkwy",
+    "city": "Colorado Springs",
+    "zip": "80918",
+    "county": "El Paso",
+    "phone": "7192669400",
+    "website": "www.thesalonprofessionalacademycoloradosprings.com/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Cosmetology/beauty school",
+    "ipeds_sector": "Private for-profit less-than-2-year",
+    "ipeds_unitid": 459295,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.750884,
+     38.896966
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Tigi Hairdressing Academy-Colorado Springs",
+    "category": "Community Colleges and Technical Schools",
+    "address": "5125 North Academy Blvd.",
+    "city": "Colorado Springs",
+    "zip": "80918",
+    "county": "El Paso",
+    "phone": "7193909898104",
+    "website": "https://www.tigihairdressingacademy.com/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Cosmetology/beauty school",
+    "ipeds_sector": "Private for-profit less-than-2-year",
+    "ipeds_unitid": 443289,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.777572,
+     38.905898
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Trinidad State College",
+    "category": "Community Colleges and Technical Schools",
+    "address": "600 Prospect Street",
+    "city": "Trinidad",
+    "zip": "81082",
+    "county": "Las Animas",
+    "phone": "7198465011",
+    "website": "www.trinidadstate.edu/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Public community/technical college",
+    "ipeds_sector": "Public (IPEDS 4-year; primarily associate/certificate)",
+    "system": "Colorado Community College System",
+    "ipeds_unitid": 128258,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.513451,
+     37.172059
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Tuana European Beauty Academy",
+    "category": "Community Colleges and Technical Schools",
+    "address": "826 S College Ave",
+    "city": "Fort Collins",
+    "zip": "80524",
+    "county": "Larimer",
+    "phone": "9704722004",
+    "website": "www.tuanaacademy.com/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Cosmetology/beauty school",
+    "ipeds_sector": "Private for-profit less-than-2-year",
+    "ipeds_unitid": 493910,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.076724,
+     40.575844
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "United Beauty College",
+    "category": "Community Colleges and Technical Schools",
+    "address": "1701 S Federal Boulevard # A",
+    "city": "Denver",
+    "zip": "80219",
+    "county": "Denver",
+    "phone": "3039221852",
+    "website": "ubcdenver.edu/",
+    "source": "NCES IPEDS Directory 2024 (via Urban Institute Education Data API)",
+    "source_url": "https://educationdata.urban.org/api/v1/college-university/ipeds/directory/2024/?fips=8",
+    "geocode": "source (IPEDS)",
+    "school_type": "Cosmetology/beauty school",
+    "ipeds_sector": "Private for-profit less-than-2-year",
+    "ipeds_unitid": 461810,
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.025463,
+     39.68573
+    ]
+   }
+  }
+ ]
+}

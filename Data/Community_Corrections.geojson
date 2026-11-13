@@ -1,0 +1,716 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Advantage Treatment Centers - Alamosa (San Luis Valley Community Corrections)",
+    "category": "Community Corrections",
+    "address": "2017 Lava Lane",
+    "city": "Alamosa",
+    "zip": "81101",
+    "county": "Alamosa",
+    "phone": "719-589-7500",
+    "source": "Advantage Treatment Centers location page; DCJ 2017 list had SLV Community Corrections at 2255 Lava Lane",
+    "source_url": "https://atreatmentcenters.com/alamosa-co/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "operator": "Advantage Treatment Centers Inc.",
+    "judicial_district": "12th"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.86885,
+     37.450656
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Advantage Treatment Centers - Lamar",
+    "category": "Community Corrections",
+    "address": "800 E Maple Street",
+    "city": "Lamar",
+    "zip": "81052",
+    "county": "Prowers",
+    "phone": "719-336-0650",
+    "source": "Advantage Treatment Centers location page",
+    "source_url": "https://atreatmentcenters.com/lamar-co/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "operator": "Advantage Treatment Centers Inc.",
+    "judicial_district": "15th"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102.628856,
+     38.091938
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Advantage Treatment Centers - Montrose",
+    "category": "Community Corrections",
+    "address": "1230 N Grand Avenue",
+    "city": "Montrose",
+    "zip": "81401",
+    "county": "Montrose",
+    "phone": "970-964-2777",
+    "source": "Advantage Treatment Centers location page (lists community corrections in Montrose, Lamar, Alamosa, Sterling)",
+    "source_url": "https://atreatmentcenters.com/montrose-co/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "operator": "Advantage Treatment Centers Inc.",
+    "judicial_district": "7th"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.890255,
+     38.489174
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Advantage Treatment Centers - Sterling",
+    "category": "Community Corrections",
+    "address": "12220 Highway 61",
+    "city": "Sterling",
+    "zip": "80751",
+    "county": "Logan",
+    "phone": "970-522-7383",
+    "source": "Advantage Treatment Centers location page",
+    "source_url": "https://atreatmentcenters.com/sterling-co/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "operator": "Advantage Treatment Centers Inc.",
+    "judicial_district": "13th"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.159064,
+     40.614382
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Arapahoe County Residential Center (ACRC)",
+    "category": "Community Corrections",
+    "address": "2135 W Chenango Avenue",
+    "city": "Littleton",
+    "zip": "80120",
+    "county": "Arapahoe",
+    "phone": "303-795-6975",
+    "source": "DCJ 2017 program list; Remerg/GEO listing; reentry directory updated 2025-07-21",
+    "source_url": "https://remerg.com/resources/geo-arapahoe-county-residential-center/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "operator": "GEO Group (GEO Reentry) - one directory says CoreCivic; not on CoreCivic's own facility list",
+    "judicial_district": "18th",
+    "status_note": "Operator reported inconsistently; confirm with 18th JD Community Corrections Board."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.01354,
+     39.627835
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Community Alternatives of El Paso County (CAE)",
+    "category": "Community Corrections",
+    "address": "2945 E Las Vegas Street",
+    "city": "Colorado Springs",
+    "zip": "80906",
+    "county": "El Paso",
+    "phone": "719-318-5586",
+    "source": "El Paso County Justice Services Community Corrections page",
+    "source_url": "https://justiceservices.elpasoco.com/community-corrections/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "operator": "GEO Group (GEO Reentry)",
+    "judicial_district": "4th"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.774101,
+     38.782315
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "CoreCivic - Adams Transitional Center (Time to Change)",
+    "category": "Community Corrections",
+    "address": "1450 E 62nd Avenue",
+    "city": "Denver",
+    "zip": "80216",
+    "county": "Adams",
+    "phone": "720-377-0900",
+    "source": "CoreCivic facility page; Adams County Community Corrections page",
+    "source_url": "https://www.corecivic.com/facilities/adams-transitional-center",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "operator": "CoreCivic (private)",
+    "population": "Men, 102 beds",
+    "judicial_district": "17th"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.971007,
+     39.809082
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "CoreCivic - Arapahoe Community Treatment Center",
+    "category": "Community Corrections",
+    "address": "3265 W Girard Avenue",
+    "city": "Englewood",
+    "zip": "80110",
+    "county": "Arapahoe",
+    "phone": "303-761-7685",
+    "source": "CoreCivic facility page",
+    "source_url": "https://www.corecivic.com/facilities/arapahoe-community-treatment-center",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "operator": "CoreCivic (private)",
+    "judicial_district": "18th"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.029135,
+     39.655361
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "CoreCivic - Centennial Community Transition Center",
+    "category": "Community Corrections",
+    "address": "14485 E Fremont Avenue",
+    "city": "Englewood",
+    "zip": "80112",
+    "county": "Arapahoe",
+    "phone": "303-627-0987",
+    "source": "CoreCivic facility page",
+    "source_url": "https://www.corecivic.com/facilities/centennial-community-transition-center",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "operator": "CoreCivic (private)",
+    "judicial_district": "18th"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.822677,
+     39.584908
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "CoreCivic - Commerce Transitional Center",
+    "category": "Community Corrections",
+    "address": "4901 Krameria Street",
+    "city": "Commerce City",
+    "zip": "80022",
+    "county": "Adams",
+    "phone": "720-407-8061",
+    "source": "CoreCivic facility page; Adams County Community Corrections page",
+    "source_url": "https://www.corecivic.com/facilities/commerce-transitional-center",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "operator": "CoreCivic (private)",
+    "population": "Men, 136 beds",
+    "judicial_district": "17th"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.916824,
+     39.785588
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "CoreCivic - Longmont Community Treatment Center",
+    "category": "Community Corrections",
+    "address": "236 Main Street",
+    "city": "Longmont",
+    "zip": "80501",
+    "county": "Boulder",
+    "phone": "303-651-7071",
+    "source": "Boulder County Halfway Houses page; CoreCivic facility page",
+    "source_url": "https://www.corecivic.com/facilities/longmont-community-treatment-center",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "operator": "CoreCivic (private)",
+    "judicial_district": "20th"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.102442,
+     40.162647
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Correctional Alternative Placement Services (CAPS)",
+    "category": "Community Corrections",
+    "address": "445 Ranney Street",
+    "city": "Craig",
+    "zip": "81625",
+    "county": "Moffat",
+    "phone": "970-824-8166",
+    "source": "DCJ 2017 program list; reentry directory listing updated 2025-07-21 (third-party)",
+    "source_url": "https://cdpsdocs.state.co.us/occ/Programs/Updated-ResidentialProgramList-021317.pdf",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "operator": "GEO Group (GEO Reentry)",
+    "judicial_district": "14th",
+    "status_note": "No official 2024-26 source found confirming current operation; confirm with 14th JD Community Corrections Board."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.553006,
+     40.513227
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Embrave - 3950 Residential Facility",
+    "category": "Community Corrections",
+    "address": "3950 N Nevada Avenue",
+    "city": "Colorado Springs",
+    "zip": "80907",
+    "county": "El Paso",
+    "phone": "719-260-8002",
+    "source": "Embrave facilities page",
+    "source_url": "https://embrave.org/facilities",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "operator": "Embrave (formerly ComCor Inc., nonprofit)",
+    "judicial_district": "4th"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.819139,
+     38.890282
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Embrave - Roberts Road Residential Facility",
+    "category": "Community Corrections",
+    "address": "3615 Roberts Road",
+    "city": "Colorado Springs",
+    "zip": "80907",
+    "county": "El Paso",
+    "phone": "719-473-3033",
+    "source": "Embrave facilities page; El Paso County Justice Services Community Corrections page",
+    "source_url": "https://embrave.org/facilities",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "operator": "Embrave (formerly ComCor Inc., nonprofit)",
+    "judicial_district": "4th"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.818064,
+     38.883636
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Garfield County Community Corrections",
+    "category": "Community Corrections",
+    "address": "0244 County Road 333A",
+    "city": "Rifle",
+    "zip": "81650",
+    "county": "Garfield",
+    "phone": "970-625-0334",
+    "source": "Garfield County Criminal Justice Services (2026 residential handbook; PREA report 2025-26)",
+    "source_url": "https://www.garfieldcountyco.gov/criminal-justice",
+    "geocode": "manual",
+    "retrieved": "2026-11-13",
+    "operator": "Garfield County (county)",
+    "population": "Men and women, 60 beds",
+    "judicial_district": "9th"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.716354,
+     39.515912
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Hilltop House",
+    "category": "Community Corrections",
+    "address": "1050 Avenida Del Sol",
+    "city": "Durango",
+    "zip": "81301",
+    "county": "La Plata",
+    "phone": "970-247-1342",
+    "source": "DCJ 2017 program list; ColoradoGives nonprofit profile; Feb 2025 job posting confirms operating",
+    "source_url": "https://www.coloradogives.org/organization/Southwest-Colorado-Community-Corrections-Center",
+    "geocode": "osm-nominatim",
+    "retrieved": "2026-11-13",
+    "operator": "Southwest Colorado Community Corrections Center Inc. (nonprofit)",
+    "judicial_district": "6th"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.885963,
+     37.277529
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "ICCS - Adams County Opportunity Center",
+    "category": "Community Corrections",
+    "address": "8031 I-76 Frontage Road",
+    "city": "Henderson",
+    "zip": "80640",
+    "county": "Adams",
+    "phone": "720-523-7463",
+    "source": "Adams County Community Corrections page; ICCS locations page",
+    "source_url": "https://adamscountyco.gov/our-county/community-safety-wellbeing/community-corrections/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "operator": "Intervention Community Corrections Services (nonprofit)",
+    "population": "Men and women, 184 beds",
+    "judicial_district": "17th"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.928896,
+     39.842112
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "ICCS - Boulder (formerly Boulder Community Treatment Center)",
+    "category": "Community Corrections",
+    "address": "1770 21st Street",
+    "city": "Boulder",
+    "zip": "80302",
+    "county": "Boulder",
+    "phone": "303-449-2539",
+    "source": "Boulder County Community Justice Services - Halfway Houses page",
+    "source_url": "https://bouldercounty.gov/safety/community-justice-services/community-corrections/halfway-houses/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "operator": "Intervention Community Corrections Services (nonprofit)",
+    "judicial_district": "20th"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.267762,
+     40.016931
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "ICCS - Kendall (Intervention Community Corrections Services)",
+    "category": "Community Corrections",
+    "address": "1651 Kendall Street",
+    "city": "Lakewood",
+    "zip": "80214",
+    "county": "Jefferson",
+    "phone": "303-232-4002",
+    "source": "ICCS locations page; Jefferson County Community Corrections page",
+    "source_url": "https://int-cjs.org/locations",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "operator": "Intervention Community Corrections Services (nonprofit)",
+    "judicial_district": "1st"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.066196,
+     39.743367
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "ICCS - Pueblo (Intervention Community Corrections Services)",
+    "category": "Community Corrections",
+    "address": "1901 N Hudson Avenue",
+    "city": "Pueblo",
+    "zip": "81001",
+    "county": "Pueblo",
+    "phone": "719-569-3020",
+    "source": "ICCS locations page",
+    "source_url": "https://int-cjs.org/locations",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "operator": "Intervention Community Corrections Services (nonprofit)",
+    "judicial_district": "10th"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.595914,
+     38.28469
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "ICCS - Weld (Intervention Community Corrections Services)",
+    "category": "Community Corrections",
+    "address": "1101 H Street",
+    "city": "Greeley",
+    "zip": "80631",
+    "county": "Weld",
+    "phone": "970-584-2520",
+    "source": "Weld County Community Corrections page; ICCS locations page",
+    "source_url": "https://weld.gov/government/departments/justice-services/community-corrections",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "operator": "Intervention Community Corrections Services (nonprofit)",
+    "judicial_district": "19th"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.696914,
+     40.444298
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "ICCS - West (Intervention Community Corrections Services)",
+    "category": "Community Corrections",
+    "address": "11500 W Security Avenue",
+    "city": "Lakewood",
+    "zip": "80215",
+    "county": "Jefferson",
+    "phone": "303-407-6200",
+    "source": "ICCS locations page; Jefferson County Community Corrections page",
+    "source_url": "https://int-cjs.org/locations",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "operator": "Intervention Community Corrections Services (nonprofit)",
+    "judicial_district": "1st"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.126995,
+     39.737319
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "IMPACT Center",
+    "category": "Community Corrections",
+    "address": "10500 E Smith Road",
+    "city": "Denver",
+    "zip": "80239",
+    "county": "Denver",
+    "phone": "720-913-3825",
+    "source": "City and County of Denver, Community Corrections Facilities page",
+    "source_url": "https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Department-of-Public-Safety/Community-Corrections/Residential-Programs/Community-Corrections-Facilities",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "operator": "City and County of Denver",
+    "population": "Adult men",
+    "judicial_district": "2nd"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.865724,
+     39.76844
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Independence House - Pecos",
+    "category": "Community Corrections",
+    "address": "4101 Pecos Street",
+    "city": "Denver",
+    "zip": "80211",
+    "county": "Denver",
+    "source": "City and County of Denver, Community Corrections Facilities page",
+    "source_url": "https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Department-of-Public-Safety/Community-Corrections/Residential-Programs/Community-Corrections-Facilities",
+    "geocode": "osm-nominatim",
+    "retrieved": "2026-11-13",
+    "operator": "Independence House Inc. (nonprofit)",
+    "population": "Adult men",
+    "judicial_district": "2nd"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.0068,
+     39.773097
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Larimer County Community Corrections (Residential)",
+    "category": "Community Corrections",
+    "address": "2255 Midpoint Drive",
+    "city": "Fort Collins",
+    "zip": "80525",
+    "county": "Larimer",
+    "phone": "970-498-7530",
+    "source": "Larimer County Community Corrections 2025 Annual Report",
+    "source_url": "https://www.larimer.gov/cja/comcor/annual-report",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "operator": "Larimer County Community Justice Alternatives (county)",
+    "population": "Men and women (434-bed capacity, 2025)",
+    "judicial_district": "8th"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.036349,
+     40.565345
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "MOORE Center (Men Overcoming Obstacles Reentry Center)",
+    "category": "Community Corrections",
+    "address": "570 W 44th Avenue",
+    "city": "Denver",
+    "zip": "80216",
+    "county": "Denver",
+    "phone": "720-913-8243",
+    "source": "City and County of Denver, Community Corrections Facilities page",
+    "source_url": "https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Department-of-Public-Safety/Community-Corrections/Residential-Programs/Community-Corrections-Facilities",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "operator": "City and County of Denver with Second Chance Center",
+    "population": "Adult men",
+    "judicial_district": "2nd"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.994463,
+     39.776552
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Mesa County Community Corrections (Residential Services)",
+    "category": "Community Corrections",
+    "address": "650 South Avenue",
+    "city": "Grand Junction",
+    "zip": "81501",
+    "county": "Mesa",
+    "phone": "970-244-3301",
+    "source": "Mesa County Criminal Justice Services contact page",
+    "source_url": "https://www.mesacounty.us/departments-and-services/criminal-justice-services/contact-information-cjsd",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "operator": "Mesa County Criminal Justice Services (county)",
+    "population": "Men and women",
+    "judicial_district": "21st"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.561637,
+     39.06349
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Project: Elevate",
+    "category": "Community Corrections",
+    "address": "4280 Kearney Street",
+    "city": "Denver",
+    "zip": "80216",
+    "county": "Denver",
+    "phone": "720-337-2240",
+    "source": "City and County of Denver, Community Corrections Facilities page",
+    "source_url": "https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Department-of-Public-Safety/Community-Corrections/Residential-Programs/Community-Corrections-Facilities",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "operator": "City and County of Denver with The Empowerment Program",
+    "population": "Adult women",
+    "judicial_district": "2nd"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.917544,
+     39.776153
+    ]
+   }
+  }
+ ]
+}

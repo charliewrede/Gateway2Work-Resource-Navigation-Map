@@ -1,1 +1,7 @@
 .DS_Store
+
+# Re-downloadable 35 MB national file; the Colorado extract (Data/raw/etpl_CO.csv) is kept.
+# Recreate with: curl -o Data/raw/etpl_DownloadPrograms.xlsx https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx
+Data/raw/etpl_DownloadPrograms.xlsx
+
+__pycache__/

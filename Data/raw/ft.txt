@@ -1,0 +1,498 @@
+ Substance Abuse and Mental Health Services
+                  Administration (SAMHSA)
+
+
+Behavioral Health Services Information System
+                                      (BHSIS)
+
+
+       FindTreatment.gov API Documentation
+
+
+
+
+                               Please direct questions/comments to
+
+                                  FindTreatment@samhsa.hhs.gov
+
+                    Call the BHSIS Project Office at 1-833-888-1553
+                                        (Mon-Fri 8 a.m. - 6 p.m. ET)
+
+
+
+
+                                                     Version 1.12
+                                                  August 17, 2026
+
+                                             FindTreatment.gov API
+                                                   August 17, 2026
+                                         SAMHSA | CBHSQ
+                       Behavioral Health Services Information System (BHSIS)
+
+                                     VERSION HISTORY
+Versions   Date             Pages Affected                      Description                           Authors
+1.0        07/06/2021       Initial Draft                       Initial Draft                         Hendall
+1.1        6/22/2022        2, 3                                Updated sample URLs                   Hendall
+1.2        7/25/2022        iii, 2, 3, 4, 5, 6, 7, 8, 9,        Updated footer date                   Hendall
+                            10
+1.3        8/22/2022        iii, 2, 3, 4, 5, 6, 7, 8, 9,        Updated title, header, footer,        Hendall
+                            10                                  logo
+1.4        9/9/2022         1, 4, 5, 6, 9                       Updated text                          Hendall
+1.5        12/5/2022        Various                             Updated title, header, footer, text   Hendall
+1.6        12/14/2022       Various                             Updated title, header, footer         Hendall
+1.7        1/3/2023         Various                             Updated title, header, footer         Hendall
+1.8        1/4/2023         Various                             Updated title, header, footer         Hendall
+1.9        1/15/2025        Various                             Updated footer date, created          Hendall
+                                                                links to FindTreatment-County-
+                                                                ID-Table.xlsx
+1.10       1/30/2025        4                                   Updated text                          Hendall
+1.11       5/26/2026        4                                   Updated text                          Hendall
+1.12       8/17/2026        Various                             Updated text                          Hendall
+
+
+
+
+                                                           ii                                    FindTreatment.gov API
+                                                                                                       August 17, 2026
+                                                   SAMHSA | CBHSQ
+                                 Behavioral Health Services Information System (BHSIS)
+
+                                                 TABLE OF CONTENTS
+
+VERSION HISTORY ..................................................................................................................................... ii
+TABLE OF CONTENTS ...............................................................................................................................iii
+LIST OF TABLES .........................................................................................................................................iii
+1.0       INTRODUCTION ............................................................................................................................... 1
+   1.1        PURPOSE ........................................................................................................................................ 1
+2.0       RESOURCE 1: SAMPLE URLS ....................................................................................................... 2
+APPENDIX A. DESCRIPTION OF JSON PARAMETERS .......................................................................... 3
+APPENDIX B. STATE ID TABLE ................................................................................................................. 6
+APPENDIX C. SAMPLE RESPONSE DATA ............................................................................................... 7
+
+
+
+
+                                                         LIST OF TABLES
+TABLE 1. EXAMPLE JSON QUERIES AND DESCRIPTION..................................................................................... 2
+TABLE 2. DESCRIPTION OF JSON PARAMETERS ............................................................................................... 3
+TABLE 3. STATE ID TABLE ............................................................................................................................... 6
+TABLE 4. SAMPLE RESPONSE DATA ................................................................................................................. 7
+
+
+
+
+                                                                              iii                                         FindTreatment.gov API
+                                                                                                                                August 17, 2026
+                                      SAMHSA | CBHSQ
+                    Behavioral Health Services Information System (BHSIS)
+
+1.0      INTRODUCTION
+The Substance Abuse and Mental Health Services Administration (SAMHSA) is the agency
+within the U.S. Department of Health and Human Services that leads public health efforts to
+advance the behavioral health of the nation. SAMHSA's mission is to reduce the impact of
+substance use and mental illness on America's communities.
+
+1.1      PURPOSE
+The purpose of this document is to provide instructions to the approved user on how to use
+FindTreatment.gov API.
+
+
+
+
+                                               1                          FindTreatment.gov API
+                                                                                August 17, 2026
+                                          SAMHSA | CBHSQ
+                        Behavioral Health Services Information System (BHSIS)
+
+2.0       RESOURCE 1: SAMPLE URLS
+Below is a sample URL:
+
+       URL: https://{host}/locator/exportsAsJson/v2[?querystring]
+
+Additionally, below is a table of sample URL searches and a description of each URL.
+
+                                Table 1. Example JSON Queries and Description
+ No.   Ex. JSON Query String                                           Description
+ 1     https://findtreatment.gov/locator/exportsAsJson/                Searches the first page of facilities in
+       v2?sAddr=%2239.141375,-                                         the state of Maryland with a starting
+       77.203552%22&limitType=0&limitValue=18                          address of (latitude, longitude)
+                                                                       “39.141375,-77.203552.”
+ 2     https://findtreatment.gov/locator/exportsAsJson/                Searches the first page of facilities in
+       v2?sAddr=%2739.141375,-                                         Montgomery County, Maryland, with
+       77.203552%27&limitType=1&limitValue=1119                        a starting address of (latitude,
+                                                                       longitude) “39.141375,-77.203552.”
+ 3     https://findtreatment.gov/locator/exportsAsJson/                Searches the first page of facilities
+       v2?sAddr=%2739.141375,-                                         within a distance of 20,000 meters
+       77.203552%27&limitType=2&limitValue=20000                       (12.43 miles) from the starting address
+                                                                       of (latitude, longitude) “39.141375,-
+                                                                       77.203552.”
+ 4     https://findtreatment.gov/locator/exportsAsJson/                Searches the first page of facilities in
+       v2?sAddr=%2739.141375,-77.203552%27&                            Montgomery County, Maryland, with
+       limitType=1&limitValue=1119&filterFPhone=240                    a starting address of (latitude,
+                                                                       longitude) “39.141375,-77.203552”
+                                                                       and phone number containing “240.”
+ 5     https://findtreatment.gov/locator/exportsAsJson/                Searches the first page of facilities
+       v2?sCodes=OTP,BU,NU,DM&                                         within a distance of 8,0467 meters (50
+       sAddr=39.0839994,-77.15278130000002&                            miles) from the starting address of
+       limitType=2&limitValue=80467.2&                                 (latitude, longitude) “39.0839994,-
+       pageSize=100&page=1&sort=0                                      77.15278130000002” with services
+                                                                       OTP (SAMHSA-certified opioid
+                                                                       treatment program), BU
+                                                                       (buprenorphine used in treatment),
+                                                                       NU (naltrexone used in treatment),
+                                                                       and DM (methadone detoxification).
+ 6     https://findtreatment.gov/locator/exportsAsJson/                Searches the first page of facilities
+       v2?sCodes=OTP,BU,NU,DM&                                         within a distance of 8,0467 meters (50
+       sAddr=39.0839994,-77.15278130000002&                            miles) from the starting address
+       limitType=2&limitValue=80467.2&                                 (latitude, longitude) “39.0839994,-
+       pageSize=100&page=1&sort=0                                      77.15278130000002” with services
+                                                                       OTP (SAMHSA-certified opioid
+                                                                       treatment program), BU
+                                                                       (buprenorphine used in treatment),
+                                                                       NU (Naltrexone used in Treatment),
+                                                                       DM (methadone detoxification).
+Response content type: JSON
+
+
+                                                          2                          FindTreatment.gov API
+                                                                                           August 17, 2026
+                                         SAMHSA | CBHSQ
+                       Behavioral Health Services Information System (BHSIS)
+
+  APPENDIX A. DESCRIPTION OF JSON PARAMETERS
+                                    Table 2. Description of JSON Parameters
+ Parameter             Value format                           Example value                Description
+
+sAddr        "{lng},{lat}" or '{lng},{lat}'        "-77.2190821,38.9224746"       Specifies starting location
+             where                                                                from which to conduct a
+             -{lng} is a placeholder for the       '-77.2190821,38.9224746'       geography-based search.
+             longitude coordinate as decimal                                      Options for such a search are
+             number. A positive number             Each of the above example      state, county, and distance.
+             indicates a position east of the      values means 77.2190821
+             Greenwich Prime Meridian, but a       degrees longitude west and
+             negative value indicates a position   38.9224746 degrees latitude
+             to its west.                          north.
+             -{lat}is a placeholder for the
+             latitude coordinate as decimal
+             number. A positive number
+             indicate a position north of the
+             equator, while a negative value
+             indicates a position south of the
+             equator.
+
+             The value is enclosed within a pair
+             of double quotes or within a pair
+             of single quotes. Coordinates are
+             separated by a comma.
+limitType    One of the following values: {0, 1,   0 (denotes state search)       Specifies the type of
+             2}                                                                   geography-based search. Use
+                                                   1 (denotes county search)      0 for state-based search, 1 for
+                                                                                  county-based search, or 2 for
+                                                   2 (denotes distance search)    distance-based search.
+                                                                                  Context is based on sAddr
+                                                                                  parameter.
+limitValue   Numeric string                        10 (example state ID)          Value's meaning is associated
+                                                   Refer to the state ID table,   with limitType parameter. If
+                                                   which is different from the    limitType parameter is 0 for
+                                                   FIPS code in the appendix.     state-based search, then
+                                                                                  limitValue parameter is
+                                                   1119 (example county ID)       interpreted as state ID in the
+                                                   Refer to county ID in the      table. If limitType parameter
+                                                   attached Excel file.           is 1 for county-based search,
+                                                                                  then limitValue parameter is
+                                                                                  interpreted as county ID in
+                                                   160934.4 (example distance
+                                                                                  the Excel attached file. If
+                                                   in meters)
+                                                                                  limitType parameter is 2 for
+                                                                                  distance-based search, then
+                                                                                  limitValue parameter is
+                                                                                  interpreted as distance in
+                                                                                  meters.
+sType        One of the values in the following    sa                             Specifies the service type to
+             set: {sa,mh,both}                     "sa"                           search on. If sType parameter
+                                                   'sa'                           is sa, then search is limited to
+             Enclosing the value within a pair                                    substance use facilities. If
+
+                                                          3                           FindTreatment.gov API
+                                                                                            August 17, 2026
+                                              SAMHSA | CBHSQ
+                            Behavioral Health Services Information System (BHSIS)
+
+ Parameter                 Value format                          Example value                      Description
+                 of single quotes or within a pair of   All the above example values       sType parameter is mh, then
+                 double quotes is optional.             are interpreted as having          search is limited to mental
+                                                        same meaning.                      health facilities. If sType
+                 The service does not differentiate                                        parameter is both, then search
+                 letter case, i.e., it is case                                             encompasses both substance
+                 insensitive. Upper case, lower                                            use facilities and mental
+                 case, or mixed case letters are                                           health facilities.
+                 allowed.                                                                  If the sType is not specified,
+                                                                                           it searches for sa, mh, and
+                                                                                           otp.
+sCodes           Comma separated string of              sCodes=SA,OP,HIT                   Specifies the service codes of
+                 abbreviated service codes:                                                the services that are provided
+                 sCodes=xx,xx,xx                                                           by the facility.
+                                                        List facilities that provide all
+                                                        of the following services:
+                                                        “substance use treatment”,         The service codes can be
+                                                        “outpatient”, and “hospital        downloaded via
+                                                        inpatient treatment”.              findtreatment.gov
+stateCode        stateCode=xx                           stateCode=MD                       Specifies the state code for
+                                                                                           the facility, the using state
+                                                                                           abbreviation.
+                                                                                           This parameter can be in
+                                                                                           combination with
+                                                                                           limitType=2 to search for
+                                                                                           facilities in a state within a
+                                                                                           given radius distance.
+sort             Numeric string (integer value)         0 (default): sort by nearest       Specifies index of attribute
+                                                        distance                           by which sorting should be
+                                                        1: reverse of default              applied. Attribute indices
+                                                                                           start at 1. The attributes are
+                                                        2: sort by name1
+                                                                                           those of each JSON object in
+                                                        3: sort by name2                   results.
+filterFName      Arbitrary string                       John Doe Rehab Center              Specifies search string to use
+                                                                                           for filtering, such that results
+                                                                                           are limited to only facilities
+                                                                                           with a name that contains the
+                                                                                           search string. Matching
+                                                                                           facilities will have a name
+                                                                                           that exactly matches the
+                                                                                           search string or that includes
+                                                                                           the search string within the
+                                                                                           name.
+filterFAddress   Arbitrary string                       123 Main Street                    Specifies the search string to
+                                                                                           use for filtering, such that
+                                                                                           results contain only facilities
+                                                                                           with an address (line 1 only)
+                                                                                           that contains the search
+                                                                                           string. Matching facilities
+                                                                                           will have an address that
+                                                                                           exactly matches the search
+                                                                                           string or that includes the
+
+                                                             4                                 FindTreatment.gov API
+                                                                                                     August 17, 2026
+                                           SAMHSA | CBHSQ
+                         Behavioral Health Services Information System (BHSIS)
+
+ Parameter               Value format                    Example value            Description
+                                                                         search string within the line 1
+                                                                         part of the address.
+filterFPhone   Arbitrary string                 123-4567                 Specifies the search string to
+                                                                         use for filtering, such that
+                                                                         results contain only facilities
+                                                                         with a phone number that
+                                                                         contains the search string.
+                                                                         Matching facilities will have
+                                                                         a phone number that exactly
+                                                                         matches the search string, or
+                                                                         that includes the search string
+                                                                         within the phone number.
+page           Numeric string (integer value)   Default: 1               Specifies which page of
+                                                2                        results to return from
+                                                                         paginated complete results.
+                                                                         Page indexing starts at 1.
+pageSize       Numeric string (integer value)   Default: 30              Specifies number of results to
+                                                20                       include per page for
+                                                                         paginated results. Maximum
+                                                                         limit for pageSize is 2000.
+cut            Fixed string: NIAAA              cut=NIAAA                This parameter will override
+                                                                         sType; it includes only
+                                                                         "substance use" programs and
+                                                                         excludes the two services
+                                                                         listed under the exclusive
+                                                                         services category ("DU",
+                                                                         "DUO").
+
+
+
+
+                                                     5                       FindTreatment.gov API
+                                                                                   August 17, 2026
+                                          SAMHSA | CBHSQ
+                        Behavioral Health Services Information System (BHSIS)
+
+APPENDIX B. STATE ID TABLE
+                                          Table 3. State ID Table
+     State Name                      ID                      State Name              ID
+      Alabama                        19                        Montana                4
+       Alaska                        20                        Nebraska              41
+       Arizona                       21                        Nevada                12
+      Arkansas                       22                    New Hampshire             42
+      California                     23                      New Jersey              13
+      Colorado                       24                      New Mexico              43
+     Connecticut                     25                       New York                5
+      Delaware                       26                     North Carolina            6
+ District of Columbia                27                     North Dakota             44
+       Florida                       28                             Ohio              7
+       Georgia                       29                       Oklahoma               45
+       Hawaii                        30                        Oregon                46
+        Idaho                        31                      Pennsylvania             8
+       Illinois                      32                      Rhode Island             9
+       Indiana                       33                     South Carolina           47
+        Iowa                         34                     South Dakota             48
+       Kansas                        35                       Tennessee              10
+      Kentucky                       36                         Texas                11
+      Louisiana                      37                             Utah             14
+       Maine                          1                        Vermont               49
+      Maryland                       18                        Virginia              50
+    Massachusetts                     3                      Washington              15
+      Michigan                        2                     West Virginia            51
+     Minnesota                       38                       Wisconsin              16
+     Mississippi                     39                       Wyoming                52
+      Missouri                       40
+
+
+
+
+                                                    6                        FindTreatment.gov API
+                                                                                   August 17, 2026
+                                   SAMHSA | CBHSQ
+                 Behavioral Health Services Information System (BHSIS)
+
+APPENDIX C. SAMPLE RESPONSE DATA
+                              Table 4. Sample Response Data
+{
+    "page": 2,
+    "totalPages": 2,
+    "recordCount": 31,
+    "rows": [
+    {
+      "_irow": 1,
+      "name1": "Garrett County Lighthouse",
+      "name2": "Safe Harbor",
+      "street1": "18 East Oak Street",
+      "city": "Oakland",
+      "street2": null,
+      "state": "MD",
+      "zip": "21550",
+      "phone": "301-334-1642",
+      "type_facility": "MH",
+      "intake1": null,
+      "hotline1": null,
+      "website": null,
+      "latitude": "39.408097",
+      "longitude": "-79.410406",
+      "miles": 0.2,
+      "services": [
+        {
+          "f1": "Age Groups Accepted",
+          "f2": "AGE",
+          "f3": "Young adults; Adults"
+        },
+        {
+          "f1": "Type of Care",
+          "f2": "TC",
+          "f3": "Mental health treatment services"
+        },
+        {
+          "f1": "Service Setting (e.g., Outpatient, Residential, etc.)",
+          "f2": "SET",
+          "f3": "Residential; Residential treatment center (RTC) for adults"
+        },
+        {
+          "f1": "Emergency Mental Health Services",
+          "f2": "EMS",
+          "f3": "Crisis intervention team"
+        },
+        {
+          "f1": "Payment\/Insurance Accepted",
+          "f2": "PAY",
+          "f3": "Medicaid"
+        },
+        {
+          "f1": "Facility Operation (e.g. Private, Public)",
+          "f2": "FOP",
+          "f3": "Private (for-profit\/non-profit) organization"
+        },
+
+                                           7                        FindTreatment.gov API
+                                                                          August 17, 2026
+                                 SAMHSA | CBHSQ
+               Behavioral Health Services Information System (BHSIS)
+
+     {
+        "f1": "Special Programs\/Groups Offered",
+        "f2": "SG",
+        "f3": "Persons with co-occurring mental and substance use disorders;
+Adults with serious mental illness (SMI)"
+      }
+    ]
+  },
+  {
+    "_irow": 2,
+    "name1": "Garrett County Health Department",
+    "name2": "Subst Abuse Prog\/Behav Health Unit",
+    "street1": "1025 Memorial Drive",
+    "city": "Oakland",
+    "street2": null,
+    "state": "MD",
+    "zip": "21550",
+    "phone": "(301) 334-7670",
+    "type_facility": "SA",
+    "intake1": "(301) 334-7670",
+    "hotline1": null,
+    "website": "www.garretthealth.org",
+    "latitude": "39.4160313227139",
+    "longitude": "-79.3916463837487",
+    "miles": 1,
+    "services": [
+      {
+        "f1": "Payment\/Insurance Accepted",
+        "f2": "PAY",
+        "f3": "Cash or self-payment; Medicaid; Medicare; State financed
+health insurance plan other than Medicaid; Private health insurance; Access
+to Recovery (ATR) voucher"
+      },
+      {
+        "f1": "Language Services",
+        "f2": "SL",
+        "f3": "Services for the hearing-impaired"
+      },
+      {
+        "f1": "Service Setting (e.g., Outpatient, Residential, etc.)",
+        "f2": "SET",
+        "f3": "Outpatient; Intensive Outpatient treatment; Regular
+Outpatient treatment; Computerized treatment"
+      },
+      {
+        "f1": "Type of Care",
+        "f2": "TC",
+        "f3": "Substance treatment services"
+      },
+      {
+        "f1": "Special Programs\/Groups Offered",
+        "f2": "SG",
+        "f3": "Clients referred from the court\/judicial system (other than
+DUI\/DWI); Adolescents; Adult women; Adult men"
+      },
+      {
+        "f1": "Age Groups Accepted",
+
+                                        8                         FindTreatment.gov API
+                                                                        August 17, 2026
+                                     SAMHSA | CBHSQ
+                   Behavioral Health Services Information System (BHSIS)
+
+            "f2": "AGE",
+            "f3": "Children\/adolescents; Young adults; Adults"
+          },
+          {
+            "f1": "Payment Assistance Available",
+            "f2": "PYAS",
+            "f3": "Sliding fee scale (fee is based on income and other factors)"
+          }
+      ]
+  }
+ ]
+}
+
+
+
+
+                                            9                         FindTreatment.gov API
+                                                                            August 17, 2026
+

@@ -1,0 +1,1156 @@
+FEBRUARY 2024
+State Opioid Response Grant: 2022 – 2023
+Annual Report
+Individual Placement and Support (IPS) Program
+                                              Prepared by
+
+
+
+
+                                   www.the-evaluation-center.org
+                                TheEvaluationCenter@ucdenver.edu
+
+
+
+
+                                              Prepared for
+
+
+
+
+The project described in the following pages is supported by the Colorado Behavioral Health
+Administration. Its contents are solely the responsibility of the authors and do not necessarily represent
+the official views of the Colorado Behavioral Health Administration.
+
+
+
+Suggested Citation:
+
+The Evaluation Center, University of Colorado Denver (2023). State Opioid Response Grant: Mobile
+Health Units Delivering Medication for Opioid Use Disorder Year Five Evaluation Report. Technical report
+submitted to the Colorado Behavioral Health Administration.
+Contents
+
+Highlights ....................................................................................................................... 2
+  Reach .......................................................................................................................................... 2
+
+  Effectiveness .............................................................................................................................. 2
+
+  Adoption ..................................................................................................................................... 2
+
+  Implementation ........................................................................................................................ 2
+
+  Maintenance .............................................................................................................................. 2
+
+Background .................................................................................................................... 3
+  Program Characteristics........................................................................................................... 3
+
+  Evaluation Focus ....................................................................................................................... 4
+
+Key Findings ................................................................................................................... 6
+  Reach .......................................................................................................................................... 6
+
+  Effectiveness .............................................................................................................................. 9
+
+  Adoption ................................................................................................................................... 17
+
+  Implementation ...................................................................................................................... 18
+
+  Maintenance ............................................................................................................................ 20
+
+Conclusion.................................................................................................................... 22
+
+Recommendations ...................................................................................................... 23
+
+Appendices ................................................................................................................... 24
+  Appendix A: Methods .............................................................................................................. 24
+
+
+
+
+                                                                                         IPS Program, Year 5 Evaluation Report                    1
+HIGHLIGHTS
+
+
+REACH
+
+  •   Total monthly caseloads supported 1,118 clients.
+
+  •   Clients found jobs in food service and retail most often.
+
+
+EFFECTIVENESS
+
+  •   All clients surveyed were satisfied with the Individual Placement and Support (IPS) services they
+      received.
+
+  •   Clients reported that employment had a positive impact on their lives.
+
+  •   The four IPS programs reported a total of 101 job placements in Year 5.
+
+  •   The average number of months from entering IPS to clients’ first job start was three months
+      across the four IPS sites.
+
+
+
+ADOPTION
+
+  •   IPS programs worked closely with clinicians and were an integral part of their facility’s teams.
+
+
+
+IMPLEMENTATION
+
+  •   Division of Vocational Rehabilitation (DVR) provides financial support for IPS clients, such as
+      purchasing clothing and supplies needed for a job, providing bus passes, and paying for
+      certifications and training. However, some clients experience long waits times for DVR services.
+
+  •   IPS staff would benefit from additional job development training, specifically for SUD clients.
+
+
+
+MAINTENANCE
+
+  •   Two of the four IPS programs have systems for invoicing and billing DVR and Medicaid for IPS
+      services.
+
+
+
+
+                                                                  IPS Program, Year 5 Evaluation Report   2
+BACKGROUND
+
+In 2018, the Colorado Department of Human Services (CDHS), Office of Behavioral Health (OBH)
+received funding from the Substance Abuse and Mental Health Services Administration (SAMHSA)
+through the State Targeted Response grant to address Colorado’s opioid crisis. The Colorado Behavioral
+Health Administration (BHA), housed within CDHS, is administering funding for the statewide activities
+that support the prevention, treatment, recovery, and harm reduction activities in Colorado. One of the
+multiple efforts, initiatives, and programs the BHA implemented under the State Opioid Response (SOR)
+grant is the Individual Placement and Support (IPS) program. It is a model of supported employment,
+helping individuals to find work of their choosing. IPS is an evidence-based practice originally developed
+to serve individuals in mental health settings. However, the SOR grant extends the opportunity to
+individuals with opioid use disorder and substance use disorder (OUD, SUD), given that employment
+and a sense of purpose are important elements of recovery.
+
+In Year 5, four IPS programs supported by the SOR grant were operating and embedded in treatment
+facilities in Fort Collins, Littleton, Longmont, and Pueblo. The IPS program in Denver has not served
+clients since October 2022. This annual report presents the evaluation findings of the IPS program
+activities during Year 5 of SOR funding (October 1, 2022 through September 30, 2023).
+
+PROGRAM CHARACTERISTICS
+
+Employment Specialists work with clients to identify their interests and skill sets, help with resume
+building and interviewing skills, and facilitate clients’ online job searches and applications. They develop
+relationships with employers and work closely with clients to place them in jobs of their choice. Often,
+Employment Specialists continue to support clients after they are employed. Employment Specialists
+may contact clients to check-in about a job, provide encouragement and coaching, or meet with a client
+and their employer to facilitate any questions or challenges.
+
+Employment Specialists report to an IPS supervisor who provides guidance and mentoring, as needed.
+Some IPS supervisors carry a partial caseload as well. IPS staff and clinicians communicate frequently
+about the needs of IPS clients, given that the programs are housed in treatment facilities. Variations in
+services across the four sites are shown in Exhibit 1. Two programs bill their local Division of Vocational
+Rehabilitation (DVR) office or Medicaid for IPS services; they also provide mental health treatment under
+a separate funding stream.
+
+
+
+
+                                                                  IPS Program, Year 5 Evaluation Report       3
+Exhibit 1. IPS Program Characteristics
+
+ LOCATION                 FACILITY                 IPS         IPS      UTILIZES    INVOICES        BILLS
+                                                 SERVES      SERVES       PEERS        DVR        MEDICAID
+                                                   SUD      MENTAL
+                                                 CLIENTS     HEALTH
+                                                             CLIENTS
+
+  Ft Collins                                        X           X                        X              X
+
+
+
+  Littleton                                         X           X           X            X              X
+
+
+
+ Longmont                                           X
+
+
+
+
+   Pueblo                                           X                       X
+
+
+
+
+EVALUATION FOCUS
+
+The purpose of the IPS evaluation is to assess program implementation, measure client satisfaction and
+impact of services, and document programmatic characteristics, effective supports, and successes and
+challenges. The IPS evaluation focuses on measuring indicators related to the five elements of the RE-
+AIM (Reach, Effectiveness, Adoption, Implementation, Maintenance) model, a framework commonly
+used in public health settings. The evaluation questions were based on the indicators below and on the
+eight IPS principles.
+
+INDICATORS
+
+    •   Reach: Caseloads; Client Demographics; Placement Industries
+    •   Effectiveness: Client Satisfaction; Benefits of Participation; Client Impacts and Challenges; Job
+        Starts
+    •   Adoption: Referrals; Integration; Working with Peers and Community Partners
+    •   Implementation: Supportive Factors; Successes; Challenges; Employer Locations
+    •   Maintenance: Billing and Invoice; Job Development
+
+
+
+
+                                                                IPS Program, Year 5 Evaluation Report       4
+IPS Eight Principles
+
+  1.   Open to anyone who wants to work
+  2.   Focus on competitive employment
+  3.   Rapid job search
+  4.   Targeted job development
+  5.   Client preferences guide decisions
+  6.   Individualized long-term supports
+  7.   Integrated with treatment
+  8.   Benefits counseling
+
+
+
+YEAR 5 DATA COLLECTION
+
+In Year 5, IPS supervisors submitted an online monthly report regarding information about caseloads,
+new clients, new client demographics, referrals to DVR, job starts, referral sources, employer industries,
+successes, challenges and IPS staff feedback. IPS supervisors also completed an end-of-year form to
+document program characteristics. Evaluators conducted interviews with IPS supervisors, employment
+specialists, and peer navigators to explore program implementation, work with clinicians, community
+partnerships, and successes and challenges. Evaluators and BHA facilitated quarterly conversations with
+IPS staff for the purpose of developing collaborative relationships among IPS staff who provided
+services to clients experiencing SUD. These sessions were an opportunity to share experiences,
+strategies, and successes and challenges; exchange information about the program evaluation and
+accompanying data collection; and answer questions about the fidelity index and reviews. Additionally,
+IPS staff were asked to track employers and the locations where IPS clients were placed. For additional
+information about data collection and methods, please see Appendix A.
+
+
+
+
+                                                                IPS Program, Year 5 Evaluation Report     5
+KEY FINDINGS
+
+REACH
+
+CASELOAD AND NEW CLIENTS
+
+The cumulative caseload and number of new clients for Year 5 are shown in Exhibit 2. Programs report
+monthly caseloads, which are not a reflection of unique clients - rather, it was the number of total clients
+served each month. SummitStone Health in Fort Collins had the highest number of new clients (51) in
+Year 5, although Pueblo Crossroads showed the largest intake of new clients at 20% of its caseload.
+
+Exhibit 2. Total Caseload and New Clients
+
+
+400        356
+
+300                           279                     275
+                                                                         208
+200
+
+100              51                                          47                 41
+                                     21
+  0
+           Fort Collins   Littleton (AllHealth     Longmont (BHG)    Pueblo (Crossroads)
+         (SummitStone           Network)
+             Health)
+                          Caseload Total         New Clients Total
+
+
+Exhibit 3 shows quarterly caseloads reported by each facility.
+
+
+
+
+                                                                     IPS Program, Year 5 Evaluation Report   6
+Exhibit 3. Total Caseload by Quarter
+
+
+ 120
+                                      102
+ 100             94                                                                        95   Littleton (AllHealth Network)
+                                         86
+                 79                                             79                         81   Fort Collins (SummitStone Health)
+  80
+            74                                                       72
+  60              66                                            63                     51 Pueblo (Crossroads)
+                                         46
+                                                                38                              Longmont (BHG)
+  40                                     45                                             47
+
+  20
+
+     0
+                 Q1                      Q2                     Q3                     Q4
+                                                                                                Fort Collins (SummitStone Health)
+                                                                                                Littleton (AllHealth Network)
+                                                                                                Longmont (BHG)
+                                                                                                Pueblo (Crossroads)
+
+Caseloads were variable within and across sites, with the greatest variability in Littleton from 46 clients
+on its combined caseload in quarter 2 (January through March 2024) to slightly more than double (95
+clients) in quarter 4 (July through September 2024).
+
+Exhibit 4. New Clients by Quarter by Site
+
+20
+           19
+                                    17                     17
+
+15
+           13                        12                                                13
+                                                           11
+           11
+10                                  11
+                                                           10
+                                                                                       7
+                                     7
+ 5
+                                                           5                           4
+            2
+                                                                                       1
+ 0
+             Q1                     Q2                     Q3                     Q4
+
+                       Fort Collins (SummitStone Health)             Littleton (AllHealth Network)
+
+                       Longmont (BHG)                                Pueblo (Crossroads)
+
+
+The number of new clients varied considerably by quarter and across sites.
+
+
+
+
+                                                                            IPS Program, Year 5 Evaluation Report               7
+NEW CLIENT DEMOGRAPHICS
+
+IPS staff were encouraged to collect race/ethnicity data for all new clients; the data presented may not
+provide an accurate picture of the race and ethnicity of the IPS client population given the extent of
+“unknown” data. Of the reported data, the great majority (95%) were reported as White and not
+Hispanic/Latinx. A higher percentage of new clients were female.
+
+Exhibit 5. Race
+
+                                                              2%
+                                                         3%         1%
+
+    American Indian/Alaskan Native
+    (3%)
+
+    Asian American or Pacific Islander
+    (2%)
+
+    Black/African American (1%)
+
+
+    White (95%)
+
+
+                                                     95%
+
+
+
+
+Exhibit 6. Ethnicity
+
+                                                                    Not            Unknown
+                                                       Hispanic     Hispanic       Ethnicity
+ Fort Collins (SummitStone Health) (n=50)                   16%             78%                    6%
+ Littleton (AllHealth Network) (n=21)                         5%            86%                   10%
+ Longmont (Behavioral Health Group/BHG) (n=46)              11%             87%                    2%
+ Pueblo (Crossroads) (n=41)                                   7%            17%                   76%
+ TOTAL (n=158)                                              11%             66%                   23%
+
+
+Exhibit 7. Gender
+
+                                                                   Transgender     Transgender Non-        Unknown
+                                               Female    Male      Female          Male        Binary      Gender
+ Fort Collins (SummitStone Health) (n=50)      48%       52%       0%              0%              0%      0%
+ Littleton (AllHealth Network) (n=21)          67%       33%       0%              0%              0%      0%
+ Longmont (Behavioral Health
+   Group/BHG) (n=46)                           52%       48%       0%              0%              0%      0%
+ Pueblo (Crossroads) (n=41)                    56%       27%       0%              0%              0%      17%
+ TOTAL (n=158)                                 54%       42%       0%              0%              0%      4%
+
+
+
+
+                                                                   IPS Program, Year 5 Evaluation Report   8
+INDUSTRIES
+
+IPS clients found jobs in a wide range of industries, extending the reach of IPS placements throughout
+communities. IPS clients found jobs in the food service industry most often, followed by healthcare and
+retail. Industries reporting only one job start are not pictured in Exhibit 8.
+
+Exhibit 8. Industries where IPS Clients Found Jobs
+
+   30
+          25
+
+
+   20
+                    15
+                         13
+
+   10
+                               6     5    5        4   4       4     3     2     2    2     2
+      0
+
+
+
+
+EFFECTIVENESS
+
+JOB STARTS
+
+The number of job placements that clients and Employment Specialists achieved is a central measure of
+program effectiveness. In the monthly report, IPS programs reported somewhat fewer job starts in Year
+5 than in the previous year (101, 121 respectively). Littleton followed by Fort Collins placed the highest
+number of clients in jobs.
+
+Exhibit 9. Job Starts by IPS Site
+
+ 40
+               34
+ 30                           31
+
+ 20                                           20
+                                                               16
+ 10
+
+  0
+           Littleton       Fort Collins   Longmont            Pueblo
+          (AllHealth     (SummitStone       (BHG)          (Crossroads)
+          Network)           Health)
+
+
+
+                                                                      IPS Program, Year 5 Evaluation Report   9
+Exhibit 10 shows the number of job starts, which varied significantly across IPS sites, and for some
+programs, by quarter. The number of job starts varied from 2 during the first a quarter for one site up to
+14 for a different site in quarter 4. IPS programs experienced much less staff turnover in Year 5 than in
+previous years, and, therefore, this factor is likely not a significant reason for variability in caseloads and
+job starts. However, IPS staff reported they struggled with engagement and placements in the summer
+months.
+
+Exhibit 10. Job Starts by Quarter by Site
+
+16
+                                                                               14 Littleton (AllHealth Network)
+
+12                                 11
+                10
+
+
+ 8          8                      9
+                                                        7
+                                   7
+                                                            6
+            5                                                                  5
+ 4                                                      5                            Fort Collins (SummitStone Health)
+                                   4                                           3
+            2                                           3                      2     Pueblo (Crossroads)
+                                                                                     Littleton (AllHealth Network)
+ 0
+                Q1                Q2                    Q3                   Q4
+
+                       Fort Collins (SummitStone Health)         Littleton (AllHealth Network)
+                       Longmont (BHG)                            Pueblo (Crossroads)
+
+Unlike other employment programs that include lengthy pre-employment assessments and training,
+rapid job search is one of the eight principles of IPS and is thus emphasized in the model. Exhibit 12
+shows the number of months from starting in IPS to a clients’ first job start. Some clients have multiple
+job starts while participating in IPS. Therefore, timing is reported for first job starts only. The average
+number of months from entering IPS to clients’ first job start was three months across the four IPS sites.
+
+Exhibit 11. Number of Months to First Job Start
+
+ 8.0
+
+                6.0
+ 6.0
+
+
+ 4.0                                                                       Overall
+                                2.8
+                                                                           average
+                                                  1.7                1.6
+ 2.0
+
+
+ 0.0
+           Littleton         Fort Collins       Pueblo          Longmont (BHG)
+          (AllHealth       (SummitStone      (Crossroads)
+          Network)             Health)
+
+
+
+                                                                     IPS Program, Year 5 Evaluation Report           10
+CLIENT BENEFITS OF PARTICIPATION IN IPS
+
+Client survey questions addressed clients’ employment status, experiences working with their
+Employment Specialist, how the program impacted awareness of their job skills and interests, and
+changes in their level of confidence and ability to successfully search for and find a job. At the end of the
+survey, clients could indicate their interest in participating in an interview and were offered an incentive.
+
+Interviewees (n=8) and survey respondents (n=16) described the benefits of engaging in job-seeking
+activities and supports with their Employment Specialists (see Exhibit 13).
+
+Importance of Employment Specialists
+
+Most interviewees discussed activities and support services they engaged in with their Employment
+Specialist that focused on finding a job or career, such as exploring their unique interests and building
+effective resumes. Clients reported they sustained employment through the support they received in
+navigating challenges they were experiencing on the job. Employment Specialists also helped some
+clients further their education that would enable them to reach their employment goals.
+
+Exhibit 12. Activities and Support Services Provided to Clients by Employment Specialists
+
+ Activity/ Support        Interview Quotes
+
+ Interest exploration     “[My Employment Specialist] would send me job links based on my
+                          preferences. In the process, they would help me narrow down what I wanted
+                          to do, as well as giving me another support pillar within AllHealth to receive
+                          care in a different way specifically regarding career help.”
+
+ Resume building and      “My employment specialist helped me write a good header on my resume
+ tailoring                and helped me write some good cover letters as well when applying for jobs.”
+
+
+ Interview preparation    “[The Evaluation Specialists] helped me to obtain job interview clothes. I
+ and practice             didn't have any clothes for my job interview, so they gave me some clothes
+                          for that. That really helped. They gave me a bus pass. That also helped, so I
+                          was able to get around to where I needed to go.”
+
+ Job searches             “[My Employment Specialist] helped me look through the different positions,
+                          specifically working with animals. I found a job and I got the job.”
+
+ Sustaining               “The resources are amazing. Having a person who can go in with me and talk
+ employment and           to a new boss and advocate for me in a way that I’m not yet able to do myself
+ navigating on the job    is very helpful for me. It’s been helpful learning what my rights are as an
+ challenges               employee and the things that I can realistically expect from any job.”
+
+ Enrolling in further     “[My Employment Specialist] helped me find the current program I'm
+ education                studying in – I’m learning to be a health navigator and older adult research
+                          specialist.”
+
+
+
+                                                                 IPS Program, Year 5 Evaluation Report      11
+All survey respondents “strongly agreed” or “agreed” that the IPS support helped them feel more
+independent and that their Employment Specialist helped them feel more equipped to job search.
+
+Exhibit 13. Interests, Skills, and Finding Employment (n=16)
+
+
+        I feel better equipped to job search and obtain
+                                                                   31%                             69%                     ̅𝑥𝑥=4.69
+           employment because of the support of my…
+
+          The IPS program helped me work toward my
+                                                                     33%                              67%                  ̅𝑥𝑥=4.67
+                     independence. (n=15)
+
+I am more aware of my job interests since participating
+                                                             6%          38%                            56%                ̅𝑥𝑥=4.38
+             in the IPS program. (n=16)
+
+ I am more aware of my job skills since participating in
+                                                             6% 6%         31%                          56%                ̅𝑥𝑥=4.31
+              the IPS program. (n=16)
+
+                                                           0%         20%         40%         60%             80%      100%
+                                                           1 - Not at all agree       2       3        4       5 - Strongly agree
+
+
+Interviewees and survey respondents provided evidence that Employment Specialists developed strong
+relationships with their clients, treating them with respect and empathy. The ways in which Employment
+Specialists engage with their clients remains one of the most positive aspects of the IPS program.
+Interviewees explained that their Employment Specialists treated them with compassion and an
+understanding of their lived experiences and current challenges. Nearly all survey respondents “strongly
+agreed” that their Employment Specialists was someone they could rely on for support.
+
+Exhibit 14. Support from Employment Specialists
+
+
+
+
+  I believe my Employment Specialist is someone I can
+                                                            6%                            94%                              ̅𝑥𝑥=4.94
+                 rely on to support me.
+
+
+
+
+      It was easy to get an initial appointment with my
+                                                            6%6% 13%                              75%                      ̅𝑥𝑥=4.50
+                   Employment Specialist.
+
+
+
+                                                           0%        20%          40%         60%             80%      100%
+
+                                                     1 - Not at all agree         2       3       4         5 - Strongly agree
+
+
+Interviewees reported that Employment Specialists helped them stay motivated and engaged in the
+program through consistent follow-up and showing they cared and were committed to their success.
+“Just being able to talk to [my Employment Specialist] about different frustrations that I’m having, how I
+can work through those things when I am working, how to be professional [makes a difference]. I feel
+like I’m getting the maximum benefit from this service.” Clients described working with their
+Employment Specialists to navigate their involvement in the criminal legal system. “My charges,
+
+
+                                                                           IPS Program, Year 5 Evaluation Report                    12
+unfortunately, look a lot worse than what they are. It makes me depressed, very depressed. Having the
+program and [my Employment Specialists] helps me feel better.”
+
+“[My Employment Specialist] goes above and beyond. [They say] it’s just [their] job, but I feel like [they]
+really go above and beyond sometimes. [They say,] “I care about you. I care about your wellbeing. What
+do we need to put in place so that you’re comfortable working, you’re safe working, and you’re not going
+into a decline because of working?”
+
+CLIENT IMPACTS
+
+At the time of the interviews, three clients reported they were employed and four were unemployed.
+One client did not report their employment status, and one of the unemployed clients was enrolled in
+education and therefore not actively searching for employment. The employed clients talked about the
+positive impact employment had on their lives.
+
+Exhibit 15. Impacts of Employment on Clients
+
+ Impacts                  IPS Clients
+
+ Financial self-          “It gives you some sense of financial independence. Not to say that we don’t
+ sufficiency              need support from other places or other people, like family and government
+                          help, but being able to afford a pack of cigarettes or the McChicken at
+                          McDonald’s with my own dollar, gives me a sense of independence and a
+                          sense of accomplishment.”
+ Increased confidence     “I know that since starting work and stuff my self-value has gone up quite a
+                          bit. My confidence level fluctuates a little bit sometimes, but I’m learning
+                          where I’ve done things wrong or not quite right.”
+ Active in community      “Being employed is super important because it gives you connection to your
+                          community.”
+ Independence             “I never moved out of my home until I was 34. My mother said she was done
+                          with all my antics, and I've never really held a job for more than a few
+                          months. This is the first time in my life where I've had to grow up quickly
+                          because no one else was going to do my work for me.”
+
+
+
+Employment Specialists provided numerous success stories about clients who had persevered and were
+in full recovery and feeling empowered from working. One story is included below.
+
+“I started working with a woman who had a lengthy criminal record. She was on parole and living in
+sober living. I had taken her to three interviews. The first two she didn’t get the job. She was really upset
+about it. Then the third one she got hired and it was a 90-day temporary position. I took her to work the
+first few days, got her going, and then she was able to buy a car. She got off parole a month or two later.
+She always showed up to work. She missed maybe three days but she had doctor’s notes for all of them.
+At the end of the 90 days, they finally hired her on permanently, which was super exciting. She was
+worried about it and now she’s able to start rebuilding her relationships with her kids. She has
+
+
+
+                                                                 IPS Program, Year 5 Evaluation Report        13
+maintained sobriety. She is one of the senior people within her sober living. She is still at the job and she
+was able to get her dentures since she had used meth. I got her set up with DVR because she needed
+some nice shoes and other work clothes. She was one of our successful closures this year with DVR.”
+
+Client Satisfaction
+
+Survey respondents were asked if they were satisfied with their experience in IPS. Most respondents
+were “very satisfied” with the IPS services they received. Clients interviewed echoed this, reporting they
+felt very positive about their Employment Specialist and the job-seeking activities they worked on with
+their Specialist, feeling more confident as a result.
+
+Exhibit 16. Client Satisfaction with IPS Services
+
+
+
+
+Client satisfaction        13%                                          88%
+                                                                                                                    ̅𝑥𝑥=4.88
+
+
+
+                      0%              20%               40%                  60%            80%                 100%
+
+                             1 - Not at all satisfied         2         3           4          5 - Very satisfied
+
+All IPS clients reported that the IPS services they received helped to support their recovery journey.
+
+Exhibit 17. Impact of Services to Support Recovery
+
+
+
+
+     How helpful were the IPS services you received in
+                                                                  13%                    87%
+           supporting your recovery journey?
+
+
+
+
+                                                          0%        20%         40%       60%         80%       100%
+                                                         1 - Not at all helpful    2      3   4         5 - Very helpful
+
+
+
+
+                                                                            IPS Program, Year 5 Evaluation Report          14
+Survey respondents gained confidence in all areas, with the most growth in having the resources to
+obtain employment.
+
+Exhibit 18. Change in Clients’ Confidence
+
+
+                                                                      Before                    Now
+
+
+      I usually handle whatever comes my way.                           2.5                     4.3
+
+
+      I feel I have the resources I need to obtain
+                      employment.                                     2.3                         4.5
+
+
+
+       I feel confident in my ability to find a job.                   2.5                            4.6
+
+
+  I understand what transferrable skills are and
+       how to apply them to my job search.                                  2.6                       4.5
+
+
+        I can stick to my employment goals and
+                     accomplish them.
+                                                                            2.6                        4.6
+
+
+     I can usually solve difficult problems if I try
+                    hard enough.                                                   3.1           4.4
+
+
+                                                       1.0      2.0               3.0     4.0                 5.0
+
+                                                 Not at all                  Moderately                 Completely
+                                                 confident                    confident                     confident
+
+
+
+CHALLENGES IMPACTING CLIENTS
+
+Most clients reported no challenges associated with the IPS program, although two clients reported
+challenges associated with wait times. One reported waiting three or four months to begin receiving
+services and another reported waiting a long time to hear back from their Employment Specialist about
+job opportunities. Rather than challenges with the IPS program, clients talked about their personal
+challenges finding employment.
+
+Nearly all clients reported challenges finding or keeping jobs. Consistent with prior years, clients
+reported their criminal histories were a challenge when securing a job. One participant said, “The
+challenge for me is that I’m a felon, so I already have that against me.” Lack of education, experience,
+and employment history were additional barriers clients faced. One client explained, “I think for me it’s
+
+
+
+                                                                IPS Program, Year 5 Evaluation Report            15
+the lack of experience. I’ve never had a job before, so I didn’t have any job experience on my resume.”
+Another client said, “[The challenge is that] I don't have education past high school, and a lot of the
+opportunities I have been able to find are either too physically demanding or they require a higher
+education level that I don't have.”
+
+One client said that the biggest barrier was not in finding jobs but keeping them. They explained that
+learning to set boundaries in the workplace through IPS has been a crucial step in the process. They
+said, “It’s been very helpful to learn from my employment specialist what reasonable boundaries are so
+that I don’t get overwhelmed or taken advantage of. I tend to go 110% with everything that I do, which
+burns me out quickly. That’s where those boundaries come in.”
+
+Transportation was a constant challenge for IPS clients. Employment Specialists have suggested funding
+transportation vouchers of some kind, such as Uber. However, in some communities, public
+transportation is almost not an option. For example, in Pueblo, buses do not run after 6pm and not at
+all on Sundays. For one IPS program, the evaluators collected employer locations where clients were
+placed in jobs to explore how the placements were aligned with public transportation in the Longmont
+community. The map below illustrates how job placement locations follow the bus routes and stops in
+Longmont, which indicates how useful it could be to provide public transportation vouchers to IPS
+clients.
+
+Exhibit 19. Job Placements Aligned with Public Transportation in Longmont
+
+
+
+
+                                                                IPS Program, Year 5 Evaluation Report     16
+ADOPTION
+
+WORKING WITH CLINICIANS
+
+Integrating IPS employment services in clinical settings is an IPS principle. The goal is for Employment
+Specialists to regularly meet with clinicians to discuss clients’ recovery needs and to receive regular
+referrals to IPS from the clinical team. 85% of referrals to IPS originate from clinicians. Integrated
+services and the consistent communication that comes with that, supported clients’ unique and holistic
+needs, helping both clinicians and Specialists better understand the whole client. Employment
+Specialists reported they felt the IPS program was well integrated and a positive component of their
+agency’s services. IPS staff and clinicians consistently engaged in both formal and informal
+communication through regularly scheduled team meetings and casual communication about clients, as
+needed. “I think we are really good about staffing things with each other and then bringing the clients in
+and all being on the same page as their treatment team.” One Employment Specialist said that, while
+they have a positive rapport with their clinicians, they sometimes feel considered “less than” because
+they are not licensed clinical staff.
+
+WORKING WITH PEERS
+
+Peer programs help to bridge the gap between community services, clinical services, and patients. Peers
+demonstrate how integral lived experience is in providing equitable behavioral health care and a healthy
+support system. Three of the four agencies that house the IPS programs employed peers, although just
+two IPS programs worked with peers.
+
+In addition to the IPS referrals made by clinicians, peer navigators also referred individuals to the IPS
+program. During an interview, one peer who worked with recovery residents at the Crossroads facility,
+reported they talked about and described the IPS program frequently in their work with the residents,
+during street outreach, and at various recovery events. They said, “One of the barriers to recovery is
+employment. Always, that is a conversation that I ask about. ‘Here’s a resource; look them up.’ “
+
+IPS staff who did work with peers reported that peers added valuable support to the program and
+facilitated engagement with clients. Peers worked with clients on their self-confidence and “recovery
+lifestyle,” helping to balance work with other responsibilities. Client engagement was a significant and
+consistent challenge for Employment Specialists. When clients were connected to a peer, the Specialist
+could ask the peer to reach out to help with reengagement. Interviewees reported that working with
+peers was an organizational support that effectively facilitated the delivery of IPS services.
+
+
+
+
+                                                                 IPS Program, Year 5 Evaluation Report      17
+IMPLEMENTATION
+
+SUPPORTIVE FACTORS
+
+Employment Specialists reported that individualizing services to meet the needs of each client, while still
+having a model to follow, was instrumental to the success of the program. “Most everything is driven by
+the clients’ needs and wants.” Another Employment Specialist added that the program’s framework
+provided some structure while serving the unique needs of individual clients. “It’s nice to be able to have
+a framework and practices that I bring to the table when I talk to an employer; you want to be able to
+have some kind of backing for what you’re doing. People don’t want to hear fluff.”
+
+Another staff member reported that the principle of rapid engagement and employment works well.
+“Get them involved, start building that rapport, having a conversation and moving them through and
+having weekly meetings. That’s really important because it shows that I’m committed.” A peer navigator
+commented that ”warm handoffs” are always more successful than simply handing someone a referral.
+Several Employment Specialists commented that the quarterly IPS community meetings have helped
+them feel supported and were a productive forum for sharing experiences and talking through issues.
+Additionally, interviewees reported that some external partnerships supported and added value to the
+IPS programs, such as the partnership with the Department of Vocational Rehabilitation.
+
+Department of Vocational Rehabilitation (DVR)
+
+A characteristic of IPS supported employment is working in collaboration with local DVR staff. DVR helps
+people with disabilities find and succeed at work and live independently. DVR provides financial support
+for IPS clients, such as purchasing clothing and supplies needed for a job, providing bus passes, and
+paying for certifications and training. The goal is for DVR counselors and IPS programs to collaborate to
+give people the best resources that each has to offer. Benefits counseling is a critical component of DVR
+services. The importance of this counseling cannot be underestimated and is an IPS practice principle.
+Client referrals to DVR and benefits counseling varied considerably across IPS programs. All Health
+Network has an active relationship with its local DVR office, while BHG in Longmont experienced
+numerous challenges with its DVR partners.
+
+Exhibit 20. Referrals to DVR and Benefits Counseling
+
+40                37
+           31
+30
+                                        19                 18
+20
+
+10                                7
+                                                      1                     0     1
+ 0
+      Littleton (AllHealth   Pueblo (Crossroads)     Fort Collins       Longmont (BHG)
+            Network)                               (SummitStone
+                                                       Health)
+
+                             Benefits Counseling   DVR Referrals
+
+
+
+                                                                    IPS Program, Year 5 Evaluation Report   18
+IPS staff reported some challenges they experienced with their local DVR office. First, DVR does not
+provide benefits counseling in isolation of its other services and typically has a prolonged process to
+approve clients’ paperwork. IPS clients had to wait for their applications to be approved before they
+were able to receive benefits counseling. Despite the prolonged process, some clients need DVR support
+for continued education, clothing and equipment, and benefits counseling. IPS staff at Crossroads in
+Pueblo reported that their benefits counselor will not work with clients unless they are receiving
+SSI/SSDI, and few of their IPS clients receive that benefit. One Employment Specialist reported that DVR
+services were inconsistent, providing a service for one client but not for another, with little explanation
+for the decision.
+
+AllHealth in Littleton staff met with their local DVR counselor monthly and provided DVR counseling
+every week on site. Also, the agency employs its own benefits counselor that can serve some clients who
+do not need DVR services. SummitStone in Fort Collins has a DVR counselor on site two days a week and
+can complete an intake quickly. This program has access to their clients’ health records/diagnoses,
+which with a signed release of information, makes them eligible for services quickly. However, an
+Employment Specialist described the more typical process with DVR. “They have 30 days to get them in
+for the initial intake. Once they do their application, they have 60 days to make them eligible. They need
+to get medical records, need their diagnoses, and proof of the disability. That can take up to 60 days on
+top of the 30-day application period. Once they make them eligible, they then have 90 days to get them
+on a plan for employment. Then you’re at six months.”
+
+Although two of the IPS programs reported significant challenges working with their local DVR agency,
+others reported their work with DVR was instrumental in successfully serving their IPS clients.
+
+“When they want education, we have a system that works well. Our DVR counselor rocks. If we say we
+need benefits counseling, it’s done. If we say, ‘We have this person who wants to start school,’ it’s done.
+We can actually bill for application eligibility and a plan all in one month because [they] get it done. I am
+appalled at the DVR counselors [we heard about] in our quarterly meeting.”
+
+Other than with DVR, IPS staff cultivated additional community partnerships with county human services
+that offered some internships for IPS clients. The Workforce Center provided some job training such as
+Microsoft Office skills training, and one program recently started a partnership with Developmental
+Pathways, which provides services to individuals with disabilities and their families.
+
+IMPLEMENTATION CHALLENGES
+
+The IPS Employment Center’s education, training, and fidelity materials are intended to address IPS
+clients in mental health settings. However, staff with IPS programs serving SUD clients consistently
+reported that many materials do not align with clients experiencing a substance use disorder.
+Employment Specialists explained that the questions for clients in the Career Profile are not applicable
+to SUD clients.
+
+“The forms are pretty much 100% catered to mental health. I see that as the biggest confusing part.
+When I was doing that training for my IPS certification, some of the things they were telling us to do
+were designed for mental health people. Where they are talking about their support systems and
+
+
+                                                                 IPS Program, Year 5 Evaluation Report     19
+caregivers, … if you have somebody in addiction, 10 times out of 10 when we ask if they want their
+family to be involved, they say no. Either they say, ‘I don’t need their help’ or ‘’They won’t help me.’ They
+burned their bridge.”
+
+One Employment Specialist who provided services to both SUD and mental health clients stated that the
+primary challenge with their SUD clients was maintaining the positions once they found jobs. Others
+talked about how challenging it was to have consistent engagement with this population. “Sometimes,
+we will meet every week for three weeks and then they will go [missing] for a month or two. Another
+Employment Specialist said, “They will be motivated, they are trying, and then all of a sudden they fall off
+and then you can’t reach them anymore.” Others who work with both SUD clients and those receiving
+mental health services said that their SUD clients had different support needs, partly due to the stigma
+of substance use that still exists. “Sometimes, it is a much more baby step model, because you are trying
+to help someone maintain their recovery.”
+
+Others reiterated that the fidelity review was not aligned with the nature of the population they serve.
+“Because we have SUD clients, there are certain things that we just can’t do and go that route or drive
+them around. [Even though] it is the model of fidelity [we say], ‘Hey, we can’t do that – this is the policy
+of our company.’” Employment Specialists emphasized that IPS is an effective program, but some
+components need updating. Some individuals commented that the pandemic was still having an impact.
+“That’s my biggest thing is after the pandemic, life is never going to be like it was pre-pandemic, it’s just
+not. Clients are still fearful; many are afraid to go out.”
+
+
+
+MAINTENANCE
+
+Maintaining IPS beyond grant funding largely rests on developing systems for invoicing DVR and billing
+Medicaid for IPS services.
+
+
+DVR AND MEDICAID
+
+Employment Specialists provide supported employment and DVR provides other services around
+education and employment. There were no changes in the IPS programs’ billing processes since last
+year. Three out of four of the IPS programs had contracts in place with their local DVR office, while just
+two programs invoiced DVR and billed Medicaid for the IPS services they delivered. Medicaid is the
+“payer of last resort,” which means the IPS programs must link clients to DVR services and invoice DVR
+for the IPS supported employment services before billing Medicaid. The Fort Collins and Littleton sites
+had been providing IPS services to their mental health clients, had contracts in place with DVR when
+funded to provide services to SUD clients. This allowed for an efficient expansion to their clients under
+the SOR grant. While BHG in Longmont has a contract with DVR, the program is not billing DVR or
+Medicaid for services. The program’s IPS staff reported that they have tried to bill Medicaid for services,
+but have been refused because most of Longmont’s clients were not linked to DVR services.
+
+
+“That’s a five-month process. It could be up to five months to get somebody through DVR to get them
+signed up for employment services so that we can bill Medicaid and get reimbursement to sustain our
+
+
+                                                                 IPS Program, Year 5 Evaluation Report         20
+program. It’s hard to say to somebody, ‘I know you need a job right now, but we have to take a month
+now and apply to DVR and get all your applications in and get this set up so that we can get paid.’ ”
+
+
+Crossroads in Pueblo does not have a DVR contract nor is IPS staff billing DVR or Medicaid for IPS
+services provided. For the purpose of maintaining IPS services in the long-term, it is important to
+develop processes and procedures for reimbursement of IPS services.
+
+
+JOB DEVELOPMENT
+
+Job development is an important and challenging element of Employment Specialists’ work. IPS staff
+agreed with the national IPS Employment Center that job development skills improve by practicing over
+time with a coach, such as a supervisor or colleague who accompanies them as they meet with
+employers. One Employment Specialist job development efforts included identifying opportunities to
+present the IPS program in front of employers, such as with the Chamber of Commerce, and they also
+posted on social media. Some IPS staff felt they would benefit from job development training,
+specifically for working with the SUD population. Several Specialists said that many of their clients
+wanted to work remotely, which is often challenging since many of the available jobs were service
+positions and required in-person work. Some clients agreed to disclose their SUD status, which made
+the Employment Specialist’s job much easier, since they could then talk about a specific client’s skills and
+strengths with potential employers.
+
+Several interviewees reported the need for IPS to evolve and recognize that job development has
+changed. Employment Specialists reported multiple job development challenges that result from
+technology and have also emerged during and after the pandemic:
+
+    •   Hiring authorities are rarely on site, since many human resource teams now work remotely.
+    •   Application processes have changed significantly in recent years; nearly all applications are
+        submitted online and communications with potential employers are virtual, while fidelity
+        requires in-person contact.
+    •   IPS clients typically qualify only for entry-level positions: “There’s no talking about the strengths
+        of your client. Either they qualify for the position via their online application, or they don’t. They
+        say, 'Just send in the application.’”
+
+
+
+
+                                                                  IPS Program, Year 5 Evaluation Report      21
+CONCLUSION
+
+IPS staff provided compelling advice they would give to new IPS programs serving SUD clients that
+illustrates the commitment and compassion IPS staff feel about their work and toward their clients.
+Their words are at the core of the IPS program:
+
+
+
+“SUD clients are human beings who need help with employment, so don’t lose sight of that. It is
+too often we hear of or fall guilty ourselves to those conversations, such as, ‘You know my client,
+the heroin addict.’ Don’t let the client’s addiction become a label or the way you identify them.
+They have a name and it is not ‘drug addict.’ They have a story and addiction is only a chapter;
+they have a future and goals and, with your help, they might have employment too.”
+
+“Keep in mind that some individuals in this population may be missing some basic executive
+functioning skills due to their substance use. Therefore, employment specialists may need to
+assist clients with learning some basic skills, such as time management, remembering
+appointments, basic employment and communication skills, and understanding basic employer
+expectations.”
+
+“Always practice patience. When working with SUD clients, they can have ups and downs and it is
+our job to support them either way and to assist them with their employment needs.”
+
+“Be patient, understand that these individuals are struggling. They may not always show up.
+Keep reaching out. Many times, because of their use they have no one. They have ruined
+relationships. Don’t give up on them and keep calling to let them know that you want to help and
+that you care.”
+
+
+
+
+                                                                IPS Program, Year 5 Evaluation Report   22
+RECOMMENDATIONS
+
+The following recommendations were informed by IPS staff and clients. Many of these
+recommendations are consistent with those provided previously. These recommendations should be
+considered for improving delivery of IPS services.
+
+Access
+
+BHA should encourage IPS programs to work closely with DVR to identify an efficient process for
+improving the timeliness of benefits counseling. Alternatively, BHA should support staff to find
+alternative resources for benefits counseling.
+
+IPS programs should have Spanish-speaking staff readily available, particularly in geographic areas with
+large Latinx populations.
+
+Support
+
+Fidelity reviews provided clarity for several Employment Specialists regarding forms and
+processes/procedures. BHA should provide additional training prior to fidelity reviews.
+
+
+SUD clients have unique needs and significantly challenging work and criminal histories. BHA should
+facilitate the recognition that the IPS training, program, and fidelity materials were developed for mental
+health clients and are not aligned with the needs of the SUD population.
+
+
+BHA should encourage connections between peers and IPS staff.
+
+
+BHA should encourage IPS programs to include transportation vouchers in their operating budgets.
+
+
+Affordability
+
+BHA should work with programs to develop systems for billing and invoicing DVR and Medicaid for IPS
+services.
+
+
+
+
+                                                               IPS Program, Year 5 Evaluation Report    23
+APPENDICES
+
+APPENDIX A: METHODS
+
+The evaluation for the IPS program began with a literature review and development of a logic model and
+evaluation plan. The evaluation was guided by the RE-AIM Framework,1 which is used in the public
+health field to provide a comprehensive approach to planning, implementing, and evaluating the
+effectiveness of public health programs. The framework contains five Elements (Reach, Effectiveness,
+Adoption, Implementation, and Maintenance). The evaluation identified evaluation questions and
+indicators within each element.
+
+DATA COLLECTION AND ANALYSIS
+
+Evaluators used a mixed methods approach by analyzing the IPS monthly reporting data, the end of
+year form to gather additional program information, surveys from clients, interviews with IPS staff,
+clients, and data interpretation sessions.
+
+Interviews
+
+Evaluators conducted interviews with IPS Employment Specialists, IPS supervisors, and clients, including
+several ad hoc conversations with IPS staff and Quarterly Conversations throughout Year 5.
+
+Evaluators conducted a mix of in-depth telephone and in-person interviews with 8 IPS clients. Interviews
+conducted by telephone were with clients who had indicated their interest in an interview when they
+completed a client survey. In-person interviews were conducted during site visits at the Pueblo location.
+All interviews were professionally transcribed and coded using NVivo14 software. The analysis was
+based on a structured coding scheme organized by interview questions.
+
+Surveys
+
+Throughout Year 5, Employment Specialists were encouraged to complete surveys with their clients or
+provide them with the QR code or link to the online survey. Evaluators had developed a flyer for both
+the clients and the Employment Specialists, to encourage participation. Survey questions addressed
+clients’ employment status, satisfaction, experiences working with their Employment Specialist, how the
+program impacted awareness of their job skills and interests, and changes in clients’ level of confidence
+and ability to successfully search for and secure a job. This year, 16 clients completed a survey.
+
+.
+
+
+1 Belza, B., Toobert, D., Glasgow, R. (2005). RE-AIM for Program Planning: Overview and and Applications. Center for
+
+Health Aging and National Council on Aging.
+
+
+
+
+                                                                     IPS Program, Year 5 Evaluation Report        24
+                                    MISSION
+
+ We strive to make evaluation a valued and widely accepted practice by increasing
+the use and understanding of evaluation. We collaborate with our clients to support
+   evidence-informed programs, practices, and policies in schools, institutions of
+      higher education, governmental agencies, and nonprofit organizations.
+
+
+
+
+        w: the-evaluation-center.org | e: TheEvaluationCenter@ucdenver.edu
+

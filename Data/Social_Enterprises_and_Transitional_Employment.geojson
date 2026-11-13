@@ -1,0 +1,189 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Bayaud Enterprises",
+    "category": "Social Enterprises and Transitional Employment",
+    "address": "333 W Bayaud Avenue",
+    "city": "Denver",
+    "zip": "80223",
+    "website": "https://www.bayaudenterprises.org/",
+    "services": "Social enterprises (Business Solutions) providing supported and transitional employment",
+    "source": "CO Attorney General Reentry Report (2021) / Rose Community Foundation handout (2024) / news; address: GuideStar, ColoradoGives, NPI registry agree",
+    "source_url": "https://www.bayaudenterprises.org/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.992958,
+     39.714866
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Bridge House Ready to Work - Boulder",
+    "category": "Social Enterprises and Transitional Employment",
+    "address": "4747 Table Mesa Drive",
+    "city": "Boulder",
+    "zip": "80305",
+    "website": "https://boulderbridgehouse.org/",
+    "services": "Paid work in social enterprise + housing (Ready to Work)",
+    "source": "CO Attorney General Reentry Report (2021) / Rose Community Foundation handout (2024) / news; address: WAGEES partner page",
+    "source_url": "https://boulderbridgehouse.org/",
+    "geocode": "osm-nominatim",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.237223,
+     39.986175
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Center for Employment Opportunities (CEO) - Colorado Springs",
+    "category": "Social Enterprises and Transitional Employment",
+    "address": "888 Garden of the Gods Road, Suite 110",
+    "city": "Colorado Springs",
+    "zip": "80907",
+    "website": "https://www.ceoworks.org/locations/colorado-springs",
+    "services": "Transitional paid work crews",
+    "source": "CO Attorney General Reentry Report (2021) / Rose Community Foundation handout (2024) / news; address: Remerg; findhelp; Women's Directory",
+    "source_url": "https://www.ceoworks.org/locations/colorado-springs",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.843944,
+     38.896729
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Center for Employment Opportunities (CEO) - Denver",
+    "category": "Social Enterprises and Transitional Employment",
+    "address": "3532 N Franklin Street, Suite S",
+    "city": "Denver",
+    "zip": "80205",
+    "website": "https://www.ceoworks.org/locations/denver",
+    "services": "Transitional paid work crews for people recently released",
+    "source": "CO Attorney General Reentry Report (2021) / Rose Community Foundation handout (2024) / news; address: Second Chance Business Coalition; SkillPlum ETPL",
+    "source_url": "https://www.ceoworks.org/locations/denver",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.968348,
+     39.766169
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Goodwill of Colorado - Colorado Springs",
+    "category": "Social Enterprises and Transitional Employment",
+    "address": "1460 Garden of the Gods Road",
+    "city": "Colorado Springs",
+    "zip": "80907",
+    "website": "https://goodwillcolorado.org/",
+    "services": "Social enterprises; job training and placement",
+    "source": "CO Attorney General Reentry Report (2021) / Rose Community Foundation handout (2024) / news; address: own website",
+    "source_url": "https://goodwillcolorado.org/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.853842,
+     38.896677
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Goodwill of Colorado - Denver (ReHire Colorado administrator)",
+    "category": "Social Enterprises and Transitional Employment",
+    "address": "6850 Federal Boulevard",
+    "city": "Denver",
+    "zip": "80221",
+    "website": "https://goodwillcolorado.org/",
+    "services": "Social enterprises employing people with barriers; administers ReHire Colorado transitional jobs",
+    "source": "CO Attorney General Reentry Report (2021) / Rose Community Foundation handout (2024) / news; address: own website",
+    "source_url": "https://goodwillcolorado.org/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.024929,
+     39.821895
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Mile High WorkShop",
+    "category": "Social Enterprises and Transitional Employment",
+    "address": "3795 E 38th Avenue, Unit A",
+    "city": "Denver",
+    "zip": "80205",
+    "website": "https://www.coloradogives.org/organization/MileHighWorkShop",
+    "services": "Employment social enterprise and job training for people facing barriers (incl. recovery, reentry)",
+    "source": "CO Attorney General Reentry Report (2021) / Rose Community Foundation handout (2024) / news; address: ColoradoGives; Second Chance Business Coalition listing",
+    "source_url": "https://www.coloradogives.org/organization/MileHighWorkShop",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.942963,
+     39.769252
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Women's Bean Project",
+    "category": "Social Enterprises and Transitional Employment",
+    "address": "1300 W Alameda Avenue",
+    "city": "Denver",
+    "zip": "80223",
+    "website": "https://womensbeanproject.com/",
+    "services": "Full-time paid transitional jobs for women facing barriers",
+    "source": "CO Attorney General Reentry Report (2021) / Rose Community Foundation handout (2024) / news; address: own website",
+    "source_url": "https://womensbeanproject.com/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.003959,
+     39.711136
+    ]
+   }
+  }
+ ]
+}

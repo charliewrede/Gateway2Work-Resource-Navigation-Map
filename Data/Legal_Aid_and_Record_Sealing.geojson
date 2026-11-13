@@ -1,0 +1,306 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado Legal Services - Alamosa",
+    "category": "Legal Aid and Record-Sealing Services",
+    "address": "715 Main Street",
+    "city": "Alamosa",
+    "zip": "81101",
+    "phone": "719-589-4993",
+    "website": "https://www.coloradolegalservices.org",
+    "services": "Free civil legal aid for eligible low-income clients; Record Sealing & Expungement (RSE) clinic (apply via CLS)",
+    "source": "Colorado Legal Services 'Get Help' office list",
+    "source_url": "https://www.coloradolegalservices.org/get-help/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "counties_served": "Alamosa, Conejos, Costilla, Mineral, Rio Grande, Saguache"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.867434,
+     37.468227
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado Legal Services - Boulder",
+    "category": "Legal Aid and Record-Sealing Services",
+    "address": "2935 Baseline Road, Suite 301",
+    "city": "Boulder",
+    "zip": "80303",
+    "phone": "303-449-7575",
+    "website": "https://www.coloradolegalservices.org",
+    "services": "Free civil legal aid for eligible low-income clients; Record Sealing & Expungement (RSE) clinic (apply via CLS)",
+    "source": "Colorado Legal Services 'Get Help' office list",
+    "source_url": "https://www.coloradolegalservices.org/get-help/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "counties_served": "Boulder, Broomfield"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.255087,
+     40.000151
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado Legal Services - Colorado Springs",
+    "category": "Legal Aid and Record-Sealing Services",
+    "address": "102 S Tejon Street, Suite 430",
+    "city": "Colorado Springs",
+    "zip": "80903",
+    "phone": "719-471-0380",
+    "website": "https://www.coloradolegalservices.org",
+    "services": "Free civil legal aid for eligible low-income clients; Record Sealing & Expungement (RSE) clinic (apply via CLS)",
+    "source": "Colorado Legal Services 'Get Help' office list",
+    "source_url": "https://www.coloradolegalservices.org/get-help/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "counties_served": "El Paso, Lincoln, and nearby counties"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.82366,
+     38.832332
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado Legal Services - Craig (Northwest Colorado Legal Services Project)",
+    "category": "Legal Aid and Record-Sealing Services",
+    "address": "1111 W Victory Way, Suite 109",
+    "city": "Craig",
+    "zip": "81625",
+    "phone": "1-800-521-6968",
+    "website": "https://www.coloradolegalservices.org",
+    "services": "Free civil legal aid for eligible low-income clients; Record Sealing & Expungement (RSE) clinic (apply via CLS)",
+    "source": "Colorado Legal Services 'Get Help' office list",
+    "source_url": "https://www.coloradolegalservices.org/get-help/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "counties_served": "Northwest counties incl. Moffat, Pitkin, Rio Blanco, Routt, Summit"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.560511,
+     40.514247
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado Legal Services - Denver (main office)",
+    "category": "Legal Aid and Record-Sealing Services",
+    "address": "1560 Broadway, Suite 1100",
+    "city": "Denver",
+    "zip": "80203",
+    "phone": "303-837-1313",
+    "website": "https://www.coloradolegalservices.org",
+    "services": "Free civil legal aid for eligible low-income clients; Record Sealing & Expungement (RSE) clinic (apply via CLS)",
+    "source": "Colorado Legal Services 'Get Help' office list",
+    "source_url": "https://www.coloradolegalservices.org/get-help/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "counties_served": "Denver metro"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.987317,
+     39.741219
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado Legal Services - Durango",
+    "category": "Legal Aid and Record-Sealing Services",
+    "address": "679 E 2nd Avenue, Suite B",
+    "city": "Durango",
+    "zip": "81301",
+    "phone": "970-247-0266",
+    "website": "https://www.coloradolegalservices.org",
+    "services": "Free civil legal aid for eligible low-income clients; Record Sealing & Expungement (RSE) clinic (apply via CLS)",
+    "source": "Colorado Legal Services 'Get Help' office list",
+    "source_url": "https://www.coloradolegalservices.org/get-help/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "counties_served": "Archuleta, Dolores, Hinsdale, La Plata, Montezuma, San Juan; Ute Mountain Ute and Southern Ute"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.880234,
+     37.270729
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado Legal Services - Fort Collins",
+    "category": "Legal Aid and Record-Sealing Services",
+    "address": "215 W Oak Street, Suite 800",
+    "city": "Fort Collins",
+    "zip": "80521",
+    "phone": "970-493-2891",
+    "website": "https://www.coloradolegalservices.org",
+    "services": "Free civil legal aid for eligible low-income clients; Record Sealing & Expungement (RSE) clinic (apply via CLS)",
+    "source": "Colorado Legal Services 'Get Help' office list",
+    "source_url": "https://www.coloradolegalservices.org/get-help/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "counties_served": "Larimer, Logan, Phillips, Sedgwick"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.080008,
+     40.585545
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado Legal Services - Grand Junction",
+    "category": "Legal Aid and Record-Sealing Services",
+    "address": "120 West Park Drive, Suite 205",
+    "city": "Grand Junction",
+    "zip": "81505",
+    "phone": "970-243-7940",
+    "website": "https://www.coloradolegalservices.org",
+    "services": "Free civil legal aid for eligible low-income clients; Record Sealing & Expungement (RSE) clinic (apply via CLS)",
+    "source": "Colorado Legal Services 'Get Help' office list",
+    "source_url": "https://www.coloradolegalservices.org/get-help/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "counties_served": "Delta, Garfield, Mesa and nearby counties",
+    "status_note": "CLS lists this as a MAILING address; call or apply online (applyonlinecls.org)."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.571209,
+     39.090667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado Legal Services - Greeley",
+    "category": "Legal Aid and Record-Sealing Services",
+    "address": "912 8th Avenue",
+    "city": "Greeley",
+    "zip": "80631",
+    "phone": "970-353-7554",
+    "website": "https://www.coloradolegalservices.org",
+    "services": "Free civil legal aid for eligible low-income clients; Record Sealing & Expungement (RSE) clinic (apply via CLS)",
+    "source": "Colorado Legal Services 'Get Help' office list",
+    "source_url": "https://www.coloradolegalservices.org/get-help/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "counties_served": "Weld, Kit Carson, Morgan, Washington and nearby counties"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.690751,
+     40.423665
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado Legal Services - La Junta",
+    "category": "Legal Aid and Record-Sealing Services",
+    "address": "401 Santa Fe Avenue",
+    "city": "La Junta",
+    "zip": "81050",
+    "phone": "719-384-5438",
+    "website": "https://www.coloradolegalservices.org",
+    "services": "Free civil legal aid for eligible low-income clients; Record Sealing & Expungement (RSE) clinic (apply via CLS)",
+    "source": "Colorado Legal Services 'Get Help' office list",
+    "source_url": "https://www.coloradolegalservices.org/get-help/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "counties_served": "Baca, Bent, Cheyenne, Crowley, Kiowa, Otero, Prowers"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.544362,
+     37.984877
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado Legal Services - Pueblo",
+    "category": "Legal Aid and Record-Sealing Services",
+    "address": "1000 W 6th Street, Suite I",
+    "city": "Pueblo",
+    "zip": "81003",
+    "phone": "719-545-6708",
+    "website": "https://www.coloradolegalservices.org",
+    "services": "Free civil legal aid for eligible low-income clients; Record Sealing & Expungement (RSE) clinic (apply via CLS)",
+    "source": "Colorado Legal Services 'Get Help' office list",
+    "source_url": "https://www.coloradolegalservices.org/get-help/",
+    "geocode": "osm-nominatim",
+    "retrieved": "2026-11-13",
+    "counties_served": "Huerfano, Las Animas, Pueblo"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.620725,
+     38.272141
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado Legal Services - Salida",
+    "category": "Legal Aid and Record-Sealing Services",
+    "address": "1604 H Street, Suite 201",
+    "city": "Salida",
+    "zip": "81201",
+    "phone": "719-539-4251",
+    "website": "https://www.coloradolegalservices.org",
+    "services": "Free civil legal aid for eligible low-income clients; Record Sealing & Expungement (RSE) clinic (apply via CLS)",
+    "source": "Colorado Legal Services 'Get Help' office list",
+    "source_url": "https://www.coloradolegalservices.org/get-help/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "counties_served": "Park, Chaffee, Custer"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.006429,
+     38.524983
+    ]
+   }
+  }
+ ]
+}

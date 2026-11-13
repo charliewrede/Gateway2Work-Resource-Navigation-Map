@@ -1,0 +1,2476 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "160 Driving Academy",
+    "category": "Workforce Development / Training Providers",
+    "address": "6025 Parkway Drive Unit 105",
+    "city": "Commerce City",
+    "zip": "80022",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 1,
+    "main_fields": "Ground Transportation",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.930775,
+     39.80611
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "ACI Learning - Centennial",
+    "category": "Workforce Development / Training Providers",
+    "address": "6855 S Havana St Suite 230",
+    "city": "Centennial",
+    "zip": "80112",
+    "website": "https://acilearning.com/it-certification-programs/itil-comptia-computer-user-support-specialist-cuss",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 17,
+    "main_fields": "Computer/Information Technology Administration and Management, Computer and Information Sciences, General",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.866872,
+     39.592406
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "ACI Learning Tech Academy - Centennial",
+    "category": "Workforce Development / Training Providers",
+    "address": "6855 S Havana St Suite 230",
+    "city": "Centennial",
+    "zip": "80112",
+    "website": "Network+",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 1,
+    "main_fields": "Computer/Information Technology Administration and Management",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.866872,
+     39.592406
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Academy for Dental Assisting Careers - Longmont",
+    "category": "Workforce Development / Training Providers",
+    "address": "2011 Ken Pratt Blvd. Suite 200",
+    "city": "Longmont",
+    "zip": "80501",
+    "website": "www.academyfordentalassistingcareers.com",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 4,
+    "main_fields": "Curriculum and Instruction, Dental Support Services and Allied Professions",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.127756,
+     40.143531
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Accurate Medical Solutions LLC",
+    "category": "Workforce Development / Training Providers",
+    "address": "2590 Welton St Suite 200",
+    "city": "Denver",
+    "zip": "80205",
+    "website": "www.themedicalcodingclass.com",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 3,
+    "main_fields": "Health and Medical Administrative Services",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.979349,
+     39.75371
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "AdvanceEDU",
+    "category": "Workforce Development / Training Providers",
+    "address": "1391 Speer Blvd 720",
+    "city": "Denver",
+    "zip": "80204",
+    "website": "https://myadvanceedu.org/degrees/",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 2,
+    "main_fields": "Liberal Arts and Sciences, General Studies and Humanities, Health and Medical Administrative Services",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.997584,
+     39.738257
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Agility 11",
+    "category": "Workforce Development / Training Providers",
+    "address": "14162 W 4th Ave",
+    "city": "Golden",
+    "zip": "80401",
+    "website": "https://www.agility11.com/training",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 2,
+    "main_fields": "Business Administration, Management and Operations",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.158017,
+     39.722607
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Aims Community College",
+    "category": "Workforce Development / Training Providers",
+    "address": "5401 West 20th Attn: Cwdi",
+    "city": "Greeley",
+    "zip": "80634",
+    "website": "http://www.aims.edu/ced/commercial-drivers-license.php",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 7,
+    "main_fields": "Ground Transportation, Legal Support Services, Computer Software and Media Applications",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.766707,
+     40.406986
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "American Institute of Dental Assisting",
+    "category": "Workforce Development / Training Providers",
+    "address": "1920 Vindicator Dr Ste 209",
+    "city": "Colorado Springs",
+    "zip": "80919",
+    "website": "www.dentalassistanco.com",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 3,
+    "main_fields": "Dental Support Services and Allied Professions",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.862076,
+     38.92846
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Assist To Succeed - Pueblo",
+    "category": "Workforce Development / Training Providers",
+    "address": "830 W. Abriendo Avenue",
+    "city": "Pueblo",
+    "zip": "81004",
+    "website": "NULL",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 2,
+    "main_fields": "Dental Support Services and Allied Professions",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.630537,
+     38.266664
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Aurora College",
+    "category": "Workforce Development / Training Providers",
+    "address": "22026 E Ridge Trail Cir",
+    "city": "Aurora",
+    "zip": "80016",
+    "website": "www.AuroraCollege.us",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 4,
+    "main_fields": "Computer Programming, Dental Support Services and Allied Professions",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.731611,
+     39.605154
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Behavioral Health Training",
+    "category": "Workforce Development / Training Providers",
+    "address": "1155 Cherokee Street",
+    "city": "Denver",
+    "zip": "80204",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 8,
+    "main_fields": "Mental and Social Health Services and Allied Professions",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.991725,
+     39.734624
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Berkana Institute of Massage Therapy",
+    "category": "Workforce Development / Training Providers",
+    "address": "2015 Ionosphere Street Unit 101",
+    "city": "Longmont",
+    "zip": "80504",
+    "website": "www.berkanainstitute.com",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 1,
+    "main_fields": "Somatic Bodywork and Related Therapeutic Services",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.10359,
+     40.135243
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Blackfox Training Institute LLC",
+    "category": "Workforce Development / Training Providers",
+    "address": "701 Delaware Avenue Unit B",
+    "city": "Longmont",
+    "zip": "80501",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 14,
+    "main_fields": "Electrical/Electronics Maintenance and Repair Technologies/Technicians",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.104189,
+     40.154789
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "CDL Certifiers/CDL Trainers - Colorado Springs",
+    "category": "Workforce Development / Training Providers",
+    "address": "3890 South Us Hwy 85/87",
+    "city": "Colorado Springs",
+    "zip": "80906",
+    "website": "www.cdlcertifiers.com",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 3,
+    "main_fields": "Ground Transportation, Agriculture, General",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.771372,
+     38.777087
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "CDL Certifiers/CDL Trainers - Grand Junction",
+    "category": "Workforce Development / Training Providers",
+    "address": "2801 Grand Ave",
+    "city": "Grand Junction",
+    "zip": "81501",
+    "website": "www.cdlcertifiers.com",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 5,
+    "main_fields": "Ground Transportation",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.533595,
+     39.070107
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "CDL Safety School",
+    "category": "Workforce Development / Training Providers",
+    "address": "5142 South Oak Way",
+    "city": "Littleton",
+    "zip": "80127",
+    "website": "http://www.cdlsafetyschool.com/class-a/",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 1,
+    "main_fields": "Ground Transportation",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.11985,
+     39.623231
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Career Coders LLC",
+    "category": "Workforce Development / Training Providers",
+    "address": "292 Marcy Drive",
+    "city": "Loveland",
+    "zip": "80537",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 8,
+    "main_fields": "Health and Medical Administrative Services",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.119483,
+     40.391496
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado CNA Academy",
+    "category": "Workforce Development / Training Providers",
+    "address": "1540 Royal Gorge Blvd Ste B",
+    "city": "Canon City",
+    "zip": "81212",
+    "website": "https://www.facebook.com/coloradocnaacademy/",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "osm-nominatim",
+    "retrieved": "2026-11-13",
+    "program_count": 3,
+    "main_fields": "Practical Nursing, Vocational Nursing and Nursing Assistants",
+    "entity_type": "Private Non-Profit",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.226757,
+     38.446146
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado Center for Nursing Excellence",
+    "category": "Workforce Development / Training Providers",
+    "address": "7535 E Hampden Avenue Suite 110",
+    "city": "Denver",
+    "zip": "80231",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 4,
+    "main_fields": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing, Interpersonal and Social Skills",
+    "entity_type": "Private Non-Profit",
+    "apprenticeship_programs": "Yes"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.9034,
+     39.653172
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado Counselor Training",
+    "category": "Workforce Development / Training Providers",
+    "address": "1017 Knobcone Pl",
+    "city": "Loveland",
+    "zip": "80538",
+    "website": "www.coloradocounselortraining.com",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 1,
+    "main_fields": "Mental and Social Health Services and Allied Professions",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.063438,
+     40.441983
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado Institute of Massage Therapy",
+    "category": "Workforce Development / Training Providers",
+    "address": "1490 W. Fillmore Street",
+    "city": "Colorado Springs",
+    "zip": "80904",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 1,
+    "main_fields": "Somatic Bodywork and Related Therapeutic Services",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.85559,
+     38.872863
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado Mountain College",
+    "category": "Workforce Development / Training Providers",
+    "address": "802 Grand Avenue",
+    "city": "Glenwood Springs",
+    "zip": "81601",
+    "website": "http://catalog.coloradomtn.edu/preview_program.php?catoid=8&poid=841&_ga=1.209011090.1442955121.1458243191",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 179,
+    "main_fields": "Hospitality Administration/Management, Teacher Education and Professional Development, Specific Levels and Methods, Culinary Arts and Related Services",
+    "entity_type": "Other",
+    "apprenticeship_programs": "Yes"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.324673,
+     39.546633
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado Northwestern Community College",
+    "category": "Workforce Development / Training Providers",
+    "address": "500 Kennedy Drive",
+    "city": "Rangely",
+    "zip": "81648",
+    "website": "http://www.cncc.edu/academics/degrees-programs/emergency-medical-services/",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 27,
+    "main_fields": "Vehicle Maintenance and Repair Technologies/Technicians, Allied Health Diagnostic, Intervention, and Treatment Professions, Cosmetology and Related Personal Grooming Services",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.786444,
+     40.087514
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado Northwestern Community College",
+    "category": "Workforce Development / Training Providers",
+    "address": "2801 W 9th Street",
+    "city": "Craig",
+    "zip": "81625",
+    "website": "http://www.cncc.edu/academics/degrees-programs/seasonal-park-ranger/",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 1,
+    "main_fields": "Natural Resources Conservation and Research",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.581787,
+     40.52121
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado River BOCES",
+    "category": "Workforce Development / Training Providers",
+    "address": "0460 Stone Quarry Rd Po",
+    "city": "Parachute",
+    "zip": "80102",
+    "website": "www.crboces.org",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 2,
+    "main_fields": "Education, General, Special Education and Teaching",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.105731,
+     39.395959
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado State University - Pueblo",
+    "category": "Workforce Development / Training Providers",
+    "address": "2200 Bonforte Blvd",
+    "city": "Pueblo",
+    "zip": "81001",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 4,
+    "main_fields": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.58049,
+     38.304669
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado State University-Global Campus",
+    "category": "Workforce Development / Training Providers",
+    "address": "585 Salida Way",
+    "city": "Aurora",
+    "zip": "80011",
+    "website": "https://csuglobal.edu/graduate/certificates/project-management",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 44,
+    "main_fields": "Business Administration, Management and Operations, Human Resources Management and Services, Computer/Information Technology Administration and Management",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.785721,
+     39.721055
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado Trucking College LLC",
+    "category": "Workforce Development / Training Providers",
+    "address": "12445 East 39th Ave Unit B400",
+    "city": "Denver",
+    "zip": "80239",
+    "website": "NULL",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 2,
+    "main_fields": "Ground Transportation",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.843904,
+     39.771115
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Community College of Aurora",
+    "category": "Workforce Development / Training Providers",
+    "address": "16000 E Centretech Parkway",
+    "city": "Aurora",
+    "zip": "80011",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 77,
+    "main_fields": "Film/Video and Photographic Arts, Business Administration, Management and Operations, Criminal Justice and Corrections",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.802802,
+     39.719462
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Community College of Denver",
+    "category": "Workforce Development / Training Providers",
+    "address": "800 Curtis Street 800 Curtis",
+    "city": "Denver",
+    "zip": "80204",
+    "website": "https://www.ccd.edu/program/machine-technologies",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 15,
+    "main_fields": "Precision Metal Working, Architectural Sciences and Technology, Allied Health and Medical Assisting Services",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.005148,
+     39.741645
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Compass Nursing Arts",
+    "category": "Workforce Development / Training Providers",
+    "address": "108 West Baseline Rd",
+    "city": "Lafayette",
+    "zip": "80026",
+    "website": "http://compasscna.com/Home.html",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 1,
+    "main_fields": "Practical Nursing, Vocational Nursing and Nursing Assistants",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.091548,
+     40.000175
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Concorde Career College",
+    "category": "Workforce Development / Training Providers",
+    "address": "111 N. Havana Street",
+    "city": "Aurora",
+    "zip": "80010",
+    "website": "www.concorde.edu",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 9,
+    "main_fields": "Allied Health Diagnostic, Intervention, and Treatment Professions, Allied Health and Medical Assisting Services, Dental Support Services and Allied Professions",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.866013,
+     39.718338
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Cuttin Up Beauty Academy",
+    "category": "Workforce Development / Training Providers",
+    "address": "8101 E. Colfax Avenue",
+    "city": "Denver",
+    "zip": "80220",
+    "website": "NULL",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 1,
+    "main_fields": "Cosmetology and Related Personal Grooming Services",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.893955,
+     39.74021
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Diagnostic Medical Sonography Program of Denver",
+    "category": "Workforce Development / Training Providers",
+    "address": "1635 Aurora Court F-720",
+    "city": "Aurora",
+    "zip": "80045",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 1,
+    "main_fields": "Allied Health Diagnostic, Intervention, and Treatment Professions",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.837667,
+     39.742632
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Digital Workshop Center",
+    "category": "Workforce Development / Training Providers",
+    "address": "324 Remington Street Suite 130",
+    "city": "Fort Collins",
+    "zip": "80524",
+    "website": "https://digitalworkshopcenter.com/class/business-soft-skills/",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 61,
+    "main_fields": "Business Administration, Management and Operations, Design and Applied Arts, Film/Video and Photographic Arts",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.075473,
+     40.583848
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Embry-Riddle Aeronautical University",
+    "category": "Workforce Development / Training Providers",
+    "address": "210 Falcon Parkway",
+    "city": "Schriever",
+    "zip": "80912",
+    "website": "https://erau.edu/degrees/bachelor/engineering-technology",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "osm-nominatim",
+    "retrieved": "2026-11-13",
+    "program_count": 8,
+    "main_fields": "Aerospace, Aeronautical, and Astronautical/Space Engineering, Air Transportation, Mechanical Engineering Related Technologies/Technicians",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.525932,
+     38.808646
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Excel Driver Services",
+    "category": "Workforce Development / Training Providers",
+    "address": "9695 Brighton Road",
+    "city": "Henderson",
+    "zip": "80640",
+    "website": "www.exceldriverservices.com",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 8,
+    "main_fields": "Ground Transportation",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.899223,
+     39.872259
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Flatiron School",
+    "category": "Workforce Development / Training Providers",
+    "address": "2228 Blake Street Suite 100",
+    "city": "Denver",
+    "zip": "80205",
+    "website": "flatironschool.com",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 6,
+    "main_fields": "Computer Programming, Computer Software and Media Applications",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.991492,
+     39.756408
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Flatiron School-Denver",
+    "category": "Workforce Development / Training Providers",
+    "address": "2228 Blake St",
+    "city": "Denver",
+    "zip": "80205",
+    "website": "https://secureset.com/program_types/path-part-time/",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 5,
+    "main_fields": "Computer/Information Technology Administration and Management",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.991492,
+     39.756408
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Foundation Billing and Medical Coding LLC",
+    "category": "Workforce Development / Training Providers",
+    "address": "3936 Heatherwood Cir",
+    "city": "Johnstown",
+    "zip": "80534",
+    "website": "NULL",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 3,
+    "main_fields": "Health and Medical Administrative Services",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.985952,
+     40.391916
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Front Range Community College",
+    "category": "Workforce Development / Training Providers",
+    "address": "3645 West 112th Avenue",
+    "city": "Westminster",
+    "zip": "80031",
+    "website": "https://www.frontrange.edu/programs-and-courses/a-z-program-list/early-childhood-education",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 170,
+    "main_fields": "Precision Metal Working, Graphic Communications, Business Administration, Management and Operations",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.036543,
+     39.899694
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Galvanize Inc. - Boulder",
+    "category": "Workforce Development / Training Providers",
+    "address": "1023 Walnut Street Suite 100",
+    "city": "Boulder",
+    "zip": "80302",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 1,
+    "main_fields": "Computer Engineering",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.281831,
+     40.016483
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Galvanize Inc. - Denver Platte",
+    "category": "Workforce Development / Training Providers",
+    "address": "1644 Platte Street",
+    "city": "Denver",
+    "zip": "80202",
+    "website": "Galvanize Website",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 2,
+    "main_fields": "Computer Engineering",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.007486,
+     39.757778
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "General Assembly",
+    "category": "Workforce Development / Training Providers",
+    "address": "3858 Walnut St",
+    "city": "Denver",
+    "zip": "80205",
+    "website": "https://generalassemb.ly/education/web-development-immersive/denver",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 4,
+    "main_fields": "Computer Software and Media Applications, Design and Applied Arts",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.971198,
+     39.770768
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Housed Working and Healthy",
+    "category": "Workforce Development / Training Providers",
+    "address": "3525 W. Oxford Ave. Bldg. H",
+    "city": "Denver",
+    "zip": "80236",
+    "website": "NULL",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 1,
+    "main_fields": "Culinary Arts and Related Services",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.033234,
+     39.642328
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Kaplan Financial Institute",
+    "category": "Workforce Development / Training Providers",
+    "address": "9000 E Nichols Ave Suite 200",
+    "city": "Centennial",
+    "zip": "80112",
+    "website": "https://www.kaplanfinancial.com/insurance/colorado/property-casualty/",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 1,
+    "main_fields": "Insurance",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.884657,
+     39.571933
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Kaplan Real Estate Education",
+    "category": "Workforce Development / Training Providers",
+    "address": "9000 E Nichols Ave Suite 200",
+    "city": "Centennial",
+    "zip": "80112",
+    "website": "https://www.kapre.com/real-estate-courses/colorado",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 1,
+    "main_fields": "Real Estate",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.884657,
+     39.571933
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Lamar Community College",
+    "category": "Workforce Development / Training Providers",
+    "address": "2401 S Main St",
+    "city": "Lamar",
+    "zip": "81052",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 17,
+    "main_fields": "Construction Trades, General, Agricultural and Domestic Animal Services, Allied Health and Medical Assisting Services",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102.617475,
+     38.070575
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Medisense",
+    "category": "Workforce Development / Training Providers",
+    "address": "11315 Cranston Dr",
+    "city": "Peyton",
+    "zip": "80831",
+    "website": "www.aapc.com",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 1,
+    "main_fields": "Health and Medical Administrative Services",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.615503,
+     38.976907
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Metropolitan State University of Denver",
+    "category": "Workforce Development / Training Providers",
+    "address": "890 Auraria Parkway",
+    "city": "Denver",
+    "zip": "80204",
+    "website": "http://www.msudenver.edu/extendedcampus/ccmls/",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 3,
+    "main_fields": "Legal Support Services, Clinical/Medical Laboratory Science/Research and Allied Professions",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.007672,
+     39.7462
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Mile High SHRM",
+    "category": "Workforce Development / Training Providers",
+    "address": "500 Discovery Pkwy #125",
+    "city": "Superior",
+    "zip": "80027",
+    "website": "https://www.milehighshrm.org/page/2021SHRMCertPrepCourse",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 1,
+    "main_fields": "Human Resources Management and Services",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.16434,
+     39.949006
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Mountain BOCES",
+    "category": "Workforce Development / Training Providers",
+    "address": "27900 County Rd 319",
+    "city": "Buena Vista",
+    "zip": "81211",
+    "website": "https://www.colorado.gov/pacific/mountainboces",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 2,
+    "main_fields": "Educational Administration and Supervision, Education, General",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.127671,
+     38.821088
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "National School of Dental Assisting - Broomfield",
+    "category": "Workforce Development / Training Providers",
+    "address": "3303 W 144th Ave Ste 100",
+    "city": "Broomfield",
+    "zip": "80020",
+    "website": "NULL",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 2,
+    "main_fields": "Dental Support Services and Allied Professions",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.028574,
+     39.95778
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Next Step",
+    "category": "Workforce Development / Training Providers",
+    "address": "5335 W. 48th Ave #103",
+    "city": "Denver",
+    "zip": "80212",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 2,
+    "main_fields": "Health Aides/Attendants/Orderlies",
+    "entity_type": "Private Non-Profit",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.054862,
+     39.783873
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Northeastern Junior College",
+    "category": "Workforce Development / Training Providers",
+    "address": "100 College Ave.",
+    "city": "Sterling",
+    "zip": "80751",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 55,
+    "main_fields": "Vehicle Maintenance and Repair Technologies/Technicians, Business Administration, Management and Operations, Agricultural Business and Management",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.197466,
+     40.63685
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "NuAge Para-Medical Esthetics & Laser College",
+    "category": "Workforce Development / Training Providers",
+    "address": "10111 Inverness Main Street #d",
+    "city": "Englewood",
+    "zip": "80112",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 6,
+    "main_fields": "Cosmetology and Related Personal Grooming Services, Health Professions and Related Clinical Sciences, Other",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.87226,
+     39.579269
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Nursing and Therapy Services of Colorado",
+    "category": "Workforce Development / Training Providers",
+    "address": "1130 W. Woodmen Rd.",
+    "city": "Colorado Springs",
+    "zip": "80919",
+    "website": "https://cnaschool.ntsoc.com",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 2,
+    "main_fields": "Practical Nursing, Vocational Nursing and Nursing Assistants",
+    "entity_type": "Private Non-Profit",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.848297,
+     38.943564
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Nutrition Therapy Institute",
+    "category": "Workforce Development / Training Providers",
+    "address": "5613 Olde Wadsworth Blvd.",
+    "city": "Arvada",
+    "zip": "80002",
+    "website": "https://ntischool.com/programs/natural-food-chef-program/",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 2,
+    "main_fields": "Agriculture, General, Nutrition Sciences",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.081489,
+     39.799339
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Otero Junior College",
+    "category": "Workforce Development / Training Providers",
+    "address": "1802 Colorado Avenue",
+    "city": "La Junta",
+    "zip": "81050",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 21,
+    "main_fields": "Precision Metal Working, Agricultural Production Operations, Criminal Justice and Corrections",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.543181,
+     37.971609
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Paul Mitchell The School Denver",
+    "category": "Workforce Development / Training Providers",
+    "address": "405 S. Teller Street",
+    "city": "Denver",
+    "zip": "80226",
+    "website": "NULL",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 2,
+    "main_fields": "Cosmetology and Related Personal Grooming Services",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.076893,
+     39.709064
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Peak Business Management",
+    "category": "Workforce Development / Training Providers",
+    "address": "105 Edwards Village Boulevard Unit A101",
+    "city": "Edwards",
+    "zip": "81632",
+    "website": "https://peakbusiness.org/disciplined-agile/",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 1,
+    "main_fields": "Business Administration, Management and Operations",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.595275,
+     39.643654
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Pharmakeia Pre-Pharmaceutical School LLC",
+    "category": "Workforce Development / Training Providers",
+    "address": "720 South Colorado Blvd Penthouse North",
+    "city": "Denver",
+    "zip": "80246",
+    "website": "http://www.pharmakeiaschool.com/",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 1,
+    "main_fields": "Allied Health and Medical Assisting Services",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.940645,
+     39.70322
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Phlebotomy Training Specialists - Denver",
+    "category": "Workforce Development / Training Providers",
+    "address": "3600 S. Beeler Street #230",
+    "city": "Denver",
+    "zip": "80237",
+    "website": "https://www.phlebotomycolorado.com/",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 2,
+    "main_fields": "Clinical/Medical Laboratory Science/Research and Allied Professions",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.881089,
+     39.65117
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Phoenix Strategies Inc.",
+    "category": "Workforce Development / Training Providers",
+    "address": "3601 W. Pennsylvania Street",
+    "city": "Englewood",
+    "zip": "80113",
+    "website": "NULL",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 3,
+    "main_fields": "Dispute Resolution",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.981783,
+     39.651037
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Pickens Technical College",
+    "category": "Workforce Development / Training Providers",
+    "address": "500 Airport Blvd",
+    "city": "Aurora",
+    "zip": "80011",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 29,
+    "main_fields": "Cosmetology and Related Personal Grooming Services, Precision Metal Working, Vehicle Maintenance and Repair Technologies/Technicians",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.79109,
+     39.722779
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Pikes Peak State College",
+    "category": "Workforce Development / Training Providers",
+    "address": "5675 South Academy Blvd",
+    "city": "Colorado Springs",
+    "zip": "80906",
+    "website": "https://www.ppcc.edu/programs/computer-aided-drafting/",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 154,
+    "main_fields": "Vehicle Maintenance and Repair Technologies/Technicians, Liberal Arts and Sciences, General Studies and Humanities, Precision Metal Working",
+    "entity_type": "Other",
+    "apprenticeship_programs": "Yes"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.784796,
+     38.765381
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Public Education & Business Coalition (PEBC)",
+    "category": "Workforce Development / Training Providers",
+    "address": "3607 Martin Luther King Jr. Blvd",
+    "city": "Denver",
+    "zip": "80205",
+    "website": "https://www.pebc.org/teacher-preparation/",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 1,
+    "main_fields": "Education, General",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.944574,
+     39.76195
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Pueblo Community College",
+    "category": "Workforce Development / Training Providers",
+    "address": "900 W Orman Ave",
+    "city": "Pueblo",
+    "zip": "81004",
+    "website": "Paramedic to Nursing",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 151,
+    "main_fields": "Precision Metal Working, Computer and Information Sciences, General, Fire Protection",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.636908,
+     38.262006
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Red Rocks Community College",
+    "category": "Workforce Development / Training Providers",
+    "address": "13300 W 6th Ave",
+    "city": "Lakewood",
+    "zip": "80228",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "osm-street-approx",
+    "retrieved": "2026-11-13",
+    "program_count": 56,
+    "main_fields": "Allied Health Diagnostic, Intervention, and Treatment Professions, Environmental Control Technologies/Technicians, Drafting/Design Engineering Technologies/Technicians",
+    "entity_type": "Other",
+    "apprenticeship_programs": "Yes"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.114342,
+     39.725763
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Regis University",
+    "category": "Workforce Development / Training Providers",
+    "address": "3333 Regis Blvd.",
+    "city": "Denver",
+    "zip": "80221",
+    "website": "http://www.regis.edu/RHCHP/Academics/Degrees-and-Programs/Graduate-and-Doctorate-Programs/Doctor-of-Nursing-Practice-Advanced-Practice.aspx",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 119,
+    "main_fields": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing, Computer and Information Sciences, General, Business Administration, Management and Operations",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.031618,
+     39.787582
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Rocky Mountain Laser College",
+    "category": "Workforce Development / Training Providers",
+    "address": "8015 W. Alameda Avenue Suite 220",
+    "city": "Lakewood",
+    "zip": "80226",
+    "website": "http://rockymountainlasercollege.com/college/certified-laser-specialist/",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 1,
+    "main_fields": "Cosmetology and Related Personal Grooming Services",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.086845,
+     39.711072
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Sage Truck Driving Schools",
+    "category": "Workforce Development / Training Providers",
+    "address": "9661 Havana Street",
+    "city": "Henderson",
+    "zip": "80640",
+    "website": "www.sageschools.com",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 3,
+    "main_fields": "Ground Transportation",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.865463,
+     39.873793
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "School of Natural Cookery The",
+    "category": "Workforce Development / Training Providers",
+    "address": "1319 Alpine Ave #33",
+    "city": "Boulder",
+    "zip": "80304",
+    "website": "https://www.naturalcook.training/lifestyle-training/",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 2,
+    "main_fields": "Culinary Arts and Related Services",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.28,
+     40.025568
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Seven Cedars Live & Online Training",
+    "category": "Workforce Development / Training Providers",
+    "address": "3311 Laurel Ln",
+    "city": "Clifton",
+    "zip": "81520",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 1,
+    "main_fields": "Mental and Social Health Services and Allied Professions",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.440423,
+     39.094886
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Skill Distillery",
+    "category": "Workforce Development / Training Providers",
+    "address": "7400 E. Orchard Rd Suite 1450n",
+    "city": "Greenwood Village",
+    "zip": "80111",
+    "website": "http://skilldistillery.com",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 1,
+    "main_fields": "Computer Programming",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.902906,
+     39.609502
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Solar Energy International",
+    "category": "Workforce Development / Training Providers",
+    "address": "39845 Mathews Lane",
+    "city": "Paonia",
+    "zip": "81428",
+    "website": "http://www.solarenergy.org/courses/solar-training-advanced-pv-system-design-and-the-nec-grid-direct-online/",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 28,
+    "main_fields": "Environmental Control Technologies/Technicians",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.614428,
+     38.855338
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Spring Institute for Intercultural Learning",
+    "category": "Workforce Development / Training Providers",
+    "address": "1373 Grant St",
+    "city": "Denver",
+    "zip": "80203",
+    "website": "http://interpreternetwork.org/bridging-the-gap/",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 1,
+    "main_fields": "Linguistic, Comparative, and Related Language Studies and Services",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.983676,
+     39.737986
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "St. Anthony Hospital EMS Institute",
+    "category": "Workforce Development / Training Providers",
+    "address": "34 Van Gordon Street Suite 200",
+    "city": "Lakewood",
+    "zip": "80228",
+    "website": "http://www.sahems.org/SHE/Courses/Paramedic-Academy/",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 1,
+    "main_fields": "Allied Health Diagnostic, Intervention, and Treatment Professions",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.137096,
+     39.715953
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "TNT Construction Training LLC",
+    "category": "Workforce Development / Training Providers",
+    "address": "5541 Hannibal Street",
+    "city": "Denver",
+    "zip": "80239",
+    "website": "http://t-n-t-training.com/tnt2/?page_id=6/home",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 2,
+    "main_fields": "Ground Transportation",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.808955,
+     39.796059
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "TechNation careers",
+    "category": "Workforce Development / Training Providers",
+    "address": "20234 E Lake Circle",
+    "city": "Centennial",
+    "zip": "80016",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 1,
+    "main_fields": "Computer and Information Sciences, General",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.752477,
+     39.606889
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "The Master's Apprentice",
+    "category": "Workforce Development / Training Providers",
+    "address": "646 Mariposa St.",
+    "city": "Denver",
+    "zip": "80204",
+    "website": "www.themastersapprentice.org",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 4,
+    "main_fields": "Construction Trades, General",
+    "entity_type": "Other",
+    "apprenticeship_programs": "Yes"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.002781,
+     39.726573
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Transformance Advisors Inc.",
+    "category": "Workforce Development / Training Providers",
+    "address": "2150 Orchard Ave",
+    "city": "Boulder",
+    "zip": "80304",
+    "website": "https://transformanceadvisors.com/portfolio-view/certified-lean-expert/",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 1,
+    "main_fields": "Business Administration, Management and Operations",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.268672,
+     40.046031
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Trinidad State Junior College",
+    "category": "Workforce Development / Training Providers",
+    "address": "1011 Main Street",
+    "city": "Alamosa",
+    "zip": "81101",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 63,
+    "main_fields": "Business Administration, Management and Operations, Vehicle Maintenance and Repair Technologies/Technicians, Cosmetology and Related Personal Grooming Services",
+    "entity_type": "Other",
+    "apprenticeship_programs": "Yes"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.871749,
+     37.468217
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "True Safety Services",
+    "category": "Workforce Development / Training Providers",
+    "address": "3050 67th Ave. Suite 101",
+    "city": "Greeley",
+    "zip": "80634",
+    "website": "NULL",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 1,
+    "main_fields": "Ground Transportation",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.787018,
+     40.387131
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "UCCS Colorado Cybersecurity Apprenticeship Program (C - CAP)",
+    "category": "Workforce Development / Training Providers",
+    "address": "1420 Austin Bluffs Parkway",
+    "city": "Colorado Springs",
+    "zip": "80918",
+    "website": "https://business.uccs.edu/c-cap",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 1,
+    "main_fields": "Computer Systems Analysis",
+    "entity_type": "Other",
+    "apprenticeship_programs": "Yes"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.800012,
+     38.891238
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "United States Truck Driving School Inc.- Wheat Ridge",
+    "category": "Workforce Development / Training Providers",
+    "address": "8150 W. 48th Avenue",
+    "city": "Wheat Ridge",
+    "zip": "80033",
+    "website": "https://ustruck.com/class-b-cdl-training/",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 2,
+    "main_fields": "Ground Transportation",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.088136,
+     39.783715
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "United Training Academy - Aurora",
+    "category": "Workforce Development / Training Providers",
+    "address": "12500 East Iliff Ave",
+    "city": "Aurora",
+    "zip": "80014",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 14,
+    "main_fields": "Computer/Information Technology Administration and Management, Business Administration, Management and Operations, Computer Software and Media Applications",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.842357,
+     39.674846
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "United Training Academy - CS",
+    "category": "Workforce Development / Training Providers",
+    "address": "4775 Centennial Blvd Suite 103",
+    "city": "Colorado Springs",
+    "zip": "80919",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 7,
+    "main_fields": "Business Administration, Management and Operations, Computer/Information Technology Administration and Management, Computer and Information Sciences, General",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.854369,
+     38.901635
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "University of Colorado Colorado Springs",
+    "category": "Workforce Development / Training Providers",
+    "address": "1420 Austin Bluffs Pkwy 1420 Ab Pk",
+    "city": "Colorado Springs",
+    "zip": "80918",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 4,
+    "main_fields": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing, Computer/Information Technology Administration and Management",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.800012,
+     38.891238
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "University of Colorado Denver - Professional Education",
+    "category": "Workforce Development / Training Providers",
+    "address": "1380 Lawrence Street Cb 106",
+    "city": "Denver",
+    "zip": "80204",
+    "website": "www.aspiretoteach.org",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 1,
+    "main_fields": "Teacher Education and Professional Development, Specific Levels and Methods",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.999157,
+     39.746431
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "University of Denver - non-credit programs",
+    "category": "Workforce Development / Training Providers",
+    "address": "2197 S University Boulevard",
+    "city": "Denver",
+    "zip": "80210",
+    "website": "NULL",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 1,
+    "main_fields": "Computer and Information Sciences, General",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.959465,
+     39.676722
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Western Air Flight Academy",
+    "category": "Workforce Development / Training Providers",
+    "address": "11915 Airport Way Suite 4",
+    "city": "Broomfield",
+    "zip": "80021",
+    "website": "http://www.westernairflightacademy.com/training/certified-flight-instructor/",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 1,
+    "main_fields": "Air Transportation",
+    "entity_type": "Other",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.107662,
+     39.913504
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Western Colorado Community College",
+    "category": "Workforce Development / Training Providers",
+    "address": "2508 Blichmann Ave",
+    "city": "Grand Junction",
+    "zip": "81505",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 51,
+    "main_fields": "Business Administration, Management and Operations, Precision Metal Working, Allied Health Diagnostic, Intervention, and Treatment Professions",
+    "entity_type": "Other",
+    "apprenticeship_programs": "Yes"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.586812,
+     39.096896
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Western Slope Plumbers And Pipefitters Joint Apprenticeship And Journeyman",
+    "category": "Workforce Development / Training Providers",
+    "address": "3168 Pipe Court Suite 100",
+    "city": "Grand Junction",
+    "zip": "81504",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 1,
+    "main_fields": "Plumbing and Related Water Supply Services",
+    "entity_type": "Other",
+    "apprenticeship_programs": "Yes"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.465121,
+     39.061251
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "beo Nurse Aide Training Program",
+    "category": "Workforce Development / Training Providers",
+    "address": "5055 Mark Dabling Blvd",
+    "city": "Colorado Springs",
+    "zip": "80918",
+    "website": "www.beopersonalcare.com",
+    "source": "U.S. DOL TrainingProviderResults.gov - Colorado Eligible Training Provider List (as of 2024-06-30)",
+    "source_url": "https://www.trainingproviderresults.gov/data/DownloadPrograms.xlsx",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "program_count": 2,
+    "main_fields": "Health Professions and Related Clinical Sciences, Other, Agriculture, General",
+    "entity_type": "Private Non-Profit",
+    "apprenticeship_programs": "No"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.824181,
+     38.904214
+    ]
+   }
+  }
+ ]
+}

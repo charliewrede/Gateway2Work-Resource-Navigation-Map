@@ -1,0 +1,878 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Academy VA Clinic",
+    "category": "Veterans Employment and Reentry",
+    "city": "USAF Academy",
+    "zip": "80840",
+    "source": "U.S. Dept. of Veterans Affairs VAST database via HIFLD VHA Medical Facilities (May 2023)",
+    "source_url": "https://services2.arcgis.com/VFLAJVozK0rtzQmT/arcgis/rest/services/Veterans_Health_Administration_Medical_Facilities/FeatureServer/0",
+    "geocode": "source (VA VAST)",
+    "facility_type": "VA Other Outpatient Clinic",
+    "address_note": "4102 Pinion Drive",
+    "va_station": "554QE",
+    "homeless_point_of_contact": "Jen Daly",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.885024,
+     38.99266
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Alamosa VA Clinic",
+    "category": "Veterans Employment and Reentry",
+    "city": "Alamosa",
+    "zip": "81101",
+    "source": "U.S. Dept. of Veterans Affairs VAST database via HIFLD VHA Medical Facilities (May 2023)",
+    "source_url": "https://services2.arcgis.com/VFLAJVozK0rtzQmT/arcgis/rest/services/Veterans_Health_Administration_Medical_Facilities/FeatureServer/0",
+    "geocode": "source (VA VAST)",
+    "facility_type": "VA Primary Care Community Clinic",
+    "address_note": "622 Del Sol Drive",
+    "va_station": "554GF",
+    "homeless_point_of_contact": "Jen Daly",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.902756,
+     37.4796
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Aurora VA Clinic",
+    "category": "Veterans Employment and Reentry",
+    "city": "Aurora",
+    "zip": "80012",
+    "source": "U.S. Dept. of Veterans Affairs VAST database via HIFLD VHA Medical Facilities (May 2023)",
+    "source_url": "https://services2.arcgis.com/VFLAJVozK0rtzQmT/arcgis/rest/services/Veterans_Health_Administration_Medical_Facilities/FeatureServer/0",
+    "geocode": "source (VA VAST)",
+    "facility_type": "VA Primary Care Community Clinic",
+    "address_note": "13701 East Mississippi Avenue",
+    "va_station": "554GB",
+    "homeless_point_of_contact": "Jen Daly",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.832617,
+     39.696718
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Boulder Vet Center",
+    "category": "Veterans Employment and Reentry",
+    "address": "Boulder Vet Center",
+    "city": "Boulder",
+    "zip": "80301",
+    "source": "U.S. Dept. of Veterans Affairs VAST database via HIFLD VHA Medical Facilities (May 2023)",
+    "source_url": "https://services2.arcgis.com/VFLAJVozK0rtzQmT/arcgis/rest/services/Veterans_Health_Administration_Medical_Facilities/FeatureServer/0",
+    "geocode": "source (VA VAST)",
+    "facility_type": "Vet Center (readjustment counseling, employment referral)",
+    "address_note": "4999 Pearl East Circle",
+    "va_station": "0527V",
+    "homeless_point_of_contact": "Jen Daly",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.236953,
+     40.021137
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Burlington VA Clinic",
+    "category": "Veterans Employment and Reentry",
+    "city": "Burlington",
+    "zip": "80807",
+    "source": "U.S. Dept. of Veterans Affairs VAST database via HIFLD VHA Medical Facilities (May 2023)",
+    "source_url": "https://services2.arcgis.com/VFLAJVozK0rtzQmT/arcgis/rest/services/Veterans_Health_Administration_Medical_Facilities/FeatureServer/0",
+    "geocode": "source (VA VAST)",
+    "facility_type": "VA Other Outpatient Clinic",
+    "address_note": "1177 Rose Avenue",
+    "va_station": "554GI",
+    "homeless_point_of_contact": "Jen Daly",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102.264865,
+     39.300928
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado Springs Vet Center",
+    "category": "Veterans Employment and Reentry",
+    "address": "Colorado Springs Vet Center",
+    "city": "Colorado Springs",
+    "zip": "80907",
+    "source": "U.S. Dept. of Veterans Affairs VAST database via HIFLD VHA Medical Facilities (May 2023)",
+    "source_url": "https://services2.arcgis.com/VFLAJVozK0rtzQmT/arcgis/rest/services/Veterans_Health_Administration_Medical_Facilities/FeatureServer/0",
+    "geocode": "source (VA VAST)",
+    "facility_type": "Vet Center (readjustment counseling, employment referral)",
+    "address_note": "3920 N. Union Blvd",
+    "va_station": "0525V",
+    "homeless_point_of_contact": "Jen Daly",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.786752,
+     38.887002
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Denver VA Clinic",
+    "category": "Veterans Employment and Reentry",
+    "address": "Physician Office Building 1",
+    "city": "Denver",
+    "zip": "80220",
+    "source": "U.S. Dept. of Veterans Affairs VAST database via HIFLD VHA Medical Facilities (May 2023)",
+    "source_url": "https://services2.arcgis.com/VFLAJVozK0rtzQmT/arcgis/rest/services/Veterans_Health_Administration_Medical_Facilities/FeatureServer/0",
+    "geocode": "source (VA VAST)",
+    "facility_type": "VA Primary Care Community Clinic",
+    "address_note": "4545 East 9th Avenue",
+    "va_station": "554GJ",
+    "homeless_point_of_contact": "Jen Daly",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.93458,
+     39.731061
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Denver VA Regional Benefit Office (Veteran Readiness & Employment, VR&E)",
+    "category": "Veterans Employment and Reentry",
+    "address": "155 Van Gordon Street",
+    "city": "Lakewood",
+    "zip": "80228",
+    "phone": "303-914-5832",
+    "source": "va.gov Denver VA Regional Benefit Office page; Colorado Division of Veterans Affairs (phone)",
+    "source_url": "https://www.va.gov/denver-va-regional-benefit-office/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "facility_type": "VA benefits office (VR&E Chapter 31 employment services)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.135819,
+     39.717072
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Denver Vet Center",
+    "category": "Veterans Employment and Reentry",
+    "address": "Denver Vet Center",
+    "city": "Denver",
+    "zip": "80230",
+    "source": "U.S. Dept. of Veterans Affairs VAST database via HIFLD VHA Medical Facilities (May 2023)",
+    "source_url": "https://services2.arcgis.com/VFLAJVozK0rtzQmT/arcgis/rest/services/Veterans_Health_Administration_Medical_Facilities/FeatureServer/0",
+    "geocode": "source (VA VAST)",
+    "facility_type": "Vet Center (readjustment counseling, employment referral)",
+    "address_note": "7465 East First Avenue",
+    "va_station": "0504V",
+    "homeless_point_of_contact": "Jen Daly",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.90006,
+     39.719253
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Durango VA Clinic",
+    "category": "Veterans Employment and Reentry",
+    "city": "Durango",
+    "zip": "81301",
+    "source": "U.S. Dept. of Veterans Affairs VAST database via HIFLD VHA Medical Facilities (May 2023)",
+    "source_url": "https://services2.arcgis.com/VFLAJVozK0rtzQmT/arcgis/rest/services/Veterans_Health_Administration_Medical_Facilities/FeatureServer/0",
+    "geocode": "source (VA VAST)",
+    "facility_type": "VA Other Outpatient Clinic",
+    "address_note": "1970 East Third Avenue",
+    "va_station": "501GJ",
+    "homeless_point_of_contact": "Mark Mariglia",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.873059,
+     37.28403
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Evans VA Clinic",
+    "category": "Veterans Employment and Reentry",
+    "city": "Fort Carson",
+    "zip": "80913",
+    "source": "U.S. Dept. of Veterans Affairs VAST database via HIFLD VHA Medical Facilities (May 2023)",
+    "source_url": "https://services2.arcgis.com/VFLAJVozK0rtzQmT/arcgis/rest/services/Veterans_Health_Administration_Medical_Facilities/FeatureServer/0",
+    "geocode": "source (VA VAST)",
+    "facility_type": "VA Other Outpatient Clinic",
+    "address_note": "1650 Cochrane Circle",
+    "va_station": "554QD",
+    "homeless_point_of_contact": "Jen Daly",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.801126,
+     38.719196
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Fort Collins VA Clinic",
+    "category": "Veterans Employment and Reentry",
+    "city": "Fort Collins",
+    "zip": "80526",
+    "source": "U.S. Dept. of Veterans Affairs VAST database via HIFLD VHA Medical Facilities (May 2023)",
+    "source_url": "https://services2.arcgis.com/VFLAJVozK0rtzQmT/arcgis/rest/services/Veterans_Health_Administration_Medical_Facilities/FeatureServer/0",
+    "geocode": "source (VA VAST)",
+    "facility_type": "VA Multi-Specialty Community Clinic",
+    "address_note": "2509 Research Boulevard",
+    "va_station": "442GC",
+    "homeless_point_of_contact": "Tatum Webb",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.087951,
+     40.553874
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Fort Collins Vet Center",
+    "category": "Veterans Employment and Reentry",
+    "address": "Fort Collins Vet Center",
+    "city": "Fort Collins",
+    "zip": "80526",
+    "source": "U.S. Dept. of Veterans Affairs VAST database via HIFLD VHA Medical Facilities (May 2023)",
+    "source_url": "https://services2.arcgis.com/VFLAJVozK0rtzQmT/arcgis/rest/services/Veterans_Health_Administration_Medical_Facilities/FeatureServer/0",
+    "geocode": "source (VA VAST)",
+    "facility_type": "Vet Center (readjustment counseling, employment referral)",
+    "address_note": "702 West Drake Road",
+    "va_station": "0543V",
+    "homeless_point_of_contact": "Tatum Webb",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.089107,
+     40.553109
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Garden of the Gods VA Clinic",
+    "category": "Veterans Employment and Reentry",
+    "city": "Colorado Springs",
+    "zip": "80907",
+    "source": "U.S. Dept. of Veterans Affairs VAST database via HIFLD VHA Medical Facilities (May 2023)",
+    "source_url": "https://services2.arcgis.com/VFLAJVozK0rtzQmT/arcgis/rest/services/Veterans_Health_Administration_Medical_Facilities/FeatureServer/0",
+    "geocode": "source (VA VAST)",
+    "facility_type": "VA Other Outpatient Clinic",
+    "address_note": "1365 Garden of the Gods Road",
+    "va_station": "554QF",
+    "homeless_point_of_contact": "Jen Daly",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.85347,
+     38.896475
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Glenwood Springs VA Clinic",
+    "category": "Veterans Employment and Reentry",
+    "city": "Glenwood Springs",
+    "zip": "81601",
+    "source": "U.S. Dept. of Veterans Affairs VAST database via HIFLD VHA Medical Facilities (May 2023)",
+    "source_url": "https://services2.arcgis.com/VFLAJVozK0rtzQmT/arcgis/rest/services/Veterans_Health_Administration_Medical_Facilities/FeatureServer/0",
+    "geocode": "source (VA VAST)",
+    "facility_type": "VA Primary Care Community Clinic",
+    "address_note": "2425 South Grand Avenue",
+    "va_station": "575QA",
+    "homeless_point_of_contact": "Sarah Robinson",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.325453,
+     39.527831
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Golden VA Clinic",
+    "category": "Veterans Employment and Reentry",
+    "city": "Golden",
+    "zip": "80401",
+    "source": "U.S. Dept. of Veterans Affairs VAST database via HIFLD VHA Medical Facilities (May 2023)",
+    "source_url": "https://services2.arcgis.com/VFLAJVozK0rtzQmT/arcgis/rest/services/Veterans_Health_Administration_Medical_Facilities/FeatureServer/0",
+    "geocode": "source (VA VAST)",
+    "facility_type": "VA Multi-Specialty Community Clinic",
+    "address_note": "1020 Johnson Road",
+    "va_station": "554GC",
+    "homeless_point_of_contact": "Jen Daly",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.199002,
+     39.73374
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Grand Junction 28 Road VA Clinic",
+    "category": "Veterans Employment and Reentry",
+    "city": "Grand Junction",
+    "zip": "81501",
+    "source": "U.S. Dept. of Veterans Affairs VAST database via HIFLD VHA Medical Facilities (May 2023)",
+    "source_url": "https://services2.arcgis.com/VFLAJVozK0rtzQmT/arcgis/rest/services/Veterans_Health_Administration_Medical_Facilities/FeatureServer/0",
+    "geocode": "source (VA VAST)",
+    "facility_type": "VA Other Outpatient Clinic",
+    "address_note": "428 28 Road",
+    "va_station": "575QD",
+    "homeless_point_of_contact": "Sarah Robinson",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.533661,
+     39.063922
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Grand Junction VA Medical Center",
+    "category": "Veterans Employment and Reentry",
+    "city": "Grand Junction",
+    "zip": "81501",
+    "source": "U.S. Dept. of Veterans Affairs VAST database via HIFLD VHA Medical Facilities (May 2023)",
+    "source_url": "https://services2.arcgis.com/VFLAJVozK0rtzQmT/arcgis/rest/services/Veterans_Health_Administration_Medical_Facilities/FeatureServer/0",
+    "geocode": "source (VA VAST)",
+    "facility_type": "VA Medical Center",
+    "address_note": "2121 North Avenue",
+    "va_station": "575",
+    "homeless_point_of_contact": "Sarah Robinson",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.540243,
+     39.077277
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Grand Junction Vet Center",
+    "category": "Veterans Employment and Reentry",
+    "address": "Grand Junction Vet Center",
+    "city": "Grand Junction",
+    "zip": "81505",
+    "source": "U.S. Dept. of Veterans Affairs VAST database via HIFLD VHA Medical Facilities (May 2023)",
+    "source_url": "https://services2.arcgis.com/VFLAJVozK0rtzQmT/arcgis/rest/services/Veterans_Health_Administration_Medical_Facilities/FeatureServer/0",
+    "geocode": "source (VA VAST)",
+    "facility_type": "Vet Center (readjustment counseling, employment referral)",
+    "address_note": "561 25 Road",
+    "va_station": "0526V",
+    "homeless_point_of_contact": "Sarah Robinson",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.589479,
+     39.085988
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Jewell VA Clinic",
+    "category": "Veterans Employment and Reentry",
+    "city": "Aurora",
+    "zip": "80012",
+    "source": "U.S. Dept. of Veterans Affairs VAST database via HIFLD VHA Medical Facilities (May 2023)",
+    "source_url": "https://services2.arcgis.com/VFLAJVozK0rtzQmT/arcgis/rest/services/Veterans_Health_Administration_Medical_Facilities/FeatureServer/0",
+    "geocode": "source (VA VAST)",
+    "facility_type": "VA Other Outpatient Clinic",
+    "address_note": "14400 East Jewell Avenue",
+    "va_station": "554QB",
+    "homeless_point_of_contact": "Jen Daly",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.819823,
+     39.681279
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "La Junta VA Clinic",
+    "category": "Veterans Employment and Reentry",
+    "city": "La Junta",
+    "zip": "81050",
+    "source": "U.S. Dept. of Veterans Affairs VAST database via HIFLD VHA Medical Facilities (May 2023)",
+    "source_url": "https://services2.arcgis.com/VFLAJVozK0rtzQmT/arcgis/rest/services/Veterans_Health_Administration_Medical_Facilities/FeatureServer/0",
+    "geocode": "source (VA VAST)",
+    "facility_type": "VA Primary Care Community Clinic",
+    "address_note": "1100 Carson Avenue",
+    "va_station": "554GG",
+    "homeless_point_of_contact": "Jen Daly",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.548806,
+     37.977564
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Lamar VA Clinic",
+    "category": "Veterans Employment and Reentry",
+    "city": "Lamar",
+    "zip": "81052",
+    "source": "U.S. Dept. of Veterans Affairs VAST database via HIFLD VHA Medical Facilities (May 2023)",
+    "source_url": "https://services2.arcgis.com/VFLAJVozK0rtzQmT/arcgis/rest/services/Veterans_Health_Administration_Medical_Facilities/FeatureServer/0",
+    "geocode": "source (VA VAST)",
+    "facility_type": "VA Other Outpatient Clinic",
+    "address_note": "1401 South Main Street",
+    "va_station": "554GH",
+    "homeless_point_of_contact": "Jen Daly",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102.618086,
+     38.075355
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Loveland VA Clinic",
+    "category": "Veterans Employment and Reentry",
+    "city": "Loveland",
+    "zip": "80538",
+    "source": "U.S. Dept. of Veterans Affairs VAST database via HIFLD VHA Medical Facilities (May 2023)",
+    "source_url": "https://services2.arcgis.com/VFLAJVozK0rtzQmT/arcgis/rest/services/Veterans_Health_Administration_Medical_Facilities/FeatureServer/0",
+    "geocode": "source (VA VAST)",
+    "facility_type": "VA Multi-Specialty Community Clinic",
+    "address_note": "5200 Hahns Peak Drive",
+    "va_station": "442GD",
+    "homeless_point_of_contact": "Tatum Webb",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.003818,
+     40.412649
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Major William Edward Adams Department of Veterans Affairs Clinic",
+    "category": "Veterans Employment and Reentry",
+    "address": "Centennial Mall",
+    "city": "Craig",
+    "zip": "81625",
+    "source": "U.S. Dept. of Veterans Affairs VAST database via HIFLD VHA Medical Facilities (May 2023)",
+    "source_url": "https://services2.arcgis.com/VFLAJVozK0rtzQmT/arcgis/rest/services/Veterans_Health_Administration_Medical_Facilities/FeatureServer/0",
+    "geocode": "source (VA VAST)",
+    "facility_type": "VA Other Outpatient Clinic",
+    "address_note": "1111 West Victory Way",
+    "va_station": "575GB",
+    "homeless_point_of_contact": "Sarah Robinson",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.560291,
+     40.514188
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Montrose VA Clinic",
+    "category": "Veterans Employment and Reentry",
+    "city": "Montrose",
+    "zip": "81401",
+    "source": "U.S. Dept. of Veterans Affairs VAST database via HIFLD VHA Medical Facilities (May 2023)",
+    "source_url": "https://services2.arcgis.com/VFLAJVozK0rtzQmT/arcgis/rest/services/Veterans_Health_Administration_Medical_Facilities/FeatureServer/0",
+    "geocode": "source (VA VAST)",
+    "facility_type": "VA Other Outpatient Clinic",
+    "address_note": "154 Colorado Avenue",
+    "va_station": "575GA",
+    "homeless_point_of_contact": "Sarah Robinson",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.871848,
+     38.470666
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Northern Colorado VA Clinic",
+    "category": "Veterans Employment and Reentry",
+    "city": "Loveland",
+    "zip": "80538",
+    "source": "U.S. Dept. of Veterans Affairs VAST database via HIFLD VHA Medical Facilities (May 2023)",
+    "source_url": "https://services2.arcgis.com/VFLAJVozK0rtzQmT/arcgis/rest/services/Veterans_Health_Administration_Medical_Facilities/FeatureServer/0",
+    "geocode": "source (VA VAST)",
+    "facility_type": "VA Multi-Specialty Community Clinic",
+    "address_note": "4575 Byrd Drive",
+    "va_station": "442GE",
+    "homeless_point_of_contact": "Tatum Webb",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.995925,
+     40.442218
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "PFC Floyd K. Lindstrom Department of Veterans Affairs Clinic",
+    "category": "Veterans Employment and Reentry",
+    "city": "Colorado Springs",
+    "zip": "80907",
+    "source": "U.S. Dept. of Veterans Affairs VAST database via HIFLD VHA Medical Facilities (May 2023)",
+    "source_url": "https://services2.arcgis.com/VFLAJVozK0rtzQmT/arcgis/rest/services/Veterans_Health_Administration_Medical_Facilities/FeatureServer/0",
+    "geocode": "source (VA VAST)",
+    "facility_type": "VA Multi-Specialty Community Clinic",
+    "address_note": "3141 Centennial Boulevard",
+    "va_station": "554GE",
+    "homeless_point_of_contact": "Jen Daly",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.845359,
+     38.874135
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "PFC James Dunn VA Clinic",
+    "category": "Veterans Employment and Reentry",
+    "city": "Pueblo",
+    "zip": "81008",
+    "source": "U.S. Dept. of Veterans Affairs VAST database via HIFLD VHA Medical Facilities (May 2023)",
+    "source_url": "https://services2.arcgis.com/VFLAJVozK0rtzQmT/arcgis/rest/services/Veterans_Health_Administration_Medical_Facilities/FeatureServer/0",
+    "geocode": "source (VA VAST)",
+    "facility_type": "VA Multi-Specialty Community Clinic",
+    "address_note": "4776 Eagleridge Circle",
+    "va_station": "554GD",
+    "homeless_point_of_contact": "Jen Daly",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.619215,
+     38.323352
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Pueblo VA Community Living Center",
+    "category": "Veterans Employment and Reentry",
+    "city": "Pueblo",
+    "zip": "81001",
+    "source": "U.S. Dept. of Veterans Affairs VAST database via HIFLD VHA Medical Facilities (May 2023)",
+    "source_url": "https://services2.arcgis.com/VFLAJVozK0rtzQmT/arcgis/rest/services/Veterans_Health_Administration_Medical_Facilities/FeatureServer/0",
+    "geocode": "source (VA VAST)",
+    "facility_type": "VA Community Living Center",
+    "address_note": "2600 Oakshire Lane",
+    "va_station": "554A4",
+    "homeless_point_of_contact": "Jen Daly",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.564919,
+     38.284452
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Pueblo Vet Center",
+    "category": "Veterans Employment and Reentry",
+    "address": "Pueblo Vet Center",
+    "city": "Pueblo",
+    "zip": "81008",
+    "source": "U.S. Dept. of Veterans Affairs VAST database via HIFLD VHA Medical Facilities (May 2023)",
+    "source_url": "https://services2.arcgis.com/VFLAJVozK0rtzQmT/arcgis/rest/services/Veterans_Health_Administration_Medical_Facilities/FeatureServer/0",
+    "geocode": "source (VA VAST)",
+    "facility_type": "Vet Center (readjustment counseling, employment referral)",
+    "address_note": "1515 Fortino Boulevard",
+    "va_station": "0542V",
+    "homeless_point_of_contact": "Jen Daly",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.627516,
+     38.313036
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Rocky Mountain Regional VA Medical Center",
+    "category": "Veterans Employment and Reentry",
+    "city": "Aurora",
+    "zip": "80045",
+    "source": "U.S. Dept. of Veterans Affairs VAST database via HIFLD VHA Medical Facilities (May 2023)",
+    "source_url": "https://services2.arcgis.com/VFLAJVozK0rtzQmT/arcgis/rest/services/Veterans_Health_Administration_Medical_Facilities/FeatureServer/0",
+    "geocode": "source (VA VAST)",
+    "facility_type": "VA Medical Center",
+    "address_note": "1700 North Wheeling Street",
+    "va_station": "554",
+    "homeless_point_of_contact": "Jen Daly",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.830952,
+     39.744506
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Salida VA Clinic",
+    "category": "Veterans Employment and Reentry",
+    "city": "Salida",
+    "zip": "81201",
+    "source": "U.S. Dept. of Veterans Affairs VAST database via HIFLD VHA Medical Facilities (May 2023)",
+    "source_url": "https://services2.arcgis.com/VFLAJVozK0rtzQmT/arcgis/rest/services/Veterans_Health_Administration_Medical_Facilities/FeatureServer/0",
+    "geocode": "source (VA VAST)",
+    "facility_type": "VA Other Outpatient Clinic",
+    "address_note": "920 Rush Drive",
+    "va_station": "554QC",
+    "homeless_point_of_contact": "Jen Daly",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.007268,
+     38.542686
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Union Boulevard VA Clinic",
+    "category": "Veterans Employment and Reentry",
+    "address": "Premier Health Plaza",
+    "city": "Colorado Springs",
+    "zip": "80907",
+    "source": "U.S. Dept. of Veterans Affairs VAST database via HIFLD VHA Medical Facilities (May 2023)",
+    "source_url": "https://services2.arcgis.com/VFLAJVozK0rtzQmT/arcgis/rest/services/Veterans_Health_Administration_Medical_Facilities/FeatureServer/0",
+    "geocode": "source (VA VAST)",
+    "facility_type": "VA Other Outpatient Clinic",
+    "address_note": "3920 North Union Boulevard",
+    "va_station": "554GK",
+    "homeless_point_of_contact": "Jen Daly",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.787491,
+     38.887668
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Valor Point VA Domiciliary",
+    "category": "Veterans Employment and Reentry",
+    "city": "Lakewood",
+    "zip": "80227",
+    "source": "U.S. Dept. of Veterans Affairs VAST database via HIFLD VHA Medical Facilities (May 2023)",
+    "source_url": "https://services2.arcgis.com/VFLAJVozK0rtzQmT/arcgis/rest/services/Veterans_Health_Administration_Medical_Facilities/FeatureServer/0",
+    "geocode": "source (VA VAST)",
+    "facility_type": "VA Domiciliary Residential Rehabilitation (incl. homeless veterans)",
+    "address_note": "7350 West Eastman Place",
+    "va_station": "554BU",
+    "homeless_point_of_contact": "Jen Daly",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.077763,
+     39.659151
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Western Colorado VA Mobile Clinic",
+    "category": "Veterans Employment and Reentry",
+    "city": "Grand Junction",
+    "zip": "81501",
+    "source": "U.S. Dept. of Veterans Affairs VAST database via HIFLD VHA Medical Facilities (May 2023)",
+    "source_url": "https://services2.arcgis.com/VFLAJVozK0rtzQmT/arcgis/rest/services/Veterans_Health_Administration_Medical_Facilities/FeatureServer/0",
+    "geocode": "source (VA VAST)",
+    "facility_type": "VA Other Outpatient Clinic",
+    "address_note": "2121 North Avenue",
+    "va_station": "575QE",
+    "homeless_point_of_contact": "Sarah Robinson",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.540252,
+     39.077269
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "York Street VA Clinic",
+    "category": "Veterans Employment and Reentry",
+    "address": "Community Resource & Referral Center (CRRC)",
+    "city": "Denver",
+    "zip": "80205",
+    "source": "U.S. Dept. of Veterans Affairs VAST database via HIFLD VHA Medical Facilities (May 2023)",
+    "source_url": "https://services2.arcgis.com/VFLAJVozK0rtzQmT/arcgis/rest/services/Veterans_Health_Administration_Medical_Facilities/FeatureServer/0",
+    "geocode": "source (VA VAST)",
+    "facility_type": "VA Other Outpatient Clinic",
+    "address_note": "3836 York Street",
+    "va_station": "554QA",
+    "homeless_point_of_contact": "Jen Daly",
+    "retrieved": "2026-11-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.959712,
+     39.769569
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,1655 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Adams County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "12200 Pecos St., Suite 200",
+    "city": "Westminster",
+    "zip": "80234",
+    "county": "Adams",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/courts/trial-courts/adams-county/adams-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Adams, Broomfield"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.00467,
+     39.918021
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Alamosa County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "8955 Independence Way",
+    "city": "Alamosa",
+    "zip": "81101",
+    "county": "Alamosa",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/courts/trial-courts/alamosa-county/alamosa-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Alamosa"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.878073,
+     37.447163
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Alamosa Parole Office (CDOC Division of Adult Parole)",
+    "category": "Probation and Parole Offices",
+    "city": "Alamosa",
+    "source": "WAGEES Adult Parole Locations list (office city only)",
+    "source_url": "https://wageesco.org/find-by-location/",
+    "geocode": "APPROXIMATE - city center (street address not available)",
+    "retrieved": "2026-11-13",
+    "office_type": "Parole (CDOC Division of Adult Parole)",
+    "counties_served": "Alamosa, Conejos, Costilla, Mineral, Rio Grande, Saguache",
+    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.867835,
+     37.468201
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Arapahoe County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "7305 S. Potomac Street, 2nd Flr.",
+    "city": "Centennial",
+    "zip": "80112",
+    "county": "Arapahoe",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/courts/trial-courts/arapahoe-county/arapahoe-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Arapahoe"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.829474,
+     39.581984
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Archuleta County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "109 Harman Park Drive",
+    "city": "Pagosa Springs",
+    "zip": "81147",
+    "county": "Archuleta",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/location/archuleta-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Archuleta"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.051384,
+     37.266656
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Aurora Parole Office (CDOC Division of Adult Parole)",
+    "category": "Probation and Parole Offices",
+    "address": "14100 E Exposition Avenue",
+    "city": "Aurora",
+    "zip": "80012",
+    "source": "WAGEES Adult Parole Locations list; street address: third-party reentry directory (possibly dated)",
+    "source_url": "https://wageesco.org/find-by-location/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Parole (CDOC Division of Adult Parole)",
+    "counties_served": "Aurora",
+    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.824942,
+     39.703827
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Bent County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "725 Bent Ave., Bent County Courthouse",
+    "city": "Las Animas",
+    "zip": "81054",
+    "county": "Bent",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/courts/trial-courts/bent-county/bent-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Bent"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.22006,
+     38.065905
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Boulder County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "1777 6th Street",
+    "city": "Boulder",
+    "zip": "80302",
+    "county": "Boulder",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/courts/trial-courts/boulder-county/boulder-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Boulder"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.287299,
+     40.013982
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Canon City Parole Office (CDOC Division of Adult Parole)",
+    "category": "Probation and Parole Offices",
+    "city": "Canon City",
+    "source": "WAGEES Adult Parole Locations list (office city only)",
+    "source_url": "https://wageesco.org/find-by-location/",
+    "geocode": "APPROXIMATE - city center (street address not available)",
+    "retrieved": "2026-11-13",
+    "office_type": "Parole (CDOC Division of Adult Parole)",
+    "counties_served": "Fremont area",
+    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.23488,
+     38.442251
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Chaffee County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "645 W. 3rd Street",
+    "city": "Salida",
+    "zip": "81201",
+    "county": "Chaffee",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/courts/trial-courts/chaffee-county/chaffee-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Chaffee"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.998101,
+     38.538423
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Clear Creek Probation",
+    "category": "Probation and Parole Offices",
+    "address": "405 Argentine St.",
+    "city": "Georgetown",
+    "zip": "80444",
+    "county": "Clear Creek",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/location/clear-creek-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Clear Creek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.698352,
+     39.705249
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colorado Springs Parole Office (CDOC Division of Adult Parole)",
+    "category": "Probation and Parole Offices",
+    "address": "888 Garden of the Gods Road",
+    "city": "Colorado Springs",
+    "zip": "80907",
+    "source": "WAGEES Adult Parole Locations list; street address: Waze/MapQuest listings 'Adult Parole Supervision Division'",
+    "source_url": "https://wageesco.org/find-by-location/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Parole (CDOC Division of Adult Parole)",
+    "counties_served": "El Paso area"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.843944,
+     38.896729
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Conejos County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "12987 CR G.6",
+    "city": "Conejos",
+    "zip": "81129",
+    "county": "Conejos",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/location/conejos-county-probation",
+    "geocode": "osm-nominatim",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Conejos"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.021933,
+     37.088423
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Costilla County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "304 Main",
+    "city": "San Luis",
+    "zip": "81152",
+    "county": "Costilla",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/courts/trial-courts/costilla-county/costilla-county-probation",
+    "geocode": "manual",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Costilla"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.423769,
+     37.201236
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Craig Parole Office (CDOC Division of Adult Parole)",
+    "category": "Probation and Parole Offices",
+    "city": "Craig",
+    "source": "WAGEES Adult Parole Locations list (office city only)",
+    "source_url": "https://wageesco.org/find-by-location/",
+    "geocode": "APPROXIMATE - city center (street address not available)",
+    "retrieved": "2026-11-13",
+    "office_type": "Parole (CDOC Division of Adult Parole)",
+    "counties_served": "Eagle, Moffat, Rio Blanco, Routt",
+    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.546454,
+     40.515249
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Crowley County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "110 East 6th Street, Room 302",
+    "city": "Ordway",
+    "zip": "81063",
+    "county": "Crowley",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/courts/trial-courts/crowley-county/crowley-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Crowley"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.756477,
+     38.221668
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Custer County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "205 South 6th Street, Custer County Courthouse, 2nd floor, on left",
+    "city": "Westcliffe",
+    "zip": "81252",
+    "county": "Custer",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/courts/trial-courts/custer-county/custer-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Custer"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.463709,
+     38.134029
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Delta County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "540 Columbia Street Suite B",
+    "city": "Delta",
+    "zip": "81416",
+    "county": "Delta",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/courts/trial-courts/delta-county/delta-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Delta"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.074881,
+     38.73978
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Denver Adult Probation",
+    "category": "Probation and Parole Offices",
+    "address": "303 W Colfax Avenue, 5th Floor",
+    "city": "Denver",
+    "zip": "80204",
+    "county": "Denver",
+    "phone": "303-607-7104",
+    "source": "Colorado Judicial Branch, Denver Adult Probation location listing",
+    "source_url": "https://www.coloradojudicial.gov/location/denver-adult-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Denver (district court); Denver County Court probation: 720-913-8300"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.991752,
+     39.740182
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Denver Parole Office (CDOC Division of Adult Parole)",
+    "category": "Probation and Parole Offices",
+    "address": "940 Broadway",
+    "city": "Denver",
+    "zip": "80203",
+    "source": "WAGEES Adult Parole Locations list; street address: CDOC parole offices page (Adult Parole Headquarters, 303-763-2420)",
+    "source_url": "https://wageesco.org/find-by-location/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Parole (CDOC Division of Adult Parole)",
+    "counties_served": "Denver"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.987329,
+     39.731113
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Dolores County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "409 N. Main Street",
+    "city": "Dove Creek",
+    "zip": "81324",
+    "county": "Dolores",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/courts/trial-courts/dolores-county/dolores-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Dolores"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.903895,
+     37.767456
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Douglas County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "4000 Justice Way",
+    "city": "Castle Rock",
+    "zip": "80104",
+    "county": "Douglas",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/courts/trial-courts/douglas-county/douglas-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Douglas"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.866075,
+     39.404293
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Durango Parole Office (CDOC Division of Adult Parole)",
+    "category": "Probation and Parole Offices",
+    "city": "Durango",
+    "source": "WAGEES Adult Parole Locations list (office city only)",
+    "source_url": "https://wageesco.org/find-by-location/",
+    "geocode": "APPROXIMATE - city center (street address not available)",
+    "retrieved": "2026-11-13",
+    "office_type": "Parole (CDOC Division of Adult Parole)",
+    "counties_served": "Archuleta, Dolores, La Plata, Montezuma, San Juan",
+    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.8766,
+     37.276948
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Eagle County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "885 Chambers, Suite B",
+    "city": "Eagle",
+    "zip": "81631",
+    "county": "Eagle",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/courts/trial-courts/eagle-county/eagle-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Eagle"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.818187,
+     39.663236
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "El Paso County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "270 S. Tejon St., Ste. W200",
+    "city": "Colorado Springs",
+    "zip": "80903",
+    "county": "El Paso",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/location/el-paso-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "El Paso"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.823767,
+     38.830066
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Elbert County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "751 Ute Street",
+    "city": "Kiowa",
+    "zip": "80117",
+    "county": "Elbert",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/courts/trial-courts/elbert-county/elbert-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Elbert"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.463522,
+     39.34615
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Englewood Parole Office (CDOC Division of Adult Parole)",
+    "category": "Probation and Parole Offices",
+    "city": "Englewood",
+    "source": "WAGEES Adult Parole Locations list (office city only)",
+    "source_url": "https://wageesco.org/find-by-location/",
+    "geocode": "APPROXIMATE - city center (street address not available)",
+    "retrieved": "2026-11-13",
+    "office_type": "Parole (CDOC Division of Adult Parole)",
+    "counties_served": "Arapahoe, Douglas, Elbert, south Jefferson",
+    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.987964,
+     39.648206
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Fort Collins Parole Office (CDOC Division of Adult Parole)",
+    "category": "Probation and Parole Offices",
+    "address": "3000 S College Avenue",
+    "city": "Fort Collins",
+    "zip": "80525",
+    "source": "WAGEES Adult Parole Locations list; street address: MapQuest listing 'Adult Parole Division'",
+    "source_url": "https://wageesco.org/find-by-location/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Parole (CDOC Division of Adult Parole)",
+    "counties_served": "Larimer, Jackson"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.0769,
+     40.5463
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Fremont County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "136 Justice Center Road #104",
+    "city": "Canon City",
+    "zip": "81212",
+    "county": "Fremont",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/courts/trial-courts/fremont-county/fremont-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Fremont"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.183186,
+     38.445586
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Garfield County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "109 8th Street, Suite 400",
+    "city": "Glenwood Springs",
+    "zip": "81601",
+    "county": "Garfield",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/courts/trial-courts/garfield-county/garfield-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Garfield"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.326421,
+     39.546782
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Gilpin County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "11011 W. 6th Avenue, Suite 320",
+    "city": "Lakewood",
+    "zip": "80215",
+    "county": "Gilpin",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/courts/trial-courts/gilpin-county/gilpin-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Gilpin"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.119662,
+     39.725811
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Grand County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "307 Moffat Avenue",
+    "city": "Hot Sulphur Springs",
+    "zip": "80451",
+    "county": "Grand",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/courts/trial-courts/grand-county/grand-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Grand"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.097662,
+     40.071814
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Grand Junction Parole Office (CDOC Division of Adult Parole)",
+    "category": "Probation and Parole Offices",
+    "city": "Grand Junction",
+    "source": "WAGEES Adult Parole Locations list (office city only)",
+    "source_url": "https://wageesco.org/find-by-location/",
+    "geocode": "APPROXIMATE - city center (street address not available)",
+    "retrieved": "2026-11-13",
+    "office_type": "Parole (CDOC Division of Adult Parole)",
+    "counties_served": "Delta, Garfield, Gunnison, Hinsdale, Mesa, Montrose, Ouray, Pitkin, San Miguel",
+    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.56448,
+     39.067257
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Greeley Parole Office (CDOC Division of Adult Parole)",
+    "category": "Probation and Parole Offices",
+    "city": "Greeley",
+    "source": "WAGEES Adult Parole Locations list (office city only)",
+    "source_url": "https://wageesco.org/find-by-location/",
+    "geocode": "APPROXIMATE - city center (street address not available)",
+    "retrieved": "2026-11-13",
+    "office_type": "Parole (CDOC Division of Adult Parole)",
+    "counties_served": "Northern and eastern Weld",
+    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.709132,
+     40.423314
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Gunnison County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "200 E Virginia Ave, Gunnison County Courthouse",
+    "city": "Gunnison",
+    "zip": "81230",
+    "county": "Gunnison",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/courts/trial-courts/gunnison-county/gunnison-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Gunnison"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.925548,
+     38.545582
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Huerfano County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "200 W. 5th. St., Suite #121",
+    "city": "Walsenburg",
+    "zip": "81089",
+    "county": "Huerfano",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/courts/trial-courts/huerfano-county/huerfano-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Huerfano"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.782901,
+     37.6242
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Jefferson County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "100 Jefferson County Parkway, Suite 2070",
+    "city": "Golden",
+    "zip": "80401",
+    "county": "Jefferson",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/courts/trial-courts/jefferson-county/jefferson-county-probation",
+    "geocode": "osm-nominatim",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Jefferson"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.20166,
+     39.728181
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Kit Carson County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "1650 Donelan Avenue, Suite 104",
+    "city": "Burlington",
+    "zip": "80807",
+    "county": "Kit Carson",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/courts/trial-courts/kit-carson-county/kit-carson-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Kit Carson"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102.271363,
+     39.302354
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "La Junta Parole Office (CDOC Division of Adult Parole)",
+    "category": "Probation and Parole Offices",
+    "city": "La Junta",
+    "source": "WAGEES Adult Parole Locations list (office city only)",
+    "source_url": "https://wageesco.org/find-by-location/",
+    "geocode": "APPROXIMATE - city center (street address not available)",
+    "retrieved": "2026-11-13",
+    "office_type": "Parole (CDOC Division of Adult Parole)",
+    "counties_served": "Baca, Bent, Cheyenne, Crowley, Huerfano, Kiowa, Kit Carson, Las Animas, Lincoln, Otero, Prowers",
+    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.543832,
+     37.985009
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "La Plata Probation",
+    "category": "Probation and Parole Offices",
+    "address": "1060 East Second Ave, Suite 107",
+    "city": "Durango",
+    "zip": "81301",
+    "county": "La Plata",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/location/la-plata-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "La Plata"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.878722,
+     37.274822
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Lake County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "1205 Harrison Avenue",
+    "city": "Leadville",
+    "zip": "80461",
+    "county": "Lake",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/location/lake-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Lake"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.293764,
+     39.253589
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Larimer County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "1600 Prospect Park Way, Suite 109",
+    "city": "Fort Collins",
+    "zip": "80525",
+    "county": "Larimer",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/courts/trial-courts/larimer-county/larimer-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Larimer"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.033531,
+     40.565368
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Las Animas County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "200 E. 1st Street, Room 303",
+    "city": "Trinidad",
+    "zip": "81082",
+    "county": "Las Animas",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/courts/trial-courts/las-animas-county/las-animas-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Las Animas"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.503736,
+     37.168422
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Lincoln County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "103 3rd Avenue",
+    "city": "Hugo",
+    "zip": "80821",
+    "county": "Lincoln",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/courts/trial-courts/lincoln-county/lincoln-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Lincoln"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.472498,
+     39.132559
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Logan County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "110 N. Riverview Road, Room 100",
+    "city": "Sterling",
+    "zip": "80751",
+    "county": "Logan",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/courts/trial-courts/logan-county/logan-county-probation",
+    "geocode": "osm-street-approx",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Logan"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.179255,
+     40.624285
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Longmont Parole Office (CDOC Division of Adult Parole)",
+    "category": "Probation and Parole Offices",
+    "city": "Longmont",
+    "source": "WAGEES Adult Parole Locations list (office city only)",
+    "source_url": "https://wageesco.org/find-by-location/",
+    "geocode": "APPROXIMATE - city center (street address not available)",
+    "retrieved": "2026-11-13",
+    "office_type": "Parole (CDOC Division of Adult Parole)",
+    "counties_served": "Boulder, southern Weld",
+    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.101928,
+     40.167212
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Mesa County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "200 S. Spruce Street",
+    "city": "Grand Junction",
+    "zip": "81501",
+    "county": "Mesa",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/location/mesa-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Mesa"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.572261,
+     39.06682
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Moffat County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "1198 W. Victory Way, STE 208",
+    "city": "Craig",
+    "zip": "81625",
+    "county": "Moffat",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/courts/trial-courts/moffat-county/moffat-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Moffat"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.561595,
+     40.514123
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Montezuma County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "865 North Park, Suite #200",
+    "city": "Cortez",
+    "zip": "81321",
+    "county": "Montezuma",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/location/montezuma-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Montezuma"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.575087,
+     37.357636
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Montrose County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "1200 North Grand Avenue, Montrose County Courts Building",
+    "city": "Montrose",
+    "zip": "81401",
+    "county": "Montrose",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/courts/trial-courts/montrose-county/montrose-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Montrose, Hinsdale, Ouray"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.891486,
+     38.489077
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Montrose Parole Office (CDOC Division of Adult Parole)",
+    "category": "Probation and Parole Offices",
+    "city": "Montrose",
+    "source": "WAGEES Adult Parole Locations list (office city only)",
+    "source_url": "https://wageesco.org/find-by-location/",
+    "geocode": "APPROXIMATE - city center (street address not available)",
+    "retrieved": "2026-11-13",
+    "office_type": "Parole (CDOC Division of Adult Parole)",
+    "counties_served": "Montrose area",
+    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.876277,
+     38.478193
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Morgan County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "400 Warner Street",
+    "city": "Fort Morgan",
+    "zip": "80701",
+    "county": "Morgan",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/courts/trial-courts/morgan-county/morgan-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Morgan"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.790527,
+     40.251999
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Park County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "300 4th Street",
+    "city": "Fairplay",
+    "zip": "80440",
+    "county": "Park",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/courts/trial-courts/park-county/park-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Park"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.002546,
+     39.226156
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Phillips County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "221 S. Interocean Ave.",
+    "city": "Holyoke",
+    "zip": "80734",
+    "county": "Phillips",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/courts/trial-courts/phillips-county/phillips-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Phillips"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102.302179,
+     40.584317
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Pitkin County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "506 East Main Street",
+    "city": "Aspen",
+    "zip": "81611",
+    "county": "Pitkin",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/courts/trial-courts/pitkin-county/pitkin-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Pitkin"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.817911,
+     39.190452
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Prowers County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "301 South Main St., #110",
+    "city": "Lamar",
+    "zip": "81052",
+    "county": "Prowers",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/courts/trial-courts/prowers-county/prowers-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Prowers, Baca, Cheyenne, Kiowa"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102.618978,
+     38.087113
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Pueblo County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "501 N. Elizabeth Street, Suite 205",
+    "city": "Pueblo",
+    "zip": "81003",
+    "county": "Pueblo",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/courts/trial-courts/pueblo-county/pueblo-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Pueblo"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.614691,
+     38.271566
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Pueblo Parole Office (CDOC Division of Adult Parole)",
+    "category": "Probation and Parole Offices",
+    "city": "Pueblo",
+    "source": "WAGEES Adult Parole Locations list (office city only)",
+    "source_url": "https://wageesco.org/find-by-location/",
+    "geocode": "APPROXIMATE - city center (street address not available)",
+    "retrieved": "2026-11-13",
+    "office_type": "Parole (CDOC Division of Adult Parole)",
+    "counties_served": "Pueblo area",
+    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.614187,
+     38.263995
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Rifle Parole Office (CDOC Division of Adult Parole)",
+    "category": "Probation and Parole Offices",
+    "city": "Rifle",
+    "source": "WAGEES Adult Parole Locations list (office city only)",
+    "source_url": "https://wageesco.org/find-by-location/",
+    "geocode": "APPROXIMATE - city center (street address not available)",
+    "retrieved": "2026-11-13",
+    "office_type": "Parole (CDOC Division of Adult Parole)",
+    "counties_served": "Eagle, Garfield",
+    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.78312,
+     39.534702
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Rio Blanco County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "555 Main Street",
+    "city": "Meeker",
+    "zip": "81641",
+    "county": "Rio Blanco",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/courts/trial-courts/rio-blanco-county/rio-blanco-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Rio Blanco"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.913079,
+     40.037505
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Rio Grande County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "925 Sixth St., Room 203",
+    "city": "Del Norte",
+    "zip": "81132",
+    "county": "Rio Grande",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/courts/trial-courts/rio-grande-county/rio-grande-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Rio Grande"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.350298,
+     37.677372
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Routt County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "1955 Shield Drive, Unit 100",
+    "city": "Steamboat Springs",
+    "zip": "80487",
+    "county": "Routt",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/courts/trial-courts/routt-county/routt-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Routt"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.858649,
+     40.501129
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "San Miguel County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "305 West Colorado Ave",
+    "city": "Telluride",
+    "zip": "81435",
+    "county": "San Miguel",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/courts/trial-courts/san-miguel-county/san-miguel-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "San Miguel"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.812255,
+     37.937594
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Sterling Parole Office (CDOC Division of Adult Parole)",
+    "category": "Probation and Parole Offices",
+    "city": "Sterling",
+    "source": "WAGEES Adult Parole Locations list (office city only)",
+    "source_url": "https://wageesco.org/find-by-location/",
+    "geocode": "APPROXIMATE - city center (street address not available)",
+    "retrieved": "2026-11-13",
+    "office_type": "Parole (CDOC Division of Adult Parole)",
+    "counties_served": "Morgan, Logan, Sedgwick, Phillips, Washington, Yuma",
+    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.207709,
+     40.625541
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Summit County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "504 Airport Road",
+    "city": "Breckenridge",
+    "zip": "80424",
+    "county": "Summit",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/location/summit-county-probation",
+    "geocode": "osm-nominatim",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Summit"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.047911,
+     39.491023
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Teller County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "400 West Midland Avenue, Ste 274, Woodland Park Professional Building",
+    "city": "Woodland Park",
+    "zip": "80863",
+    "county": "Teller",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/location/teller-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Teller"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.056916,
+     38.994175
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Washington County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "26861 Highway 34",
+    "city": "Akron",
+    "zip": "80720",
+    "county": "Washington",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/courts/trial-courts/washington-county/washington-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Washington"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.192013,
+     40.15682
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Weld County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "822 7th Street, Suite 200",
+    "city": "Greeley",
+    "zip": "80631",
+    "county": "Weld",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/courts/trial-courts/weld-county/weld-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Weld"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.691249,
+     40.425785
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Westminster Parole Office (CDOC Division of Adult Parole)",
+    "category": "Probation and Parole Offices",
+    "city": "Westminster",
+    "source": "WAGEES Adult Parole Locations list (office city only)",
+    "source_url": "https://wageesco.org/find-by-location/",
+    "geocode": "APPROXIMATE - city center (street address not available)",
+    "retrieved": "2026-11-13",
+    "office_type": "Parole (CDOC Division of Adult Parole)",
+    "counties_served": "Adams, Broomfield, Clear Creek, Gilpin, Grand, north Jefferson, Summit",
+    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.037205,
+     39.836653
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Yuma County Probation",
+    "category": "Probation and Parole Offices",
+    "address": "340 South Birch, Suite 2",
+    "city": "Wray",
+    "zip": "80758",
+    "county": "Yuma",
+    "source": "Colorado Judicial Branch, county probation location page",
+    "source_url": "https://www.coloradojudicial.gov/courts/trial-courts/yuma-county/yuma-county-probation",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "office_type": "Probation (Colorado Judicial Branch)",
+    "counties_served": "Yuma"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102.219302,
+     40.078535
+    ]
+   }
+  }
+ ]
+}

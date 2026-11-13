@@ -1,0 +1,430 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "AllHealth Network (not a CBHC member)",
+    "category": "Community Mental Health and Disability Employment Providers",
+    "address": "116 Inverness Drive E",
+    "city": "Englewood",
+    "zip": "80112",
+    "website": "https://www.allhealthnetwork.org",
+    "services": "Community mental health / safety-net behavioral health; many run IPS supported employment",
+    "source": "CBHC provider-by-county list; main-office address from provider website",
+    "source_url": "https://www.cbhc.org/find-services/behavioral-health-providers/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "counties_served": "Douglas, Arapahoe (non-Aurora)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.865292,
+     39.579122
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Aurora Mental Health and Recovery",
+    "category": "Community Mental Health and Disability Employment Providers",
+    "address": "1290 S Potomac Street",
+    "city": "Aurora",
+    "zip": "80012",
+    "phone": "303-617-2300",
+    "website": "https://www.auroramhr.org",
+    "services": "Community mental health / safety-net behavioral health; many run IPS supported employment",
+    "source": "CBHC provider-by-county list; main-office address from provider website",
+    "source_url": "https://www.cbhc.org/find-services/behavioral-health-providers/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "counties_served": "Arapahoe (Aurora)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.831447,
+     39.693137
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Axis Health System (not a CBHC member)",
+    "category": "Community Mental Health and Disability Employment Providers",
+    "address": "1125 Three Springs Boulevard",
+    "city": "Durango",
+    "zip": "81301",
+    "phone": "970-259-2162",
+    "website": "https://www.axishealthsystem.org",
+    "services": "Community mental health / safety-net behavioral health; many run IPS supported employment",
+    "source": "CBHC provider-by-county list; main-office address from NPI registry practice address - CONFIRM (other listings: 185 Suttle St, 281 Sawyer Dr)",
+    "source_url": "https://www.cbhc.org/find-services/behavioral-health-providers/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "counties_served": "Archuleta, Dolores, La Plata, Montezuma, San Juan",
+    "status_note": "Main office address conflicting across sources; confirm."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.824719,
+     37.23491
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Centennial Mental Health Center (administration)",
+    "category": "Community Mental Health and Disability Employment Providers",
+    "address": "211 W Main Street, Suite 1",
+    "city": "Sterling",
+    "zip": "80751",
+    "phone": "970-522-4549",
+    "website": "https://www.centennialmhc.org",
+    "services": "Community mental health / safety-net behavioral health; many run IPS supported employment",
+    "source": "CBHC provider-by-county list; main-office address from provider website",
+    "source_url": "https://www.cbhc.org/find-services/behavioral-health-providers/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "counties_served": "Cheyenne, Elbert, Kit Carson, Lincoln, Logan, Morgan, Phillips, Sedgwick, Washington, Yuma"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.214312,
+     40.625371
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Clinica Family Health & Wellness (behavioral health, formerly Mental Health Partners)",
+    "category": "Community Mental Health and Disability Employment Providers",
+    "address": "1735 S Public Road",
+    "city": "Lafayette",
+    "zip": "80026",
+    "phone": "303-650-4460",
+    "website": "https://www.clinica.org",
+    "services": "Community mental health / safety-net behavioral health; many run IPS supported employment",
+    "source": "CBHC provider-by-county list; main-office address from provider website",
+    "source_url": "https://www.cbhc.org/find-services/behavioral-health-providers/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "counties_served": "Boulder, Broomfield"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.090579,
+     39.983106
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Community Reach Center",
+    "category": "Community Mental Health and Disability Employment Providers",
+    "address": "8989 Huron Street",
+    "city": "Thornton",
+    "zip": "80260",
+    "phone": "303-853-3500",
+    "website": "https://www.communityreachcenter.org",
+    "services": "Community mental health / safety-net behavioral health; many run IPS supported employment",
+    "source": "CBHC provider-by-county list; main-office address from provider website",
+    "source_url": "https://www.cbhc.org/find-services/behavioral-health-providers/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "counties_served": "Adams"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.99674,
+     39.858849
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Diversus Health",
+    "category": "Community Mental Health and Disability Employment Providers",
+    "address": "115 S Parkside Drive",
+    "city": "Colorado Springs",
+    "zip": "80910",
+    "phone": "719-572-6100",
+    "website": "https://diversushealth.org",
+    "services": "Community mental health / safety-net behavioral health; many run IPS supported employment",
+    "source": "CBHC provider-by-county list; main-office address from provider website",
+    "source_url": "https://www.cbhc.org/find-services/behavioral-health-providers/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "counties_served": "El Paso, Teller, Park (from provider's own site list; CBHC page lists these two providers swapped)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.785503,
+     38.829893
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Health Solutions",
+    "category": "Community Mental Health and Disability Employment Providers",
+    "address": "41 Montebello Road",
+    "city": "Pueblo",
+    "zip": "81001",
+    "phone": "719-545-2746",
+    "website": "https://www.health.solutions",
+    "services": "Community mental health / safety-net behavioral health; many run IPS supported employment",
+    "source": "CBHC provider-by-county list; main-office address from provider website",
+    "source_url": "https://www.cbhc.org/find-services/behavioral-health-providers/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "counties_served": "Huerfano, Las Animas, Pueblo"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.598257,
+     38.305717
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Health Solutions West (formerly Mind Springs Health)",
+    "category": "Community Mental Health and Disability Employment Providers",
+    "address": "515 28 3/4 Road",
+    "city": "Grand Junction",
+    "zip": "81501",
+    "phone": "877-603-7045",
+    "website": "https://www.healthsolutionswest.org",
+    "services": "Community mental health / safety-net behavioral health; many run IPS supported employment",
+    "source": "CBHC provider-by-county list; main-office address from NPI registry + directory listings (acquired by Health Solutions)",
+    "source_url": "https://www.cbhc.org/find-services/behavioral-health-providers/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "counties_served": "Eagle, Garfield, Grand, Jackson, Mesa, Moffat, Pitkin, Rio Blanco, Routt, Summit"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.519899,
+     39.079527
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Jefferson Center for Mental Health",
+    "category": "Community Mental Health and Disability Employment Providers",
+    "address": "4851 Independence Street",
+    "city": "Wheat Ridge",
+    "zip": "80033",
+    "phone": "303-425-0300",
+    "website": "https://www.jcmh.org",
+    "services": "Community mental health / safety-net behavioral health; many run IPS supported employment",
+    "source": "CBHC provider-by-county list; main-office address from provider website",
+    "source_url": "https://www.cbhc.org/find-services/behavioral-health-providers/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "counties_served": "Jefferson, Clear Creek, Gilpin"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.104949,
+     39.784983
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "North Range Behavioral Health",
+    "category": "Community Mental Health and Disability Employment Providers",
+    "address": "1306 11th Avenue",
+    "city": "Greeley",
+    "zip": "80631",
+    "phone": "970-347-2120",
+    "website": "https://northrange.org",
+    "services": "Community mental health / safety-net behavioral health; many run IPS supported employment",
+    "source": "CBHC provider-by-county list; main-office address from provider website",
+    "source_url": "https://www.cbhc.org/find-services/behavioral-health-providers/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "counties_served": "Weld"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.696226,
+     40.418312
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "San Luis Valley Behavioral Health Group",
+    "category": "Community Mental Health and Disability Employment Providers",
+    "address": "8745 County Road 9 South",
+    "city": "Alamosa",
+    "zip": "81101",
+    "phone": "719-589-3671",
+    "website": "https://www.slvbhg.org",
+    "services": "Community mental health / safety-net behavioral health; many run IPS supported employment",
+    "source": "CBHC provider-by-county list; main-office address from provider website",
+    "source_url": "https://www.cbhc.org/find-services/behavioral-health-providers/",
+    "geocode": "osm-nominatim",
+    "retrieved": "2026-11-13",
+    "counties_served": "Alamosa, Conejos, Costilla, Mineral, Rio Grande, Saguache"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.878828,
+     37.44442
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Servicios de La Raza (behavioral health)",
+    "category": "Community Mental Health and Disability Employment Providers",
+    "address": "3131 W 14th Avenue",
+    "city": "Denver",
+    "zip": "80204",
+    "phone": "303-458-5851",
+    "website": "https://serviciosdelaraza.org",
+    "services": "Community mental health / safety-net behavioral health; many run IPS supported employment",
+    "source": "CBHC provider-by-county list; main-office address from WAGEES partner page",
+    "source_url": "https://www.cbhc.org/find-services/behavioral-health-providers/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "counties_served": "Denver, Pueblo"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.026771,
+     39.738349
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Solvista Health",
+    "category": "Community Mental Health and Disability Employment Providers",
+    "address": "3225 Independence Road",
+    "city": "Canon City",
+    "zip": "81212",
+    "phone": "719-275-2351",
+    "website": "https://solvistahealth.org",
+    "services": "Community mental health / safety-net behavioral health; many run IPS supported employment",
+    "source": "CBHC provider-by-county list; main-office address from provider website",
+    "source_url": "https://www.cbhc.org/find-services/behavioral-health-providers/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "counties_served": "Chaffee, Custer, Fremont, Lake (from provider's own site list; CBHC page lists these two providers swapped)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.183959,
+     38.444375
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "SummitStone Health Partners",
+    "category": "Community Mental Health and Disability Employment Providers",
+    "address": "1217 Riverside Avenue",
+    "city": "Fort Collins",
+    "zip": "80524",
+    "phone": "970-494-4200",
+    "website": "https://www.summitstone.org",
+    "services": "Community mental health / safety-net behavioral health; many run IPS supported employment",
+    "source": "CBHC provider-by-county list; main-office address from provider website",
+    "source_url": "https://www.cbhc.org/find-services/behavioral-health-providers/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "counties_served": "Larimer"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.055029,
+     40.576205
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Valley-Wide Health Systems",
+    "category": "Community Mental Health and Disability Employment Providers",
+    "address": "128 Market Street",
+    "city": "Alamosa",
+    "zip": "81101",
+    "phone": "833-350-1113",
+    "website": "https://valley-widehealth.org",
+    "services": "Community mental health / safety-net behavioral health; many run IPS supported employment",
+    "source": "CBHC provider-by-county list; main-office address from provider website",
+    "source_url": "https://www.cbhc.org/find-services/behavioral-health-providers/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "counties_served": "Baca, Bent, Crowley, Kiowa, Otero, Prowers"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.891168,
+     37.475144
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "WellPower",
+    "category": "Community Mental Health and Disability Employment Providers",
+    "address": "4141 E Dickenson Place",
+    "city": "Denver",
+    "zip": "80222",
+    "phone": "303-504-6500",
+    "website": "https://www.wellpower.org",
+    "services": "Community mental health / safety-net behavioral health; many run IPS supported employment",
+    "source": "CBHC provider-by-county list; main-office address from provider website",
+    "source_url": "https://www.cbhc.org/find-services/behavioral-health-providers/",
+    "geocode": "census-rooftop",
+    "retrieved": "2026-11-13",
+    "counties_served": "Denver"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.939175,
+     39.671943
+    ]
+   }
+  }
+ ]
+}
