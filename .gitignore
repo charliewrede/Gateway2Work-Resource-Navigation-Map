@@ -5,3 +5,6 @@
 Data/raw/etpl_DownloadPrograms.xlsx
 
 __pycache__/
+
+# Local backups made by sync_tracking_log.py
+scripts/backups/
