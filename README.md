@@ -4,7 +4,7 @@ An interactive map of Gateway2Work resources, built from the Leaflet map templat
 
 ## The data: statewide Colorado layers
 
-`Data/` holds 23 GeoJSON layers (1,089 locations) for the categories in TSRG's *Colorado Workforce Development Ecosystem* GIS framework: referral sources, employment service providers, employment destinations and community supports.
+`Data/` holds 23 GeoJSON layers (1,093 locations) for the categories in TSRG's *Colorado Workforce Development Ecosystem* GIS framework: referral sources, employment service providers, employment destinations and community supports.
 
 - **[Data/SOURCES.md](Data/SOURCES.md)**: start here. Every layer, its source, and how its locations were found.
 - **`Data/sources/`**: one write-up per layer: what was searched, what was used and why, corrections, open questions.

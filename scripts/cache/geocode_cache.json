@@ -479,6 +479,42 @@
   "matched": "",
   "method": "unmatched"
  },
+ "11919 INTERSTATE 70 FRONTAGE ROAD NORTH, WHEAT RIDGE, CO 80033": {
+  "lat": null,
+  "lon": null,
+  "matched": "",
+  "method": "unmatched"
+ },
+ "11919 W I 70 FRONTAGE RD N, WHEAT RIDGE, CO 80033": {
+  "lat": 39.784499,
+  "lon": -105.133119,
+  "matched": "11919, West I-70 Frontage Road North, Wheat Ridge, Jefferson County, Colorado, 80033, United States",
+  "method": "osm-nominatim"
+ },
+ "11919 W I-70 FRONTAGE RD N, WHEAT RIDGE, CO 80033": {
+  "lat": 39.784324,
+  "lon": -105.133305,
+  "matched": "11919, West I-70 Frontage Road North, Wheat Ridge, Jefferson County, Colorado, 80033, United States",
+  "method": "osm-nominatim"
+ },
+ "11919 W I70 FRONTAGE RD N, WHEAT RIDGE, CO 80033": {
+  "lat": null,
+  "lon": null,
+  "matched": "",
+  "method": "unmatched"
+ },
+ "11919 W INTERSTATE 70 FRONTAGE RD N, WHEAT RIDGE, CO 80033": {
+  "lat": null,
+  "lon": null,
+  "matched": "",
+  "method": "unmatched"
+ },
+ "11919 WEST I-70 FRONTAGE ROAD NORTH, WHEAT RIDGE, CO 80033": {
+  "lat": 39.784324,
+  "lon": -105.133305,
+  "matched": "11919, West I-70 Frontage Road North, Wheat Ridge, Jefferson County, Colorado, 80033, United States",
+  "method": "osm-nominatim"
+ },
  "1198 W. VICTORY WAY, CRAIG, CO 81625": {
   "lat": 40.514123,
   "lon": -107.561595,
@@ -3833,6 +3869,12 @@
   "matched": "Craig, Moffat County, Colorado, 81625, United States",
   "method": "approx-city-center (OSM)"
  },
+ "CRESTED BUTTE, COLORADO": {
+  "lat": 38.86982,
+  "lon": -106.984043,
+  "matched": "Crested Butte, Gunnison County, Colorado, United States",
+  "method": "approx-city-center (OSM)"
+ },
  "DENVER, COLORADO": {
   "lat": 39.739236,
   "lon": -104.984862,
@@ -3861,6 +3903,12 @@
   "lat": 40.587178,
   "lon": -105.077011,
   "matched": "Fort Collins, Larimer County, Colorado, United States",
+  "method": "approx-city-center (OSM)"
+ },
+ "FRISCO, COLORADO": {
+  "lat": 39.576858,
+  "lon": -106.092828,
+  "matched": "Frisco, Summit County, Colorado, United States",
   "method": "approx-city-center (OSM)"
  },
  "GRAND JUNCTION, COLORADO": {
@@ -3970,5 +4018,11 @@
   "lon": -105.077206,
   "matched": "Wheat Ridge, Jefferson County, Colorado, 80033, United States",
   "method": "approx-city-center (OSM)"
+ },
+ "ZIP 80218, COLORADO": {
+  "lat": 39.730187,
+  "lon": -104.963226,
+  "matched": "center of ZIP 80218 (OSM)",
+  "method": "manual"
  }
 }

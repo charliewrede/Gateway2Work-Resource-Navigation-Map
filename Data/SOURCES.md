@@ -2,7 +2,7 @@
 
 Statewide GeoJSON layers for the 25 categories in TSRG's *Colorado Workforce Development Ecosystem: Proposed statewide GIS categories* (Gateway2Work). Built 2026-11-13.
 
-**Totals:** 23 layers built, **1,089 mapped locations**. 2 layers are documented but not yet built (L19, L21).
+**Totals:** 23 layers built, **1,093 mapped locations**. 2 layers are documented but not yet built (L19, L21).
 
 > **The framework's own caveat applies:** *"This is a proposed classification framework, not a verified statewide inventory. Organization participation, service areas, and current program status should be confirmed before GIS publication."* Every record carries its source so it can be checked.
 
@@ -14,7 +14,7 @@ Statewide GeoJSON layers for the 25 categories in TSRG's *Colorado Workforce Dev
 ## Layers
 | # | Category | File (`Data/…`) | Points | Statewide dataset? | Primary source | Write-up |
 |---|---|---|---|---|---|---|
-| 1 | Recovery-Friendly Employers | Recovery_Friendly_Employers.geojson | 147 | **Yes** | CO Recovery Friendly Workplace Initiative participant list (published sheet) | [01](sources/01_Recovery_Friendly_Employers.md) |
+| 1 | Recovery-Friendly Employers | Recovery_Friendly_Employers.geojson | 151 | **Yes** | CO Recovery Friendly Workplace Initiative participant list (published sheet) | [01](sources/01_Recovery_Friendly_Employers.md) |
 | 2 | Workforce Centers | Workforce_Centers.geojson | 54 | Yes, but blocked | US DOL American Job Center list (2022) + each local workforce area's site | [02](sources/02_Workforce_Centers.md) |
 | 3 | Workforce Development Providers | Workforce_Development_Training_Providers.geojson | 96 | **Yes** | US DOL TrainingProviderResults.gov, Colorado WIOA ETPL (2024) | [03](sources/03_Workforce_Development_Providers.md) |
 | 4 | Substance Use Treatment & Mental Health | Substance_Use_and_Mental_Health_Treatment.geojson | 350 | **Yes** | SAMHSA FindTreatment.gov export API | [04](sources/04_Treatment_and_Mental_Health.md) |
@@ -46,8 +46,8 @@ Statewide GeoJSON layers for the 25 categories in TSRG's *Colorado Workforce Dev
 | Source coordinates | 504 | Supplied by the dataset itself (SAMHSA, IPEDS, VA, BOP) or HIFLD facility-footprint centroids (prisons and jails, each checked against a Census geocode) |
 | `census-rooftop` | 508 | U.S. Census Bureau geocoder, exact address match |
 | `census-nonexact` | 1 | Census geocoder, best of several candidates |
-| `osm-nominatim` | 27 | OpenStreetMap, matched the house number (used only when Census failed) |
-| approximate | 47 | `osm-street-approx` (on the right street, no house number), `approx-city-center` / `APPROXIMATE - city center` (parole offices without a published street address; recovery residences aggregated by city for privacy) |
+| `osm-nominatim` | 28 | OpenStreetMap, matched the house number (used only when Census failed) |
+| approximate | 50 | `osm-street-approx` (on the right street, no house number), `approx-city-center` / `APPROXIMATE - city center` (parole offices without a published street address; recovery residences aggregated by city for privacy) |
 | `manual` | 2 | Hand-set and explained in the write-up |
 
 **Quality rules for OpenStreetMap results** (added after a spot-check found errors): city lookups must return a town, not the county of the same name; a match whose ZIP *and* city both disagree with the source is rejected; matches without a house number are labeled approximate.
