@@ -7,7 +7,7 @@ columns or formatting.
     python3 scripts/sync_tracking_log.py --apply    # write changes (backup made first)
 
 Source : Data/Gateway2Work_Data_Dictionary_Resource_Tracking_Log.csv (repo)
-Target : the .xlsx in the OneDrive-synced SharePoint folder (WORKBOOK below)
+Target : the .xlsx in the OneDrive-synced SharePoint folder, found by name (WORKBOOK below)
 
 Rules
   * Rows are matched by the "Resource" name.
@@ -21,13 +21,19 @@ Rules
 """
 import csv, os, shutil, sys, time
 import openpyxl
+from common import find_onedrive
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 REPO_CSV = os.path.join(ROOT, "Data", "Gateway2Work_Data_Dictionary_Resource_Tracking_Log.csv")
-WORKBOOK = os.path.expanduser(
-    "~/Library/CloudStorage/OneDrive-SharedLibraries-TheSchreiberResearchGroup/"
-    "AmeriCorps VISTA - Workforce Development for People in Recovery - Data Dictionary/"
-    "Gateway2Work_Data_Dictionary_Resource_Tracking_Log.xlsx")
+# SharePoint: Gateway2Work Map/Data Dictionary/<WB_NAME>, found by name
+# wherever OneDrive syncs it (so moving the SharePoint folder doesn't break this).
+WB_NAME = "Gateway2Work_Data_Dictionary_Resource_Tracking_Log.xlsx"
+WORKBOOK = find_onedrive(WB_NAME)
+if not WORKBOOK:
+    sys.exit(f"Could not find {WB_NAME} in any OneDrive folder on this computer.\n"
+             "In SharePoint, open 'Gateway2Work Map' and click Sync (or 'Add shortcut to My files'), "
+             "wait for the green check in Finder, then run this again.")
+print("Workbook:", WORKBOOK)
 PROTECTED = {"Link to File Folder (SharePoint)"}
 
 apply = "--apply" in sys.argv

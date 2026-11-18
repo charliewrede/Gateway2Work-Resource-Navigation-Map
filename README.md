@@ -9,6 +9,7 @@ An interactive map of Gateway2Work resources, built from the Leaflet map templat
 - **[Data/SOURCES.md](Data/SOURCES.md)**: start here. Every layer, its source, and how its locations were found.
 - **`Data/sources/`**: one write-up per layer: what was searched, what was used and why, corrections, open questions.
 - **[Data/sources/FOLLOW_UP.md](Data/sources/FOLLOW_UP.md)**: remaining manual steps (including L19 and L21).
+- **`data_csv/`**: a CSV copy of every layer (one row per point, with latitude/longitude) plus `All_Layers.csv`. Rebuilt automatically after every build by `scripts/export_csv.py`, which also copies the files to the SharePoint "Data_CSV" folder through OneDrive. If you hand-edit a GeoJSON file, run `python3 scripts/export_csv.py`.
 - **`scripts/`**: the build scripts (Python, built-in modules only). `python3 scripts/run_all.py` rebuilds everything. Original downloads are kept in `Data/raw/`, and geocoder answers are cached in `scripts/cache/`.
 
 Every map point's popup shows its `source`, `source_url`, `retrieved` date, and `geocode` method.

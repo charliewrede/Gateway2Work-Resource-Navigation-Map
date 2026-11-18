@@ -298,3 +298,31 @@ def write_layer(filename, features, problems=()):
     print("  coordinates:", methods)
     for p in problems:
         print("  !", p)
+
+
+# ---------------------------------------------------------------- OneDrive
+ONEDRIVE_ROOT = os.path.expanduser("~/Library/CloudStorage")
+
+
+def find_onedrive(name, want_dir=False, prefer="Gateway2Work Map"):
+    """Locate a SharePoint file/folder synced by OneDrive, by exact name.
+
+    Searches every OneDrive folder under ~/Library/CloudStorage, so the scripts
+    keep working if the SharePoint folder is moved or re-synced. If several
+    matches exist, the one inside a "Gateway2Work Map" folder wins. Returns
+    None when nothing matches (e.g. the folder is not synced on this computer).
+    """
+    hits = []
+    if not os.path.isdir(ONEDRIVE_ROOT):
+        return None
+    for top in os.listdir(ONEDRIVE_ROOT):
+        if not top.startswith("OneDrive"):
+            continue
+        for dirpath, dirnames, filenames in os.walk(os.path.join(ONEDRIVE_ROOT, top)):
+            dirnames[:] = [d for d in dirnames if not d.startswith(".")]
+            if dirpath.count(os.sep) - ONEDRIVE_ROOT.count(os.sep) > 6:
+                dirnames[:] = []
+            pool = dirnames if want_dir else filenames
+            hits += [os.path.join(dirpath, n) for n in pool if n == name]
+    hits.sort(key=lambda p: (prefer not in p, len(p)))
+    return hits[0] if hits else None

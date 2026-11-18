@@ -138,3 +138,7 @@ for path in sorted(glob.glob(os.path.join(DATA, "*.geojson"))):
     stats[fname] = (len(d["features"]), n_flag, sum(1 for f in d["features"] if not f["properties"].get("county")))
 for k, (n, fl, nc) in stats.items():
     print(f"{k:58} {n:4} points | flagged {fl:3} | no county {nc}")
+
+# Keep the CSV copies (data_csv/ and SharePoint Data_CSV) in step with the GeoJSON.
+import subprocess, sys
+subprocess.run([sys.executable, os.path.join(os.path.dirname(os.path.abspath(__file__)), "export_csv.py")], check=False)
