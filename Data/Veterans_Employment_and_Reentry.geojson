@@ -15,7 +15,8 @@
     "address_note": "4102 Pinion Drive",
     "va_station": "554QE",
     "homeless_point_of_contact": "Jen Daly",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "El Paso"
    },
    "geometry": {
     "type": "Point",
@@ -39,7 +40,8 @@
     "address_note": "622 Del Sol Drive",
     "va_station": "554GF",
     "homeless_point_of_contact": "Jen Daly",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "Alamosa"
    },
    "geometry": {
     "type": "Point",
@@ -63,7 +65,8 @@
     "address_note": "13701 East Mississippi Avenue",
     "va_station": "554GB",
     "homeless_point_of_contact": "Jen Daly",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
@@ -88,7 +91,8 @@
     "address_note": "4999 Pearl East Circle",
     "va_station": "0527V",
     "homeless_point_of_contact": "Jen Daly",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "Boulder"
    },
    "geometry": {
     "type": "Point",
@@ -112,7 +116,8 @@
     "address_note": "1177 Rose Avenue",
     "va_station": "554GI",
     "homeless_point_of_contact": "Jen Daly",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "Kit Carson"
    },
    "geometry": {
     "type": "Point",
@@ -137,7 +142,8 @@
     "address_note": "3920 N. Union Blvd",
     "va_station": "0525V",
     "homeless_point_of_contact": "Jen Daly",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "El Paso"
    },
    "geometry": {
     "type": "Point",
@@ -162,7 +168,8 @@
     "address_note": "4545 East 9th Avenue",
     "va_station": "554GJ",
     "homeless_point_of_contact": "Jen Daly",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -185,7 +192,8 @@
     "source_url": "https://www.va.gov/denver-va-regional-benefit-office/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "facility_type": "VA benefits office (VR&E Chapter 31 employment services)"
+    "facility_type": "VA benefits office (VR&E Chapter 31 employment services)",
+    "county": "Jefferson"
    },
    "geometry": {
     "type": "Point",
@@ -210,7 +218,8 @@
     "address_note": "7465 East First Avenue",
     "va_station": "0504V",
     "homeless_point_of_contact": "Jen Daly",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -234,7 +243,8 @@
     "address_note": "1970 East Third Avenue",
     "va_station": "501GJ",
     "homeless_point_of_contact": "Mark Mariglia",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "La Plata"
    },
    "geometry": {
     "type": "Point",
@@ -258,7 +268,8 @@
     "address_note": "1650 Cochrane Circle",
     "va_station": "554QD",
     "homeless_point_of_contact": "Jen Daly",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "El Paso"
    },
    "geometry": {
     "type": "Point",
@@ -282,7 +293,8 @@
     "address_note": "2509 Research Boulevard",
     "va_station": "442GC",
     "homeless_point_of_contact": "Tatum Webb",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "Larimer"
    },
    "geometry": {
     "type": "Point",
@@ -307,7 +319,8 @@
     "address_note": "702 West Drake Road",
     "va_station": "0543V",
     "homeless_point_of_contact": "Tatum Webb",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "Larimer"
    },
    "geometry": {
     "type": "Point",
@@ -331,7 +344,8 @@
     "address_note": "1365 Garden of the Gods Road",
     "va_station": "554QF",
     "homeless_point_of_contact": "Jen Daly",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "El Paso"
    },
    "geometry": {
     "type": "Point",
@@ -355,7 +369,8 @@
     "address_note": "2425 South Grand Avenue",
     "va_station": "575QA",
     "homeless_point_of_contact": "Sarah Robinson",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "Garfield"
    },
    "geometry": {
     "type": "Point",
@@ -379,7 +394,8 @@
     "address_note": "1020 Johnson Road",
     "va_station": "554GC",
     "homeless_point_of_contact": "Jen Daly",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "Jefferson"
    },
    "geometry": {
     "type": "Point",
@@ -403,7 +419,8 @@
     "address_note": "428 28 Road",
     "va_station": "575QD",
     "homeless_point_of_contact": "Sarah Robinson",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "Mesa"
    },
    "geometry": {
     "type": "Point",
@@ -427,7 +444,8 @@
     "address_note": "2121 North Avenue",
     "va_station": "575",
     "homeless_point_of_contact": "Sarah Robinson",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "Mesa"
    },
    "geometry": {
     "type": "Point",
@@ -452,7 +470,8 @@
     "address_note": "561 25 Road",
     "va_station": "0526V",
     "homeless_point_of_contact": "Sarah Robinson",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "Mesa"
    },
    "geometry": {
     "type": "Point",
@@ -476,7 +495,8 @@
     "address_note": "14400 East Jewell Avenue",
     "va_station": "554QB",
     "homeless_point_of_contact": "Jen Daly",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
@@ -500,7 +520,8 @@
     "address_note": "1100 Carson Avenue",
     "va_station": "554GG",
     "homeless_point_of_contact": "Jen Daly",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "Otero"
    },
    "geometry": {
     "type": "Point",
@@ -524,7 +545,8 @@
     "address_note": "1401 South Main Street",
     "va_station": "554GH",
     "homeless_point_of_contact": "Jen Daly",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "Prowers"
    },
    "geometry": {
     "type": "Point",
@@ -548,7 +570,8 @@
     "address_note": "5200 Hahns Peak Drive",
     "va_station": "442GD",
     "homeless_point_of_contact": "Tatum Webb",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "Larimer"
    },
    "geometry": {
     "type": "Point",
@@ -573,7 +596,8 @@
     "address_note": "1111 West Victory Way",
     "va_station": "575GB",
     "homeless_point_of_contact": "Sarah Robinson",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "Moffat"
    },
    "geometry": {
     "type": "Point",
@@ -597,7 +621,8 @@
     "address_note": "154 Colorado Avenue",
     "va_station": "575GA",
     "homeless_point_of_contact": "Sarah Robinson",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "Montrose"
    },
    "geometry": {
     "type": "Point",
@@ -621,7 +646,8 @@
     "address_note": "4575 Byrd Drive",
     "va_station": "442GE",
     "homeless_point_of_contact": "Tatum Webb",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "Larimer"
    },
    "geometry": {
     "type": "Point",
@@ -645,7 +671,8 @@
     "address_note": "3141 Centennial Boulevard",
     "va_station": "554GE",
     "homeless_point_of_contact": "Jen Daly",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "El Paso"
    },
    "geometry": {
     "type": "Point",
@@ -669,7 +696,8 @@
     "address_note": "4776 Eagleridge Circle",
     "va_station": "554GD",
     "homeless_point_of_contact": "Jen Daly",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "Pueblo"
    },
    "geometry": {
     "type": "Point",
@@ -693,7 +721,8 @@
     "address_note": "2600 Oakshire Lane",
     "va_station": "554A4",
     "homeless_point_of_contact": "Jen Daly",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "Pueblo"
    },
    "geometry": {
     "type": "Point",
@@ -718,7 +747,8 @@
     "address_note": "1515 Fortino Boulevard",
     "va_station": "0542V",
     "homeless_point_of_contact": "Jen Daly",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "Pueblo"
    },
    "geometry": {
     "type": "Point",
@@ -742,7 +772,8 @@
     "address_note": "1700 North Wheeling Street",
     "va_station": "554",
     "homeless_point_of_contact": "Jen Daly",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "Adams"
    },
    "geometry": {
     "type": "Point",
@@ -766,7 +797,8 @@
     "address_note": "920 Rush Drive",
     "va_station": "554QC",
     "homeless_point_of_contact": "Jen Daly",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "Chaffee"
    },
    "geometry": {
     "type": "Point",
@@ -791,7 +823,8 @@
     "address_note": "3920 North Union Boulevard",
     "va_station": "554GK",
     "homeless_point_of_contact": "Jen Daly",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "El Paso"
    },
    "geometry": {
     "type": "Point",
@@ -815,7 +848,8 @@
     "address_note": "7350 West Eastman Place",
     "va_station": "554BU",
     "homeless_point_of_contact": "Jen Daly",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "Jefferson"
    },
    "geometry": {
     "type": "Point",
@@ -839,7 +873,8 @@
     "address_note": "2121 North Avenue",
     "va_station": "575QE",
     "homeless_point_of_contact": "Sarah Robinson",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "Mesa"
    },
    "geometry": {
     "type": "Point",
@@ -864,7 +899,8 @@
     "address_note": "3836 York Street",
     "va_station": "554QA",
     "homeless_point_of_contact": "Jen Daly",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",

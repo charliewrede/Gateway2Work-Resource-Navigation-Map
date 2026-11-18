@@ -16,7 +16,8 @@
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
     "operator": "Advantage Treatment Centers Inc.",
-    "judicial_district": "12th"
+    "judicial_district": "12th",
+    "location_accuracy": "Address partly unconfirmed - operator lists 2017 Lava Lane; 2017 state list had 2255 Lava Lane"
    },
    "geometry": {
     "type": "Point",
@@ -295,7 +296,8 @@
     "retrieved": "2026-11-13",
     "operator": "GEO Group (GEO Reentry)",
     "judicial_district": "14th",
-    "status_note": "No official 2024-26 source found confirming current operation; confirm with 14th JD Community Corrections Board."
+    "status_note": "No official 2024-26 source found confirming current operation; confirm with 14th JD Community Corrections Board.",
+    "location_accuracy": "Location unconfirmed - only recent source is a third-party directory; program may not be operating"
    },
    "geometry": {
     "type": "Point",
@@ -371,7 +373,8 @@
     "retrieved": "2026-11-13",
     "operator": "Garfield County (county)",
     "population": "Men and women, 60 beds",
-    "judicial_district": "9th"
+    "judicial_district": "9th",
+    "location_accuracy": "Approximate - placed by hand (address did not geocode; see layer write-up)"
    },
    "geometry": {
     "type": "Point",

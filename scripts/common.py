@@ -250,6 +250,8 @@ FIELDS = ["name", "category", "address", "city", "zip", "county", "phone",
 
 
 def make_feature(lon, lat, **props):
+    if isinstance(props.get("address"), str):      # "19Th" -> "19th" (title-casing artifact)
+        props["address"] = re.sub(r"(\d)(St|Nd|Rd|Th)\b", lambda m: m.group(1) + m.group(2).lower(), props["address"])
     p = {k: props.get(k) for k in FIELDS}
     for k, v in props.items():            # keep any extra fields too
         if k not in p:

@@ -61,7 +61,9 @@
     "retrieved": "2026-11-13",
     "office_type": "Parole (CDOC Division of Adult Parole)",
     "counties_served": "Alamosa, Conejos, Costilla, Mineral, Rio Grande, Saguache",
-    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143."
+    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143.",
+    "county": "Alamosa",
+    "location_accuracy": "Approximate - city center (street address not available)"
    },
    "geometry": {
     "type": "Point",
@@ -133,7 +135,9 @@
     "retrieved": "2026-11-13",
     "office_type": "Parole (CDOC Division of Adult Parole)",
     "counties_served": "Aurora",
-    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143."
+    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143.",
+    "county": "Arapahoe",
+    "location_accuracy": "Address unconfirmed - from an older third-party directory"
    },
    "geometry": {
     "type": "Point",
@@ -203,7 +207,9 @@
     "retrieved": "2026-11-13",
     "office_type": "Parole (CDOC Division of Adult Parole)",
     "counties_served": "Fremont area",
-    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143."
+    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143.",
+    "county": "Fremont",
+    "location_accuracy": "Approximate - city center (street address not available)"
    },
    "geometry": {
     "type": "Point",
@@ -274,7 +280,9 @@
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
     "office_type": "Parole (CDOC Division of Adult Parole)",
-    "counties_served": "El Paso area"
+    "counties_served": "El Paso area",
+    "county": "El Paso",
+    "location_accuracy": "Address unconfirmed - from map listings, not CDOC"
    },
    "geometry": {
     "type": "Point",
@@ -322,7 +330,8 @@
     "geocode": "manual",
     "retrieved": "2026-11-13",
     "office_type": "Probation (Colorado Judicial Branch)",
-    "counties_served": "Costilla"
+    "counties_served": "Costilla",
+    "location_accuracy": "Approximate - placed by hand (address did not geocode; see layer write-up)"
    },
    "geometry": {
     "type": "Point",
@@ -344,7 +353,9 @@
     "retrieved": "2026-11-13",
     "office_type": "Parole (CDOC Division of Adult Parole)",
     "counties_served": "Eagle, Moffat, Rio Blanco, Routt",
-    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143."
+    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143.",
+    "county": "Moffat",
+    "location_accuracy": "Approximate - city center (street address not available)"
    },
    "geometry": {
     "type": "Point",
@@ -464,7 +475,8 @@
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
     "office_type": "Parole (CDOC Division of Adult Parole)",
-    "counties_served": "Denver"
+    "counties_served": "Denver",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -534,7 +546,9 @@
     "retrieved": "2026-11-13",
     "office_type": "Parole (CDOC Division of Adult Parole)",
     "counties_served": "Archuleta, Dolores, La Plata, Montezuma, San Juan",
-    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143."
+    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143.",
+    "county": "La Plata",
+    "location_accuracy": "Approximate - city center (street address not available)"
    },
    "geometry": {
     "type": "Point",
@@ -628,7 +642,9 @@
     "retrieved": "2026-11-13",
     "office_type": "Parole (CDOC Division of Adult Parole)",
     "counties_served": "Arapahoe, Douglas, Elbert, south Jefferson",
-    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143."
+    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143.",
+    "county": "Arapahoe",
+    "location_accuracy": "Approximate - city center (street address not available)"
    },
    "geometry": {
     "type": "Point",
@@ -651,7 +667,9 @@
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
     "office_type": "Parole (CDOC Division of Adult Parole)",
-    "counties_served": "Larimer, Jackson"
+    "counties_served": "Larimer, Jackson",
+    "county": "Larimer",
+    "location_accuracy": "Address unconfirmed - from map listings, not CDOC"
    },
    "geometry": {
     "type": "Point",
@@ -717,7 +735,7 @@
     "address": "11011 W. 6th Avenue, Suite 320",
     "city": "Lakewood",
     "zip": "80215",
-    "county": "Gilpin",
+    "county": "Jefferson",
     "source": "Colorado Judicial Branch, county probation location page",
     "source_url": "https://www.coloradojudicial.gov/courts/trial-courts/gilpin-county/gilpin-county-probation",
     "geocode": "census-rooftop",
@@ -769,7 +787,9 @@
     "retrieved": "2026-11-13",
     "office_type": "Parole (CDOC Division of Adult Parole)",
     "counties_served": "Delta, Garfield, Gunnison, Hinsdale, Mesa, Montrose, Ouray, Pitkin, San Miguel",
-    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143."
+    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143.",
+    "county": "Mesa",
+    "location_accuracy": "Approximate - city center (street address not available)"
    },
    "geometry": {
     "type": "Point",
@@ -791,7 +811,9 @@
     "retrieved": "2026-11-13",
     "office_type": "Parole (CDOC Division of Adult Parole)",
     "counties_served": "Northern and eastern Weld",
-    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143."
+    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143.",
+    "county": "Weld",
+    "location_accuracy": "Approximate - city center (street address not available)"
    },
    "geometry": {
     "type": "Point",
@@ -909,7 +931,9 @@
     "retrieved": "2026-11-13",
     "office_type": "Parole (CDOC Division of Adult Parole)",
     "counties_served": "Baca, Bent, Cheyenne, Crowley, Huerfano, Kiowa, Kit Carson, Las Animas, Lincoln, Otero, Prowers",
-    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143."
+    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143.",
+    "county": "Otero",
+    "location_accuracy": "Approximate - city center (street address not available)"
    },
    "geometry": {
     "type": "Point",
@@ -1053,7 +1077,8 @@
     "geocode": "osm-street-approx",
     "retrieved": "2026-11-13",
     "office_type": "Probation (Colorado Judicial Branch)",
-    "counties_served": "Logan"
+    "counties_served": "Logan",
+    "location_accuracy": "Approximate - on the correct street; exact building not confirmed"
    },
    "geometry": {
     "type": "Point",
@@ -1075,7 +1100,9 @@
     "retrieved": "2026-11-13",
     "office_type": "Parole (CDOC Division of Adult Parole)",
     "counties_served": "Boulder, southern Weld",
-    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143."
+    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143.",
+    "county": "Boulder",
+    "location_accuracy": "Approximate - city center (street address not available)"
    },
    "geometry": {
     "type": "Point",
@@ -1193,7 +1220,9 @@
     "retrieved": "2026-11-13",
     "office_type": "Parole (CDOC Division of Adult Parole)",
     "counties_served": "Montrose area",
-    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143."
+    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143.",
+    "county": "Montrose",
+    "location_accuracy": "Approximate - city center (street address not available)"
    },
    "geometry": {
     "type": "Point",
@@ -1359,7 +1388,9 @@
     "retrieved": "2026-11-13",
     "office_type": "Parole (CDOC Division of Adult Parole)",
     "counties_served": "Pueblo area",
-    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143."
+    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143.",
+    "county": "Pueblo",
+    "location_accuracy": "Approximate - city center (street address not available)"
    },
    "geometry": {
     "type": "Point",
@@ -1381,7 +1412,9 @@
     "retrieved": "2026-11-13",
     "office_type": "Parole (CDOC Division of Adult Parole)",
     "counties_served": "Eagle, Garfield",
-    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143."
+    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143.",
+    "county": "Garfield",
+    "location_accuracy": "Approximate - city center (street address not available)"
    },
    "geometry": {
     "type": "Point",
@@ -1499,7 +1532,9 @@
     "retrieved": "2026-11-13",
     "office_type": "Parole (CDOC Division of Adult Parole)",
     "counties_served": "Morgan, Logan, Sedgwick, Phillips, Washington, Yuma",
-    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143."
+    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143.",
+    "county": "Logan",
+    "location_accuracy": "Approximate - city center (street address not available)"
    },
    "geometry": {
     "type": "Point",
@@ -1617,7 +1652,9 @@
     "retrieved": "2026-11-13",
     "office_type": "Parole (CDOC Division of Adult Parole)",
     "counties_served": "Adams, Broomfield, Clear Creek, Gilpin, Grand, north Jefferson, Summit",
-    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143."
+    "status_note": "Street address not confirmed; parole 24-hr line 1-800-426-9143.",
+    "county": "Adams",
+    "location_accuracy": "Approximate - city center (street address not available)"
    },
    "geometry": {
     "type": "Point",

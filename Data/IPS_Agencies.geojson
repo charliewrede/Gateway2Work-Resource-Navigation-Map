@@ -16,7 +16,8 @@
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
     "area_served": "Arapahoe and Douglas counties",
-    "listed_in": "BHA IPS page (current); SOR IPS report 2022-23"
+    "listed_in": "BHA IPS page (current); SOR IPS report 2022-23",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
@@ -41,7 +42,9 @@
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
     "area_served": "Durango, Montrose, Gunnison, Crested Butte, Telluride, Pagosa Springs",
-    "listed_in": "BHA IPS page (current)"
+    "listed_in": "BHA IPS page (current)",
+    "county": "La Plata",
+    "location_accuracy": "Address unconfirmed - sources list three different main offices"
    },
    "geometry": {
     "type": "Point",
@@ -66,7 +69,8 @@
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
     "area_served": "Longmont / Boulder County",
-    "listed_in": "BHA IPS page (current); SOR IPS report 2022-23"
+    "listed_in": "BHA IPS page (current); SOR IPS report 2022-23",
+    "county": "Boulder"
    },
    "geometry": {
     "type": "Point",
@@ -91,7 +95,8 @@
     "retrieved": "2026-11-13",
     "area_served": "Denver metro",
     "listed_in": "older state list only",
-    "status_note": "Listed only on ~2020 state IPS list; confirm program is still active."
+    "status_note": "Listed only on ~2020 state IPS list; confirm program is still active.",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -117,7 +122,8 @@
     "retrieved": "2026-11-13",
     "area_served": "Adams County",
     "listed_in": "older state list only",
-    "status_note": "Listed only on ~2020 state IPS list; confirm program is still active."
+    "status_note": "Listed only on ~2020 state IPS list; confirm program is still active.",
+    "county": "Adams"
    },
    "geometry": {
     "type": "Point",
@@ -142,7 +148,8 @@
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
     "area_served": "Pueblo area",
-    "listed_in": "SOR IPS report 2022-23; older state list"
+    "listed_in": "SOR IPS report 2022-23; older state list",
+    "county": "Pueblo"
    },
    "geometry": {
     "type": "Point",
@@ -167,7 +174,8 @@
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
     "area_served": "Colorado Springs, El Paso, Park, Teller",
-    "listed_in": "BHA IPS page (current); older state list"
+    "listed_in": "BHA IPS page (current); older state list",
+    "county": "El Paso"
    },
    "geometry": {
     "type": "Point",
@@ -193,7 +201,8 @@
     "retrieved": "2026-11-13",
     "area_served": "Jefferson County",
     "listed_in": "older state list only",
-    "status_note": "Listed only on ~2020 state IPS list; confirm program is still active."
+    "status_note": "Listed only on ~2020 state IPS list; confirm program is still active.",
+    "county": "Jefferson"
    },
    "geometry": {
     "type": "Point",
@@ -219,7 +228,8 @@
     "retrieved": "2026-11-13",
     "area_served": "Weld County",
     "listed_in": "older state list only",
-    "status_note": "Listed only on ~2020 state IPS list; confirm program is still active."
+    "status_note": "Listed only on ~2020 state IPS list; confirm program is still active.",
+    "county": "Weld"
    },
    "geometry": {
     "type": "Point",
@@ -244,7 +254,8 @@
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
     "area_served": "Fort Collins, Loveland, Estes Park",
-    "listed_in": "SOR IPS report 2022-23; older state list"
+    "listed_in": "SOR IPS report 2022-23; older state list",
+    "county": "Larimer"
    },
    "geometry": {
     "type": "Point",

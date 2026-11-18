@@ -14,7 +14,8 @@
     "geocode": "HIFLD Prison Boundaries footprint centroid",
     "verified": "HIFLD centroid is 0.6 km from Census geocode of address",
     "operator": "Colorado Department of Corrections (state-operated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17",
+    "county": "Crowley"
    },
    "geometry": {
     "type": "Point",
@@ -37,7 +38,8 @@
     "geocode": "HIFLD Prison Boundaries footprint centroid",
     "verified": "HIFLD centroid is 0.6 km from Census geocode of address",
     "operator": "Colorado Department of Corrections (state-operated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17",
+    "county": "Fremont"
    },
    "geometry": {
     "type": "Point",
@@ -59,9 +61,10 @@
     "source": "CoreCivic facility page; CDOC private prisons page",
     "source_url": "https://www.corecivic.com/facilities/bent-county-correctional-facility",
     "geocode": "HIFLD Prison Boundaries footprint centroid",
-    "verified": "CoreCivic page lists Colorado DOC as government partner (checked 2026-11-13)",
+    "verified": "CoreCivic page lists Colorado DOC as government partner (checked 2026-11-17)",
     "operator": "CoreCivic (private) - houses CDOC inmates under contract",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17",
+    "county": "Bent"
    },
    "geometry": {
     "type": "Point",
@@ -84,7 +87,8 @@
     "geocode": "HIFLD Prison Boundaries footprint centroid",
     "verified": "HIFLD centroid is 1.4 km from Census geocode of address",
     "operator": "Colorado Department of Corrections (state-operated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17",
+    "county": "Chaffee"
    },
    "geometry": {
     "type": "Point",
@@ -107,7 +111,8 @@
     "geocode": "HIFLD Prison Boundaries footprint centroid",
     "verified": "HIFLD centroid is 0.5 km from Census geocode of address",
     "operator": "Colorado Department of Corrections (state-operated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17",
+    "county": "Fremont"
    },
    "geometry": {
     "type": "Point",
@@ -130,7 +135,8 @@
     "geocode": "HIFLD Prison Boundaries footprint centroid",
     "verified": "HIFLD centroid is 0.2 km from Census geocode of address",
     "operator": "Colorado Department of Corrections (state-operated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17",
+    "county": "Fremont"
    },
    "geometry": {
     "type": "Point",
@@ -153,7 +159,8 @@
     "geocode": "HIFLD Prison Boundaries footprint centroid",
     "verified": "HIFLD centroid is 0.5 km from Census geocode of address",
     "operator": "Colorado Department of Corrections (state-operated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17",
+    "county": "Fremont"
    },
    "geometry": {
     "type": "Point",
@@ -175,9 +182,10 @@
     "source": "CoreCivic facility page; CDOC private prisons page",
     "source_url": "https://www.corecivic.com/facilities/crowley-county-correctional-facility",
     "geocode": "HIFLD Prison Boundaries footprint centroid",
-    "verified": "CoreCivic page lists Colorado DOC as government partner (checked 2026-11-13)",
+    "verified": "CoreCivic page lists Colorado DOC as government partner (checked 2026-11-17)",
     "operator": "CoreCivic (private) - houses CDOC inmates under contract",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17",
+    "county": "Crowley"
    },
    "geometry": {
     "type": "Point",
@@ -200,7 +208,8 @@
     "geocode": "HIFLD Prison Boundaries footprint centroid",
     "operator": "Colorado Department of Corrections (state-operated)",
     "status_note": "Possible closure discussed in 2025 budget (KVNF, 2025-03-06). Confirm operating status.",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17",
+    "county": "Delta"
    },
    "geometry": {
     "type": "Point",
@@ -223,7 +232,8 @@
     "geocode": "HIFLD Prison Boundaries footprint centroid",
     "verified": "HIFLD centroid is 0.2 km from Census geocode of address",
     "operator": "Colorado Department of Corrections (state-operated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -246,7 +256,8 @@
     "geocode": "HIFLD Prison Boundaries footprint centroid",
     "verified": "HIFLD centroid is 0.6 km from Census geocode of address",
     "operator": "Colorado Department of Corrections (state-operated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -271,7 +282,8 @@
     "geocode": "source (BOP locations feed)",
     "operator": "Federal Bureau of Prisons",
     "facility_type": "Federal Correctional Institution",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17",
+    "county": "Jefferson"
    },
    "geometry": {
     "type": "Point",
@@ -296,7 +308,8 @@
     "geocode": "HIFLD footprint centroid (BOP feed gives one shared point for all Florence units)",
     "operator": "Federal Bureau of Prisons",
     "facility_type": "Federal Correctional Institution",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17",
+    "county": "Fremont"
    },
    "geometry": {
     "type": "Point",
@@ -319,7 +332,8 @@
     "source_url": "https://www.bop.gov/locations/institutions/flf/",
     "geocode": "HIFLD Prison Boundaries footprint centroid",
     "operator": "Federal Bureau of Prisons",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17",
+    "county": "Fremont"
    },
    "geometry": {
     "type": "Point",
@@ -342,7 +356,8 @@
     "geocode": "HIFLD Prison Boundaries footprint centroid",
     "verified": "HIFLD centroid is 1.4 km from Census geocode of address",
     "operator": "Colorado Department of Corrections (state-operated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17",
+    "county": "Fremont"
    },
    "geometry": {
     "type": "Point",
@@ -365,7 +380,8 @@
     "geocode": "HIFLD Prison Boundaries footprint centroid",
     "verified": "HIFLD centroid is 2.1 km from Census geocode of address",
     "operator": "Colorado Department of Corrections (state-operated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17",
+    "county": "Fremont"
    },
    "geometry": {
     "type": "Point",
@@ -388,7 +404,8 @@
     "geocode": "HIFLD Prison Boundaries footprint centroid",
     "verified": "HIFLD centroid is 0.3 km from Census geocode of address",
     "operator": "Colorado Department of Corrections (state-operated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17",
+    "county": "Pueblo"
    },
    "geometry": {
     "type": "Point",
@@ -411,7 +428,8 @@
     "geocode": "HIFLD Prison Boundaries footprint centroid",
     "verified": "HIFLD centroid is 0.4 km from Census geocode of address",
     "operator": "Colorado Department of Corrections (state-operated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17",
+    "county": "Lincoln"
    },
    "geometry": {
     "type": "Point",
@@ -434,7 +452,8 @@
     "geocode": "HIFLD Prison Boundaries footprint centroid",
     "operator": "Colorado Department of Corrections (state-operated)",
     "status_note": "Proposed for closure in state budget talks (2025); local officials opposed. Evacuated Aug 2025 due to wildfire. Confirm operating status.",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17",
+    "county": "Garfield"
    },
    "geometry": {
     "type": "Point",
@@ -457,7 +476,8 @@
     "geocode": "HIFLD Prison Boundaries footprint centroid",
     "verified": "HIFLD centroid is 0.6 km from Census geocode of address",
     "operator": "Colorado Department of Corrections (state-operated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17",
+    "county": "Pueblo"
    },
    "geometry": {
     "type": "Point",
@@ -480,7 +500,8 @@
     "geocode": "HIFLD Prison Boundaries footprint centroid",
     "verified": "HIFLD centroid is 0.4 km from Census geocode of address",
     "operator": "Colorado Department of Corrections (state-operated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17",
+    "county": "Logan"
    },
    "geometry": {
     "type": "Point",
@@ -503,7 +524,8 @@
     "geocode": "HIFLD Prison Boundaries footprint centroid",
     "operator": "Colorado Department of Corrections (state-operated)",
     "status_note": "Not on CDOC Mar 2025 address list; reported proposed for closure in 2025. Confirm status before publication.",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17",
+    "county": "Fremont"
    },
    "geometry": {
     "type": "Point",
@@ -525,7 +547,8 @@
     "source_url": "https://seams.org/wp-content/uploads/2025/03/Attachment-A-Facilty-Address-List.pdf",
     "geocode": "HIFLD Prison Boundaries footprint centroid",
     "operator": "Colorado Department of Corrections (state-operated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17",
+    "county": "Las Animas"
    },
    "geometry": {
     "type": "Point",
@@ -550,7 +573,8 @@
     "geocode": "HIFLD footprint centroid (BOP feed gives one shared point for all Florence units)",
     "operator": "Federal Bureau of Prisons",
     "facility_type": "U.S. Penitentiary",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17",
+    "county": "Fremont"
    },
    "geometry": {
     "type": "Point",
@@ -575,7 +599,8 @@
     "geocode": "HIFLD footprint centroid (BOP feed gives one shared point for all Florence units)",
     "operator": "Federal Bureau of Prisons",
     "facility_type": "U.S. Penitentiary",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17",
+    "county": "Fremont"
    },
    "geometry": {
     "type": "Point",
@@ -598,7 +623,8 @@
     "geocode": "HIFLD Prison Boundaries footprint centroid",
     "verified": "HIFLD centroid is 0.3 km from Census geocode of address",
     "operator": "Colorado Department of Corrections (state-operated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17",
+    "county": "Pueblo"
    },
    "geometry": {
     "type": "Point",

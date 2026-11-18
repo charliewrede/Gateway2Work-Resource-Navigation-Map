@@ -16,7 +16,8 @@
     "source_url": "https://remerg.com/resources/center-for-employment-opportunities-3/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "wagees_partner": "No"
+    "wagees_partner": "No",
+    "county": "El Paso"
    },
    "geometry": {
     "type": "Point",
@@ -41,7 +42,8 @@
     "source_url": "https://www.ceoworks.org/locations/denver",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "wagees_partner": "No"
+    "wagees_partner": "No",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -65,7 +67,8 @@
     "source_url": "https://www.ccjrc.org/wagees",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "wagees_partner": "No"
+    "wagees_partner": "No",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -90,7 +93,8 @@
     "source_url": "https://www.coopminlc.com/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "wagees_partner": "Yes"
+    "wagees_partner": "Yes",
+    "county": "Logan"
    },
    "geometry": {
     "type": "Point",
@@ -114,7 +118,8 @@
     "source_url": "https://wageesco.org/community-partners/elk-meadow-enduring-connections/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "wagees_partner": "Yes"
+    "wagees_partner": "Yes",
+    "county": "El Paso"
    },
    "geometry": {
     "type": "Point",
@@ -139,7 +144,8 @@
     "source_url": "https://wageesco.org/community-partners/hazelbrook/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "wagees_partner": "Yes"
+    "wagees_partner": "Yes",
+    "county": "El Paso"
    },
    "geometry": {
     "type": "Point",
@@ -164,7 +170,8 @@
     "source_url": "https://wageesco.org/community-partners/homeward-alliance/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "wagees_partner": "Yes"
+    "wagees_partner": "Yes",
+    "county": "Larimer"
    },
    "geometry": {
     "type": "Point",
@@ -189,7 +196,8 @@
     "source_url": "https://wageesco.org/community-partners/life-line-colorado/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "wagees_partner": "Yes"
+    "wagees_partner": "Yes",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -214,7 +222,9 @@
     "source_url": "https://wageesco.org/community-partners/loaves-and-fishes/",
     "geocode": "osm-street-approx",
     "retrieved": "2026-11-13",
-    "wagees_partner": "Yes"
+    "wagees_partner": "Yes",
+    "county": "Fremont",
+    "location_accuracy": "Approximate - on the correct street; exact building not confirmed"
    },
    "geometry": {
     "type": "Point",
@@ -239,7 +249,8 @@
     "source_url": "https://wageesco.org/community-partners/manna/",
     "geocode": "osm-nominatim",
     "retrieved": "2026-11-13",
-    "wagees_partner": "Yes"
+    "wagees_partner": "Yes",
+    "county": "La Plata"
    },
    "geometry": {
     "type": "Point",
@@ -264,7 +275,8 @@
     "source_url": "https://wageesco.org/community-partners/second-chance-center/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "wagees_partner": "Yes"
+    "wagees_partner": "Yes",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
@@ -289,7 +301,8 @@
     "source_url": "https://wageesco.org/community-partners/servicios-de-la-raza/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "wagees_partner": "Yes"
+    "wagees_partner": "Yes",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -314,7 +327,8 @@
     "source_url": "https://wageesco.org/community-partners/tdlbc/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "wagees_partner": "Yes"
+    "wagees_partner": "Yes",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
@@ -339,7 +353,8 @@
     "source_url": "https://wageesco.org/community-partners/the-empowerment-program/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "wagees_partner": "Yes"
+    "wagees_partner": "Yes",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -363,7 +378,8 @@
     "source_url": "https://wageesco.org/community-partners/freedom-institute-grand-junction/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "wagees_partner": "Yes"
+    "wagees_partner": "Yes",
+    "county": "Mesa"
    },
    "geometry": {
     "type": "Point",
@@ -387,7 +403,8 @@
     "source_url": "https://wageesco.org/community-partners/freedom-institute-montrose/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "wagees_partner": "Yes"
+    "wagees_partner": "Yes",
+    "county": "Montrose"
    },
    "geometry": {
     "type": "Point",
@@ -412,7 +429,8 @@
     "source_url": "https://wageesco.org/community-partners/the-pinon-project/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "wagees_partner": "Yes"
+    "wagees_partner": "Yes",
+    "county": "Montezuma"
    },
    "geometry": {
     "type": "Point",
@@ -437,7 +455,8 @@
     "source_url": "https://wageesco.org/community-partners/the-reentry-initiative/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "wagees_partner": "Yes"
+    "wagees_partner": "Yes",
+    "county": "Boulder"
    },
    "geometry": {
     "type": "Point",
@@ -462,7 +481,8 @@
     "source_url": "https://wageesco.org/community-partners/the-rock-found/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "wagees_partner": "Yes"
+    "wagees_partner": "Yes",
+    "county": "Weld"
    },
    "geometry": {
     "type": "Point",
@@ -488,7 +508,8 @@
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
     "wagees_partner": "Yes",
-    "verified": "WAGEES page printed ZIP as 80150 (typo); corrected to La Junta's 81050"
+    "verified": "WAGEES page printed ZIP as 80150 (typo); corrected to La Junta's 81050",
+    "county": "Otero"
    },
    "geometry": {
     "type": "Point",

@@ -14,7 +14,8 @@
     "source": "Organization website; ARCO / CAPRSS / CARS directories",
     "source_url": "https://advocatesforrecovery.org/",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-17"
+    "retrieved": "2026-11-17",
+    "county": "Adams"
    },
    "geometry": {
     "type": "Point",
@@ -37,7 +38,8 @@
     "source": "Organization website; ARCO / CAPRSS / CARS directories",
     "source_url": "https://advocatesforrecovery.org/",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-17"
+    "retrieved": "2026-11-17",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
@@ -60,7 +62,8 @@
     "source": "Organization website; ARCO / CAPRSS / CARS directories",
     "source_url": "https://freerecoverycommunity.org/",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-17"
+    "retrieved": "2026-11-17",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -83,7 +86,8 @@
     "source": "Organization website; ARCO / CAPRSS / CARS directories",
     "source_url": "https://caprss.org/accredited-organizations/",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-17"
+    "retrieved": "2026-11-17",
+    "county": "El Paso"
    },
    "geometry": {
     "type": "Point",

@@ -16,7 +16,8 @@
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
     "org_type": "Faith-based",
-    "also_in_layer": "Homelessness and Housing Services"
+    "also_in_layer": "Homelessness and Housing Services",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -43,7 +44,8 @@
     "retrieved": "2026-11-13",
     "wagees_partner": "Yes",
     "org_type": "Faith-based",
-    "also_in_layer": "Reentry and Transitional Services"
+    "also_in_layer": "Reentry and Transitional Services",
+    "county": "Logan"
    },
    "geometry": {
     "type": "Point",
@@ -68,7 +70,8 @@
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
     "org_type": "Faith-based",
-    "also_in_layer": "Homelessness and Housing Services"
+    "also_in_layer": "Homelessness and Housing Services",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -93,7 +96,8 @@
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
     "org_type": "Faith-based",
-    "also_in_layer": "Homelessness and Housing Services"
+    "also_in_layer": "Homelessness and Housing Services",
+    "county": "Larimer"
    },
    "geometry": {
     "type": "Point",
@@ -120,7 +124,8 @@
     "retrieved": "2026-11-13",
     "wagees_partner": "Yes",
     "org_type": "Community-based",
-    "also_in_layer": "Reentry and Transitional Services"
+    "also_in_layer": "Reentry and Transitional Services",
+    "county": "El Paso"
    },
    "geometry": {
     "type": "Point",
@@ -147,7 +152,8 @@
     "retrieved": "2026-11-13",
     "wagees_partner": "Yes",
     "org_type": "Community-based (peer mentoring)",
-    "also_in_layer": "Reentry and Transitional Services"
+    "also_in_layer": "Reentry and Transitional Services",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -174,7 +180,9 @@
     "retrieved": "2026-11-13",
     "wagees_partner": "Yes",
     "org_type": "Faith-based",
-    "also_in_layer": "Reentry and Transitional Services"
+    "also_in_layer": "Reentry and Transitional Services",
+    "county": "Fremont",
+    "location_accuracy": "Approximate - on the correct street; exact building not confirmed"
    },
    "geometry": {
     "type": "Point",
@@ -201,7 +209,8 @@
     "retrieved": "2026-11-13",
     "wagees_partner": "Yes",
     "org_type": "Community-based (meals, reentry)",
-    "also_in_layer": "Reentry and Transitional Services"
+    "also_in_layer": "Reentry and Transitional Services",
+    "county": "La Plata"
    },
    "geometry": {
     "type": "Point",
@@ -226,7 +235,9 @@
     "retrieved": "2026-11-13",
     "status_note": "Address from third-party directory only; confirm.",
     "org_type": "Faith-based",
-    "also_in_layer": "Homelessness and Housing Services"
+    "also_in_layer": "Homelessness and Housing Services",
+    "county": "Pueblo",
+    "location_accuracy": "Address unconfirmed - from a third-party shelter directory"
    },
    "geometry": {
     "type": "Point",
@@ -253,7 +264,8 @@
     "retrieved": "2026-11-13",
     "wagees_partner": "Yes",
     "org_type": "Community-based (Latino services)",
-    "also_in_layer": "Reentry and Transitional Services"
+    "also_in_layer": "Reentry and Transitional Services",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -278,7 +290,8 @@
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
     "org_type": "Faith-based",
-    "also_in_layer": "Homelessness and Housing Services"
+    "also_in_layer": "Homelessness and Housing Services",
+    "county": "El Paso"
    },
    "geometry": {
     "type": "Point",
@@ -305,7 +318,8 @@
     "retrieved": "2026-11-13",
     "wagees_partner": "Yes",
     "org_type": "Community-based (women)",
-    "also_in_layer": "Reentry and Transitional Services"
+    "also_in_layer": "Reentry and Transitional Services",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -332,7 +346,8 @@
     "retrieved": "2026-11-13",
     "wagees_partner": "Yes",
     "org_type": "Community-based (family resource center)",
-    "also_in_layer": "Reentry and Transitional Services"
+    "also_in_layer": "Reentry and Transitional Services",
+    "county": "Montezuma"
    },
    "geometry": {
     "type": "Point",

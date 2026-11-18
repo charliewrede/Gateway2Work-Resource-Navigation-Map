@@ -318,6 +318,56 @@ export const POPUPS = {
 // [📖 Console].
 // ============================================================================
 
+// ----------------------------------------------------------------------------
+// AUTOMATIC POPUP LAYOUT (used by every layer that doesn't set its own popup)
+//
+// Order: name (heading) -> Type -> Address (street, city, CO zip on one line)
+// -> layer-specific attributes -> Phone -> Website -> Source.
+// Fields listed in "hide" stay in the GeoJSON files (they are the audit
+// trail, see Data/SOURCES.md) but are not shown in popups.
+// ----------------------------------------------------------------------------
+export const POPUP_LAYOUT = {
+    titleField: "name",
+    typeField: "category",
+    typeLabel: "Type",
+    // street + city + zip are combined into one "Address" line
+    addressFields: { street: "address", city: "city", zip: "zip", state: "CO" },
+    // shown right under the Address line, in this order. location_accuracy
+    // only exists on points whose location/address is uncertain.
+    afterAddress: [
+        { key: "location_accuracy", label: "Location Accuracy" },
+        { key: "county",            label: "County" }
+    ],
+    // shown after the layer-specific attributes, in this order
+    endFields: [
+        { key: "phone",   label: "Phone" },
+        { key: "website", label: "Website", linkText: "Visit website" },
+        { key: "source",  label: "Source" }
+    ],
+    hide: [
+        // provenance / audit trail
+        "source_url", "geocode", "retrieved", "verified", "hifld_source_date",
+        "address_status", "listed_in", "also_in_layer", "status_note", "location_note",
+        // internal IDs and duplicates
+        "ipeds_unitid", "ipeds_sector", "va_station", "entity_type", "program", "site_name",
+        // not requested
+        "capacity", "address_note"
+    ],
+    // nicer labels for some attribute fields (others are made readable automatically)
+    labels: {
+        facility_types: "Facility Types", type_of_care: "Type of Care",
+        payment_accepted: "Payment Accepted", special_programs: "Special Programs",
+        rfw_status: "Recovery Friendly Status", counties_served: "Counties Served",
+        office_type: "Office Type", center_type: "Center Type", local_area: "Workforce Area",
+        school_type: "School Type", main_fields: "Main Fields of Study",
+        program_count: "Number of Programs", apprenticeship_programs: "Offers Apprenticeship",
+        apprenticeship_program_names: "Apprenticeship Programs", judicial_district: "Judicial District",
+        wagees_partner: "WAGEES Partner", homeless_point_of_contact: "Homeless Program Contact",
+        oxford_houses: "Oxford Houses", house_types: "House Types", housing_type: "Housing Type",
+        po_box_only: "PO Box Only", org_type: "Organization Type", area_served: "Area Served"
+    }
+};
+
 export const LAYERS = [
 
     // Gateway2Work statewide layers. Numbers (L1-L25) match the TSRG

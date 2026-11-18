@@ -52,6 +52,10 @@ Statewide GeoJSON layers for the 25 categories in TSRG's *Colorado Workforce Dev
 
 **Quality rules for OpenStreetMap results** (added after a spot-check found errors): city lookups must return a town, not the county of the same name; a match whose ZIP *and* city both disagree with the source is rejected; matches without a house number are labeled approximate.
 
+## Popup fields added to every layer (`scripts/postprocess_county_and_accuracy.py`)
+- **County:** assigned to every point from official **U.S. Census TIGERweb county boundaries** (point-in-polygon), replacing the mixed-source county values some layers had. Checked against the 235 earlier values: 4 differed, all explained (Aurora and Denver-mailing-address sites that are actually in Adams County; Gilpin probation's office is in Lakewood). Recovery-residence city summaries keep the Oxford House county.
+- **Location Accuracy:** shown **only** on points whose location or address is uncertain (83 points): city/town/ZIP centers, street-level matches, hand-placed points, addresses from old, third-party or conflicting sources, workforce centers still at their 2022 address, and project-staff decisions (e.g., Absolute Caulking "verified by project staff"). Points without this field have a confirmed street address.
+
 ## Corrections made to source data (all documented in the write-ups)
 - CBHC lists **Diversus and Solvista with swapped service areas**, so the providers' own clinic lists were used (L23).
 - The RFW participant sheet's **County column is wrong** in places and wasn't used. One row had the unit number in the City column, and another listed Denver for a Golden ZIP (L1).

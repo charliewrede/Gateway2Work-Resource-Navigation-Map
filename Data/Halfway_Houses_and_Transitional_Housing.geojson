@@ -16,7 +16,8 @@
     "source_url": "https://wageesco.org/community-partners/bridge-house-ready-to-work-boulder/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "housing_type": "Reentry transitional housing with employment (Ready to Work)"
+    "housing_type": "Reentry transitional housing with employment (Ready to Work)",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
@@ -41,7 +42,8 @@
     "source_url": "https://wageesco.org/community-partners/bridge-house-ready-to-work-boulder/",
     "geocode": "osm-nominatim",
     "retrieved": "2026-11-13",
-    "housing_type": "Reentry transitional housing with employment (Ready to Work)"
+    "housing_type": "Reentry transitional housing with employment (Ready to Work)",
+    "county": "Boulder"
    },
    "geometry": {
     "type": "Point",
@@ -67,7 +69,8 @@
     "housing_type": "Federal Residential Reentry Center (BOP halfway house)",
     "beds": "25 (20 male, 5 female)",
     "contract_expires": "05-31-2030",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",

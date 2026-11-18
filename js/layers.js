@@ -36,7 +36,8 @@ import {
     POPUP_PANE,
     SCORE_SCALE,
     NO_DATA_COLOR,
-    TOP_SCORES
+    TOP_SCORES,
+    POPUP_LAYOUT
 } from "./config.js";
 
 import { createPopupBuilder } from "./popups.js";
@@ -433,9 +434,74 @@ function readableName(key) {
         .replace(/\b\w/g, letter => letter.toUpperCase());
 }
 
+// Gateway2Work popup layout (settings: POPUP_LAYOUT in config.js).
+//   name as a heading, then Type, a one-line Address, the layer's own
+//   attributes, then Phone / Website / Source. Hidden fields are skipped.
+function layoutPopup(properties, layout) {
+
+    const has = value => value !== null && value !== undefined && value !== "" && typeof value !== "object";
+    const row = (label, html) => "<strong>" + escapeText(label) + ":</strong> " + html + "<br>";
+    const linkHtml = (url, text) =>
+        '<a href="' + escapeText(/^https?:\/\//i.test(url) ? url : "https://" + url) +
+        '" target="_blank" rel="noopener noreferrer">' + escapeText(text) + "</a>";
+
+    const a = layout.addressFields;
+    const after = layout.afterAddress || [];
+    const used = new Set([layout.titleField, layout.typeField, a.street, a.city, a.zip,
+                          ...after.map(f => f.key),
+                          ...layout.endFields.map(f => f.key), ...layout.hide]);
+    let html = "";
+
+    if (has(properties[layout.titleField])) {
+        html += '<div style="font-weight:bold;font-size:1.1em;margin-bottom:4px;">' +
+                escapeText(properties[layout.titleField]) + "</div>";
+    }
+    if (has(properties[layout.typeField])) {
+        html += row(layout.typeLabel, escapeText(properties[layout.typeField]));
+    }
+
+    // "123 Main St, Denver, CO 80202" (parts missing in the data are left out)
+    const cityLine = [properties[a.city], [a.state, properties[a.zip]].filter(has).join(" ")]
+        .filter(has).join(", ");
+    const addressLine = [properties[a.street], cityLine].filter(has).join(", ");
+    if (addressLine) {
+        html += row("Address", escapeText(addressLine));
+    }
+    after.forEach(f => {
+        if (!has(properties[f.key])) return;
+        const value = escapeText(properties[f.key]);
+        // make the accuracy warning stand out
+        html += row(f.label, f.key === "location_accuracy"
+            ? '<span style="color:#B45309;">' + value + "</span>" : value);
+    });
+
+    // Every other attribute the layer has, in the order it appears in the file
+    Object.entries(properties)
+        .filter(([key, value]) => !used.has(key) && key !== "isTopScore" && has(value))
+        .forEach(([key, value]) => {
+            const text = /^https?:\/\//i.test(String(value))
+                ? linkHtml(String(value), "Open link")
+                : escapeText(value);
+            html += row(layout.labels[key] || readableName(key), text);
+        });
+
+    layout.endFields.forEach(f => {
+        const value = properties[f.key];
+        if (!has(value)) return;
+        html += row(f.label, f.linkText ? linkHtml(String(value), f.linkText) : escapeText(value));
+    });
+
+    return html ? "<div>" + html + "</div>" : "<strong>No information available</strong>";
+}
+
 // Automatic popup: one line per property that has a value.
 // Web addresses become clickable links.
 function automaticPopup(feature) {
+
+    // If config.js defines POPUP_LAYOUT, use the Gateway2Work layout instead.
+    if (POPUP_LAYOUT) {
+        return layoutPopup(feature.properties || {}, POPUP_LAYOUT);
+    }
 
     const properties = feature.properties || {};
 

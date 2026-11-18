@@ -14,7 +14,8 @@
     "source": "Colorado Division of Vocational Rehabilitation office list",
     "source_url": "https://dvr.colorado.gov/contact-us",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -39,7 +40,8 @@
     "source_url": "https://dvr.colorado.gov/dvr-programs-services/dvr-questionnaire/dvr-phone-numbers",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "status_note": "Co-located with Alamosa Workforce Center"
+    "status_note": "Co-located with Alamosa Workforce Center",
+    "county": "Alamosa"
    },
    "geometry": {
     "type": "Point",
@@ -64,7 +66,9 @@
     "source_url": "https://aging.networkofcare.org/denverregion-co/services/agency?pid=ColoradoDivisionofVocationalRehabilitation_965_1_0",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "status_note": "From Network of Care directory; confirm"
+    "status_note": "From Network of Care directory; confirm",
+    "county": "Arapahoe",
+    "location_accuracy": "Address unconfirmed - from a regional directory, not DVR"
    },
    "geometry": {
     "type": "Point",
@@ -88,7 +92,8 @@
     "source": "Colorado Division of Vocational Rehabilitation office list",
     "source_url": "https://dvr.colorado.gov/dvr-programs-services/dvr-questionnaire/dvr-phone-numbers",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "El Paso"
    },
    "geometry": {
     "type": "Point",
@@ -113,7 +118,8 @@
     "source_url": "https://dvr.colorado.gov/dvr-programs-services/dvr-questionnaire/dvr-phone-numbers",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "status_note": "Co-located with Delta Workforce Center"
+    "status_note": "Co-located with Delta Workforce Center",
+    "county": "Delta"
    },
    "geometry": {
     "type": "Point",
@@ -137,7 +143,8 @@
     "source": "Colorado Division of Vocational Rehabilitation office list",
     "source_url": "https://dvr.colorado.gov/dvr-programs-services/dvr-questionnaire/dvr-phone-numbers",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "La Plata"
    },
    "geometry": {
     "type": "Point",
@@ -161,7 +168,8 @@
     "source_url": "https://dvr.colorado.gov/contact-us",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "status_note": "Listed on DVR Contact Us page; role not stated"
+    "status_note": "Listed on DVR Contact Us page; role not stated",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
@@ -186,7 +194,8 @@
     "source_url": "https://dvr.colorado.gov/dvr-programs-services/dvr-questionnaire/dvr-phone-numbers",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "status_note": "Co-located with Fort Morgan Workforce Center"
+    "status_note": "Co-located with Fort Morgan Workforce Center",
+    "county": "Morgan"
    },
    "geometry": {
     "type": "Point",
@@ -211,7 +220,8 @@
     "source_url": "https://dvr.colorado.gov/dvr-programs-services/dvr-questionnaire/dvr-phone-numbers",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "status_note": "Suite 400 (DVR page) vs Suite 1400 (other listing)"
+    "status_note": "Suite 400 (DVR page) vs Suite 1400 (other listing)",
+    "county": "Jefferson"
    },
    "geometry": {
     "type": "Point",
@@ -235,7 +245,8 @@
     "source": "Colorado Division of Vocational Rehabilitation office list",
     "source_url": "https://dvr.colorado.gov/dvr-programs-services/dvr-questionnaire/dvr-phone-numbers",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "Mesa"
    },
    "geometry": {
     "type": "Point",
@@ -259,7 +270,8 @@
     "source": "Colorado Division of Vocational Rehabilitation office list",
     "source_url": "https://dvr.colorado.gov/dvr-programs-services/dvr-questionnaire/dvr-phone-numbers",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "Lincoln"
    },
    "geometry": {
     "type": "Point",
@@ -284,7 +296,9 @@
     "source_url": "https://askjan.org/organizations/Colorado-Division-of-Vocational-Rehabilitation.cfm",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "status_note": "Older listing; confirm"
+    "status_note": "Older listing; confirm",
+    "county": "Montrose",
+    "location_accuracy": "Address unconfirmed - from an older listing"
    },
    "geometry": {
     "type": "Point",
@@ -308,7 +322,8 @@
     "source": "Colorado Division of Vocational Rehabilitation office list",
     "source_url": "https://dvr.colorado.gov/dvr-programs-services/dvr-questionnaire/dvr-phone-numbers",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "Adams"
    },
    "geometry": {
     "type": "Point",
@@ -333,7 +348,8 @@
     "source_url": "https://dvr.colorado.gov/dvr-programs-services/dvr-questionnaire/dvr-phone-numbers",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "status_note": "Co-located with Trinidad Workforce Center"
+    "status_note": "Co-located with Trinidad Workforce Center",
+    "county": "Las Animas"
    },
    "geometry": {
     "type": "Point",

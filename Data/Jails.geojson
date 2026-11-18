@@ -6,7 +6,7 @@
    "properties": {
     "name": "Adams County Detention Facility",
     "category": "Jails",
-    "address": "150 N 19Th Ave",
+    "address": "150 N 19th Ave",
     "city": "Brighton",
     "zip": "80601",
     "county": "Adams",
@@ -18,7 +18,7 @@
     "operator": "County Sheriff",
     "capacity": 1600,
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -33,7 +33,7 @@
    "properties": {
     "name": "Alamosa County Detention Center",
     "category": "Jails",
-    "address": "1315 17Th St",
+    "address": "1315 17th St",
     "city": "Alamosa",
     "zip": "81101",
     "county": "Alamosa",
@@ -44,7 +44,7 @@
     "verified": "HIFLD point 0.1 km from Census geocode of address",
     "operator": "County Sheriff",
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -71,7 +71,7 @@
     "operator": "County Sheriff",
     "capacity": 1400,
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -94,7 +94,7 @@
     "source_url": "https://www.pagosasun.com/stories/archuleta-county-jail-now-operating,14769",
     "geocode": "census-rooftop",
     "operator": "County Sheriff",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -121,7 +121,7 @@
     "operator": "Municipal",
     "capacity": 220,
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -136,7 +136,7 @@
    "properties": {
     "name": "Baca County Jail",
     "category": "Jails",
-    "address": "265 E. 2Nd Ave",
+    "address": "265 E. 2nd Ave",
     "city": "Springfield",
     "zip": "81073",
     "county": "Baca",
@@ -147,7 +147,7 @@
     "verified": "HIFLD point 0.1 km from Census geocode of address",
     "operator": "County Sheriff",
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -171,7 +171,7 @@
     "source_url": "https://bentsheriff.gov/contact-us/",
     "geocode": "census-rooftop",
     "operator": "County Sheriff",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -198,7 +198,7 @@
     "operator": "County Sheriff",
     "capacity": 536,
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -225,7 +225,7 @@
     "operator": "Municipal",
     "capacity": 218,
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -252,7 +252,7 @@
     "operator": "County Sheriff",
     "capacity": 105,
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -278,7 +278,7 @@
     "verified": "HIFLD point 0.1 km from Census geocode of address",
     "operator": "County Sheriff",
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -304,7 +304,7 @@
     "verified": "HIFLD point 0.8 km from Census geocode of address",
     "operator": "County Sheriff",
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -330,7 +330,7 @@
     "verified": "HIFLD point 0.0 km from Census geocode of address",
     "operator": "County Sheriff",
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -345,7 +345,7 @@
    "properties": {
     "name": "Crowley County Sheriffs Office Jail",
     "category": "Jails",
-    "address": "110 East 6Th Street",
+    "address": "110 East 6th Street",
     "city": "Ordway",
     "zip": "81063",
     "county": "Crowley",
@@ -356,7 +356,7 @@
     "verified": "HIFLD point 0.0 km from Census geocode of address",
     "operator": "County Sheriff",
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -383,7 +383,7 @@
     "operator": "County Sheriff",
     "capacity": 98,
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -409,7 +409,7 @@
     "verified": "HIFLD point 0.2 km from Census geocode of address",
     "operator": "County Sheriff",
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -436,7 +436,7 @@
     "operator": "County Sheriff",
     "capacity": 518,
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -462,7 +462,7 @@
     "verified": "HIFLD point 0.1 km from Census geocode of address",
     "operator": "County Sheriff",
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -489,7 +489,7 @@
     "operator": "County Sheriff",
     "capacity": 1725,
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -515,7 +515,7 @@
     "operator": "County Sheriff",
     "status_note": "Former Metro Detention Facility building, now the Sheriff's work-release facility (Gazette; EPSO Detention Bureau page)",
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -541,7 +541,7 @@
     "verified": "HIFLD point 0.4 km from Census geocode of address",
     "operator": "County Sheriff",
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -568,7 +568,7 @@
     "operator": "County Sheriff",
     "capacity": 235,
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -583,7 +583,7 @@
    "properties": {
     "name": "Garfield County Detention Facility",
     "category": "Jails",
-    "address": "107 8Th Street",
+    "address": "107 8th Street",
     "city": "Glenwood Springs",
     "zip": "81601",
     "county": "Garfield",
@@ -595,7 +595,7 @@
     "operator": "County Sheriff",
     "capacity": 204,
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -622,7 +622,7 @@
     "operator": "County Sheriff",
     "capacity": 55,
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -648,7 +648,7 @@
     "verified": "HIFLD point 0.0 km from Census geocode of address",
     "operator": "County Sheriff",
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -674,7 +674,7 @@
     "verified": "HIFLD point 0.1 km from Census geocode of address",
     "operator": "County Sheriff",
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -700,7 +700,7 @@
     "verified": "HIFLD point 0.1 km from Census geocode of address",
     "operator": "County Sheriff",
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -724,7 +724,7 @@
     "source_url": "https://jacksoncounty.colorado.gov/sheriff-jail",
     "geocode": "census-rooftop",
     "operator": "County Sheriff",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -751,7 +751,7 @@
     "operator": "County Sheriff",
     "capacity": 1300,
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -766,7 +766,7 @@
    "properties": {
     "name": "Kit Carson County Jail",
     "category": "Jails",
-    "address": "251 16Th Street",
+    "address": "251 16th Street",
     "city": "Burlington",
     "zip": "80807",
     "county": "Kit Carson",
@@ -777,7 +777,7 @@
     "verified": "HIFLD point 0.1 km from Census geocode of address",
     "operator": "County Sheriff",
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -804,7 +804,7 @@
     "operator": "County Sheriff",
     "capacity": 293,
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -831,7 +831,7 @@
     "operator": "County Sheriff",
     "capacity": 617,
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -857,7 +857,7 @@
     "verified": "HIFLD point 0.0 km from Census geocode of address",
     "operator": "County Sheriff",
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -884,7 +884,7 @@
     "operator": "County Sheriff",
     "capacity": 40,
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -911,7 +911,7 @@
     "operator": "County Sheriff",
     "capacity": 126,
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -938,7 +938,7 @@
     "operator": "County Sheriff",
     "capacity": 440,
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -953,7 +953,7 @@
    "properties": {
     "name": "Moffat County Detention Facility",
     "category": "Jails",
-    "address": "800 West 1St Street",
+    "address": "800 West 1st Street",
     "city": "Craig",
     "zip": "81625",
     "county": "Moffat",
@@ -965,7 +965,7 @@
     "operator": "County Sheriff",
     "capacity": 101,
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -992,7 +992,7 @@
     "operator": "County Sheriff",
     "capacity": 104,
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -1018,7 +1018,7 @@
     "verified": "HIFLD point 0.2 km from Census geocode of address",
     "operator": "County Sheriff",
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -1044,7 +1044,7 @@
     "verified": "HIFLD point 0.1 km from Census geocode of address",
     "operator": "County Sheriff",
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -1059,7 +1059,7 @@
    "properties": {
     "name": "Otero County Jail",
     "category": "Jails",
-    "address": "222 East 2Nd Street",
+    "address": "222 East 2nd Street",
     "city": "La Junta",
     "zip": "81050",
     "county": "Otero",
@@ -1071,7 +1071,7 @@
     "operator": "County Sheriff",
     "capacity": 34,
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -1097,7 +1097,7 @@
     "verified": "HIFLD point 0.2 km from Census geocode of address",
     "operator": "County Sheriff",
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -1123,7 +1123,7 @@
     "verified": "HIFLD point 0.0 km from Census geocode of address",
     "operator": "County Sheriff",
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -1150,7 +1150,7 @@
     "operator": "County Sheriff",
     "capacity": 57,
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -1177,7 +1177,7 @@
     "operator": "County Sheriff",
     "capacity": 780,
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -1192,7 +1192,7 @@
    "properties": {
     "name": "Pueblo County Work Release Facility",
     "category": "Jails",
-    "address": "1600 West 24Th Street",
+    "address": "1600 West 24th Street",
     "city": "Pueblo",
     "zip": "81003",
     "county": "Pueblo",
@@ -1203,7 +1203,7 @@
     "operator": "County Sheriff",
     "capacity": 80,
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -1229,7 +1229,7 @@
     "verified": "HIFLD point 0.0 km from Census geocode of address",
     "operator": "County Sheriff",
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -1256,7 +1256,7 @@
     "operator": "County Sheriff",
     "capacity": 54,
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -1283,7 +1283,7 @@
     "operator": "County Sheriff",
     "capacity": 37,
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -1310,7 +1310,7 @@
     "operator": "County Sheriff",
     "capacity": 95,
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -1337,7 +1337,7 @@
     "operator": "County Sheriff",
     "capacity": 126,
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -1363,7 +1363,7 @@
     "verified": "HIFLD point 0.1 km from Census geocode of address",
     "operator": "County Sheriff",
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -1390,7 +1390,7 @@
     "operator": "County Sheriff",
     "capacity": 250,
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",
@@ -1417,7 +1417,7 @@
     "operator": "County Sheriff",
     "capacity": 80,
     "hifld_source_date": "2015-2018 (phone/capacity may be outdated)",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-17"
    },
    "geometry": {
     "type": "Point",

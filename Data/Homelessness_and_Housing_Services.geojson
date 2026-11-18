@@ -14,7 +14,8 @@
     "source": "Address source: provider website",
     "source_url": "https://www.bouldershelter.org/",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-17"
+    "retrieved": "2026-11-17",
+    "county": "Boulder"
    },
    "geometry": {
     "type": "Point",
@@ -37,7 +38,8 @@
     "source": "Address source: provider website",
     "source_url": "https://ccdenver.org/",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-17"
+    "retrieved": "2026-11-17",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -60,7 +62,8 @@
     "source": "Address source: provider website",
     "source_url": "https://www.coloradocoalition.org/",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-17"
+    "retrieved": "2026-11-17",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -83,7 +86,8 @@
     "source": "Address source: provider website",
     "source_url": "https://denverrescuemission.org/",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-17"
+    "retrieved": "2026-11-17",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -106,7 +110,8 @@
     "source": "Address source: provider website",
     "source_url": "https://denverrescuemission.org/",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-17"
+    "retrieved": "2026-11-17",
+    "county": "Larimer"
    },
    "geometry": {
     "type": "Point",
@@ -129,7 +134,8 @@
     "source": "Address source: WAGEES partner page",
     "source_url": "https://www.homewardalliance.org/",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-17"
+    "retrieved": "2026-11-17",
+    "county": "Larimer"
    },
    "geometry": {
     "type": "Point",
@@ -152,7 +158,9 @@
     "source_url": "https://www.shelterlist.com/state/colorado",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "status_note": "Address from third-party directory only; confirm."
+    "status_note": "Address from third-party directory only; confirm.",
+    "county": "Pueblo",
+    "location_accuracy": "Address unconfirmed - from a third-party shelter directory"
    },
    "geometry": {
     "type": "Point",
@@ -175,7 +183,8 @@
     "source": "Address source: provider website",
     "source_url": "https://springsrescuemission.org/",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-17"
+    "retrieved": "2026-11-17",
+    "county": "El Paso"
    },
    "geometry": {
     "type": "Point",

@@ -14,7 +14,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -37,7 +38,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Grand"
    },
    "geometry": {
     "type": "Point",
@@ -60,7 +62,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Boulder"
    },
    "geometry": {
     "type": "Point",
@@ -83,7 +86,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Certified Recovery Friendly Workplace"
+    "rfw_status": "Certified Recovery Friendly Workplace",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -107,7 +111,9 @@
     "geocode": "osm-nominatim",
     "retrieved": "2026-11-17",
     "rfw_status": "Certified Recovery Friendly Workplace",
-    "location_note": "Address verified by project staff 2026-11-17 (roster listed '11919 I-70 Frontage Rd. N. #112'); geocoded as '11919 W I-70 Frontage Rd N' (OSM exact house-number match)."
+    "location_note": "Address verified by project staff 2026-11-17 (roster listed '11919 I-70 Frontage Rd. N. #112'); geocoded as '11919 W I-70 Frontage Rd N' (OSM exact house-number match).",
+    "county": "Jefferson",
+    "location_accuracy": "Address verified by project staff (2026-11-17)"
    },
    "geometry": {
     "type": "Point",
@@ -130,7 +136,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Boulder"
    },
    "geometry": {
     "type": "Point",
@@ -153,7 +160,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "osm-nominatim",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Larimer"
    },
    "geometry": {
     "type": "Point",
@@ -176,7 +184,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Certified Recovery Friendly Workplace"
+    "rfw_status": "Certified Recovery Friendly Workplace",
+    "county": "Adams"
    },
    "geometry": {
     "type": "Point",
@@ -199,7 +208,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Eagle"
    },
    "geometry": {
     "type": "Point",
@@ -222,7 +232,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
@@ -245,7 +256,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Certified Recovery Friendly Workplace"
+    "rfw_status": "Certified Recovery Friendly Workplace",
+    "county": "Jefferson"
    },
    "geometry": {
     "type": "Point",
@@ -268,7 +280,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Certified Recovery Friendly Workplace"
+    "rfw_status": "Certified Recovery Friendly Workplace",
+    "county": "Boulder"
    },
    "geometry": {
     "type": "Point",
@@ -291,7 +304,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Boulder"
    },
    "geometry": {
     "type": "Point",
@@ -314,7 +328,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
@@ -337,7 +352,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Jefferson"
    },
    "geometry": {
     "type": "Point",
@@ -360,7 +376,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Routt"
    },
    "geometry": {
     "type": "Point",
@@ -383,7 +400,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Boulder"
    },
    "geometry": {
     "type": "Point",
@@ -406,7 +424,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Boulder"
    },
    "geometry": {
     "type": "Point",
@@ -429,7 +448,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Eagle"
    },
    "geometry": {
     "type": "Point",
@@ -452,7 +472,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Larimer"
    },
    "geometry": {
     "type": "Point",
@@ -475,7 +496,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -498,7 +520,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "osm-nominatim",
     "retrieved": "2026-11-17",
-    "rfw_status": "Certified Recovery Friendly Workplace"
+    "rfw_status": "Certified Recovery Friendly Workplace",
+    "county": "Summit"
    },
    "geometry": {
     "type": "Point",
@@ -521,7 +544,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Certified Recovery Friendly Workplace"
+    "rfw_status": "Certified Recovery Friendly Workplace",
+    "county": "Adams"
    },
    "geometry": {
     "type": "Point",
@@ -544,7 +568,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Certified Recovery Friendly Workplace"
+    "rfw_status": "Certified Recovery Friendly Workplace",
+    "county": "Adams"
    },
    "geometry": {
     "type": "Point",
@@ -567,7 +592,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Certified Recovery Friendly Workplace"
+    "rfw_status": "Certified Recovery Friendly Workplace",
+    "county": "Adams"
    },
    "geometry": {
     "type": "Point",
@@ -590,7 +616,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Ouray"
    },
    "geometry": {
     "type": "Point",
@@ -613,7 +640,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "osm-nominatim",
     "retrieved": "2026-11-17",
-    "rfw_status": "Certified Recovery Friendly Workplace"
+    "rfw_status": "Certified Recovery Friendly Workplace",
+    "county": "Logan"
    },
    "geometry": {
     "type": "Point",
@@ -636,7 +664,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Adams"
    },
    "geometry": {
     "type": "Point",
@@ -659,7 +688,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Certified Recovery Friendly Workplace"
+    "rfw_status": "Certified Recovery Friendly Workplace",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -682,7 +712,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Certified Recovery Friendly Workplace"
+    "rfw_status": "Certified Recovery Friendly Workplace",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
@@ -705,7 +736,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Certified Recovery Friendly Workplace"
+    "rfw_status": "Certified Recovery Friendly Workplace",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -728,7 +760,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Certified Recovery Friendly Workplace"
+    "rfw_status": "Certified Recovery Friendly Workplace",
+    "county": "Adams"
    },
    "geometry": {
     "type": "Point",
@@ -751,7 +784,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Larimer"
    },
    "geometry": {
     "type": "Point",
@@ -774,7 +808,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Douglas"
    },
    "geometry": {
     "type": "Point",
@@ -797,7 +832,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "La Plata"
    },
    "geometry": {
     "type": "Point",
@@ -820,7 +856,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Certified Recovery Friendly Workplace"
+    "rfw_status": "Certified Recovery Friendly Workplace",
+    "county": "Broomfield"
    },
    "geometry": {
     "type": "Point",
@@ -843,7 +880,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "El Paso"
    },
    "geometry": {
     "type": "Point",
@@ -866,7 +904,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -889,7 +928,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Certified Recovery Friendly Workplace"
+    "rfw_status": "Certified Recovery Friendly Workplace",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -912,7 +952,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Certified Recovery Friendly Workplace"
+    "rfw_status": "Certified Recovery Friendly Workplace",
+    "county": "Boulder"
    },
    "geometry": {
     "type": "Point",
@@ -935,7 +976,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Adams"
    },
    "geometry": {
     "type": "Point",
@@ -958,7 +1000,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Routt"
    },
    "geometry": {
     "type": "Point",
@@ -981,7 +1024,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Eagle"
    },
    "geometry": {
     "type": "Point",
@@ -1004,7 +1048,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Broomfield"
    },
    "geometry": {
     "type": "Point",
@@ -1027,7 +1072,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Certified Recovery Friendly Workplace"
+    "rfw_status": "Certified Recovery Friendly Workplace",
+    "county": "Jefferson"
    },
    "geometry": {
     "type": "Point",
@@ -1050,7 +1096,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -1073,7 +1120,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "El Paso"
    },
    "geometry": {
     "type": "Point",
@@ -1096,7 +1144,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Certified Recovery Friendly Workplace"
+    "rfw_status": "Certified Recovery Friendly Workplace",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -1119,7 +1168,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Certified Recovery Friendly Workplace"
+    "rfw_status": "Certified Recovery Friendly Workplace",
+    "county": "Jefferson"
    },
    "geometry": {
     "type": "Point",
@@ -1142,7 +1192,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Larimer"
    },
    "geometry": {
     "type": "Point",
@@ -1165,7 +1216,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Routt"
    },
    "geometry": {
     "type": "Point",
@@ -1188,7 +1240,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Douglas"
    },
    "geometry": {
     "type": "Point",
@@ -1211,7 +1264,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
@@ -1234,7 +1288,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Garfield"
    },
    "geometry": {
     "type": "Point",
@@ -1257,7 +1312,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Grand"
    },
    "geometry": {
     "type": "Point",
@@ -1280,7 +1336,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Adams"
    },
    "geometry": {
     "type": "Point",
@@ -1303,7 +1360,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Routt"
    },
    "geometry": {
     "type": "Point",
@@ -1326,7 +1384,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Boulder"
    },
    "geometry": {
     "type": "Point",
@@ -1349,7 +1408,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "osm-nominatim",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Douglas"
    },
    "geometry": {
     "type": "Point",
@@ -1372,7 +1432,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "osm-nominatim",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Douglas"
    },
    "geometry": {
     "type": "Point",
@@ -1395,7 +1456,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Douglas"
    },
    "geometry": {
     "type": "Point",
@@ -1419,7 +1481,9 @@
     "geocode": "APPROXIMATE - town center (no physical location)",
     "retrieved": "2026-11-17",
     "rfw_status": "Participating (pledged)",
-    "location_note": "No physical location (project staff 2026-11-17); roster listed 14 Thomas Ct. Point placed at Crested Butte town center."
+    "location_note": "No physical location (project staff 2026-11-17); roster listed 14 Thomas Ct. Point placed at Crested Butte town center.",
+    "county": "Gunnison",
+    "location_accuracy": "Approximate - town center (no physical location)"
    },
    "geometry": {
     "type": "Point",
@@ -1442,7 +1506,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
@@ -1465,7 +1530,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Larimer"
    },
    "geometry": {
     "type": "Point",
@@ -1488,7 +1554,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Weld"
    },
    "geometry": {
     "type": "Point",
@@ -1511,7 +1578,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Certified Recovery Friendly Workplace"
+    "rfw_status": "Certified Recovery Friendly Workplace",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -1534,7 +1602,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Adams"
    },
    "geometry": {
     "type": "Point",
@@ -1557,7 +1626,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Certified Recovery Friendly Workplace"
+    "rfw_status": "Certified Recovery Friendly Workplace",
+    "county": "Garfield"
    },
    "geometry": {
     "type": "Point",
@@ -1580,7 +1650,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -1602,7 +1673,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "El Paso"
    },
    "geometry": {
     "type": "Point",
@@ -1625,7 +1697,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Alamosa"
    },
    "geometry": {
     "type": "Point",
@@ -1648,7 +1721,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Weld"
    },
    "geometry": {
     "type": "Point",
@@ -1671,7 +1745,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Grand"
    },
    "geometry": {
     "type": "Point",
@@ -1694,7 +1769,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Larimer"
    },
    "geometry": {
     "type": "Point",
@@ -1717,7 +1793,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
@@ -1740,7 +1817,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -1763,7 +1841,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Montezuma"
    },
    "geometry": {
     "type": "Point",
@@ -1786,7 +1865,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Certified Recovery Friendly Workplace"
+    "rfw_status": "Certified Recovery Friendly Workplace",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
@@ -1809,7 +1889,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
@@ -1832,7 +1913,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -1855,7 +1937,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Ouray"
    },
    "geometry": {
     "type": "Point",
@@ -1878,7 +1961,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "El Paso"
    },
    "geometry": {
     "type": "Point",
@@ -1901,7 +1985,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Routt"
    },
    "geometry": {
     "type": "Point",
@@ -1924,7 +2009,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Boulder"
    },
    "geometry": {
     "type": "Point",
@@ -1947,7 +2033,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Jefferson"
    },
    "geometry": {
     "type": "Point",
@@ -1970,7 +2057,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Boulder"
    },
    "geometry": {
     "type": "Point",
@@ -1993,7 +2081,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Certified Recovery Friendly Workplace"
+    "rfw_status": "Certified Recovery Friendly Workplace",
+    "county": "Jefferson"
    },
    "geometry": {
     "type": "Point",
@@ -2016,7 +2105,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -2039,7 +2129,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Jefferson"
    },
    "geometry": {
     "type": "Point",
@@ -2062,7 +2153,9 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-nonexact",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Logan",
+    "location_accuracy": "Approximate - best match among several possible addresses"
    },
    "geometry": {
     "type": "Point",
@@ -2085,7 +2178,9 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "osm-street-approx",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Jefferson",
+    "location_accuracy": "Approximate - on the correct street; exact building not confirmed"
    },
    "geometry": {
     "type": "Point",
@@ -2108,7 +2203,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Adams"
    },
    "geometry": {
     "type": "Point",
@@ -2131,7 +2227,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Certified Recovery Friendly Workplace"
+    "rfw_status": "Certified Recovery Friendly Workplace",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
@@ -2154,7 +2251,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Certified Recovery Friendly Workplace"
+    "rfw_status": "Certified Recovery Friendly Workplace",
+    "county": "Weld"
    },
    "geometry": {
     "type": "Point",
@@ -2177,7 +2275,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -2200,7 +2299,9 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "osm-street-approx",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Larimer",
+    "location_accuracy": "Approximate - on the correct street; exact building not confirmed"
    },
    "geometry": {
     "type": "Point",
@@ -2223,7 +2324,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Boulder"
    },
    "geometry": {
     "type": "Point",
@@ -2246,7 +2348,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Certified Recovery Friendly Workplace"
+    "rfw_status": "Certified Recovery Friendly Workplace",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -2269,7 +2372,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Certified Recovery Friendly Workplace"
+    "rfw_status": "Certified Recovery Friendly Workplace",
+    "county": "Routt"
    },
    "geometry": {
     "type": "Point",
@@ -2292,7 +2396,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -2315,7 +2420,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Certified Recovery Friendly Workplace"
+    "rfw_status": "Certified Recovery Friendly Workplace",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -2338,7 +2444,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Otero"
    },
    "geometry": {
     "type": "Point",
@@ -2361,7 +2468,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Routt"
    },
    "geometry": {
     "type": "Point",
@@ -2384,7 +2492,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Boulder"
    },
    "geometry": {
     "type": "Point",
@@ -2407,7 +2516,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Mesa"
    },
    "geometry": {
     "type": "Point",
@@ -2430,7 +2540,9 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "osm-street-approx",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Jefferson",
+    "location_accuracy": "Approximate - on the correct street; exact building not confirmed"
    },
    "geometry": {
     "type": "Point",
@@ -2453,7 +2565,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Certified Recovery Friendly Workplace"
+    "rfw_status": "Certified Recovery Friendly Workplace",
+    "county": "Pitkin"
    },
    "geometry": {
     "type": "Point",
@@ -2476,7 +2589,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Routt"
    },
    "geometry": {
     "type": "Point",
@@ -2499,7 +2613,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Eagle"
    },
    "geometry": {
     "type": "Point",
@@ -2522,7 +2637,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Certified Recovery Friendly Workplace"
+    "rfw_status": "Certified Recovery Friendly Workplace",
+    "county": "Boulder"
    },
    "geometry": {
     "type": "Point",
@@ -2547,7 +2663,9 @@
     "retrieved": "2026-11-17",
     "rfw_status": "Certified Recovery Friendly Workplace",
     "location_note": "PO BOX ONLY - no physical location (verified by project staff 2026-11-17). Point placed at the center of ZIP 80218.",
-    "po_box_only": "Yes"
+    "po_box_only": "Yes",
+    "county": "Denver",
+    "location_accuracy": "Approximate - center of ZIP code (PO Box, no physical location)"
    },
    "geometry": {
     "type": "Point",
@@ -2570,7 +2688,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Certified Recovery Friendly Workplace"
+    "rfw_status": "Certified Recovery Friendly Workplace",
+    "county": "Jefferson"
    },
    "geometry": {
     "type": "Point",
@@ -2593,7 +2712,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Weld"
    },
    "geometry": {
     "type": "Point",
@@ -2616,7 +2736,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Eagle"
    },
    "geometry": {
     "type": "Point",
@@ -2639,7 +2760,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Boulder"
    },
    "geometry": {
     "type": "Point",
@@ -2662,7 +2784,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Boulder"
    },
    "geometry": {
     "type": "Point",
@@ -2685,7 +2808,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Alamosa"
    },
    "geometry": {
     "type": "Point",
@@ -2708,7 +2832,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Certified Recovery Friendly Workplace"
+    "rfw_status": "Certified Recovery Friendly Workplace",
+    "county": "El Paso"
    },
    "geometry": {
     "type": "Point",
@@ -2731,7 +2856,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Certified Recovery Friendly Workplace"
+    "rfw_status": "Certified Recovery Friendly Workplace",
+    "county": "Boulder"
    },
    "geometry": {
     "type": "Point",
@@ -2754,7 +2880,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
@@ -2777,7 +2904,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Boulder"
    },
    "geometry": {
     "type": "Point",
@@ -2799,7 +2927,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Morgan"
    },
    "geometry": {
     "type": "Point",
@@ -2822,7 +2951,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -2846,7 +2976,9 @@
     "geocode": "APPROXIMATE - town center (no physical location)",
     "retrieved": "2026-11-17",
     "rfw_status": "Participating (pledged)",
-    "location_note": "No physical location; mailing address is PO Box 461 (project staff 2026-11-17). Point placed at Frisco town center."
+    "location_note": "No physical location; mailing address is PO Box 461 (project staff 2026-11-17). Point placed at Frisco town center.",
+    "county": "Summit",
+    "location_accuracy": "Approximate - town center (no physical location)"
    },
    "geometry": {
     "type": "Point",
@@ -2869,7 +3001,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -2892,7 +3025,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
@@ -2915,7 +3049,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -2938,7 +3073,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Larimer"
    },
    "geometry": {
     "type": "Point",
@@ -2961,7 +3097,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Routt"
    },
    "geometry": {
     "type": "Point",
@@ -2984,7 +3121,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Certified Recovery Friendly Workplace"
+    "rfw_status": "Certified Recovery Friendly Workplace",
+    "county": "Boulder"
    },
    "geometry": {
     "type": "Point",
@@ -3007,7 +3145,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Larimer"
    },
    "geometry": {
     "type": "Point",
@@ -3030,7 +3169,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Boulder"
    },
    "geometry": {
     "type": "Point",
@@ -3053,7 +3193,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Certified Recovery Friendly Workplace"
+    "rfw_status": "Certified Recovery Friendly Workplace",
+    "county": "Boulder"
    },
    "geometry": {
     "type": "Point",
@@ -3076,7 +3217,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
@@ -3099,7 +3241,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "osm-nominatim",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Mesa"
    },
    "geometry": {
     "type": "Point",
@@ -3122,7 +3265,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Boulder"
    },
    "geometry": {
     "type": "Point",
@@ -3145,7 +3289,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Boulder"
    },
    "geometry": {
     "type": "Point",
@@ -3168,7 +3313,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Weld"
    },
    "geometry": {
     "type": "Point",
@@ -3191,7 +3337,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -3214,7 +3361,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -3237,7 +3385,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Morgan"
    },
    "geometry": {
     "type": "Point",
@@ -3260,7 +3409,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Grand"
    },
    "geometry": {
     "type": "Point",
@@ -3283,7 +3433,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Douglas"
    },
    "geometry": {
     "type": "Point",
@@ -3306,7 +3457,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Summit"
    },
    "geometry": {
     "type": "Point",
@@ -3329,7 +3481,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -3352,7 +3505,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "osm-nominatim",
     "retrieved": "2026-11-17",
-    "rfw_status": "Certified Recovery Friendly Workplace"
+    "rfw_status": "Certified Recovery Friendly Workplace",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -3375,7 +3529,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Certified Recovery Friendly Workplace"
+    "rfw_status": "Certified Recovery Friendly Workplace",
+    "county": "Weld"
    },
    "geometry": {
     "type": "Point",
@@ -3398,7 +3553,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -3421,7 +3577,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Larimer"
    },
    "geometry": {
     "type": "Point",
@@ -3444,7 +3601,8 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -3466,7 +3624,9 @@
     "source_url": "https://corecoveryfriendlyworkplace.org/participating-colorado-companies/",
     "geocode": "osm-street-approx",
     "retrieved": "2026-11-17",
-    "rfw_status": "Participating (pledged)"
+    "rfw_status": "Participating (pledged)",
+    "county": "Summit",
+    "location_accuracy": "Approximate - on the correct street; exact building not confirmed"
    },
    "geometry": {
     "type": "Point",

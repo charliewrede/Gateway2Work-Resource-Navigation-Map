@@ -15,7 +15,8 @@
     "source_url": "https://www.cbhc.org/find-services/behavioral-health-providers/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "counties_served": "Douglas, Arapahoe (non-Aurora)"
+    "counties_served": "Douglas, Arapahoe (non-Aurora)",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
@@ -40,7 +41,8 @@
     "source_url": "https://www.cbhc.org/find-services/behavioral-health-providers/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "counties_served": "Arapahoe (Aurora)"
+    "counties_served": "Arapahoe (Aurora)",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
@@ -66,7 +68,9 @@
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
     "counties_served": "Archuleta, Dolores, La Plata, Montezuma, San Juan",
-    "status_note": "Main office address conflicting across sources; confirm."
+    "status_note": "Main office address conflicting across sources; confirm.",
+    "county": "La Plata",
+    "location_accuracy": "Address unconfirmed - sources list three different main offices"
    },
    "geometry": {
     "type": "Point",
@@ -91,7 +95,8 @@
     "source_url": "https://www.cbhc.org/find-services/behavioral-health-providers/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "counties_served": "Cheyenne, Elbert, Kit Carson, Lincoln, Logan, Morgan, Phillips, Sedgwick, Washington, Yuma"
+    "counties_served": "Cheyenne, Elbert, Kit Carson, Lincoln, Logan, Morgan, Phillips, Sedgwick, Washington, Yuma",
+    "county": "Logan"
    },
    "geometry": {
     "type": "Point",
@@ -116,7 +121,8 @@
     "source_url": "https://www.cbhc.org/find-services/behavioral-health-providers/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "counties_served": "Boulder, Broomfield"
+    "counties_served": "Boulder, Broomfield",
+    "county": "Boulder"
    },
    "geometry": {
     "type": "Point",
@@ -141,7 +147,8 @@
     "source_url": "https://www.cbhc.org/find-services/behavioral-health-providers/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "counties_served": "Adams"
+    "counties_served": "Adams",
+    "county": "Adams"
    },
    "geometry": {
     "type": "Point",
@@ -166,7 +173,8 @@
     "source_url": "https://www.cbhc.org/find-services/behavioral-health-providers/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "counties_served": "El Paso, Teller, Park (from provider's own site list; CBHC page lists these two providers swapped)"
+    "counties_served": "El Paso, Teller, Park (from provider's own site list; CBHC page lists these two providers swapped)",
+    "county": "El Paso"
    },
    "geometry": {
     "type": "Point",
@@ -191,7 +199,8 @@
     "source_url": "https://www.cbhc.org/find-services/behavioral-health-providers/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "counties_served": "Huerfano, Las Animas, Pueblo"
+    "counties_served": "Huerfano, Las Animas, Pueblo",
+    "county": "Pueblo"
    },
    "geometry": {
     "type": "Point",
@@ -216,7 +225,8 @@
     "source_url": "https://www.cbhc.org/find-services/behavioral-health-providers/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "counties_served": "Eagle, Garfield, Grand, Jackson, Mesa, Moffat, Pitkin, Rio Blanco, Routt, Summit"
+    "counties_served": "Eagle, Garfield, Grand, Jackson, Mesa, Moffat, Pitkin, Rio Blanco, Routt, Summit",
+    "county": "Mesa"
    },
    "geometry": {
     "type": "Point",
@@ -241,7 +251,8 @@
     "source_url": "https://www.cbhc.org/find-services/behavioral-health-providers/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "counties_served": "Jefferson, Clear Creek, Gilpin"
+    "counties_served": "Jefferson, Clear Creek, Gilpin",
+    "county": "Jefferson"
    },
    "geometry": {
     "type": "Point",
@@ -266,7 +277,8 @@
     "source_url": "https://www.cbhc.org/find-services/behavioral-health-providers/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "counties_served": "Weld"
+    "counties_served": "Weld",
+    "county": "Weld"
    },
    "geometry": {
     "type": "Point",
@@ -291,7 +303,8 @@
     "source_url": "https://www.cbhc.org/find-services/behavioral-health-providers/",
     "geocode": "osm-nominatim",
     "retrieved": "2026-11-13",
-    "counties_served": "Alamosa, Conejos, Costilla, Mineral, Rio Grande, Saguache"
+    "counties_served": "Alamosa, Conejos, Costilla, Mineral, Rio Grande, Saguache",
+    "county": "Alamosa"
    },
    "geometry": {
     "type": "Point",
@@ -316,7 +329,8 @@
     "source_url": "https://www.cbhc.org/find-services/behavioral-health-providers/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "counties_served": "Denver, Pueblo"
+    "counties_served": "Denver, Pueblo",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -341,7 +355,8 @@
     "source_url": "https://www.cbhc.org/find-services/behavioral-health-providers/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "counties_served": "Chaffee, Custer, Fremont, Lake (from provider's own site list; CBHC page lists these two providers swapped)"
+    "counties_served": "Chaffee, Custer, Fremont, Lake (from provider's own site list; CBHC page lists these two providers swapped)",
+    "county": "Fremont"
    },
    "geometry": {
     "type": "Point",
@@ -366,7 +381,8 @@
     "source_url": "https://www.cbhc.org/find-services/behavioral-health-providers/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "counties_served": "Larimer"
+    "counties_served": "Larimer",
+    "county": "Larimer"
    },
    "geometry": {
     "type": "Point",
@@ -391,7 +407,8 @@
     "source_url": "https://www.cbhc.org/find-services/behavioral-health-providers/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "counties_served": "Baca, Bent, Crowley, Kiowa, Otero, Prowers"
+    "counties_served": "Baca, Bent, Crowley, Kiowa, Otero, Prowers",
+    "county": "Alamosa"
    },
    "geometry": {
     "type": "Point",
@@ -416,7 +433,8 @@
     "source_url": "https://www.cbhc.org/find-services/behavioral-health-providers/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "counties_served": "Denver"
+    "counties_served": "Denver",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",

@@ -14,7 +14,8 @@
     "source": "CO Attorney General Reentry Report (2021) / Rose Community Foundation handout (2024) / news; address: GuideStar, ColoradoGives, NPI registry agree",
     "source_url": "https://www.bayaudenterprises.org/",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -37,7 +38,8 @@
     "source": "CO Attorney General Reentry Report (2021) / Rose Community Foundation handout (2024) / news; address: WAGEES partner page",
     "source_url": "https://boulderbridgehouse.org/",
     "geocode": "osm-nominatim",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "Boulder"
    },
    "geometry": {
     "type": "Point",
@@ -60,7 +62,8 @@
     "source": "CO Attorney General Reentry Report (2021) / Rose Community Foundation handout (2024) / news; address: Remerg; findhelp; Women's Directory",
     "source_url": "https://www.ceoworks.org/locations/colorado-springs",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "El Paso"
    },
    "geometry": {
     "type": "Point",
@@ -83,7 +86,8 @@
     "source": "CO Attorney General Reentry Report (2021) / Rose Community Foundation handout (2024) / news; address: Second Chance Business Coalition; SkillPlum ETPL",
     "source_url": "https://www.ceoworks.org/locations/denver",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -106,7 +110,8 @@
     "source": "CO Attorney General Reentry Report (2021) / Rose Community Foundation handout (2024) / news; address: own website",
     "source_url": "https://goodwillcolorado.org/",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "El Paso"
    },
    "geometry": {
     "type": "Point",
@@ -129,7 +134,8 @@
     "source": "CO Attorney General Reentry Report (2021) / Rose Community Foundation handout (2024) / news; address: own website",
     "source_url": "https://goodwillcolorado.org/",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "Adams"
    },
    "geometry": {
     "type": "Point",
@@ -152,7 +158,8 @@
     "source": "CO Attorney General Reentry Report (2021) / Rose Community Foundation handout (2024) / news; address: ColoradoGives; Second Chance Business Coalition listing",
     "source_url": "https://www.coloradogives.org/organization/MileHighWorkShop",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -175,7 +182,8 @@
     "source": "CO Attorney General Reentry Report (2021) / Rose Community Foundation handout (2024) / news; address: own website",
     "source_url": "https://womensbeanproject.com/",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",

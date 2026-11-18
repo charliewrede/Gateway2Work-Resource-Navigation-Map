@@ -231,7 +231,8 @@
     "source_url": "https://www.coloradomesa.edu/campus-info/contact.html",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "school_type": "Public community/technical college"
+    "school_type": "Public community/technical college",
+    "county": "Mesa"
    },
    "geometry": {
     "type": "Point",
@@ -1183,7 +1184,8 @@
     "source_url": "https://skillplum.com/school/san-juan-basin-technical-college-mancos-co",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "school_type": "Public community/technical college"
+    "school_type": "Public community/technical college",
+    "county": "Montezuma"
    },
    "geometry": {
     "type": "Point",

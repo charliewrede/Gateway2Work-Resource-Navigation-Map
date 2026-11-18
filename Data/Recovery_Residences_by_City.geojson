@@ -16,7 +16,8 @@
     "oxford_houses": 4,
     "beds": 36,
     "house_types": "Unknown: 4",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "location_accuracy": "Approximate - city center (summary of homes in this city; individual homes not mapped for privacy)"
    },
    "geometry": {
     "type": "Point",
@@ -41,7 +42,8 @@
     "oxford_houses": 6,
     "beds": 49,
     "house_types": "Unknown: 6",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "location_accuracy": "Approximate - city center (summary of homes in this city; individual homes not mapped for privacy)"
    },
    "geometry": {
     "type": "Point",
@@ -66,7 +68,8 @@
     "oxford_houses": 3,
     "beds": 25,
     "house_types": "Unknown: 3",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "location_accuracy": "Approximate - city center (summary of homes in this city; individual homes not mapped for privacy)"
    },
    "geometry": {
     "type": "Point",
@@ -91,7 +94,8 @@
     "oxford_houses": 1,
     "beds": 9,
     "house_types": "Men: 1",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "location_accuracy": "Approximate - city center (summary of homes in this city; individual homes not mapped for privacy)"
    },
    "geometry": {
     "type": "Point",
@@ -116,7 +120,8 @@
     "oxford_houses": 3,
     "beds": 24,
     "house_types": "Unknown: 3",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "location_accuracy": "Approximate - city center (summary of homes in this city; individual homes not mapped for privacy)"
    },
    "geometry": {
     "type": "Point",
@@ -141,7 +146,8 @@
     "oxford_houses": 15,
     "beds": 117,
     "house_types": "Unknown: 15",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "location_accuracy": "Approximate - city center (summary of homes in this city; individual homes not mapped for privacy)"
    },
    "geometry": {
     "type": "Point",
@@ -166,7 +172,8 @@
     "oxford_houses": 2,
     "beds": 20,
     "house_types": "Unknown: 2",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "location_accuracy": "Approximate - city center (summary of homes in this city; individual homes not mapped for privacy)"
    },
    "geometry": {
     "type": "Point",
@@ -191,7 +198,8 @@
     "oxford_houses": 4,
     "beds": 30,
     "house_types": "Unknown: 4",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "location_accuracy": "Approximate - city center (summary of homes in this city; individual homes not mapped for privacy)"
    },
    "geometry": {
     "type": "Point",
@@ -216,7 +224,8 @@
     "oxford_houses": 1,
     "beds": 8,
     "house_types": "Unknown: 1",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "location_accuracy": "Approximate - city center (summary of homes in this city; individual homes not mapped for privacy)"
    },
    "geometry": {
     "type": "Point",
@@ -241,7 +250,8 @@
     "oxford_houses": 4,
     "beds": 32,
     "house_types": "Unknown: 4",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "location_accuracy": "Approximate - city center (summary of homes in this city; individual homes not mapped for privacy)"
    },
    "geometry": {
     "type": "Point",
@@ -266,7 +276,8 @@
     "oxford_houses": 7,
     "beds": 61,
     "house_types": "Unknown: 7",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "location_accuracy": "Approximate - city center (summary of homes in this city; individual homes not mapped for privacy)"
    },
    "geometry": {
     "type": "Point",
@@ -291,7 +302,8 @@
     "oxford_houses": 4,
     "beds": 31,
     "house_types": "Unknown: 4",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "location_accuracy": "Approximate - city center (summary of homes in this city; individual homes not mapped for privacy)"
    },
    "geometry": {
     "type": "Point",
@@ -316,7 +328,8 @@
     "oxford_houses": 2,
     "beds": 14,
     "house_types": "Unknown: 2",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "location_accuracy": "Approximate - city center (summary of homes in this city; individual homes not mapped for privacy)"
    },
    "geometry": {
     "type": "Point",
@@ -341,7 +354,8 @@
     "oxford_houses": 1,
     "beds": 10,
     "house_types": "Unknown: 1",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "location_accuracy": "Approximate - city center (summary of homes in this city; individual homes not mapped for privacy)"
    },
    "geometry": {
     "type": "Point",
@@ -366,7 +380,8 @@
     "oxford_houses": 1,
     "beds": 8,
     "house_types": "Unknown: 1",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "location_accuracy": "Approximate - city center (summary of homes in this city; individual homes not mapped for privacy)"
    },
    "geometry": {
     "type": "Point",
@@ -391,7 +406,8 @@
     "oxford_houses": 3,
     "beds": 24,
     "house_types": "Unknown: 3",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "location_accuracy": "Approximate - city center (summary of homes in this city; individual homes not mapped for privacy)"
    },
    "geometry": {
     "type": "Point",
@@ -416,7 +432,8 @@
     "oxford_houses": 4,
     "beds": 32,
     "house_types": "Unknown: 4",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "location_accuracy": "Approximate - city center (summary of homes in this city; individual homes not mapped for privacy)"
    },
    "geometry": {
     "type": "Point",
@@ -441,7 +458,8 @@
     "oxford_houses": 1,
     "beds": 8,
     "house_types": "Unknown: 1",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "location_accuracy": "Approximate - city center (summary of homes in this city; individual homes not mapped for privacy)"
    },
    "geometry": {
     "type": "Point",
@@ -466,7 +484,8 @@
     "oxford_houses": 2,
     "beds": 16,
     "house_types": "Unknown: 2",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "location_accuracy": "Approximate - city center (summary of homes in this city; individual homes not mapped for privacy)"
    },
    "geometry": {
     "type": "Point",
@@ -491,7 +510,8 @@
     "oxford_houses": 7,
     "beds": 60,
     "house_types": "Unknown: 7",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "location_accuracy": "Approximate - city center (summary of homes in this city; individual homes not mapped for privacy)"
    },
    "geometry": {
     "type": "Point",
@@ -516,7 +536,8 @@
     "oxford_houses": 4,
     "beds": 32,
     "house_types": "Unknown: 4",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "location_accuracy": "Approximate - city center (summary of homes in this city; individual homes not mapped for privacy)"
    },
    "geometry": {
     "type": "Point",
@@ -541,7 +562,8 @@
     "oxford_houses": 1,
     "beds": 9,
     "house_types": "Unknown: 1",
-    "retrieved": "2026-11-13"
+    "retrieved": "2026-11-13",
+    "location_accuracy": "Approximate - city center (summary of homes in this city; individual homes not mapped for privacy)"
    },
    "geometry": {
     "type": "Point",

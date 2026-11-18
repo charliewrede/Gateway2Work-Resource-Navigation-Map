@@ -17,7 +17,8 @@
     "main_fields": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing, Interpersonal and Social Skills",
     "entity_type": "Private Non-Profit",
     "apprenticeship_programs": "Yes",
-    "apprenticeship_program_names": "Health Careers Pre-Apprentice Academy (HCPA)"
+    "apprenticeship_program_names": "Health Careers Pre-Apprentice Academy (HCPA)",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -44,7 +45,8 @@
     "main_fields": "Hospitality Administration/Management, Teacher Education and Professional Development, Specific Levels and Methods, Culinary Arts and Related Services",
     "entity_type": "Other",
     "apprenticeship_programs": "Yes",
-    "apprenticeship_program_names": "(apprenticeship named in description)"
+    "apprenticeship_program_names": "(apprenticeship named in description)",
+    "county": "Garfield"
    },
    "geometry": {
     "type": "Point",
@@ -71,7 +73,8 @@
     "main_fields": "Vehicle Maintenance and Repair Technologies/Technicians, Liberal Arts and Sciences, General Studies and Humanities, Precision Metal Working",
     "entity_type": "Other",
     "apprenticeship_programs": "Yes",
-    "apprenticeship_program_names": "(apprenticeship named in description)"
+    "apprenticeship_program_names": "(apprenticeship named in description)",
+    "county": "El Paso"
    },
    "geometry": {
     "type": "Point",
@@ -97,7 +100,9 @@
     "main_fields": "Allied Health Diagnostic, Intervention, and Treatment Professions, Environmental Control Technologies/Technicians, Drafting/Design Engineering Technologies/Technicians",
     "entity_type": "Other",
     "apprenticeship_programs": "Yes",
-    "apprenticeship_program_names": "(apprenticeship named in description)"
+    "apprenticeship_program_names": "(apprenticeship named in description)",
+    "county": "Jefferson",
+    "location_accuracy": "Approximate - on the correct street; exact building not confirmed"
    },
    "geometry": {
     "type": "Point",
@@ -124,7 +129,8 @@
     "main_fields": "Construction Trades, General",
     "entity_type": "Other",
     "apprenticeship_programs": "Yes",
-    "apprenticeship_program_names": "Pre-Apprenticeship for skilled trades 1; Pre-Apprenticeship for skilled trades 2; Pre-Apprenticeship for skilled trades 3; Pre-Apprenticeship for skilled trades 4"
+    "apprenticeship_program_names": "Pre-Apprenticeship for skilled trades 1; Pre-Apprenticeship for skilled trades 2; Pre-Apprenticeship for skilled trades 3; Pre-Apprenticeship for skilled trades 4",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -150,7 +156,8 @@
     "main_fields": "Business Administration, Management and Operations, Vehicle Maintenance and Repair Technologies/Technicians, Cosmetology and Related Personal Grooming Services",
     "entity_type": "Other",
     "apprenticeship_programs": "Yes",
-    "apprenticeship_program_names": "(apprenticeship named in description)"
+    "apprenticeship_program_names": "(apprenticeship named in description)",
+    "county": "Alamosa"
    },
    "geometry": {
     "type": "Point",
@@ -177,7 +184,8 @@
     "main_fields": "Computer Systems Analysis",
     "entity_type": "Other",
     "apprenticeship_programs": "Yes",
-    "apprenticeship_program_names": "Cybersecurity Analyst Registered Apprenticeship Program"
+    "apprenticeship_program_names": "Cybersecurity Analyst Registered Apprenticeship Program",
+    "county": "El Paso"
    },
    "geometry": {
     "type": "Point",
@@ -203,7 +211,8 @@
     "main_fields": "Business Administration, Management and Operations, Precision Metal Working, Allied Health Diagnostic, Intervention, and Treatment Professions",
     "entity_type": "Other",
     "apprenticeship_programs": "Yes",
-    "apprenticeship_program_names": "(apprenticeship named in description)"
+    "apprenticeship_program_names": "(apprenticeship named in description)",
+    "county": "Mesa"
    },
    "geometry": {
     "type": "Point",
@@ -229,7 +238,8 @@
     "main_fields": "Plumbing and Related Water Supply Services",
     "entity_type": "Other",
     "apprenticeship_programs": "Yes",
-    "apprenticeship_program_names": "(apprenticeship named in description)"
+    "apprenticeship_program_names": "(apprenticeship named in description)",
+    "county": "Mesa"
    },
    "geometry": {
     "type": "Point",

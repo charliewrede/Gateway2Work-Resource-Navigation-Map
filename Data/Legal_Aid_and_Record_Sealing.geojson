@@ -16,7 +16,8 @@
     "source_url": "https://www.coloradolegalservices.org/get-help/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "counties_served": "Alamosa, Conejos, Costilla, Mineral, Rio Grande, Saguache"
+    "counties_served": "Alamosa, Conejos, Costilla, Mineral, Rio Grande, Saguache",
+    "county": "Alamosa"
    },
    "geometry": {
     "type": "Point",
@@ -41,7 +42,8 @@
     "source_url": "https://www.coloradolegalservices.org/get-help/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "counties_served": "Boulder, Broomfield"
+    "counties_served": "Boulder, Broomfield",
+    "county": "Boulder"
    },
    "geometry": {
     "type": "Point",
@@ -66,7 +68,8 @@
     "source_url": "https://www.coloradolegalservices.org/get-help/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "counties_served": "El Paso, Lincoln, and nearby counties"
+    "counties_served": "El Paso, Lincoln, and nearby counties",
+    "county": "El Paso"
    },
    "geometry": {
     "type": "Point",
@@ -91,7 +94,8 @@
     "source_url": "https://www.coloradolegalservices.org/get-help/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "counties_served": "Northwest counties incl. Moffat, Pitkin, Rio Blanco, Routt, Summit"
+    "counties_served": "Northwest counties incl. Moffat, Pitkin, Rio Blanco, Routt, Summit",
+    "county": "Moffat"
    },
    "geometry": {
     "type": "Point",
@@ -116,7 +120,8 @@
     "source_url": "https://www.coloradolegalservices.org/get-help/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "counties_served": "Denver metro"
+    "counties_served": "Denver metro",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -141,7 +146,8 @@
     "source_url": "https://www.coloradolegalservices.org/get-help/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "counties_served": "Archuleta, Dolores, Hinsdale, La Plata, Montezuma, San Juan; Ute Mountain Ute and Southern Ute"
+    "counties_served": "Archuleta, Dolores, Hinsdale, La Plata, Montezuma, San Juan; Ute Mountain Ute and Southern Ute",
+    "county": "La Plata"
    },
    "geometry": {
     "type": "Point",
@@ -166,7 +172,8 @@
     "source_url": "https://www.coloradolegalservices.org/get-help/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "counties_served": "Larimer, Logan, Phillips, Sedgwick"
+    "counties_served": "Larimer, Logan, Phillips, Sedgwick",
+    "county": "Larimer"
    },
    "geometry": {
     "type": "Point",
@@ -192,7 +199,8 @@
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
     "counties_served": "Delta, Garfield, Mesa and nearby counties",
-    "status_note": "CLS lists this as a MAILING address; call or apply online (applyonlinecls.org)."
+    "status_note": "CLS lists this as a MAILING address; call or apply online (applyonlinecls.org).",
+    "county": "Mesa"
    },
    "geometry": {
     "type": "Point",
@@ -217,7 +225,8 @@
     "source_url": "https://www.coloradolegalservices.org/get-help/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "counties_served": "Weld, Kit Carson, Morgan, Washington and nearby counties"
+    "counties_served": "Weld, Kit Carson, Morgan, Washington and nearby counties",
+    "county": "Weld"
    },
    "geometry": {
     "type": "Point",
@@ -242,7 +251,8 @@
     "source_url": "https://www.coloradolegalservices.org/get-help/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "counties_served": "Baca, Bent, Cheyenne, Crowley, Kiowa, Otero, Prowers"
+    "counties_served": "Baca, Bent, Cheyenne, Crowley, Kiowa, Otero, Prowers",
+    "county": "Otero"
    },
    "geometry": {
     "type": "Point",
@@ -267,7 +277,8 @@
     "source_url": "https://www.coloradolegalservices.org/get-help/",
     "geocode": "osm-nominatim",
     "retrieved": "2026-11-13",
-    "counties_served": "Huerfano, Las Animas, Pueblo"
+    "counties_served": "Huerfano, Las Animas, Pueblo",
+    "county": "Pueblo"
    },
    "geometry": {
     "type": "Point",
@@ -292,7 +303,8 @@
     "source_url": "https://www.coloradolegalservices.org/get-help/",
     "geocode": "census-rooftop",
     "retrieved": "2026-11-13",
-    "counties_served": "Park, Chaffee, Custer"
+    "counties_served": "Park, Chaffee, Custer",
+    "county": "Chaffee"
    },
    "geometry": {
     "type": "Point",

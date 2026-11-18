@@ -16,7 +16,8 @@
     "program_count": 1,
     "main_fields": "Ground Transportation",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Adams"
    },
    "geometry": {
     "type": "Point",
@@ -42,7 +43,8 @@
     "program_count": 17,
     "main_fields": "Computer/Information Technology Administration and Management, Computer and Information Sciences, General",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
@@ -68,7 +70,8 @@
     "program_count": 1,
     "main_fields": "Computer/Information Technology Administration and Management",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
@@ -94,7 +97,8 @@
     "program_count": 4,
     "main_fields": "Curriculum and Instruction, Dental Support Services and Allied Professions",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Boulder"
    },
    "geometry": {
     "type": "Point",
@@ -120,7 +124,8 @@
     "program_count": 3,
     "main_fields": "Health and Medical Administrative Services",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -146,7 +151,8 @@
     "program_count": 2,
     "main_fields": "Liberal Arts and Sciences, General Studies and Humanities, Health and Medical Administrative Services",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -172,7 +178,8 @@
     "program_count": 2,
     "main_fields": "Business Administration, Management and Operations",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Jefferson"
    },
    "geometry": {
     "type": "Point",
@@ -198,7 +205,8 @@
     "program_count": 7,
     "main_fields": "Ground Transportation, Legal Support Services, Computer Software and Media Applications",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Weld"
    },
    "geometry": {
     "type": "Point",
@@ -224,7 +232,8 @@
     "program_count": 3,
     "main_fields": "Dental Support Services and Allied Professions",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "El Paso"
    },
    "geometry": {
     "type": "Point",
@@ -250,7 +259,8 @@
     "program_count": 2,
     "main_fields": "Dental Support Services and Allied Professions",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Pueblo"
    },
    "geometry": {
     "type": "Point",
@@ -276,7 +286,8 @@
     "program_count": 4,
     "main_fields": "Computer Programming, Dental Support Services and Allied Professions",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
@@ -301,7 +312,8 @@
     "program_count": 8,
     "main_fields": "Mental and Social Health Services and Allied Professions",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -327,7 +339,8 @@
     "program_count": 1,
     "main_fields": "Somatic Bodywork and Related Therapeutic Services",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Boulder"
    },
    "geometry": {
     "type": "Point",
@@ -352,7 +365,8 @@
     "program_count": 14,
     "main_fields": "Electrical/Electronics Maintenance and Repair Technologies/Technicians",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Boulder"
    },
    "geometry": {
     "type": "Point",
@@ -378,7 +392,8 @@
     "program_count": 3,
     "main_fields": "Ground Transportation, Agriculture, General",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "El Paso"
    },
    "geometry": {
     "type": "Point",
@@ -404,7 +419,8 @@
     "program_count": 5,
     "main_fields": "Ground Transportation",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Mesa"
    },
    "geometry": {
     "type": "Point",
@@ -430,7 +446,8 @@
     "program_count": 1,
     "main_fields": "Ground Transportation",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Jefferson"
    },
    "geometry": {
     "type": "Point",
@@ -455,7 +472,8 @@
     "program_count": 8,
     "main_fields": "Health and Medical Administrative Services",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Larimer"
    },
    "geometry": {
     "type": "Point",
@@ -481,7 +499,8 @@
     "program_count": 3,
     "main_fields": "Practical Nursing, Vocational Nursing and Nursing Assistants",
     "entity_type": "Private Non-Profit",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Fremont"
    },
    "geometry": {
     "type": "Point",
@@ -506,7 +525,8 @@
     "program_count": 4,
     "main_fields": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing, Interpersonal and Social Skills",
     "entity_type": "Private Non-Profit",
-    "apprenticeship_programs": "Yes"
+    "apprenticeship_programs": "Yes",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -532,7 +552,8 @@
     "program_count": 1,
     "main_fields": "Mental and Social Health Services and Allied Professions",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Larimer"
    },
    "geometry": {
     "type": "Point",
@@ -557,7 +578,8 @@
     "program_count": 1,
     "main_fields": "Somatic Bodywork and Related Therapeutic Services",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "El Paso"
    },
    "geometry": {
     "type": "Point",
@@ -583,7 +605,8 @@
     "program_count": 179,
     "main_fields": "Hospitality Administration/Management, Teacher Education and Professional Development, Specific Levels and Methods, Culinary Arts and Related Services",
     "entity_type": "Other",
-    "apprenticeship_programs": "Yes"
+    "apprenticeship_programs": "Yes",
+    "county": "Garfield"
    },
    "geometry": {
     "type": "Point",
@@ -609,7 +632,8 @@
     "program_count": 27,
     "main_fields": "Vehicle Maintenance and Repair Technologies/Technicians, Allied Health Diagnostic, Intervention, and Treatment Professions, Cosmetology and Related Personal Grooming Services",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Rio Blanco"
    },
    "geometry": {
     "type": "Point",
@@ -635,7 +659,8 @@
     "program_count": 1,
     "main_fields": "Natural Resources Conservation and Research",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Moffat"
    },
    "geometry": {
     "type": "Point",
@@ -661,7 +686,8 @@
     "program_count": 2,
     "main_fields": "Education, General, Special Education and Teaching",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Garfield"
    },
    "geometry": {
     "type": "Point",
@@ -686,7 +712,8 @@
     "program_count": 4,
     "main_fields": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Pueblo"
    },
    "geometry": {
     "type": "Point",
@@ -712,7 +739,8 @@
     "program_count": 44,
     "main_fields": "Business Administration, Management and Operations, Human Resources Management and Services, Computer/Information Technology Administration and Management",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
@@ -738,7 +766,8 @@
     "program_count": 2,
     "main_fields": "Ground Transportation",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -763,7 +792,8 @@
     "program_count": 77,
     "main_fields": "Film/Video and Photographic Arts, Business Administration, Management and Operations, Criminal Justice and Corrections",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
@@ -789,7 +819,8 @@
     "program_count": 15,
     "main_fields": "Precision Metal Working, Architectural Sciences and Technology, Allied Health and Medical Assisting Services",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -815,7 +846,8 @@
     "program_count": 1,
     "main_fields": "Practical Nursing, Vocational Nursing and Nursing Assistants",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Boulder"
    },
    "geometry": {
     "type": "Point",
@@ -841,7 +873,8 @@
     "program_count": 9,
     "main_fields": "Allied Health Diagnostic, Intervention, and Treatment Professions, Allied Health and Medical Assisting Services, Dental Support Services and Allied Professions",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
@@ -867,7 +900,8 @@
     "program_count": 1,
     "main_fields": "Cosmetology and Related Personal Grooming Services",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -892,7 +926,8 @@
     "program_count": 1,
     "main_fields": "Allied Health Diagnostic, Intervention, and Treatment Professions",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Adams"
    },
    "geometry": {
     "type": "Point",
@@ -918,7 +953,8 @@
     "program_count": 61,
     "main_fields": "Business Administration, Management and Operations, Design and Applied Arts, Film/Video and Photographic Arts",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Larimer"
    },
    "geometry": {
     "type": "Point",
@@ -944,7 +980,8 @@
     "program_count": 8,
     "main_fields": "Aerospace, Aeronautical, and Astronautical/Space Engineering, Air Transportation, Mechanical Engineering Related Technologies/Technicians",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "El Paso"
    },
    "geometry": {
     "type": "Point",
@@ -970,7 +1007,8 @@
     "program_count": 8,
     "main_fields": "Ground Transportation",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Adams"
    },
    "geometry": {
     "type": "Point",
@@ -996,7 +1034,8 @@
     "program_count": 6,
     "main_fields": "Computer Programming, Computer Software and Media Applications",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -1022,7 +1061,8 @@
     "program_count": 5,
     "main_fields": "Computer/Information Technology Administration and Management",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -1048,7 +1088,8 @@
     "program_count": 3,
     "main_fields": "Health and Medical Administrative Services",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Larimer"
    },
    "geometry": {
     "type": "Point",
@@ -1074,7 +1115,8 @@
     "program_count": 170,
     "main_fields": "Precision Metal Working, Graphic Communications, Business Administration, Management and Operations",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Adams"
    },
    "geometry": {
     "type": "Point",
@@ -1099,7 +1141,8 @@
     "program_count": 1,
     "main_fields": "Computer Engineering",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Boulder"
    },
    "geometry": {
     "type": "Point",
@@ -1125,7 +1168,8 @@
     "program_count": 2,
     "main_fields": "Computer Engineering",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -1151,7 +1195,8 @@
     "program_count": 4,
     "main_fields": "Computer Software and Media Applications, Design and Applied Arts",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -1177,7 +1222,8 @@
     "program_count": 1,
     "main_fields": "Culinary Arts and Related Services",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -1203,7 +1249,8 @@
     "program_count": 1,
     "main_fields": "Insurance",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
@@ -1229,7 +1276,8 @@
     "program_count": 1,
     "main_fields": "Real Estate",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
@@ -1254,7 +1302,8 @@
     "program_count": 17,
     "main_fields": "Construction Trades, General, Agricultural and Domestic Animal Services, Allied Health and Medical Assisting Services",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Prowers"
    },
    "geometry": {
     "type": "Point",
@@ -1280,7 +1329,8 @@
     "program_count": 1,
     "main_fields": "Health and Medical Administrative Services",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "El Paso"
    },
    "geometry": {
     "type": "Point",
@@ -1306,7 +1356,8 @@
     "program_count": 3,
     "main_fields": "Legal Support Services, Clinical/Medical Laboratory Science/Research and Allied Professions",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -1332,7 +1383,8 @@
     "program_count": 1,
     "main_fields": "Human Resources Management and Services",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Boulder"
    },
    "geometry": {
     "type": "Point",
@@ -1358,7 +1410,8 @@
     "program_count": 2,
     "main_fields": "Educational Administration and Supervision, Education, General",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Chaffee"
    },
    "geometry": {
     "type": "Point",
@@ -1384,7 +1437,8 @@
     "program_count": 2,
     "main_fields": "Dental Support Services and Allied Professions",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Broomfield"
    },
    "geometry": {
     "type": "Point",
@@ -1409,7 +1463,8 @@
     "program_count": 2,
     "main_fields": "Health Aides/Attendants/Orderlies",
     "entity_type": "Private Non-Profit",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -1434,7 +1489,8 @@
     "program_count": 55,
     "main_fields": "Vehicle Maintenance and Repair Technologies/Technicians, Business Administration, Management and Operations, Agricultural Business and Management",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Logan"
    },
    "geometry": {
     "type": "Point",
@@ -1459,7 +1515,8 @@
     "program_count": 6,
     "main_fields": "Cosmetology and Related Personal Grooming Services, Health Professions and Related Clinical Sciences, Other",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
@@ -1485,7 +1542,8 @@
     "program_count": 2,
     "main_fields": "Practical Nursing, Vocational Nursing and Nursing Assistants",
     "entity_type": "Private Non-Profit",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "El Paso"
    },
    "geometry": {
     "type": "Point",
@@ -1511,7 +1569,8 @@
     "program_count": 2,
     "main_fields": "Agriculture, General, Nutrition Sciences",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Jefferson"
    },
    "geometry": {
     "type": "Point",
@@ -1536,7 +1595,8 @@
     "program_count": 21,
     "main_fields": "Precision Metal Working, Agricultural Production Operations, Criminal Justice and Corrections",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Otero"
    },
    "geometry": {
     "type": "Point",
@@ -1562,7 +1622,8 @@
     "program_count": 2,
     "main_fields": "Cosmetology and Related Personal Grooming Services",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Jefferson"
    },
    "geometry": {
     "type": "Point",
@@ -1588,7 +1649,8 @@
     "program_count": 1,
     "main_fields": "Business Administration, Management and Operations",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Eagle"
    },
    "geometry": {
     "type": "Point",
@@ -1614,7 +1676,8 @@
     "program_count": 1,
     "main_fields": "Allied Health and Medical Assisting Services",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
@@ -1640,7 +1703,8 @@
     "program_count": 2,
     "main_fields": "Clinical/Medical Laboratory Science/Research and Allied Professions",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -1666,7 +1730,8 @@
     "program_count": 3,
     "main_fields": "Dispute Resolution",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
@@ -1691,7 +1756,8 @@
     "program_count": 29,
     "main_fields": "Cosmetology and Related Personal Grooming Services, Precision Metal Working, Vehicle Maintenance and Repair Technologies/Technicians",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
@@ -1717,7 +1783,8 @@
     "program_count": 154,
     "main_fields": "Vehicle Maintenance and Repair Technologies/Technicians, Liberal Arts and Sciences, General Studies and Humanities, Precision Metal Working",
     "entity_type": "Other",
-    "apprenticeship_programs": "Yes"
+    "apprenticeship_programs": "Yes",
+    "county": "El Paso"
    },
    "geometry": {
     "type": "Point",
@@ -1743,7 +1810,8 @@
     "program_count": 1,
     "main_fields": "Education, General",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -1769,7 +1837,8 @@
     "program_count": 151,
     "main_fields": "Precision Metal Working, Computer and Information Sciences, General, Fire Protection",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Pueblo"
    },
    "geometry": {
     "type": "Point",
@@ -1794,7 +1863,9 @@
     "program_count": 56,
     "main_fields": "Allied Health Diagnostic, Intervention, and Treatment Professions, Environmental Control Technologies/Technicians, Drafting/Design Engineering Technologies/Technicians",
     "entity_type": "Other",
-    "apprenticeship_programs": "Yes"
+    "apprenticeship_programs": "Yes",
+    "county": "Jefferson",
+    "location_accuracy": "Approximate - on the correct street; exact building not confirmed"
    },
    "geometry": {
     "type": "Point",
@@ -1820,7 +1891,8 @@
     "program_count": 119,
     "main_fields": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing, Computer and Information Sciences, General, Business Administration, Management and Operations",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -1846,7 +1918,8 @@
     "program_count": 1,
     "main_fields": "Cosmetology and Related Personal Grooming Services",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Jefferson"
    },
    "geometry": {
     "type": "Point",
@@ -1872,7 +1945,8 @@
     "program_count": 3,
     "main_fields": "Ground Transportation",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Adams"
    },
    "geometry": {
     "type": "Point",
@@ -1898,7 +1972,8 @@
     "program_count": 2,
     "main_fields": "Culinary Arts and Related Services",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Boulder"
    },
    "geometry": {
     "type": "Point",
@@ -1923,7 +1998,8 @@
     "program_count": 1,
     "main_fields": "Mental and Social Health Services and Allied Professions",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Mesa"
    },
    "geometry": {
     "type": "Point",
@@ -1949,7 +2025,8 @@
     "program_count": 1,
     "main_fields": "Computer Programming",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
@@ -1975,7 +2052,8 @@
     "program_count": 28,
     "main_fields": "Environmental Control Technologies/Technicians",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Delta"
    },
    "geometry": {
     "type": "Point",
@@ -2001,7 +2079,8 @@
     "program_count": 1,
     "main_fields": "Linguistic, Comparative, and Related Language Studies and Services",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -2027,7 +2106,8 @@
     "program_count": 1,
     "main_fields": "Allied Health Diagnostic, Intervention, and Treatment Professions",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Jefferson"
    },
    "geometry": {
     "type": "Point",
@@ -2053,7 +2133,8 @@
     "program_count": 2,
     "main_fields": "Ground Transportation",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -2078,7 +2159,8 @@
     "program_count": 1,
     "main_fields": "Computer and Information Sciences, General",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
@@ -2104,7 +2186,8 @@
     "program_count": 4,
     "main_fields": "Construction Trades, General",
     "entity_type": "Other",
-    "apprenticeship_programs": "Yes"
+    "apprenticeship_programs": "Yes",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -2130,7 +2213,8 @@
     "program_count": 1,
     "main_fields": "Business Administration, Management and Operations",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Boulder"
    },
    "geometry": {
     "type": "Point",
@@ -2155,7 +2239,8 @@
     "program_count": 63,
     "main_fields": "Business Administration, Management and Operations, Vehicle Maintenance and Repair Technologies/Technicians, Cosmetology and Related Personal Grooming Services",
     "entity_type": "Other",
-    "apprenticeship_programs": "Yes"
+    "apprenticeship_programs": "Yes",
+    "county": "Alamosa"
    },
    "geometry": {
     "type": "Point",
@@ -2181,7 +2266,8 @@
     "program_count": 1,
     "main_fields": "Ground Transportation",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Weld"
    },
    "geometry": {
     "type": "Point",
@@ -2207,7 +2293,8 @@
     "program_count": 1,
     "main_fields": "Computer Systems Analysis",
     "entity_type": "Other",
-    "apprenticeship_programs": "Yes"
+    "apprenticeship_programs": "Yes",
+    "county": "El Paso"
    },
    "geometry": {
     "type": "Point",
@@ -2233,7 +2320,8 @@
     "program_count": 2,
     "main_fields": "Ground Transportation",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Jefferson"
    },
    "geometry": {
     "type": "Point",
@@ -2258,7 +2346,8 @@
     "program_count": 14,
     "main_fields": "Computer/Information Technology Administration and Management, Business Administration, Management and Operations, Computer Software and Media Applications",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
@@ -2283,7 +2372,8 @@
     "program_count": 7,
     "main_fields": "Business Administration, Management and Operations, Computer/Information Technology Administration and Management, Computer and Information Sciences, General",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "El Paso"
    },
    "geometry": {
     "type": "Point",
@@ -2308,7 +2398,8 @@
     "program_count": 4,
     "main_fields": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing, Computer/Information Technology Administration and Management",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "El Paso"
    },
    "geometry": {
     "type": "Point",
@@ -2334,7 +2425,8 @@
     "program_count": 1,
     "main_fields": "Teacher Education and Professional Development, Specific Levels and Methods",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -2360,7 +2452,8 @@
     "program_count": 1,
     "main_fields": "Computer and Information Sciences, General",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -2386,7 +2479,8 @@
     "program_count": 1,
     "main_fields": "Air Transportation",
     "entity_type": "Other",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "Broomfield"
    },
    "geometry": {
     "type": "Point",
@@ -2411,7 +2505,8 @@
     "program_count": 51,
     "main_fields": "Business Administration, Management and Operations, Precision Metal Working, Allied Health Diagnostic, Intervention, and Treatment Professions",
     "entity_type": "Other",
-    "apprenticeship_programs": "Yes"
+    "apprenticeship_programs": "Yes",
+    "county": "Mesa"
    },
    "geometry": {
     "type": "Point",
@@ -2436,7 +2531,8 @@
     "program_count": 1,
     "main_fields": "Plumbing and Related Water Supply Services",
     "entity_type": "Other",
-    "apprenticeship_programs": "Yes"
+    "apprenticeship_programs": "Yes",
+    "county": "Mesa"
    },
    "geometry": {
     "type": "Point",
@@ -2462,7 +2558,8 @@
     "program_count": 2,
     "main_fields": "Health Professions and Related Clinical Sciences, Other, Agriculture, General",
     "entity_type": "Private Non-Profit",
-    "apprenticeship_programs": "No"
+    "apprenticeship_programs": "No",
+    "county": "El Paso"
    },
    "geometry": {
     "type": "Point",

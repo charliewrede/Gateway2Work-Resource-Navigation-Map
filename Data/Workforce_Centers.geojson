@@ -15,7 +15,8 @@
     "retrieved": "2026-11-13",
     "center_type": "Comprehensive",
     "local_area": "Adams County",
-    "address_status": "current (verified 2026)"
+    "address_status": "current (verified 2026)",
+    "county": "Adams"
    },
    "geometry": {
     "type": "Point",
@@ -41,7 +42,8 @@
     "center_type": "Comprehensive",
     "local_area": "Rural Consortium (WCRA)",
     "address_status": "current (verified 2026)",
-    "status_note": "2022 AJC list had 407 State Ave Suite C."
+    "status_note": "2022 AJC list had 407 State Ave Suite C.",
+    "county": "Alamosa"
    },
    "geometry": {
     "type": "Point",
@@ -66,7 +68,8 @@
     "retrieved": "2026-11-13",
     "center_type": "Affiliate",
     "local_area": "Arapahoe/Douglas",
-    "address_status": "current (verified 2026)"
+    "address_status": "current (verified 2026)",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
@@ -91,7 +94,8 @@
     "retrieved": "2026-11-13",
     "center_type": "Affiliate",
     "local_area": "Arapahoe/Douglas",
-    "address_status": "current (verified 2026)"
+    "address_status": "current (verified 2026)",
+    "county": "Douglas"
    },
    "geometry": {
     "type": "Point",
@@ -116,7 +120,8 @@
     "retrieved": "2026-11-13",
     "center_type": "Comprehensive",
     "local_area": "Arapahoe/Douglas",
-    "address_status": "current (verified 2026)"
+    "address_status": "current (verified 2026)",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
@@ -141,7 +146,9 @@
     "retrieved": "2026-11-13",
     "center_type": "Affiliate",
     "local_area": "Pikes Peak (El Paso, Teller)",
-    "address_status": "from 2022 AJC list - not re-confirmed"
+    "address_status": "from 2022 AJC list - not re-confirmed",
+    "county": "Teller",
+    "location_accuracy": "Address unconfirmed - from the 2022 American Job Center list, not re-checked"
    },
    "geometry": {
     "type": "Point",
@@ -166,7 +173,8 @@
     "retrieved": "2026-11-13",
     "center_type": "Comprehensive",
     "local_area": "Broomfield",
-    "address_status": "current (verified 2026)"
+    "address_status": "current (verified 2026)",
+    "county": "Broomfield"
    },
    "geometry": {
     "type": "Point",
@@ -191,7 +199,8 @@
     "retrieved": "2026-11-13",
     "center_type": "Comprehensive",
     "local_area": "Rural Consortium (WCRA)",
-    "address_status": "current (verified 2026)"
+    "address_status": "current (verified 2026)",
+    "county": "Kit Carson"
    },
    "geometry": {
     "type": "Point",
@@ -217,7 +226,8 @@
     "center_type": "Comprehensive",
     "local_area": "Rural Consortium (WCRA)",
     "address_status": "current (verified 2026)",
-    "status_note": "A CDLE page noted a temporary closure with virtual appointments. Confirm status."
+    "status_note": "A CDLE page noted a temporary closure with virtual appointments. Confirm status.",
+    "county": "Fremont"
    },
    "geometry": {
     "type": "Point",
@@ -242,7 +252,9 @@
     "retrieved": "2026-11-13",
     "center_type": "Affiliate",
     "local_area": "Tri-County (Jefferson, Gilpin, Clear Creek)",
-    "address_status": "from 2022 AJC list - not re-confirmed"
+    "address_status": "from 2022 AJC list - not re-confirmed",
+    "county": "Clear Creek",
+    "location_accuracy": "Address unconfirmed - from the 2022 American Job Center list, not re-checked"
    },
    "geometry": {
     "type": "Point",
@@ -268,7 +280,8 @@
     "center_type": "Comprehensive",
     "local_area": "Rural Consortium (WCRA)",
     "address_status": "current (verified 2026)",
-    "status_note": "2022 AJC list had 2208 E Main St."
+    "status_note": "2022 AJC list had 2208 E Main St.",
+    "county": "Montezuma"
    },
    "geometry": {
     "type": "Point",
@@ -293,7 +306,8 @@
     "retrieved": "2026-11-13",
     "center_type": "Comprehensive",
     "local_area": "Rural Consortium (WCRA)",
-    "address_status": "current (verified 2026)"
+    "address_status": "current (verified 2026)",
+    "county": "Moffat"
    },
    "geometry": {
     "type": "Point",
@@ -318,7 +332,8 @@
     "retrieved": "2026-11-13",
     "center_type": "Comprehensive",
     "local_area": "Rural Consortium (WCRA)",
-    "address_status": "current (verified 2026)"
+    "address_status": "current (verified 2026)",
+    "county": "Delta"
    },
    "geometry": {
     "type": "Point",
@@ -344,7 +359,9 @@
     "center_type": "Comprehensive",
     "local_area": "Denver",
     "address_status": "from 2022 AJC list - not re-confirmed",
-    "status_note": "Reported temporarily closed for reconstruction until early 2026. Confirm reopening."
+    "status_note": "Reported temporarily closed for reconstruction until early 2026. Confirm reopening.",
+    "county": "Denver",
+    "location_accuracy": "Address unconfirmed - from the 2022 American Job Center list, not re-checked"
    },
    "geometry": {
     "type": "Point",
@@ -369,7 +386,8 @@
     "retrieved": "2026-11-13",
     "center_type": "Affiliate",
     "local_area": "Denver",
-    "address_status": "current (verified 2026)"
+    "address_status": "current (verified 2026)",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -394,7 +412,8 @@
     "retrieved": "2026-11-13",
     "center_type": "Comprehensive",
     "local_area": "Denver",
-    "address_status": "current (verified 2026)"
+    "address_status": "current (verified 2026)",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -418,7 +437,8 @@
     "retrieved": "2026-11-13",
     "center_type": "Comprehensive",
     "local_area": "Denver",
-    "address_status": "current (verified 2026)"
+    "address_status": "current (verified 2026)",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -444,7 +464,9 @@
     "center_type": "Comprehensive",
     "local_area": "Rural Consortium (WCRA)",
     "address_status": "current (verified 2026)",
-    "status_note": "One listing gives 160 Rock Point Drive Suite A. Confirm."
+    "status_note": "One listing gives 160 Rock Point Drive Suite A. Confirm.",
+    "county": "La Plata",
+    "location_accuracy": "Address unconfirmed - another listing gives 160 Rock Point Drive"
    },
    "geometry": {
     "type": "Point",
@@ -470,7 +492,8 @@
     "center_type": "Comprehensive",
     "local_area": "Rural Consortium (WCRA)",
     "address_status": "current (verified 2026)",
-    "status_note": "WCRA contact page says by appointment / temporarily closed. Confirm status."
+    "status_note": "WCRA contact page says by appointment / temporarily closed. Confirm status.",
+    "county": "Eagle"
    },
    "geometry": {
     "type": "Point",
@@ -495,7 +518,9 @@
     "retrieved": "2026-11-13",
     "center_type": "Comprehensive",
     "local_area": "Rural Consortium (WCRA)",
-    "address_status": "from 2022 AJC list - not re-confirmed"
+    "address_status": "from 2022 AJC list - not re-confirmed",
+    "county": "Elbert",
+    "location_accuracy": "Address unconfirmed - from the 2022 American Job Center list, not re-checked"
    },
    "geometry": {
     "type": "Point",
@@ -520,7 +545,8 @@
     "retrieved": "2026-11-13",
     "center_type": "Comprehensive",
     "local_area": "Rural Consortium (WCRA)",
-    "address_status": "current (verified 2026)"
+    "address_status": "current (verified 2026)",
+    "county": "Morgan"
    },
    "geometry": {
     "type": "Point",
@@ -546,7 +572,8 @@
     "center_type": "Comprehensive",
     "local_area": "Rural Consortium (WCRA)",
     "address_status": "current (verified 2026)",
-    "status_note": "Serves Summit, Grand and Lake counties. 2022 AJC list had 602 Galena St."
+    "status_note": "Serves Summit, Grand and Lake counties. 2022 AJC list had 602 Galena St.",
+    "county": "Summit"
    },
    "geometry": {
     "type": "Point",
@@ -571,7 +598,8 @@
     "retrieved": "2026-11-13",
     "center_type": "Comprehensive",
     "local_area": "Tri-County (Jefferson, Gilpin, Clear Creek)",
-    "address_status": "current (verified 2026)"
+    "address_status": "current (verified 2026)",
+    "county": "Gilpin"
    },
    "geometry": {
     "type": "Point",
@@ -596,7 +624,8 @@
     "retrieved": "2026-11-13",
     "center_type": "Comprehensive",
     "local_area": "Rural Consortium (WCRA)",
-    "address_status": "current (verified 2026)"
+    "address_status": "current (verified 2026)",
+    "county": "Garfield"
    },
    "geometry": {
     "type": "Point",
@@ -621,7 +650,9 @@
     "retrieved": "2026-11-13",
     "center_type": "Comprehensive",
     "local_area": "Rural Consortium (WCRA)",
-    "address_status": "from 2022 AJC list - not re-confirmed"
+    "address_status": "from 2022 AJC list - not re-confirmed",
+    "county": "Grand",
+    "location_accuracy": "Address unconfirmed - from the 2022 American Job Center list, not re-checked"
    },
    "geometry": {
     "type": "Point",
@@ -646,7 +677,8 @@
     "retrieved": "2026-11-13",
     "center_type": "Affiliate",
     "local_area": "Rural Consortium (WCRA)",
-    "address_status": "current (verified 2026)"
+    "address_status": "current (verified 2026)",
+    "county": "Gunnison"
    },
    "geometry": {
     "type": "Point",
@@ -671,7 +703,8 @@
     "retrieved": "2026-11-13",
     "center_type": "Comprehensive",
     "local_area": "Tri-County (Jefferson, Gilpin, Clear Creek)",
-    "address_status": "current (verified 2026)"
+    "address_status": "current (verified 2026)",
+    "county": "Jefferson"
    },
    "geometry": {
     "type": "Point",
@@ -697,7 +730,8 @@
     "center_type": "Comprehensive",
     "local_area": "Rural Consortium (WCRA)",
     "address_status": "listing (relocated)",
-    "status_note": "Old address 308 Santa Fe Ave."
+    "status_note": "Old address 308 Santa Fe Ave.",
+    "county": "Otero"
    },
    "geometry": {
     "type": "Point",
@@ -722,7 +756,8 @@
     "retrieved": "2026-11-13",
     "center_type": "Comprehensive",
     "local_area": "Rural Consortium (WCRA)",
-    "address_status": "current (verified 2026)"
+    "address_status": "current (verified 2026)",
+    "county": "Prowers"
    },
    "geometry": {
     "type": "Point",
@@ -748,7 +783,8 @@
     "center_type": "Comprehensive",
     "local_area": "Larimer County",
     "address_status": "current (verified 2026)",
-    "status_note": "Loveland: no daily staff; appointments at Loveland Public Library (county page)."
+    "status_note": "Loveland: no daily staff; appointments at Loveland Public Library (county page).",
+    "county": "Larimer"
    },
    "geometry": {
     "type": "Point",
@@ -774,7 +810,8 @@
     "center_type": "Affiliate",
     "local_area": "Rural Consortium (WCRA)",
     "address_status": "current (verified 2026)",
-    "status_note": "2022 AJC list had 115 W 6th St."
+    "status_note": "2022 AJC list had 115 W 6th St.",
+    "county": "Lake"
    },
    "geometry": {
     "type": "Point",
@@ -800,7 +837,9 @@
     "center_type": "Comprehensive",
     "local_area": "Rural Consortium (WCRA)",
     "address_status": "from 2022 AJC list - not re-confirmed",
-    "status_note": "One newer listing gives 333 M Avenue Suite 300. Confirm."
+    "status_note": "One newer listing gives 333 M Avenue Suite 300. Confirm.",
+    "county": "Lincoln",
+    "location_accuracy": "Address unconfirmed - another listing gives 333 M Avenue"
    },
    "geometry": {
     "type": "Point",
@@ -825,7 +864,9 @@
     "retrieved": "2026-11-13",
     "center_type": "Comprehensive",
     "local_area": "Rural Consortium (WCRA)",
-    "address_status": "from 2022 AJC list - not re-confirmed"
+    "address_status": "from 2022 AJC list - not re-confirmed",
+    "county": "Rio Blanco",
+    "location_accuracy": "Address unconfirmed - from the 2022 American Job Center list, not re-checked"
    },
    "geometry": {
     "type": "Point",
@@ -850,7 +891,8 @@
     "retrieved": "2026-11-13",
     "center_type": "Comprehensive",
     "local_area": "Mesa County",
-    "address_status": "current (verified 2026)"
+    "address_status": "current (verified 2026)",
+    "county": "Mesa"
    },
    "geometry": {
     "type": "Point",
@@ -875,7 +917,9 @@
     "retrieved": "2026-11-13",
     "center_type": "Comprehensive",
     "local_area": "Rural Consortium (WCRA)",
-    "address_status": "from 2022 AJC list - not re-confirmed"
+    "address_status": "from 2022 AJC list - not re-confirmed",
+    "county": "Rio Grande",
+    "location_accuracy": "Address unconfirmed - from the 2022 American Job Center list, not re-checked"
    },
    "geometry": {
     "type": "Point",
@@ -900,7 +944,8 @@
     "retrieved": "2026-11-13",
     "center_type": "Comprehensive",
     "local_area": "Rural Consortium (WCRA)",
-    "address_status": "current (verified 2026)"
+    "address_status": "current (verified 2026)",
+    "county": "Montrose"
    },
    "geometry": {
     "type": "Point",
@@ -925,7 +970,8 @@
     "retrieved": "2026-11-13",
     "center_type": "Comprehensive",
     "local_area": "Pikes Peak (El Paso, Teller)",
-    "address_status": "current (verified 2026)"
+    "address_status": "current (verified 2026)",
+    "county": "El Paso"
    },
    "geometry": {
     "type": "Point",
@@ -950,7 +996,9 @@
     "retrieved": "2026-11-13",
     "center_type": "Affiliate",
     "local_area": "Pikes Peak (El Paso, Teller)",
-    "address_status": "third-party listing only"
+    "address_status": "third-party listing only",
+    "county": "El Paso",
+    "location_accuracy": "Address unconfirmed - from a third-party listing"
    },
    "geometry": {
     "type": "Point",
@@ -975,7 +1023,8 @@
     "retrieved": "2026-11-13",
     "center_type": "Affiliate",
     "local_area": "Pikes Peak (El Paso, Teller)",
-    "address_status": "current (verified 2026)"
+    "address_status": "current (verified 2026)",
+    "county": "El Paso"
    },
    "geometry": {
     "type": "Point",
@@ -1001,7 +1050,8 @@
     "center_type": "Comprehensive",
     "local_area": "Rural Consortium (WCRA)",
     "address_status": "current (verified 2026)",
-    "status_note": "2022 AJC list had 212 W 3rd St (old address)."
+    "status_note": "2022 AJC list had 212 W 3rd St (old address).",
+    "county": "Pueblo"
    },
    "geometry": {
     "type": "Point",
@@ -1026,7 +1076,9 @@
     "retrieved": "2026-11-13",
     "center_type": "Comprehensive",
     "local_area": "Rural Consortium (WCRA)",
-    "address_status": "from 2022 AJC list - not re-confirmed"
+    "address_status": "from 2022 AJC list - not re-confirmed",
+    "county": "Rio Blanco",
+    "location_accuracy": "Address unconfirmed - from the 2022 American Job Center list, not re-checked"
    },
    "geometry": {
     "type": "Point",
@@ -1051,7 +1103,9 @@
     "retrieved": "2026-11-13",
     "center_type": "Affiliate",
     "local_area": "Rural Consortium (WCRA)",
-    "address_status": "from 2022 AJC list - not re-confirmed"
+    "address_status": "from 2022 AJC list - not re-confirmed",
+    "county": "Garfield",
+    "location_accuracy": "Address unconfirmed - from the 2022 American Job Center list, not re-checked"
    },
    "geometry": {
     "type": "Point",
@@ -1076,7 +1130,9 @@
     "retrieved": "2026-11-13",
     "center_type": "Comprehensive",
     "local_area": "Rural Consortium (WCRA)",
-    "address_status": "from 2022 AJC list - not re-confirmed"
+    "address_status": "from 2022 AJC list - not re-confirmed",
+    "county": "Otero",
+    "location_accuracy": "Address unconfirmed - from the 2022 American Job Center list, not re-checked"
    },
    "geometry": {
     "type": "Point",
@@ -1102,7 +1158,8 @@
     "center_type": "Affiliate",
     "local_area": "Rural Consortium (WCRA)",
     "address_status": "current (verified 2026)",
-    "status_note": "2022 AJC list had 448 E 1st St Suite 201."
+    "status_note": "2022 AJC list had 448 E 1st St Suite 201.",
+    "county": "Chaffee"
    },
    "geometry": {
     "type": "Point",
@@ -1127,7 +1184,9 @@
     "retrieved": "2026-11-13",
     "center_type": "Affiliate",
     "local_area": "Rural Consortium (WCRA)",
-    "address_status": "from 2022 AJC list - not re-confirmed"
+    "address_status": "from 2022 AJC list - not re-confirmed",
+    "county": "Costilla",
+    "location_accuracy": "Approximate - on the correct street; exact building not confirmed"
    },
    "geometry": {
     "type": "Point",
@@ -1152,7 +1211,8 @@
     "retrieved": "2026-11-13",
     "center_type": "Comprehensive",
     "local_area": "Rural Consortium (WCRA)",
-    "address_status": "current (verified 2026)"
+    "address_status": "current (verified 2026)",
+    "county": "Routt"
    },
    "geometry": {
     "type": "Point",
@@ -1178,7 +1238,9 @@
     "center_type": "Comprehensive",
     "local_area": "Rural Consortium (WCRA)",
     "address_status": "from 2022 AJC list - not re-confirmed",
-    "status_note": "WCRA now says 'inside the CSU Engagement Center', by appointment; a mapping listing shows a temporary move to 304 Main St. Confirm location."
+    "status_note": "WCRA now says 'inside the CSU Engagement Center', by appointment; a mapping listing shows a temporary move to 304 Main St. Confirm location.",
+    "county": "Logan",
+    "location_accuracy": "Address unconfirmed - center reported to have moved (CSU Engagement Center / 304 Main St)"
    },
    "geometry": {
     "type": "Point",
@@ -1203,7 +1265,9 @@
     "retrieved": "2026-11-13",
     "center_type": "Comprehensive",
     "local_area": "Rural Consortium (WCRA)",
-    "address_status": "from 2022 AJC list - not re-confirmed"
+    "address_status": "from 2022 AJC list - not re-confirmed",
+    "county": "Las Animas",
+    "location_accuracy": "Address unconfirmed - from the 2022 American Job Center list, not re-checked"
    },
    "geometry": {
     "type": "Point",
@@ -1228,7 +1292,9 @@
     "retrieved": "2026-11-13",
     "center_type": "Affiliate",
     "local_area": "Rural Consortium (WCRA)",
-    "address_status": "from 2022 AJC list - not re-confirmed"
+    "address_status": "from 2022 AJC list - not re-confirmed",
+    "county": "Huerfano",
+    "location_accuracy": "Address unconfirmed - from the 2022 American Job Center list, not re-checked"
    },
    "geometry": {
     "type": "Point",
@@ -1253,7 +1319,8 @@
     "retrieved": "2026-11-13",
     "center_type": "Affiliate",
     "local_area": "Weld County",
-    "address_status": "current (verified 2026)"
+    "address_status": "current (verified 2026)",
+    "county": "Weld"
    },
    "geometry": {
     "type": "Point",
@@ -1278,7 +1345,8 @@
     "retrieved": "2026-11-13",
     "center_type": "Comprehensive",
     "local_area": "Weld County",
-    "address_status": "current (verified 2026)"
+    "address_status": "current (verified 2026)",
+    "county": "Weld"
    },
    "geometry": {
     "type": "Point",
@@ -1303,7 +1371,9 @@
     "retrieved": "2026-11-13",
     "center_type": "Comprehensive",
     "local_area": "Boulder County",
-    "address_status": "from 2022 AJC list - not re-confirmed"
+    "address_status": "from 2022 AJC list - not re-confirmed",
+    "county": "Boulder",
+    "location_accuracy": "Address unconfirmed - from the 2022 American Job Center list, not re-checked"
    },
    "geometry": {
     "type": "Point",
@@ -1329,7 +1399,8 @@
     "center_type": "Comprehensive",
     "local_area": "Boulder County",
     "address_status": "current listing (not on official page fetched)",
-    "status_note": "2022 AJC list had 1500 Kansas Ave Suite 4D; newer listing gives 515 Coffman St."
+    "status_note": "2022 AJC list had 1500 Kansas Ave Suite 4D; newer listing gives 515 Coffman St.",
+    "county": "Boulder"
    },
    "geometry": {
     "type": "Point",
@@ -1354,7 +1425,8 @@
     "retrieved": "2026-11-13",
     "center_type": "Comprehensive",
     "local_area": "Rural Consortium (WCRA)",
-    "address_status": "current (verified 2026)"
+    "address_status": "current (verified 2026)",
+    "county": "Yuma"
    },
    "geometry": {
     "type": "Point",
