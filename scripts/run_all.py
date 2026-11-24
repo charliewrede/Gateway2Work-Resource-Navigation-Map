@@ -17,7 +17,7 @@ ORDER = ["build_07_prisons.py", "build_06_jails.py", "build_05_community_correct
 extra = sorted(f for f in os.listdir(HERE) if f.startswith("build_") and f not in ORDER)
 # County + location-accuracy fields are added last, after every layer is built.
 extra = [e for e in extra if e != "postprocess_county_and_accuracy.py"]  # also writes the CSVs (export_csv.py)
-for script in ORDER + extra + ["postprocess_county_and_accuracy.py"]:
+for script in ORDER + extra + ["postprocess_county_and_accuracy.py", "make_source_links.py"]:
     t = time.time()
     print(f"\n######## {script}", flush=True)
     r = subprocess.run([sys.executable, script], cwd=HERE)

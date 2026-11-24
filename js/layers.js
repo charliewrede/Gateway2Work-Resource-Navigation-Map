@@ -488,7 +488,9 @@ function layoutPopup(properties, layout) {
     layout.endFields.forEach(f => {
         const value = properties[f.key];
         if (!has(value)) return;
-        html += row(f.label, f.linkText ? linkHtml(String(value), f.linkText) : escapeText(value));
+        html += row(f.label,
+            f.mailto ? '<a href="mailto:' + escapeText(value) + '">' + escapeText(value) + "</a>"
+          : f.linkText ? linkHtml(String(value), f.linkText) : escapeText(value));
     });
 
     return html ? "<div>" + html + "</div>" : "<strong>No information available</strong>";

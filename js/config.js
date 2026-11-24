@@ -341,6 +341,8 @@ export const POPUP_LAYOUT = {
     // shown after the layer-specific attributes, in this order
     endFields: [
         { key: "phone",   label: "Phone" },
+        { key: "email",   label: "Email", mailto: true },
+        { key: "fax",     label: "Fax" },
         { key: "website", label: "Website", linkText: "Visit website" },
         { key: "source",  label: "Source" }
     ],
@@ -351,7 +353,9 @@ export const POPUP_LAYOUT = {
         // internal IDs and duplicates
         "ipeds_unitid", "ipeds_sector", "va_station", "entity_type", "program", "site_name",
         // not requested
-        "capacity", "address_note"
+        "capacity", "address_note",
+        // Workforce Centers: CDLE office number, original CDLE spelling, typo notes
+        "office_id", "cdle_name", "corrections_note"
     ],
     // nicer labels for some attribute fields (others are made readable automatically)
     labels: {
@@ -364,7 +368,10 @@ export const POPUP_LAYOUT = {
         apprenticeship_program_names: "Apprenticeship Programs", judicial_district: "Judicial District",
         wagees_partner: "WAGEES Partner", homeless_point_of_contact: "Homeless Program Contact",
         oxford_houses: "Oxford Houses", house_types: "House Types", housing_type: "Housing Type",
-        po_box_only: "PO Box Only", org_type: "Organization Type", area_served: "Area Served"
+        po_box_only: "PO Box Only", org_type: "Organization Type", area_served: "Area Served",
+        mailing_address: "Mailing Address", tdd: "TDD", employer_phone: "Employer Phone",
+        employer_fax: "Employer Fax", job_hotline: "Job Hotline", appointment_note: "Note",
+        building: "Building"
     }
 };
 

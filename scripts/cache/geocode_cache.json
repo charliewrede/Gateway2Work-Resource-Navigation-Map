@@ -65,6 +65,18 @@
   "matched": "Broomfield County Health and Human Services, 100, Spader Way, Broomfield, Colorado, 80020, United States",
   "method": "osm-nominatim"
  },
+ "100 W. BENNETT AVE., CRIPPLE CREEK, CO 80813": {
+  "lat": 38.746488,
+  "lon": -105.180402,
+  "matched": "100 W BENNETT AVE, CRIPPLE CREEK, CO, 80813",
+  "method": "census-rooftop"
+ },
+ "100 W. BENNETT AVE., CRIPPLE, CREEK, CO 80813": {
+  "lat": 38.746488,
+  "lon": -105.180402,
+  "matched": "100 W BENNETT AVE, CRIPPLE CREEK, CO, 80813",
+  "method": "census-rooftop"
+ },
  "1000 W 6TH STREET, PUEBLO, CO 81003": {
   "lat": 38.272141,
   "lon": -104.620725,
@@ -257,6 +269,12 @@
   "matched": "109 E GEORGIA AVE, GUNNISON, CO, 81230",
   "method": "census-rooftop"
  },
+ "109 E. GEORGIA, GUNNISON, CO 81230": {
+  "lat": 38.546569,
+  "lon": -106.926444,
+  "matched": "109 E GEORGIA AVE, GUNNISON, CO, 81230",
+  "method": "census-rooftop"
+ },
  "109 HARMAN PARK DRIVE, PAGOSA SPRINGS, CO 81147": {
   "lat": 37.266656,
   "lon": -107.051384,
@@ -327,6 +345,12 @@
   "lat": 39.718338,
   "lon": -104.866013,
   "matched": "111 HAVANA ST, AURORA, CO, 80010",
+  "method": "census-rooftop"
+ },
+ "111 NORTH 3RD STREET, STERLING, CO 80751": {
+  "lat": 40.624244,
+  "lon": -103.208224,
+  "matched": "111 N 3RD ST, STERLING, CO, 80751",
   "method": "census-rooftop"
  },
  "1110 YAMPA STREET, STEAMBOAT SPRINGS, CO 80487": {
@@ -749,6 +773,12 @@
   "matched": "1333 IRIS AVE, BOULDER, CO, 80304",
   "method": "census-rooftop"
  },
+ "1333, IRIS AVE. BOULDER, CO 80304": {
+  "lat": 40.036474,
+  "lon": -105.280463,
+  "matched": "1333 IRIS AVE, BOULDER, CO, 80304",
+  "method": "census-rooftop"
+ },
  "1355 SOUTH COLORADO BLVD., DENVER, CO 80222": {
   "lat": 39.691946,
   "lon": -104.940812,
@@ -804,6 +834,12 @@
   "method": "unmatched"
  },
  "140 N COMMERCIAL STREET, TRINIDAD, CO 81082": {
+  "lat": 37.168154,
+  "lon": -104.505385,
+  "matched": "140 N COMMERCIAL ST, TRINIDAD, CO, 81082",
+  "method": "census-rooftop"
+ },
+ "140 NORTH COMMERCIAL, TRINIDAD, CO 81082": {
   "lat": 37.168154,
   "lon": -104.505385,
   "matched": "140 N COMMERCIAL ST, TRINIDAD, CO, 81082",
@@ -977,6 +1013,12 @@
   "matched": "15400 E 14TH PL, AURORA, CO, 80011",
   "method": "census-rooftop"
  },
+ "15400 E. 14TH PLACE, LOWER LEVEL, AURORA, CO 80011": {
+  "lat": 39.738734,
+  "lon": -104.808897,
+  "matched": "15400 E 14TH PL, AURORA, CO, 80011",
+  "method": "census-rooftop"
+ },
  "1542 7TH AVENUE, GREELEY, CO 80631": {
   "lat": 40.414818,
   "lon": -104.689054,
@@ -1121,6 +1163,12 @@
   "matched": "1675 W GARDEN OF THE GODS RD, COLORADO SPRINGS, CO, 80907",
   "method": "census-rooftop"
  },
+ "1675 GARDEN OF THE GODS ROAD, COLORADO, SPRINGS, CO 80907": {
+  "lat": 38.89643,
+  "lon": -104.860922,
+  "matched": "1675 W GARDEN OF THE GODS RD, COLORADO SPRINGS, CO, 80907",
+  "method": "census-rooftop"
+ },
  "1675 GARDEN OF THE GODS ROAD, SUITE 1118, COLORADO SPRINGS, CO 80907": {
   "lat": 38.89643,
   "lon": -104.860922,
@@ -1128,6 +1176,18 @@
   "method": "census-rooftop"
  },
  "17 W 4TH STREET, LA JUNTA, CO 81050": {
+  "lat": 37.985002,
+  "lon": -103.543251,
+  "matched": "17 W 4TH ST, LA JUNTA, CO, 81050",
+  "method": "census-rooftop"
+ },
+ "17 W. 4TH ST., LA JUNTA, CO 81050": {
+  "lat": 37.985002,
+  "lon": -103.543251,
+  "matched": "17 W 4TH ST, LA JUNTA, CO, 81050",
+  "method": "census-rooftop"
+ },
+ "17 W. 4TH ST., LA, JUNTA, CO 81050": {
   "lat": 37.985002,
   "lon": -103.543251,
   "matched": "17 W 4TH ST, LA JUNTA, CO, 81050",
@@ -1343,6 +1403,24 @@
   "matched": "200 W 5TH ST, WALSENBURG, CO, 81089",
   "method": "census-rooftop"
  },
+ "200 W. OAK STREET, COLLINS, CO 80521": {
+  "lat": 40.585656,
+  "lon": -105.079045,
+  "matched": "200 W OAK ST, FORT COLLINS, CO, 80521",
+  "method": "census-rooftop"
+ },
+ "200 W. OAK STREET, FORT COLLINS, CO 80521": {
+  "lat": 40.585656,
+  "lon": -105.079045,
+  "matched": "200 W OAK ST, FORT COLLINS, CO, 80521",
+  "method": "census-rooftop"
+ },
+ "201 EAST 5TH STREET, WALSENBURG, CO 81089": {
+  "lat": 37.625159,
+  "lon": -104.779665,
+  "matched": "201 E 5TH ST, WALSENBURG, CO, 81089",
+  "method": "census-rooftop"
+ },
  "201 SOUTH AVE, GRAND JUNCTION, CO 81501": {
   "lat": 39.063942,
   "lon": -108.569613,
@@ -1350,6 +1428,12 @@
   "method": "census-rooftop"
  },
  "201 W COLFAX AVENUE, DENVER, CO 80202": {
+  "lat": 39.740638,
+  "lon": -104.988572,
+  "matched": "201 W COLFAX AVE, DENVER, CO, 80202",
+  "method": "census-rooftop"
+ },
+ "201 W. COLFAX AVE, DENVER, CO 80202": {
   "lat": 39.740638,
   "lon": -104.988572,
   "matched": "201 W COLFAX AVE, DENVER, CO, 80202",
@@ -1419,6 +1503,18 @@
   "lat": 38.747232,
   "lon": -108.069693,
   "matched": "206 UTE ST, DELTA, CO, 81416",
+  "method": "census-rooftop"
+ },
+ "2079 SHERMAN AVE., MONTE VISTA, CO 81144": {
+  "lat": 37.574487,
+  "lon": -106.12792,
+  "matched": "2079 SHERMAN AVE, MONTE VISTA, CO, 81144",
+  "method": "census-rooftop"
+ },
+ "2079 SHERMAN AVE., MONTE, VISTA, CO 81144": {
+  "lat": 37.574487,
+  "lon": -106.12792,
+  "matched": "2079 SHERMAN AVE, MONTE VISTA, CO, 81144",
   "method": "census-rooftop"
  },
  "2079 SHERMAN AVENUE, MONTE VISTA, CO 81144": {
@@ -1572,6 +1668,12 @@
   "method": "census-rooftop"
  },
  "22 W NORTH STREET, CORTEZ, CO 81321": {
+  "lat": 37.349753,
+  "lon": -108.585528,
+  "matched": "22 W NORTH ST, CORTEZ, CO, 81321",
+  "method": "census-rooftop"
+ },
+ "22 WEST NORTH STREET, CORTEZ, CO 81321": {
   "lat": 37.349753,
   "lon": -108.585528,
   "matched": "22 W NORTH ST, CORTEZ, CO, 81321",
@@ -1743,6 +1845,18 @@
   "lat": 40.339292,
   "lon": -104.984765,
   "matched": "246 BASHER DR, BERTHOUD, CO, 80513",
+  "method": "census-rooftop"
+ },
+ "248 DOZIER AVENUE, CA\u00d1ON CITY, CO 81212": {
+  "lat": 38.449985,
+  "lon": -105.193745,
+  "matched": "248 DOZIER AVE, CANON CITY, CO, 81212",
+  "method": "census-rooftop"
+ },
+ "248 DOZIER AVENUE, CA\u00d1ON, CITY, CO 81212": {
+  "lat": 38.449985,
+  "lon": -105.193745,
+  "matched": "248 DOZIER AVE, CANON CITY, CO, 81212",
   "method": "census-rooftop"
  },
  "2502 DOWNS WAY, FORT COLLINS, CO 80526": {
@@ -1961,6 +2075,12 @@
   "matched": "2950 9TH ST, FORT LUPTON, CO, 80621",
   "method": "census-rooftop"
  },
+ "2950 9TH STREET, FORT, LUPTON, CO 80621": {
+  "lat": 40.08729,
+  "lon": -104.774807,
+  "matched": "2950 9TH ST, FORT LUPTON, CO, 80621",
+  "method": "census-rooftop"
+ },
  "2960 DORY HILL ROAD, BLACK HAWK, CO 80403": {
   "lat": 39.838463,
   "lon": -105.482942,
@@ -2087,10 +2207,22 @@
   "matched": "315 N 11TH AVE, GREELEY, CO, 80631",
   "method": "census-rooftop"
  },
+ "315 NORTH 11TH AVENUE, GREELEY, CO 80631": {
+  "lat": 40.436315,
+  "lon": -104.696696,
+  "matched": "315 N 11TH AVE, GREELEY, CO, 80631",
+  "method": "census-rooftop"
+ },
  "315 STATE AVENUE, SUITE 101, ALAMOSA, CO 81101": {
   "lat": 37.470179,
   "lon": -105.865557,
   "matched": "315 STATE AVE, ALAMOSA, CO, 81101",
+  "method": "census-rooftop"
+ },
+ "3155 N. CHAMBERS ROAD, AURORA, CO 80011": {
+  "lat": 39.761049,
+  "lon": -104.810194,
+  "matched": "3155 CHAMBERS RD, AURORA, CO, 80011",
   "method": "census-rooftop"
  },
  "316 JEFFERSON STREET, FORT COLLINS, CO 80524": {
@@ -2189,6 +2321,12 @@
   "matched": "3311 LAUREL LN, CLIFTON, CO, 81520",
   "method": "census-rooftop"
  },
+ "333 M AVENUE, LIMON, CO 80828": {
+  "lat": 39.265326,
+  "lon": -103.69851,
+  "matched": "M Avenue, Limon, Lincoln County, Colorado, 80828, United States",
+  "method": "osm-street-approx"
+ },
  "333 W BAYAUD AVENUE, DENVER, CO 80223": {
   "lat": 39.714866,
   "lon": -104.992958,
@@ -2261,6 +2399,12 @@
   "matched": "350 LYCKMAN DR, FOUNTAIN, CO, 80817",
   "method": "census-rooftop"
  },
+ "3500 ILLINOIS ST., GOLDEN, CO 80401": {
+  "lat": 39.734915,
+  "lon": -105.210322,
+  "matched": "3500 ILLINOIS ST, GOLDEN, CO, 80401",
+  "method": "census-rooftop"
+ },
  "3500 ILLINOIS STREET, GOLDEN, CO 80401": {
   "lat": 39.734915,
   "lon": -105.210322,
@@ -2301,6 +2445,12 @@
   "lat": 39.766169,
   "lon": -104.968348,
   "matched": "3532 FRANKLIN ST, DENVER, CO, 80205",
+  "method": "census-rooftop"
+ },
+ "36 S. 18TH AVENUE, BRIGHTON, CO 80601": {
+  "lat": 39.98621,
+  "lon": -104.80049,
+  "matched": "36 S 18TH AVE, BRIGHTON, CO, 80601",
   "method": "census-rooftop"
  },
  "360 PEAK ONE DRIVE, FRISCO, CO 80443": {
@@ -2459,6 +2609,12 @@
   "matched": "401 23RD ST, GLENWOOD SPRINGS, CO, 81601",
   "method": "census-rooftop"
  },
+ "401 23RD STREET, SPRINGS, CO 81601": {
+  "lat": 39.529646,
+  "lon": -107.32406,
+  "matched": "401 23RD ST, GLENWOOD SPRINGS, CO, 81601",
+  "method": "census-rooftop"
+ },
  "401 23RD STREET, SUITE 300, GLENWOOD SPRINGS, CO 81601": {
   "lat": 39.529646,
   "lon": -107.32406,
@@ -2502,6 +2658,12 @@
   "method": "census-rooftop"
  },
  "405 E OLIVE STREET, LAMAR, CO 81052": {
+  "lat": 38.088459,
+  "lon": -102.61444,
+  "matched": "405 E OLIVE ST, LAMAR, CO, 81052",
+  "method": "census-rooftop"
+ },
+ "405 EAST OLIVE ST., LAMAR, CO 81052": {
   "lat": 38.088459,
   "lon": -102.61444,
   "matched": "405 E OLIVE ST, LAMAR, CO, 81052",
@@ -2579,6 +2741,18 @@
   "matched": "420 S 14TH ST, BURLINGTON, CO, 80807",
   "method": "census-rooftop"
  },
+ "425 ANGLERS DRIVE D-2, STEAMBOAT SPRINGS, CO 80487": {
+  "lat": 40.467338,
+  "lon": -106.82443,
+  "matched": "425 ANGLERS DR, STEAMBOAT SPRINGS, CO, 80487",
+  "method": "census-rooftop"
+ },
+ "425 ANGLERS DRIVE D-2, STEAMBOAT, SPRINGS, CO 80487": {
+  "lat": 40.467338,
+  "lon": -106.82443,
+  "matched": "425 ANGLERS DR, STEAMBOAT SPRINGS, CO, 80487",
+  "method": "census-rooftop"
+ },
  "425 ANGLERS DRIVE, STEAMBOAT SPRINGS, CO 80487": {
   "lat": 40.467338,
   "lon": -106.82443,
@@ -2592,6 +2766,12 @@
   "method": "census-rooftop"
  },
  "426 ENSIGN STREET, FORT MORGAN, CO 80701": {
+  "lat": 40.251633,
+  "lon": -103.802702,
+  "matched": "426 ENSIGN ST, FORT MORGAN, CO, 80701",
+  "method": "census-rooftop"
+ },
+ "426 ENSIGN STREET, FORT, MORGAN, CO 80701": {
   "lat": 40.251633,
   "lon": -103.802702,
   "matched": "426 ENSIGN ST, FORT MORGAN, CO, 80701",
@@ -2633,6 +2813,18 @@
   "matched": "4460 AARON PL, BOULDER, CO, 80303",
   "method": "census-rooftop"
  },
+ "4500 LIMELIGHT AVE, CASTLE ROCK, CO 80109": {
+  "lat": 39.408417,
+  "lon": -104.885318,
+  "matched": "Arapahoe Community College Sturm Collaboration Campus, 4500, Limelight Avenue, Castle Rock, Douglas County, Colorado, 80109, United States",
+  "method": "osm-nominatim"
+ },
+ "4500 LIMELIGHT AVE, CASTLE, ROCK, CO 80109": {
+  "lat": 39.408417,
+  "lon": -104.885318,
+  "matched": "Arapahoe Community College Sturm Collaboration Campus, 4500, Limelight Avenue, Castle Rock, Douglas County, Colorado, 80109, United States",
+  "method": "osm-nominatim"
+ },
  "4500 LIMELIGHT AVENUE, CASTLE ROCK, CO 80109": {
   "lat": 39.408417,
   "lon": -104.885318,
@@ -2655,6 +2847,12 @@
   "lat": 40.467216,
   "lon": -106.823777,
   "matched": "465 ANGLERS DR, STEAMBOAT SPRINGS, CO, 80487",
+  "method": "census-rooftop"
+ },
+ "4685 PEORIA ST., DENVER, CO 80239": {
+  "lat": 39.781947,
+  "lon": -104.847086,
+  "matched": "4685 PEORIA ST, DENVER, CO, 80239",
   "method": "census-rooftop"
  },
  "4685 PEORIA STREET, DENVER, CO 80239": {
@@ -2700,6 +2898,12 @@
   "method": "census-rooftop"
  },
  "480 BARCLAY STREET, CRAIG, CO 81625": {
+  "lat": 40.513637,
+  "lon": -107.550895,
+  "matched": "480 BARCLAY ST, CRAIG, CO, 81625",
+  "method": "census-rooftop"
+ },
+ "480 BARCLAY, CRAIG, CO 81625": {
   "lat": 40.513637,
   "lon": -107.550895,
   "matched": "480 BARCLAY ST, CRAIG, CO, 81625",
@@ -2819,6 +3023,18 @@
   "matched": "510 BIDWELL AVE, GUNNISON, CO, 81230",
   "method": "census-rooftop"
  },
+ "512 29 1/2 RD., GRAND JUNCTION, CO 81504": {
+  "lat": 39.079077,
+  "lon": -108.505811,
+  "matched": "512 29 1/2 RD, GRAND JUNCTION, CO, 81504",
+  "method": "census-rooftop"
+ },
+ "512 29 1/2 RD., GRAND, JUNCTION, CO 81504": {
+  "lat": 39.079077,
+  "lon": -108.505811,
+  "matched": "512 29 1/2 RD, GRAND JUNCTION, CO, 81504",
+  "method": "census-rooftop"
+ },
  "512 29 1/2 ROAD, GRAND JUNCTION, CO 81504": {
   "lat": 39.079077,
   "lon": -108.505811,
@@ -2868,6 +3084,12 @@
   "method": "census-rooftop"
  },
  "529 N ALBANY STREET, YUMA, CO 80759": {
+  "lat": 40.130365,
+  "lon": -102.722205,
+  "matched": "529 N ALBANY ST, YUMA, CO, 80759",
+  "method": "census-rooftop"
+ },
+ "529 N. ALBANY STREET, YUMA, CO 80759": {
   "lat": 40.130365,
   "lon": -102.722205,
   "matched": "529 N ALBANY ST, YUMA, CO, 80759",
@@ -2991,6 +3213,12 @@
   "lat": 39.721055,
   "lon": -104.785721,
   "matched": "585 N SALIDA WAY, AURORA, CO, 80011",
+  "method": "census-rooftop"
+ },
+ "5933 S FAIRFIELD ST, LITTLETON, CO 80120": {
+  "lat": 39.608774,
+  "lon": -104.99043,
+  "matched": "5933 S FAIRFIELD ST, LITTLETON, CO, 80120",
   "method": "census-rooftop"
  },
  "600 PROSPECT ST TRINIDAD, CO 81082": {
@@ -3197,6 +3425,12 @@
   "matched": "6974 S LIMA ST, CENTENNIAL, CO, 80112",
   "method": "census-rooftop"
  },
+ "6974 SOUTH LIMA STREET, CENTENNIAL, CO 80112": {
+  "lat": 39.592022,
+  "lon": -104.857147,
+  "matched": "6974 S LIMA ST, CENTENNIAL, CO, 80112",
+  "method": "census-rooftop"
+ },
  "701 CAMINO DEL RIO DURANGO, CO 81301": {
   "lat": 37.271754,
   "lon": -107.884208,
@@ -3208,6 +3442,18 @@
   "lon": -105.104189,
   "matched": "701 DELAWARE AVE, LONGMONT, CO, 80501",
   "method": "census-rooftop"
+ },
+ "701 GOLD HILL PLACE, SOUTH, WOODLAND PARK, CO 80863": {
+  "lat": null,
+  "lon": null,
+  "matched": "",
+  "method": "unmatched"
+ },
+ "701 GOLD HILL PLACE, WOODLAND PARK, CO 80863": {
+  "lat": 38.992603,
+  "lon": -105.05919,
+  "matched": "701, Gold Hill Place South, Gold Hill Shopping Center, Woodland Park, Teller County, Colorado, 80863, United States",
+  "method": "osm-nominatim"
  },
  "701 GRANITE ST, FRISCO, CO 80443": {
   "lat": 39.575681,
@@ -3342,6 +3588,12 @@
   "method": "census-rooftop"
  },
  "7405 W HIGHWAY 50, SUITE 122, SALIDA, CO 81201": {
+  "lat": 38.524338,
+  "lon": -106.013978,
+  "matched": "7405 W US HWY 50, SALIDA, CO, 81201",
+  "method": "census-rooftop"
+ },
+ "7405 W. HWY 50, SALIDA, CO 81201": {
   "lat": 38.524338,
   "lon": -106.013978,
   "matched": "7405 W US HWY 50, SALIDA, CO, 81201",
@@ -3666,6 +3918,12 @@
   "method": "census-rooftop"
  },
  "901 S HIGHWAY 24, LEADVILLE, CO 80461": {
+  "lat": 39.251677,
+  "lon": -106.290669,
+  "matched": "901 US HWY 24, LEADVILLE, CO, 80461",
+  "method": "census-rooftop"
+ },
+ "901 S. HIGHWAY 24, LEADVILLE, CO 80461": {
   "lat": 39.251677,
   "lon": -106.290669,
   "matched": "901 US HWY 24, LEADVILLE, CO, 80461",

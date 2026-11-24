@@ -4,18 +4,81 @@
   {
    "type": "Feature",
    "properties": {
-    "name": "Adams County Workforce & Business Center",
+    "name": "Adams County Workforce and Business Center at Aurora",
+    "category": "Workforce Centers",
+    "address": "3155 N. Chambers Road, Unit C",
+    "city": "Aurora",
+    "zip": "80011",
+    "phone": "720-523-2580",
+    "website": "https://adcogov.org/workforce-business-center",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
+    "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
+    "geocode": "census-rooftop",
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "fax": "720-523-6974",
+    "hours": "Monday - Friday from 8:00 AM -12:00 PM, and from 1:00 PM - 4:30 PM",
+    "local_area": "Adams County",
+    "office_id": "3161",
+    "county": "Adams"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.810194,
+     39.761049
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Adams County Workforce and Business Center at Brighton Satellite",
+    "category": "Workforce Centers",
+    "address": "36 S. 18th Avenue, Unit A",
+    "city": "Brighton",
+    "zip": "80601",
+    "phone": "720-523-6900",
+    "website": "https://adcogov.org/workforce-business-center",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
+    "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
+    "geocode": "census-rooftop",
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "fax": "720-523-6974",
+    "tdd": "720-523-6872",
+    "hours": "Monday - Friday from 8:00 AM - 12:00 PM, and 1:00 PM - 4:30 PM",
+    "local_area": "Adams County",
+    "office_id": "3165",
+    "county": "Adams"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.80049,
+     39.98621
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Adams County Workforce and Business Center at Westminster",
     "category": "Workforce Centers",
     "address": "11860 Pecos Street, Suite 2200",
     "city": "Westminster",
     "zip": "80234",
-    "source": "Adams County Workforce & Business Center page",
-    "source_url": "https://adcogov.org/workforce-business-center",
+    "phone": "720-523-2400",
+    "website": "https://adcogov.org/workforce-business-center",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
+    "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Comprehensive",
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "fax": "720-523-6974",
+    "hours": "Monday - Friday from 8:00 AM - 4:00 PM",
     "local_area": "Adams County",
-    "address_status": "current (verified 2026)",
+    "office_id": "3160",
     "county": "Adams"
    },
    "geometry": {
@@ -35,14 +98,17 @@
     "city": "Alamosa",
     "zip": "81101",
     "phone": "719-589-5118",
-    "source": "WCRA contact page",
-    "source_url": "https://wcra.colorado.gov/contact-us",
+    "website": "https://wcra.colorado.gov/",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
+    "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Comprehensive",
-    "local_area": "Rural Consortium (WCRA)",
-    "address_status": "current (verified 2026)",
-    "status_note": "2022 AJC list had 407 State Ave Suite C.",
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "email": "cdle_alamosa_wfc@state.co.us",
+    "fax": "719-589-6862",
+    "hours": "Monday - Thursday from 8:00 AM - 12:00 PM, and 1:00 PM to 5:00 PM",
+    "local_area": "Rural Consortium (Workforce Colorado Rural Alliance)",
+    "office_id": "5115",
     "county": "Alamosa"
    },
    "geometry": {
@@ -56,19 +122,21 @@
   {
    "type": "Feature",
    "properties": {
-    "name": "Arapahoe/Douglas Works! - Aurora Workforce Center (Altura Plaza)",
+    "name": "Arapahoe/Douglas Works! at Aurora",
     "category": "Workforce Centers",
-    "address": "15400 E 14th Place",
+    "address": "15400 E. 14th Place, Lower Level",
     "city": "Aurora",
     "zip": "80011",
-    "phone": "303-636-2014",
-    "source": "adworks.org event listings (2025); Adams County page also lists this site",
-    "source_url": "https://adworks.org/?p=1462",
+    "phone": "303-636-1160",
+    "website": "https://www.adworks.org/",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
+    "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Affiliate",
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "hours": "Monday - Thursday from 8:00 AM - 12:00 PM, and 1:00 PM - 4:30 PM; Friday Virtual Services Only",
     "local_area": "Arapahoe/Douglas",
-    "address_status": "current (verified 2026)",
+    "office_id": "3114",
     "county": "Arapahoe"
    },
    "geometry": {
@@ -82,19 +150,23 @@
   {
    "type": "Feature",
    "properties": {
-    "name": "Arapahoe/Douglas Works! - Castle Rock Workforce Center (ACC Sturm Campus)",
+    "name": "Arapahoe/Douglas Works! at Castle Rock",
     "category": "Workforce Centers",
-    "address": "4500 Limelight Avenue",
+    "address": "4500 Limelight Ave",
     "city": "Castle Rock",
     "zip": "80109",
     "phone": "303-636-1160",
-    "source": "adworks.org (2021 announcement: moved into Arapahoe Community College Sturm Collaboration Campus)",
-    "source_url": "https://www.adworks.org/venue/castle-rock-sturm-campus/",
+    "website": "https://www.adworks.org/",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
+    "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
     "geocode": "osm-nominatim",
-    "retrieved": "2026-11-13",
-    "center_type": "Affiliate",
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "email": "adworksinfo@arapahoegov.com",
+    "fax": "303-952-3784",
+    "hours": "Friday Virtual Services only; Monday - Thursday, from 8:00 AM - 12:00 PM, and 1:00 PM - 4:30 PM",
     "local_area": "Arapahoe/Douglas",
-    "address_status": "current (verified 2026)",
+    "office_id": "3110",
     "county": "Douglas"
    },
    "geometry": {
@@ -108,19 +180,22 @@
   {
    "type": "Feature",
    "properties": {
-    "name": "Arapahoe/Douglas Works! Workforce Center - Centennial",
+    "name": "Arapahoe/Douglas Works! at Centennial",
     "category": "Workforce Centers",
-    "address": "6974 S Lima Street",
+    "address": "6974 South Lima Street",
     "city": "Centennial",
     "zip": "80112",
     "phone": "303-636-1160",
-    "source": "adworks.org Workforce Center Locations",
-    "source_url": "https://adworks.org/?p=1462",
+    "website": "https://www.adworks.org/",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
+    "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Comprehensive",
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "fax": "303-636-1250",
+    "hours": "Mondays Virtual Services Only.; Tuesday - Friday from 8:00 AM - 12:00 PM, and 1:00 PM - 4:30 PM",
     "local_area": "Arapahoe/Douglas",
-    "address_status": "current (verified 2026)",
+    "office_id": "3111",
     "county": "Arapahoe"
    },
    "geometry": {
@@ -134,27 +209,29 @@
   {
    "type": "Feature",
    "properties": {
-    "name": "Aspen Mine Center (Teller County workforce services)",
+    "name": "Arapahoe/Douglas Works! at East Community Center - Littleton Satellite",
     "category": "Workforce Centers",
-    "address": "166 E Bennett Avenue",
-    "city": "Cripple Creek",
-    "zip": "80813",
-    "phone": "719-689-3584",
-    "source": "CareerOneStop AJC list (May 2022)",
-    "source_url": "https://www.fairshake.net/pdf/onestop/CO.pdf",
+    "address": "5933 S Fairfield St",
+    "city": "Littleton",
+    "zip": "80120",
+    "phone": "303-636-1160",
+    "website": "https://www.adworks.org/",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
+    "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Affiliate",
-    "local_area": "Pikes Peak (El Paso, Teller)",
-    "address_status": "from 2022 AJC list - not re-confirmed",
-    "county": "Teller",
-    "location_accuracy": "Address unconfirmed - from the 2022 American Job Center list, not re-checked"
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "email": "adworksinfo@arapahoegov.com",
+    "hours": "1st and 3rd Thursday of every month from 8:00 AM - 12:00 PM",
+    "local_area": "Arapahoe/Douglas",
+    "office_id": "3107",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -105.179002,
-     38.746543
+     -104.99043,
+     39.608774
     ]
    }
   },
@@ -167,13 +244,17 @@
     "city": "Broomfield",
     "zip": "80020",
     "phone": "303-464-5855",
-    "source": "City and County of Broomfield Workforce Center page",
-    "source_url": "https://broomfield.org/3818/Workforce-Center",
+    "website": "https://broomfield.org/3818/Workforce-Center",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
+    "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
     "geocode": "osm-nominatim",
-    "retrieved": "2026-11-13",
-    "center_type": "Comprehensive",
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "email": "workforcecenter@broomfield.org",
+    "fax": "303-465-0117",
+    "hours": "Monday - Friday from 8:00 AM - 12:00 PM, and 1:00 PM - 5:00 PM",
     "local_area": "Broomfield",
-    "address_status": "current (verified 2026)",
+    "office_id": "3180",
     "county": "Broomfield"
    },
    "geometry": {
@@ -187,80 +268,30 @@
   {
    "type": "Feature",
    "properties": {
-    "name": "Burlington Workforce Center",
+    "name": "Cañon City Workforce Center",
     "category": "Workforce Centers",
-    "address": "420 S 14th Street, Suite B",
-    "city": "Burlington",
-    "zip": "80807",
-    "phone": "719-346-5331",
-    "source": "WCRA listing and AJC list (2022) agree",
-    "source_url": "https://wcra.colorado.gov/contact-us",
-    "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Comprehensive",
-    "local_area": "Rural Consortium (WCRA)",
-    "address_status": "current (verified 2026)",
-    "county": "Kit Carson"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -102.267992,
-     39.298632
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "name": "Canon City Workforce Center",
-    "category": "Workforce Centers",
-    "address": "3224B Independence Road",
-    "city": "Canon City",
+    "address": "248 Dozier Avenue",
+    "city": "Cañon City",
     "zip": "81212",
     "phone": "719-275-7408",
-    "source": "WCRA phone listing; CDLE page and AJC list agree on address",
-    "source_url": "https://wcra.colorado.gov/contact-us",
+    "website": "https://wcra.colorado.gov/",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
+    "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Comprehensive",
-    "local_area": "Rural Consortium (WCRA)",
-    "address_status": "current (verified 2026)",
-    "status_note": "A CDLE page noted a temporary closure with virtual appointments. Confirm status.",
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "email": "cdle_canon_city_wfc@state.co.us",
+    "fax": "719-275-8189",
+    "hours": "Monday - Thursday from 8:00 AM - 5:00 PM; Friday by appointment",
+    "local_area": "Rural Consortium (Workforce Colorado Rural Alliance)",
+    "office_id": "5211",
     "county": "Fremont"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -105.184459,
-     38.444081
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "name": "Clear Creek County Workforce Center",
-    "category": "Workforce Centers",
-    "address": "1531 Colorado Boulevard",
-    "city": "Idaho Springs",
-    "zip": "80452",
-    "phone": "303-670-7548",
-    "source": "CareerOneStop AJC list (May 2022)",
-    "source_url": "https://www.fairshake.net/pdf/onestop/CO.pdf",
-    "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Affiliate",
-    "local_area": "Tri-County (Jefferson, Gilpin, Clear Creek)",
-    "address_status": "from 2022 AJC list - not re-confirmed",
-    "county": "Clear Creek",
-    "location_accuracy": "Address unconfirmed - from the 2022 American Job Center list, not re-checked"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -105.51672,
-     39.742699
+     -105.193745,
+     38.449985
     ]
    }
   },
@@ -269,18 +300,21 @@
    "properties": {
     "name": "Cortez Workforce Center",
     "category": "Workforce Centers",
-    "address": "22 W North Street",
+    "address": "22 West North Street",
     "city": "Cortez",
     "zip": "81321",
     "phone": "970-565-3759",
-    "source": "WCRA listing (moved downtown)",
-    "source_url": "https://wcra.colorado.gov/contact-us",
+    "website": "https://wcra.colorado.gov/",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
+    "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Comprehensive",
-    "local_area": "Rural Consortium (WCRA)",
-    "address_status": "current (verified 2026)",
-    "status_note": "2022 AJC list had 2208 E Main St.",
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "email": "cdle_cortez_wfc@state.co.us",
+    "fax": "970-565-0916",
+    "hours": "Monday - Thursday from 8:00 AM - 12:00 PM, and 1:00 PM - 5:00 PM",
+    "local_area": "Rural Consortium (Workforce Colorado Rural Alliance)",
+    "office_id": "6121",
     "county": "Montezuma"
    },
    "geometry": {
@@ -296,17 +330,21 @@
    "properties": {
     "name": "Craig Workforce Center",
     "category": "Workforce Centers",
-    "address": "480 Barclay Street",
+    "address": "480 Barclay",
     "city": "Craig",
     "zip": "81625",
     "phone": "970-824-3246",
-    "source": "WCRA contact page",
-    "source_url": "https://wcra.colorado.gov/contact-us",
+    "website": "https://wcra.colorado.gov/",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
+    "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Comprehensive",
-    "local_area": "Rural Consortium (WCRA)",
-    "address_status": "current (verified 2026)",
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "email": "cdle_craig_wfc@state.co.us",
+    "fax": "970-824-7108",
+    "hours": "Monday - Thursday from 8:00 AM - 12:00 PM, and 1:00 PM - 5:00 PM; Friday by appointment",
+    "local_area": "Rural Consortium (Workforce Colorado Rural Alliance)",
+    "office_id": "6211",
     "county": "Moffat"
    },
    "geometry": {
@@ -322,17 +360,21 @@
    "properties": {
     "name": "Delta Workforce Center",
     "category": "Workforce Centers",
-    "address": "206 Ute Avenue",
+    "address": "206 Ute Street",
     "city": "Delta",
     "zip": "81416",
     "phone": "970-874-5781",
-    "source": "WCRA phone listing; CDLE page and AJC list agree",
-    "source_url": "https://wcra.colorado.gov/contact-us",
+    "website": "https://wcra.colorado.gov/",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
+    "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Comprehensive",
-    "local_area": "Rural Consortium (WCRA)",
-    "address_status": "current (verified 2026)",
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "email": "cdle_delta_wfc@state.co.us",
+    "fax": "970-874-0991",
+    "hours": "Monday - Thursday; from 8:00 AM - 12:00 PM, and 1:00 PM - 5:00 PM; Friday by appointment",
+    "local_area": "Rural Consortium (Workforce Colorado Rural Alliance)",
+    "office_id": "6131",
     "county": "Delta"
    },
    "geometry": {
@@ -346,98 +388,24 @@
   {
    "type": "Feature",
    "properties": {
-    "name": "Denver Westside Workforce Center",
+    "name": "Denver Workforce Webb Center",
     "category": "Workforce Centers",
-    "address": "1200 Federal Boulevard",
-    "city": "Denver",
-    "zip": "80204",
-    "phone": "720-944-1615",
-    "source": "CareerOneStop AJC list (May 2022)",
-    "source_url": "https://www.fairshake.net/pdf/onestop/CO.pdf",
-    "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Comprehensive",
-    "local_area": "Denver",
-    "address_status": "from 2022 AJC list - not re-confirmed",
-    "status_note": "Reported temporarily closed for reconstruction until early 2026. Confirm reopening.",
-    "county": "Denver",
-    "location_accuracy": "Address unconfirmed - from the 2022 American Job Center list, not re-checked"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -105.025088,
-     39.734813
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "name": "Denver Workforce Center - Denver International Airport",
-    "category": "Workforce Centers",
-    "address": "8500 Pena Boulevard",
-    "city": "Denver",
-    "zip": "80249",
-    "phone": "303-342-2590",
-    "source": "Denver Economic Development & Opportunity Youth Programs page; AJC list (2022)",
-    "source_url": "https://denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Economic-Development-Opportunity/Jobseekers-Employers/For-Jobseekers/Youth-Programs",
-    "geocode": "osm-nominatim",
-    "retrieved": "2026-11-13",
-    "center_type": "Affiliate",
-    "local_area": "Denver",
-    "address_status": "current (verified 2026)",
-    "county": "Denver"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -104.735222,
-     39.841008
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "name": "Denver Workforce Center - Montbello",
-    "category": "Workforce Centers",
-    "address": "4685 Peoria Street, Suite 251",
-    "city": "Denver",
-    "zip": "80239",
-    "phone": "720-337-9675",
-    "source": "Denver Economic Development & Opportunity, For Jobseekers page",
-    "source_url": "https://denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Economic-Development-Opportunity/Jobseekers-Employers/For-Jobseekers",
-    "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Comprehensive",
-    "local_area": "Denver",
-    "address_status": "current (verified 2026)",
-    "county": "Denver"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -104.847086,
-     39.781947
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "name": "Denver Workforce Center - Webb Building",
-    "category": "Workforce Centers",
-    "address": "201 W Colfax Avenue",
+    "address": "201 W. Colfax Ave",
     "city": "Denver",
     "zip": "80202",
-    "source": "Denver Economic Development & Opportunity, For Jobseekers page",
-    "source_url": "https://denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Economic-Development-Opportunity/Jobseekers-Employers/For-Jobseekers",
+    "phone": "720-337-9675",
+    "website": "https://denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Economic-Development-Opportunity/Jobseekers-Employers/For-Jobseekers",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
+    "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Comprehensive",
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "building": "Wellington E. Webb Municipal Office Building",
+    "email": "workforce@denvergov.org",
+    "hours": "Monday -Thursday from 9:00 AM - 4:00 PM; Friday by virtual appointment",
+    "area_served": "Denver County",
     "local_area": "Denver",
-    "address_status": "current (verified 2026)",
+    "office_id": "3149",
     "county": "Denver"
    },
    "geometry": {
@@ -451,82 +419,124 @@
   {
    "type": "Feature",
    "properties": {
-    "name": "Durango - Southwest Colorado Workforce Center",
+    "name": "Denver Workforce at Montbello",
     "category": "Workforce Centers",
-    "address": "331 S Camino del Rio, Suite C",
+    "address": "4685 Peoria St., Suite 201",
+    "city": "Denver",
+    "zip": "80239",
+    "phone": "720-337-9675",
+    "website": "https://denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Economic-Development-Opportunity/Jobseekers-Employers/For-Jobseekers",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
+    "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
+    "geocode": "census-rooftop",
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "email": "workforce@denvergov.org",
+    "hours": "Monday - Thursday from 9:00 AM - 4:00 PM; Friday by virtual appointment",
+    "area_served": "Denver County",
+    "local_area": "Denver",
+    "office_id": "3144",
+    "cdle_name": "Denver Workforce at Montebello",
+    "corrections_note": "Name spelled 'Montebello' on the CDLE list; the neighborhood is Montbello.",
+    "county": "Denver"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.847086,
+     39.781947
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Durango Workforce Center",
+    "category": "Workforce Centers",
+    "address": "160 Rock Point Drive",
     "city": "Durango",
-    "zip": "81303",
+    "zip": "81301",
     "phone": "970-247-0308",
-    "source": "WCRA phone listing; AJC list and unemployment office listing agree",
-    "source_url": "https://wcra.colorado.gov/contact-us",
-    "geocode": "osm-nominatim",
-    "retrieved": "2026-11-13",
-    "center_type": "Comprehensive",
-    "local_area": "Rural Consortium (WCRA)",
-    "address_status": "current (verified 2026)",
-    "status_note": "One listing gives 160 Rock Point Drive Suite A. Confirm.",
-    "county": "La Plata",
-    "location_accuracy": "Address unconfirmed - another listing gives 160 Rock Point Drive"
+    "website": "https://wcra.colorado.gov/",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
+    "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
+    "geocode": "census-rooftop",
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "email": "durango@state.co.us",
+    "fax": "970-247-0328",
+    "hours": "Monday, Wednesday, and Thursday from 8:00 AM - 12:00 PM, and 1:00 PM - 5:00 PM; Tuesday and Friday by appointment",
+    "local_area": "Rural Consortium (Workforce Colorado Rural Alliance)",
+    "office_id": "6141",
+    "county": "La Plata"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -107.877841,
-     37.251078
+     -107.890604,
+     37.271974
     ]
    }
   },
   {
    "type": "Feature",
    "properties": {
-    "name": "Edwards Workforce Center",
+    "name": "Employment Services of Weld County - Greeley",
     "category": "Workforce Centers",
-    "address": "69 Edwards Access Road, Suite 9",
-    "city": "Edwards",
-    "zip": "81632",
-    "phone": "970-926-4440",
-    "source": "Mapping listing linked to CDLE; AJC list (2022)",
-    "source_url": "https://wcra.colorado.gov/contact-us",
+    "address": "315 North 11th Avenue, Building B",
+    "city": "Greeley",
+    "zip": "80631",
+    "phone": "970-400-3800",
+    "website": "https://www.weld.gov/Government/Departments/Human-Services/Employment-Services",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
+    "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Comprehensive",
-    "local_area": "Rural Consortium (WCRA)",
-    "address_status": "current (verified 2026)",
-    "status_note": "WCRA contact page says by appointment / temporarily closed. Confirm status.",
-    "county": "Eagle"
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "email": "contacteswc@weldgov.com",
+    "fax": "970-346-7981",
+    "tdd": "970-353-3800",
+    "hours": "Monday - Friday from 8:00 AM - 5:00 PM",
+    "local_area": "Weld County",
+    "office_id": "7131",
+    "county": "Weld"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -106.592957,
-     39.645343
+     -104.696696,
+     40.436315
     ]
    }
   },
   {
    "type": "Feature",
    "properties": {
-    "name": "Elizabeth Workforce Center",
+    "name": "Employment Services of Weld County at Fort Lupton",
     "category": "Workforce Centers",
-    "address": "240 Elizabeth Street, Suite A1",
-    "city": "Elizabeth",
-    "zip": "80107",
-    "phone": "303-646-2783",
-    "source": "CareerOneStop AJC list (May 2022)",
-    "source_url": "https://www.fairshake.net/pdf/onestop/CO.pdf",
+    "address": "2950 9th Street",
+    "city": "Fort Lupton",
+    "zip": "80621",
+    "phone": "303-857-2725",
+    "website": "https://www.weld.gov/Government/Departments/Human-Services/Employment-Services",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
+    "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Comprehensive",
-    "local_area": "Rural Consortium (WCRA)",
-    "address_status": "from 2022 AJC list - not re-confirmed",
-    "county": "Elbert",
-    "location_accuracy": "Address unconfirmed - from the 2022 American Job Center list, not re-checked"
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "mailing_address": "PO Box 1805",
+    "email": "contacteswc@weldgov.com",
+    "fax": "303-637-2436",
+    "hours": "Monday - Friday from 8:00 AM - 5:00 PM",
+    "local_area": "Weld County",
+    "office_id": "7133",
+    "county": "Weld"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -104.608357,
-     39.360049
+     -104.774807,
+     40.08729
     ]
    }
   },
@@ -539,13 +549,17 @@
     "city": "Fort Morgan",
     "zip": "80701",
     "phone": "970-867-9401",
-    "source": "WCRA Northeast listing (2025) and AJC list agree",
-    "source_url": "https://wcra.colorado.gov/contact-us",
+    "website": "https://wcra.colorado.gov/",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
+    "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Comprehensive",
-    "local_area": "Rural Consortium (WCRA)",
-    "address_status": "current (verified 2026)",
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "email": "cdle_fort_morgan_wfc@state.co.us",
+    "fax": "970-867-0226",
+    "hours": "Monday - Friday from 8:00 AM - 12:00 PM, and 1:00 PM - 5:00 PM",
+    "local_area": "Rural Consortium (Workforce Colorado Rural Alliance)",
+    "office_id": "7121",
     "county": "Morgan"
    },
    "geometry": {
@@ -565,14 +579,18 @@
     "city": "Frisco",
     "zip": "80443",
     "phone": "970-668-5360",
-    "source": "Summit Chamber listing (links to wcra.colorado.gov); CDLE page",
-    "source_url": "https://www.summitchamber.org/connections/78594-frisco-workforce-center-colorado-workforce/",
+    "website": "https://wcra.colorado.gov/",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
+    "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
     "geocode": "osm-nominatim",
-    "retrieved": "2026-11-13",
-    "center_type": "Comprehensive",
-    "local_area": "Rural Consortium (WCRA)",
-    "address_status": "current (verified 2026)",
-    "status_note": "Serves Summit, Grand and Lake counties. 2022 AJC list had 602 Galena St.",
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "mailing_address": "PO Box 679",
+    "email": "cdle_frisco_wfc@state.co.us",
+    "fax": "970-668-3216",
+    "hours": "Monday and Wednesday from 8:00 AM - 4:00 PM; Friday by appointment",
+    "local_area": "Rural Consortium (Workforce Colorado Rural Alliance)",
+    "office_id": "6111",
     "county": "Summit"
    },
    "geometry": {
@@ -586,45 +604,23 @@
   {
    "type": "Feature",
    "properties": {
-    "name": "Gilpin County Workforce Center",
-    "category": "Workforce Centers",
-    "address": "2960 Dory Hill Road, Suite 100",
-    "city": "Black Hawk",
-    "zip": "80422",
-    "phone": "303-582-6003",
-    "source": "Jefferson County Business & Workforce Center listing; AJC list (2022)",
-    "source_url": "https://www.jeffco.us/Business-Workforce-Center",
-    "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Comprehensive",
-    "local_area": "Tri-County (Jefferson, Gilpin, Clear Creek)",
-    "address_status": "current (verified 2026)",
-    "county": "Gilpin"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -105.482942,
-     39.838463
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
     "name": "Glenwood Springs Workforce Center",
     "category": "Workforce Centers",
     "address": "401 23rd Street, Suite 300",
     "city": "Glenwood Springs",
     "zip": "81601",
     "phone": "970-945-8638",
-    "source": "WCRA contact page",
-    "source_url": "https://wcra.colorado.gov/contact-us",
+    "website": "https://wcra.colorado.gov/",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
+    "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Comprehensive",
-    "local_area": "Rural Consortium (WCRA)",
-    "address_status": "current (verified 2026)",
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "email": "cdle_glenwood_springs_wfc@state.co.us",
+    "fax": "970-945-5543",
+    "hours": "Monday - Friday from 8:00 AM - 12:00 PM, and 1:00 PM - 5:00 PM",
+    "local_area": "Rural Consortium (Workforce Colorado Rural Alliance)",
+    "office_id": "6151",
     "county": "Garfield"
    },
    "geometry": {
@@ -638,46 +634,23 @@
   {
    "type": "Feature",
    "properties": {
-    "name": "Granby Workforce Center",
-    "category": "Workforce Centers",
-    "address": "469 E Topaz Avenue",
-    "city": "Granby",
-    "zip": "80446",
-    "phone": "970-887-1857",
-    "source": "CareerOneStop AJC list (May 2022)",
-    "source_url": "https://www.fairshake.net/pdf/onestop/CO.pdf",
-    "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Comprehensive",
-    "local_area": "Rural Consortium (WCRA)",
-    "address_status": "from 2022 AJC list - not re-confirmed",
-    "county": "Grand",
-    "location_accuracy": "Address unconfirmed - from the 2022 American Job Center list, not re-checked"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -105.934426,
-     40.086872
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
     "name": "Gunnison Workforce Center",
     "category": "Workforce Centers",
-    "address": "109 E Georgia Avenue",
+    "address": "109 E. Georgia",
     "city": "Gunnison",
     "zip": "81230",
     "phone": "970-641-0031",
-    "source": "WCRA phone listing; CDLE page and AJC list agree",
-    "source_url": "https://wcra.colorado.gov/contact-us",
+    "website": "https://wcra.colorado.gov/",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
+    "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Affiliate",
-    "local_area": "Rural Consortium (WCRA)",
-    "address_status": "current (verified 2026)",
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "email": "cdle_gunnison_wfc@state.co.us",
+    "fax": "970-641-5258",
+    "hours": "Tuesday from 10:30 AM - 12:00 PM, and 1:00 PM - 4:00 PM",
+    "local_area": "Rural Consortium (Workforce Colorado Rural Alliance)",
+    "office_id": "6171",
     "county": "Gunnison"
    },
    "geometry": {
@@ -691,19 +664,28 @@
   {
    "type": "Feature",
    "properties": {
-    "name": "Jefferson County Business & Workforce Center (Workforce Colorado)",
+    "name": "Jefferson County Business and Workforce Center (Main Office)",
     "category": "Workforce Centers",
-    "address": "3500 Illinois Street, Suite 1600",
+    "address": "3500 Illinois St., Suite 1600",
     "city": "Golden",
     "zip": "80401",
     "phone": "303-271-4755",
-    "source": "Jefferson County directory - Workforce Colorado",
-    "source_url": "https://www.jeffco.us/Directory.aspx?did=68",
+    "website": "https://www.jeffco.us/Directory.aspx?did=68",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
+    "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Comprehensive",
-    "local_area": "Tri-County (Jefferson, Gilpin, Clear Creek)",
-    "address_status": "current (verified 2026)",
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "building": "Laramie Building",
+    "email": "workforce@jeffco.us",
+    "fax": "303-271-4708",
+    "tdd": "800-659-3656",
+    "employer_phone": "303-271-4718",
+    "employer_fax": "303-271-4622",
+    "hours": "Monday - Thursday from 8:30 AM - 3:00 PM; Closed on Friday",
+    "area_served": "Arvada, Clear Creek, Gilpin, Golden, Lakewood, Wheat Ridge",
+    "local_area": "Jefferson County (Tri-County)",
+    "office_id": "3151",
     "county": "Jefferson"
    },
    "geometry": {
@@ -719,18 +701,21 @@
    "properties": {
     "name": "La Junta Workforce Center",
     "category": "Workforce Centers",
-    "address": "17 W 4th Street",
+    "address": "17 W. 4th St.",
     "city": "La Junta",
     "zip": "81050",
     "phone": "719-383-3191",
-    "source": "WCRA relocation notice (new location on 4th St); mapping listing gives 17 W 4th St",
-    "source_url": "https://wcra.colorado.gov/contact-us",
+    "website": "https://wcra.colorado.gov/",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
+    "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Comprehensive",
-    "local_area": "Rural Consortium (WCRA)",
-    "address_status": "listing (relocated)",
-    "status_note": "Old address 308 Santa Fe Ave.",
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "email": "cdle_la_junta_wfc@state.co.us",
+    "fax": "719-384-8317",
+    "hours": "Monday - Thursday; 8:00 AM - 12:00 PM, and 1:00 PM - 5:00 PM; Friday by appointment",
+    "local_area": "Rural Consortium (Workforce Colorado Rural Alliance)",
+    "office_id": "5162",
     "county": "Otero"
    },
    "geometry": {
@@ -746,17 +731,21 @@
    "properties": {
     "name": "Lamar Workforce Center",
     "category": "Workforce Centers",
-    "address": "405 E Olive Street",
+    "address": "405 East Olive St.",
     "city": "Lamar",
     "zip": "81052",
     "phone": "719-336-2256",
-    "source": "CDLE workforce centers page and AJC list agree",
+    "website": "https://wcra.colorado.gov/",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
     "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Comprehensive",
-    "local_area": "Rural Consortium (WCRA)",
-    "address_status": "current (verified 2026)",
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "email": "cdle_lamar_wfc@state.co.us",
+    "fax": "719-336-2259",
+    "hours": "Monday - Thursday from 8:00 AM - 12:00 PM, and 1:00 PM - 5:00 PM; Friday by appointment from 8:00 AM - 5:00 PM",
+    "local_area": "Rural Consortium (Workforce Colorado Rural Alliance)",
+    "office_id": "5121",
     "county": "Prowers"
    },
    "geometry": {
@@ -770,20 +759,24 @@
   {
    "type": "Feature",
    "properties": {
-    "name": "Larimer County Economic & Workforce Development",
+    "name": "Larimer County Economic & Workforce Development - Fort Collins",
     "category": "Workforce Centers",
-    "address": "200 W Oak Street, Suite 5000",
+    "address": "200 W. Oak Street, Suite 5000",
     "city": "Fort Collins",
-    "zip": "80521",
+    "zip": "80522",
     "phone": "970-498-6600",
-    "source": "Larimer County Economic and Workforce Development page",
-    "source_url": "https://www.larimer.gov/ewd",
+    "website": "https://www.larimer.gov/ewd",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
+    "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Comprehensive",
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "email": "lcewd-workforceconnections@larimer.org",
+    "fax": "970-498-6670",
+    "hours": "Monday - Friday, 8:00 AM - 5:00 PM",
     "local_area": "Larimer County",
-    "address_status": "current (verified 2026)",
-    "status_note": "Loveland: no daily staff; appointments at Loveland Public Library (county page).",
+    "office_id": "7111",
+    "corrections_note": "CDLE list gives ZIP 80522 (a PO-box ZIP); the building is in 80521, used for locating it.",
     "county": "Larimer"
    },
    "geometry": {
@@ -799,18 +792,22 @@
    "properties": {
     "name": "Leadville Workforce Center",
     "category": "Workforce Centers",
-    "address": "901 S Highway 24",
+    "address": "901 S. Highway 24",
     "city": "Leadville",
     "zip": "80461",
     "phone": "719-486-2428",
-    "source": "CDLE page + Leadville Workforce Center booking page (New Discovery Building, CMC)",
-    "source_url": "https://leadville-workforce-center.youcanbook.me/",
+    "website": "https://wcra.colorado.gov/",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
+    "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Affiliate",
-    "local_area": "Rural Consortium (WCRA)",
-    "address_status": "current (verified 2026)",
-    "status_note": "2022 AJC list had 115 W 6th St.",
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "building": "New Discovery Building, Room 219",
+    "email": "cdle_leadville_wfc@state.co.us",
+    "fax": "719-486-2428",
+    "hours": "Monday, Wednesday and Friday from 7:30 AM - 12:00 PM, and 12:30 PM - 4:00 PM",
+    "local_area": "Rural Consortium (Workforce Colorado Rural Alliance)",
+    "office_id": "6112",
     "county": "Lake"
    },
    "geometry": {
@@ -824,28 +821,30 @@
   {
    "type": "Feature",
    "properties": {
-    "name": "Limon Workforce Center",
+    "name": "Limon Workforce Center - by appointment",
     "category": "Workforce Centers",
-    "address": "285 D Avenue",
+    "address": "333 M Avenue, Suite 300",
     "city": "Limon",
     "zip": "80828",
-    "phone": "719-775-2387",
-    "source": "CareerOneStop AJC list (May 2022)",
-    "source_url": "https://www.fairshake.net/pdf/onestop/CO.pdf",
-    "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Comprehensive",
-    "local_area": "Rural Consortium (WCRA)",
-    "address_status": "from 2022 AJC list - not re-confirmed",
-    "status_note": "One newer listing gives 333 M Avenue Suite 300. Confirm.",
+    "phone": "719-696-5010",
+    "website": "https://wcra.colorado.gov/",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
+    "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
+    "geocode": "osm-street-approx",
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "mailing_address": "PO Box 604",
+    "email": "cdle_limon_wfc@state.co.us",
+    "hours": "Tuesday from 8:00 AM - 12:00 PM, and 1:00 PM - 5:00 PM",
+    "local_area": "Rural Consortium (Workforce Colorado Rural Alliance)",
     "county": "Lincoln",
-    "location_accuracy": "Address unconfirmed - another listing gives 333 M Avenue"
+    "location_accuracy": "Approximate - on the correct street; exact building not confirmed"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -103.686636,
-     39.262727
+     -103.69851,
+     39.265326
     ]
    }
   },
@@ -858,15 +857,19 @@
     "city": "Meeker",
     "zip": "81641",
     "phone": "970-878-4211",
-    "source": "CareerOneStop AJC list (May 2022)",
-    "source_url": "https://www.fairshake.net/pdf/onestop/CO.pdf",
+    "website": "https://wcra.colorado.gov/",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
+    "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Comprehensive",
-    "local_area": "Rural Consortium (WCRA)",
-    "address_status": "from 2022 AJC list - not re-confirmed",
-    "county": "Rio Blanco",
-    "location_accuracy": "Address unconfirmed - from the 2022 American Job Center list, not re-checked"
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "mailing_address": "PO Box 2404",
+    "email": "cdle_meeker_wfc@state.co.us",
+    "fax": "970-878-3355",
+    "hours": "Tuesday by appointment",
+    "local_area": "Rural Consortium (Workforce Colorado Rural Alliance)",
+    "office_id": "6213",
+    "county": "Rio Blanco"
    },
    "geometry": {
     "type": "Point",
@@ -881,17 +884,20 @@
    "properties": {
     "name": "Mesa County Workforce Center",
     "category": "Workforce Centers",
-    "address": "512 29 1/2 Road",
+    "address": "512 29 1/2 Rd.",
     "city": "Grand Junction",
     "zip": "81504",
     "phone": "970-248-0871",
-    "source": "Mesa County Workforce Center contact page",
-    "source_url": "https://www.mesacounty.us/departments-and-services/wfc/contact-information",
+    "website": "https://www.mesacounty.us/departments-and-services/wfc/contact-information",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
+    "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Comprehensive",
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "fax": "970-255-3643",
+    "job_hotline": "970-248-7575",
     "local_area": "Mesa County",
-    "address_status": "current (verified 2026)",
+    "office_id": "6161",
     "county": "Mesa"
    },
    "geometry": {
@@ -907,19 +913,22 @@
    "properties": {
     "name": "Monte Vista Workforce Center",
     "category": "Workforce Centers",
-    "address": "2079 Sherman Avenue",
+    "address": "2079 Sherman Ave.",
     "city": "Monte Vista",
     "zip": "81144",
     "phone": "719-852-5171",
-    "source": "CareerOneStop AJC list (May 2022)",
-    "source_url": "https://www.fairshake.net/pdf/onestop/CO.pdf",
+    "website": "https://wcra.colorado.gov/",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
+    "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Comprehensive",
-    "local_area": "Rural Consortium (WCRA)",
-    "address_status": "from 2022 AJC list - not re-confirmed",
-    "county": "Rio Grande",
-    "location_accuracy": "Address unconfirmed - from the 2022 American Job Center list, not re-checked"
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "email": "cdle_monte_vista_wfc@state.co.us",
+    "fax": "719-852-3817",
+    "hours": "Monday-Thursday, from 8:00 AM - 12:00 PM, and 1:00 PM - 5:00 PM",
+    "local_area": "Rural Consortium (Workforce Colorado Rural Alliance)",
+    "office_id": "5111",
+    "county": "Rio Grande"
    },
    "geometry": {
     "type": "Point",
@@ -934,24 +943,29 @@
    "properties": {
     "name": "Montrose Workforce Center",
     "category": "Workforce Centers",
-    "address": "504 N 1st Street",
+    "address": "1551 Ogden Road",
     "city": "Montrose",
     "zip": "81401",
     "phone": "970-249-7783",
-    "source": "Raising Colorado Kids listing; AJC list (2022)",
-    "source_url": "https://raisingcoloradokids.com/en/services/workforce-center-montrose-office/",
+    "website": "https://wcra.colorado.gov/",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
+    "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Comprehensive",
-    "local_area": "Rural Consortium (WCRA)",
-    "address_status": "current (verified 2026)",
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "email": "cdle_montrose_wfc@state.co.us",
+    "fax": "970-249-2602",
+    "hours": "Monday - Thursday, from 8:00 AM - 12:00 PM, and 1:00 PM - 5:00 PM; Friday by appointment",
+    "local_area": "Rural Consortium (Workforce Colorado Rural Alliance)",
+    "office_id": "6181",
+    "corrections_note": "CDLE list says '8:00 PM - 12:00 PM'; shown as 8:00 AM (typo).",
     "county": "Montrose"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -107.876337,
-     38.480995
+     -107.864527,
+     38.450909
     ]
    }
   },
@@ -960,17 +974,22 @@
    "properties": {
     "name": "Pikes Peak Workforce Center",
     "category": "Workforce Centers",
-    "address": "1675 Garden of the Gods Road, Suite 1118",
+    "address": "1675 Garden of the Gods Road",
     "city": "Colorado Springs",
     "zip": "80907",
     "phone": "719-667-3700",
-    "source": "Visit COS directory; apprenticeship listing; AJC list (2022)",
-    "source_url": "https://www.visitcos.com/directory/pikes-peak-workforce-center/",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
+    "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Comprehensive",
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "fax": "719-667-3754",
+    "employer_phone": "719-667-3814",
+    "employer_fax": "719-667-3753",
+    "hours": "Monday - Friday, from 8:00 AM - 4:30 PM",
+    "area_served": "El Paso & Teller Counties",
     "local_area": "Pikes Peak (El Paso, Teller)",
-    "address_status": "current (verified 2026)",
+    "office_id": "5221",
     "county": "El Paso"
    },
    "geometry": {
@@ -984,53 +1003,28 @@
   {
    "type": "Feature",
    "properties": {
-    "name": "Pikes Peak Workforce Center - Calhan (Community Outreach Center)",
+    "name": "Pikes Peak Workforce Center at Cripple Creek",
     "category": "Workforce Centers",
-    "address": "328 10th Street",
-    "city": "Calhan",
-    "zip": "80808",
-    "phone": "719-520-7895",
-    "source": "Third-party directory listing (2025)",
-    "source_url": "https://www.visitcos.com/directory/pikes-peak-workforce-center/",
+    "address": "100 W. Bennett Ave.",
+    "city": "Cripple Creek",
+    "zip": "80813",
+    "phone": "719-689-3584 ext. 121",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
+    "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Affiliate",
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "mailing_address": "PO Box 1587",
+    "hours": "Monday-Friday, from 9:00 AM - 3:00 PM",
     "local_area": "Pikes Peak (El Paso, Teller)",
-    "address_status": "third-party listing only",
-    "county": "El Paso",
-    "location_accuracy": "Address unconfirmed - from a third-party listing"
+    "office_id": "5222",
+    "county": "Teller"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -104.294753,
-     39.031965
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "name": "Pikes Peak Workforce Center - Fountain (Peak Vista Health Center)",
-    "category": "Workforce Centers",
-    "address": "350 Lyckman Drive",
-    "city": "Fountain",
-    "zip": "80817",
-    "phone": "719-444-8311",
-    "source": "Directory listing (2025) and AJC list (2022) agree",
-    "source_url": "https://www.fairshake.net/pdf/onestop/CO.pdf",
-    "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Affiliate",
-    "local_area": "Pikes Peak (El Paso, Teller)",
-    "address_status": "current (verified 2026)",
-    "county": "El Paso"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -104.705635,
-     38.693516
+     -105.180402,
+     38.746488
     ]
    }
   },
@@ -1043,14 +1037,17 @@
     "city": "Pueblo",
     "zip": "81003",
     "phone": "719-562-3731",
-    "source": "WCRA/CRWC contact page; Pueblo County Human Services page",
-    "source_url": "https://wcra.colorado.gov/contact-us",
+    "website": "https://wcra.colorado.gov/",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
+    "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Comprehensive",
-    "local_area": "Rural Consortium (WCRA)",
-    "address_status": "current (verified 2026)",
-    "status_note": "2022 AJC list had 212 W 3rd St (old address).",
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "email": "cdle_pueblo_wfc@state.co.us",
+    "fax": "719-543-0190",
+    "hours": "Monday - Thursday, from 8:00 AM - 5:00 PM; Friday by appointment",
+    "local_area": "Rural Consortium (Workforce Colorado Rural Alliance)",
+    "office_id": "5151",
     "county": "Pueblo"
    },
    "geometry": {
@@ -1064,101 +1061,23 @@
   {
    "type": "Feature",
    "properties": {
-    "name": "Rangely Workforce Center (Colorado Northwestern Community College)",
-    "category": "Workforce Centers",
-    "address": "500 Kennedy Drive",
-    "city": "Rangely",
-    "zip": "81648",
-    "phone": "970-675-5072",
-    "source": "CareerOneStop AJC list (May 2022)",
-    "source_url": "https://www.fairshake.net/pdf/onestop/CO.pdf",
-    "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Comprehensive",
-    "local_area": "Rural Consortium (WCRA)",
-    "address_status": "from 2022 AJC list - not re-confirmed",
-    "county": "Rio Blanco",
-    "location_accuracy": "Address unconfirmed - from the 2022 American Job Center list, not re-checked"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -108.786444,
-     40.087514
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "name": "Rifle Workforce Center",
-    "category": "Workforce Centers",
-    "address": "216 W 3rd Street",
-    "city": "Rifle",
-    "zip": "81650",
-    "phone": "970-625-5627",
-    "source": "CareerOneStop AJC list (May 2022)",
-    "source_url": "https://www.fairshake.net/pdf/onestop/CO.pdf",
-    "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Affiliate",
-    "local_area": "Rural Consortium (WCRA)",
-    "address_status": "from 2022 AJC list - not re-confirmed",
-    "county": "Garfield",
-    "location_accuracy": "Address unconfirmed - from the 2022 American Job Center list, not re-checked"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -107.784696,
-     39.531627
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "name": "Rocky Ford - Southeast Colorado Workforce Center",
-    "category": "Workforce Centers",
-    "address": "801 Chestnut Avenue",
-    "city": "Rocky Ford",
-    "zip": "81067",
-    "phone": "719-254-3397",
-    "source": "CareerOneStop AJC list (May 2022)",
-    "source_url": "https://www.fairshake.net/pdf/onestop/CO.pdf",
-    "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Comprehensive",
-    "local_area": "Rural Consortium (WCRA)",
-    "address_status": "from 2022 AJC list - not re-confirmed",
-    "county": "Otero",
-    "location_accuracy": "Address unconfirmed - from the 2022 American Job Center list, not re-checked"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -103.720538,
-     38.056251
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
     "name": "Salida Workforce Center",
     "category": "Workforce Centers",
-    "address": "7405 W Highway 50, Suite 122",
+    "address": "7405 W. Hwy 50, Suite 122",
     "city": "Salida",
     "zip": "81201",
-    "phone": "719-530-5980",
-    "source": "CDLE workforce centers page (newest source)",
+    "phone": "719-539-8546",
+    "website": "https://wcra.colorado.gov/",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
     "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Affiliate",
-    "local_area": "Rural Consortium (WCRA)",
-    "address_status": "current (verified 2026)",
-    "status_note": "2022 AJC list had 448 E 1st St Suite 201.",
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "email": "cdle_salida_wfc@state.co.us",
+    "fax": "719-539-1173",
+    "hours": "Tuesday - Thursday, from 8:00 AM-12:00 PM; and 1:00 PM - 5:00 PM; Monday and Friday by appointment",
+    "local_area": "Rural Consortium (Workforce Colorado Rural Alliance)",
+    "office_id": "5215",
     "county": "Chaffee"
    },
    "geometry": {
@@ -1172,46 +1091,24 @@
   {
    "type": "Feature",
    "properties": {
-    "name": "San Luis Satellite Workforce Center",
-    "category": "Workforce Centers",
-    "address": "303 Vega Street",
-    "city": "San Luis",
-    "zip": "81152",
-    "phone": "719-672-3310",
-    "source": "CareerOneStop AJC list (May 2022)",
-    "source_url": "https://www.fairshake.net/pdf/onestop/CO.pdf",
-    "geocode": "osm-street-approx",
-    "retrieved": "2026-11-13",
-    "center_type": "Affiliate",
-    "local_area": "Rural Consortium (WCRA)",
-    "address_status": "from 2022 AJC list - not re-confirmed",
-    "county": "Costilla",
-    "location_accuracy": "Approximate - on the correct street; exact building not confirmed"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -105.422172,
-     37.199266
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
     "name": "Steamboat Springs Workforce Center",
     "category": "Workforce Centers",
-    "address": "425 Anglers Drive, Suite D-2",
+    "address": "425 Anglers Drive D-2",
     "city": "Steamboat Springs",
     "zip": "80487",
     "phone": "970-879-3075",
-    "source": "Steamboat Magazine/state listing; AJC list (2022)",
-    "source_url": "https://sbs-workforce-center.youcanbook.me/",
+    "website": "https://wcra.colorado.gov/",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
+    "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Comprehensive",
-    "local_area": "Rural Consortium (WCRA)",
-    "address_status": "current (verified 2026)",
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "mailing_address": "PO Box 774844, Steamboat Springs, CO 80477",
+    "email": "cdle_steamboat_springs_wfc@state.co.us",
+    "fax": "970-879-3547",
+    "hours": "Monday - Thursday, from 8:00 AM -12:00 PM, and 1:00 PM - 5:00 PM; Friday by appointment",
+    "local_area": "Rural Consortium (Workforce Colorado Rural Alliance)",
+    "office_id": "6215",
     "county": "Routt"
    },
    "geometry": {
@@ -1227,26 +1124,27 @@
    "properties": {
     "name": "Sterling Workforce Center",
     "category": "Workforce Centers",
-    "address": "100 College Avenue",
+    "address": "111 North 3rd Street",
     "city": "Sterling",
     "zip": "80751",
     "phone": "970-522-9340",
-    "source": "CareerOneStop AJC list (May 2022)",
-    "source_url": "https://www.fairshake.net/pdf/onestop/CO.pdf",
+    "website": "https://wcra.colorado.gov/",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
+    "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Comprehensive",
-    "local_area": "Rural Consortium (WCRA)",
-    "address_status": "from 2022 AJC list - not re-confirmed",
-    "status_note": "WCRA now says 'inside the CSU Engagement Center', by appointment; a mapping listing shows a temporary move to 304 Main St. Confirm location.",
-    "county": "Logan",
-    "location_accuracy": "Address unconfirmed - center reported to have moved (CSU Engagement Center / 304 Main St)"
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "email": "cdle_sterling_wfc@state.co.us",
+    "fax": "970-522-0667",
+    "hours": "Monday - Thursday from 8:00 AM - 12:00 PM and 1:00 PM - 5:00 PM; Friday 8:00 AM - 12:00 PM",
+    "local_area": "Rural Consortium (Workforce Colorado Rural Alliance)",
+    "county": "Logan"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -103.197466,
-     40.63685
+     -103.208224,
+     40.624244
     ]
    }
   },
@@ -1255,19 +1153,22 @@
    "properties": {
     "name": "Trinidad Workforce Center",
     "category": "Workforce Centers",
-    "address": "140 N Commercial Street",
+    "address": "140 North Commercial",
     "city": "Trinidad",
     "zip": "81082",
     "phone": "719-846-9221",
-    "source": "CareerOneStop AJC list (May 2022); WCRA lists Trinidad",
-    "source_url": "https://www.fairshake.net/pdf/onestop/CO.pdf",
+    "website": "https://wcra.colorado.gov/",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
+    "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Comprehensive",
-    "local_area": "Rural Consortium (WCRA)",
-    "address_status": "from 2022 AJC list - not re-confirmed",
-    "county": "Las Animas",
-    "location_accuracy": "Address unconfirmed - from the 2022 American Job Center list, not re-checked"
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "email": "cdle_trinidad_wfc@state.co.us",
+    "fax": "719-846-7594",
+    "hours": "Monday - Thursday from 8:00 AM -12:00 PM, and 1:00 PM - 5:00 PM",
+    "local_area": "Rural Consortium (Workforce Colorado Rural Alliance)",
+    "office_id": "5153",
+    "county": "Las Animas"
    },
    "geometry": {
     "type": "Point",
@@ -1280,126 +1181,109 @@
   {
    "type": "Feature",
    "properties": {
-    "name": "Walsenburg Workforce Center (satellite)",
+    "name": "Walsenburg Workforce Center",
     "category": "Workforce Centers",
-    "address": "928 Russell Avenue",
+    "address": "201 East 5th Street, Suite 19",
     "city": "Walsenburg",
     "zip": "81089",
     "phone": "719-738-2372",
-    "source": "CareerOneStop AJC list (May 2022); WCRA lists as satellite, by appointment",
-    "source_url": "https://www.fairshake.net/pdf/onestop/CO.pdf",
+    "website": "https://wcra.colorado.gov/",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
+    "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Affiliate",
-    "local_area": "Rural Consortium (WCRA)",
-    "address_status": "from 2022 AJC list - not re-confirmed",
-    "county": "Huerfano",
-    "location_accuracy": "Address unconfirmed - from the 2022 American Job Center list, not re-checked"
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "email": "cdle_walsenburg_wfc@state.co.us",
+    "fax": "719-738-9942",
+    "hours": "Monday - Friday; 8:00 AM - 4:30 PM by appointment",
+    "local_area": "Rural Consortium (Workforce Colorado Rural Alliance)",
+    "office_id": "5154",
+    "county": "Huerfano"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -104.777837,
-     37.621725
+     -104.779665,
+     37.625159
     ]
    }
   },
   {
    "type": "Feature",
    "properties": {
-    "name": "Weld County Workforce Center - Fort Lupton",
+    "name": "Woodland Park Office in Community Partnership Family Resource Center",
     "category": "Workforce Centers",
-    "address": "2950 9th Street",
-    "city": "Fort Lupton",
-    "zip": "80621",
-    "phone": "303-857-2725",
-    "source": "Weld County Employment Services page",
-    "source_url": "https://www.weld.gov/Government/Departments/Human-Services/Employment-Services",
-    "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Affiliate",
-    "local_area": "Weld County",
-    "address_status": "current (verified 2026)",
-    "county": "Weld"
+    "address": "701 Gold Hill Place",
+    "city": "Woodland Park",
+    "zip": "80863",
+    "phone": "719-667-3700",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
+    "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
+    "geocode": "osm-nominatim",
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "hours": "Tuesday - Thursday; 12:00 PM - 4:00 PM",
+    "local_area": "Pikes Peak (El Paso, Teller)",
+    "office_id": "5223",
+    "corrections_note": "CDLE list gives the city as 'South Woodland Park'; the mailing city is Woodland Park.",
+    "county": "Teller"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -104.774807,
-     40.08729
+     -105.05919,
+     38.992603
     ]
    }
   },
   {
    "type": "Feature",
    "properties": {
-    "name": "Weld County Workforce Center - Greeley",
+    "name": "Workforce Boulder County at Boulder - by appointment",
     "category": "Workforce Centers",
-    "address": "315 N 11th Avenue, Building B",
-    "city": "Greeley",
-    "zip": "80631",
-    "phone": "970-400-3800",
-    "source": "Weld County Employment Services page",
-    "source_url": "https://www.weld.gov/Government/Departments/Human-Services/Employment-Services",
-    "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Comprehensive",
-    "local_area": "Weld County",
-    "address_status": "current (verified 2026)",
-    "county": "Weld"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -104.696696,
-     40.436315
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "name": "Workforce Boulder County - Boulder",
-    "category": "Workforce Centers",
-    "address": "2520 55th Street, Suite 100",
+    "address": "1333 Iris Ave.",
     "city": "Boulder",
-    "zip": "80301",
-    "phone": "303-301-2900",
-    "source": "CareerOneStop AJC list (May 2022)",
-    "source_url": "https://www.fairshake.net/pdf/onestop/CO.pdf",
+    "zip": "80304",
+    "phone": "720-776-0822",
+    "website": "https://bouldercounty.gov/families/work/",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
+    "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Comprehensive",
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "hours": "By appointment.",
+    "appointment_note": "Please call (720) 776-0822 to schedule an appointment.",
     "local_area": "Boulder County",
-    "address_status": "from 2022 AJC list - not re-confirmed",
-    "county": "Boulder",
-    "location_accuracy": "Address unconfirmed - from the 2022 American Job Center list, not re-checked"
+    "office_id": "4132",
+    "county": "Boulder"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -105.225347,
-     40.02432
+     -105.280463,
+     40.036474
     ]
    }
   },
   {
    "type": "Feature",
    "properties": {
-    "name": "Workforce Boulder County - Longmont",
+    "name": "Workforce Boulder County at Longmont Satellite Office",
     "category": "Workforce Centers",
     "address": "515 Coffman Street",
     "city": "Longmont",
     "zip": "80501",
-    "phone": "303-301-2900",
-    "source": "Workforce Boulder County Longmont office listing (search result, 2025)",
-    "source_url": "https://bouldercounty.gov/families/work/",
+    "phone": "720-776-0822",
+    "website": "https://bouldercounty.gov/families/work/",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
+    "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Comprehensive",
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "fax": "720-864-6610",
+    "hours": "Monday -Thursday, 8:00 AM - 4:30 PM; Fridays by appointment",
     "local_area": "Boulder County",
-    "address_status": "current listing (not on official page fetched)",
-    "status_note": "2022 AJC list had 1500 Kansas Ave Suite 4D; newer listing gives 515 Coffman St.",
+    "office_id": "4131",
     "county": "Boulder"
    },
    "geometry": {
@@ -1415,17 +1299,20 @@
    "properties": {
     "name": "Yuma Workforce Center",
     "category": "Workforce Centers",
-    "address": "529 N Albany Street, Suite 1210",
+    "address": "529 N. Albany Street, Suite 1210",
     "city": "Yuma",
     "zip": "80759",
-    "phone": "970-848-3760",
-    "source": "WCRA contact page (by appointment only)",
-    "source_url": "https://wcra.colorado.gov/contact-us",
+    "phone": "970-867-9401",
+    "website": "https://wcra.colorado.gov/",
+    "source": "Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list",
+    "source_url": "https://cdle.colorado.gov/jobs-training/workforce-centers",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "center_type": "Comprehensive",
-    "local_area": "Rural Consortium (WCRA)",
-    "address_status": "current (verified 2026)",
+    "verified": "Official CDLE list, copied from the CDLE page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "email": "cdle_yuma_wfc@state.co.us",
+    "hours": "By appointment only.",
+    "local_area": "Rural Consortium (Workforce Colorado Rural Alliance)",
+    "office_id": "7124",
     "county": "Yuma"
    },
    "geometry": {

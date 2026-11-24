@@ -7,7 +7,7 @@ These steps would complete or strengthen the layers. Most only need a person wit
 | High | 19 Human Services | Save the CDHS county directory page as HTML to `Data/raw/cdhs_contact_your_county.html`, then have a parser written for it | https://cdhs.colorado.gov/contact-your-county-human-services-department |
 | High | 14 Recovery Residences | Request BHA's certified recovery residence list (certification is run by Ohio Recovery Housing) and add it **aggregated to city/county** | bha.colorado.gov/certified-recovery-residences |
 | High | 11 Parole | Get street addresses for the 14 parole offices that are mapped at city centers | CDOC parole offices page; parole line 1-800-426-9143 |
-| High | 2 Workforce Centers | Download `XLS_AJC_Data_ACC.xlsx` (Comprehensive & Affiliate AJCs) and compare. Confirm the 17 centers still at their 2022 address | careeronestop.org → Developers → Data Downloads |
+| Low | 2 Workforce Centers | Done 2026-11-24: rebuilt from the official CDLE list. Remaining: confirm Adams County at Aurora (3155 N Chambers Rd), which news reports said was closing; re-copy the CDLE page when it changes | https://cdle.colorado.gov/jobs-training/workforce-centers |
 | High | 15 Homelessness | Export the 2-1-1 Colorado statewide shelter list (opens in a browser) | search.211colorado.org/shared/resource-lists/pkdgR43n |
 | Medium | 17 Apprenticeship | Export Colorado sponsors from apprenticeship.gov Partner Finder, or request them from CDLE's State Apprenticeship Agency | apprenticeship.gov/partner-finder |
 | Medium | 24 Veterans | Add the 64 County Veterans Service Officers | vets.colorado.gov/services/county-veterans-service-offices |

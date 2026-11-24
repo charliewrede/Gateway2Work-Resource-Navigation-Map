@@ -1,40 +1,52 @@
-# Layer 2 — Workforce Centers (Colorado Workforce Centers / American Job Centers)
+# Layer 2: Workforce Centers (Colorado Workforce Centers / American Job Centers)
 
-**Output:** `Data/Workforce_Centers.geojson` (54 centers) · **Build script:** `scripts/build_02_workforce_centers.py` · **Built:** 2026-11-13
+**Output:** `Data/Workforce_Centers.geojson` (44 centers) · **Build script:** `scripts/build_02_workforce_centers.py` · **Rebuilt:** 2026-11-24
 
-## 1. Is there a statewide dataset?
-| Searched | Result |
-|---|---|
-| data.colorado.gov "workforce" | No location dataset. (A "Workforce Centers" dataset in Socrata search turned out to be Chicago's.) |
-| CDLE workforce center page, Workforce Colorado Rural Alliance (wcra.colorado.gov), CWDC | Authoritative, but **all colorado.gov pages return HTTP 403** to automated tools. Read only through search-engine snippets. |
-| **U.S. DOL CareerOneStop "Comprehensive and Affiliate American Job Centers" download** (national, updated twice a year, with lat/long) | **The official statewide dataset**, but careeronestop.org also returns 403, and data.gov's catalog entry returned 404. |
-| CareerOneStop AJC Finder export for Colorado, copy hosted by fairshake.net | **Downloaded** (`Data/raw/fairshake_ajc_CO.pdf`, created 2022-05-21): 52 centers with type (Comprehensive or Affiliate), address, phone, hours. |
+## 1. Source (since 2026-11-24)
+**Colorado Department of Labor and Employment (CDLE), Workforce Centers contact list:** https://cdle.colorado.gov/jobs-training/workforce-centers
 
-**Decision:** Use the May 2022 federal AJC list as the **baseline roster** and update each center from the local workforce area's own website or a newer listing. Every feature has an `address_status` property:
-- `current (verified 2026)`: address confirmed by the local area or WCRA page, or by two agreeing current sources.
-- `from 2022 AJC list - not re-confirmed`: no newer source found. **Call before publishing.**
+This is the official state list of every workforce center. cdle.colorado.gov blocks automated tools (HTTP 403), so project staff copied the list from the page on **2026-11-24**. The copy is saved unchanged as **`Data/raw/cdle_workforce_centers_2026-11-24.txt`**. The build script reads that file directly. Every center on the list is mapped, and no center that is not on the list is mapped.
 
-## 2. Colorado's 10 local workforce areas and their sources
-| Local area | Centers | Source checked |
+Each center's popup shows the list's address, phone, email, fax, hours, TDD, mailing address (PO Box), employer line and notes. The CDLE office ID is kept in the data but hidden in the popup. Every feature has `verified` = "Official CDLE list, copied from the CDLE page by project staff 2026-11-24".
+
+**Websites:** the copied text names each center's website ("Workforce Colorado Rural Alliance Website") but has no links. The `website` field is filled with each local area's own page, which this project had used as sources earlier. Those links are not from the CDLE list. Pikes Peak, Fort Morgan and Woodland Park have no link because none was confirmed.
+
+## 2. Fixes to the copied text (each recorded in the feature's `corrections_note`)
+| Center | CDLE list says | Map shows | Why |
+|---|---|---|---|
+| Denver Workforce at Montebello | "Montebello" | Montbello | The neighborhood is Montbello. The original spelling is kept in `cdle_name`. |
+| Montrose Workforce Center | hours "8:00 PM - 12:00 PM" | 8:00 AM | Typo. |
+| Woodland Park Office | city "South Woodland Park" | Woodland Park | The mailing city is Woodland Park, and the geocoder can't find "South Woodland Park". |
+| Larimer County EWD - Fort Collins | ZIP 80522 | 80522 shown; 80521 used to locate it | 80522 is a PO-box ZIP; the building is in 80521. |
+
+## 3. Changes from the previous version (54 → 44 centers)
+The earlier layer (2026-11-13) was built from the May 2022 federal American Job Center list plus local workforce area pages. Compared with the official CDLE list:
+
+**Removed (14; not on the CDLE list):** Burlington, Clear Creek County (Idaho Springs), Gilpin County (Black Hawk), Denver Westside (1200 Federal Blvd), Denver International Airport, Edwards, Elizabeth, Granby, Rangely, Rifle, Rocky Ford, San Luis, Pikes Peak at Calhan, Pikes Peak at Fountain.
+
+**Replaced (1):** Aspen Mine Center, 166 E Bennett Ave, Cripple Creek → **Pikes Peak Workforce Center at Cripple Creek, 100 W Bennett Ave**.
+
+**Address changed (8):**
+| Center | Old address | CDLE address |
 |---|---|---|
-| Adams County | Westminster (11860 Pecos St) | adcogov.org Workforce & Business Center page. The 2022 Aurora (3155 N Chambers) site is gone: CBS reported the Chambers Rd human services center closing. |
-| Arapahoe/Douglas | Centennial, Aurora (Altura Plaza), Castle Rock | adworks.org. Castle Rock moved in 2021 from 100 S Wilcox to the ACC Sturm Campus. |
-| Boulder County | Boulder, Longmont | 2022 list; newer listing for Longmont (515 Coffman St) |
-| Broomfield | 100 Spader Way | broomfield.org (2022 list had the old 120th Ave address) |
-| Denver | Webb (201 W Colfax), Montbello, DIA, Westside | denvergov.org For Jobseekers page. The Speer Blvd center from the 2022 list is replaced by the Webb Building; Westside was under reconstruction until early 2026. |
-| Tri-County (Jefferson, Gilpin, Clear Creek) | Golden, Black Hawk, Idaho Springs | jeffco.us directory |
-| Larimer | Fort Collins | larimer.gov/ewd. Loveland no longer has daily staff (appointments at the library), so it isn't mapped. |
-| Mesa | Grand Junction | mesacounty.us contact page |
-| Pikes Peak (El Paso, Teller) | Colorado Springs, Fountain, Calhan, Cripple Creek | visitcos.com directory; 2022 list |
-| Weld | Greeley, Fort Lupton | weld.gov Employment Services page |
-| Rural Consortium (WCRA), ~30 centers | Pueblo through Steamboat | WCRA/CRWC contact page via search snippets; CDLE page; individual booking pages |
+| Cañon City | 3224B Independence Rd | 248 Dozier Ave |
+| Durango | 331 S Camino del Rio, Ste C | 160 Rock Point Dr |
+| Limon | 285 D Ave | 333 M Ave, Ste 300 |
+| Montrose | 504 N 1st St | 1551 Ogden Rd |
+| Sterling | 100 College Ave | 111 N 3rd St |
+| Walsenburg | 928 Russell Ave | 201 E 5th St, Ste 19 |
+| Workforce Boulder County - Boulder | 2520 55th St, Ste 100 | 1333 Iris Ave (by appointment) |
+| Denver Montbello | 4685 Peoria St, Ste 251 | 4685 Peoria St, Ste 201 (same building) |
 
-**Addresses changed since 2022** (newer source used): Pueblo (212 W 3rd → **1045 W 6th St**, per CRWC contact page and Pueblo County), Alamosa (→ 305 Murphy Dr Unit B), La Junta (→ 17 W 4th St), Cortez (→ 22 W North St), Glenwood Springs (→ 401 23rd St Ste 300), Salida (→ 7405 W Hwy 50 Ste 122), Leadville (→ 901 S Hwy 24, CMC New Discovery Building), Frisco (→ 360 Peak One Dr Ste 370), Broomfield (→ 100 Spader Way), Castle Rock (→ 4500 Limelight Ave).
+**Added (4):** Adams County at Aurora (3155 N Chambers Rd, Unit C), Adams County at Brighton (36 S 18th Ave, Unit A), Arapahoe/Douglas Works! Littleton satellite (5933 S Fairfield St), Woodland Park Office (701 Gold Hill Pl).
 
-## 3. Coordinates
-48 by Census geocoder; 6 by OpenStreetMap. Five of those matched the exact building (ACC Sturm Campus; Broomfield HHS building; DIA 8500 Peña Blvd; 331 S Camino del Rio; 360 Peak One Dr). **San Luis** matched only the street (Vega St), so its position is approximate. Suite and unit numbers are removed before geocoding.
+The six open status questions from the old layer are settled by the CDLE list: Denver Westside and Edwards are not on it, and Cañon City, Sterling, Limon and Durango have the addresses above. The old version is in git history (commit before 2026-11-24).
 
-## 4. Open items (each in the feature's `status_note`)
-Denver Westside (reopening?), Canon City (temporary closure reported), Edwards (temporarily closed per WCRA), Sterling (moved into the CSU Engagement Center; exact address unconfirmed), Limon (285 D Ave vs 333 M Ave), Durango (331 S Camino del Rio vs 160 Rock Point Dr). 17 centers are still at their 2022 address.
+## 4. Coordinates
+- **Census geocoder:** 39 centers. **OpenStreetMap:** 5 (Castle Rock, Broomfield, Frisco, Woodland Park, Limon). Each OpenStreetMap point was checked and is in the right town.
+- **Limon** matched only the street (M Avenue), so its popup is flagged "Approximate - on the correct street".
+- Suite, unit and building text is removed before geocoding only; the full address is shown.
 
-**Recommended follow-up:** download the current CareerOneStop AJC file in a browser (careeronestop.org → Developers → Data Downloads → *Comprehensive and Affiliate American Job Centers*, `XLS_AJC_Data_ACC.xlsx`), filter it to Colorado, and compare it with this layer.
+## 5. Remaining questions
+- **Adams County at Aurora, 3155 N Chambers Rd:** this is on the CDLE list. When building the earlier version, I found news reports that the Chambers Rd human services building was closing, so I had left it off. It is mapped now because the official list includes it. Call (720) 523-2580 to confirm.
+- **Updating:** when the CDLE page changes, copy it into a new `Data/raw/cdle_workforce_centers_<date>.txt`, change `RAW_FILE` in the build script, and run `python3 scripts/run_all.py`, or run the build script and then `postprocess_county_and_accuracy.py`.

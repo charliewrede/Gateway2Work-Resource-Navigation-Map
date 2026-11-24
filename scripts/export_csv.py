@@ -55,17 +55,35 @@ def to_csv(rows, cols):
 
 def save(name, text):
     """Write to data_csv/ and, if changed, to the SharePoint folder."""
+    # The SharePoint files are never read: OneDrive keeps them as cloud-only
+    # placeholders, and reading one forces a download that can time out.
+    # Instead, the SharePoint copy is rewritten whenever the repo copy changes
+    # (or is missing from SharePoint).
     data = text.encode("utf-8")
-    targets = [OUT] + ([SHAREPOINT] if os.path.isdir(SHAREPOINT) else [])
+    local = os.path.join(OUT, name)
+    repo_changed = not (os.path.exists(local) and open(local, "rb").read() == data)
     copied = []
-    for folder in targets:
-        path = os.path.join(folder, name)
-        if os.path.exists(path) and open(path, "rb").read() == data:
-            continue
-        with open(path, "wb") as fh:
+    if repo_changed:
+        with open(local, "wb") as fh:
             fh.write(data)
-        copied.append("repo" if folder == OUT else "SharePoint")
+        copied.append("repo")
+    if os.path.isdir(SHAREPOINT):
+        remote = os.path.join(SHAREPOINT, name)
+        if repo_changed or name in PENDING or not os.path.exists(remote):
+            try:
+                with open(remote, "wb") as fh:
+                    fh.write(data)
+                PENDING.discard(name)
+                copied.append("SharePoint")
+            except OSError as e:
+                PENDING.add(name)               # retried on the next run
+                copied.append(f"SharePoint FAILED ({e.strerror}) - will retry next run")
     return copied
+
+
+# Files whose SharePoint copy failed on an earlier run (e.g. OneDrive offline).
+PENDING_FILE = os.path.join(OUT, ".sharepoint_pending.txt")
+PENDING = set(open(PENDING_FILE).read().split("\n")) - {""} if os.path.exists(PENDING_FILE) else set()
 
 
 os.makedirs(OUT, exist_ok=True)
@@ -88,6 +106,11 @@ for path in sorted(glob.glob(os.path.join(DATA, "*.geojson"))):
 
 changed = save("All_Layers.csv", to_csv(all_rows, ["layer"] + columns(all_rows)))
 print(f"  {'All_Layers.csv':52} {len(all_rows):4} rows  {'updated: ' + ', '.join(changed) if changed else 'unchanged'}")
+with open(PENDING_FILE, "w") as fh:
+    fh.write("\n".join(sorted(PENDING)))
+if PENDING:
+    print(f"  WARNING: {len(PENDING)} file(s) not copied to SharePoint yet: {', '.join(sorted(PENDING))}")
+    print("           Check that OneDrive is running and online, then run: python3 scripts/export_csv.py")
 if not os.path.isdir(SHAREPOINT):
     print("  note: no synced SharePoint Data_CSV folder found on this computer; wrote data_csv/ only")
 else:

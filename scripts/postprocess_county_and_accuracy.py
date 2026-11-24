@@ -18,8 +18,8 @@ Adds two popup fields to every layer in Data/:
                        2. explicit list below (UNSURE) of addresses that came
                           from old, third-party or conflicting sources, or were
                           set by project-staff decision
-                       3. Workforce Centers whose address is still from the
-                          2022 American Job Center list (address_status)
+                     (Workforce Centers come from the official CDLE list since
+                     2026-11-24, so the old "from 2022 list" rule was removed.)
 """
 import glob, json, os, urllib.parse
 from common import DATA, RAW, fetch_json
@@ -99,12 +99,6 @@ UNSURE = {
      "Address partly unconfirmed - operator lists 2017 Lava Lane; 2017 state list had 2255 Lava Lane",
  ("Community_Corrections.geojson", "Correctional Alternative Placement Services (CAPS)"):
      "Location unconfirmed - only recent source is a third-party directory; program may not be operating",
- ("Workforce_Centers.geojson", "Durango - Southwest Colorado Workforce Center"):
-     "Address unconfirmed - another listing gives 160 Rock Point Drive",
- ("Workforce_Centers.geojson", "Sterling Workforce Center"):
-     "Address unconfirmed - center reported to have moved (CSU Engagement Center / 304 Main St)",
- ("Workforce_Centers.geojson", "Limon Workforce Center"):
-     "Address unconfirmed - another listing gives 333 M Avenue",
 }
 
 stats = {}
@@ -124,12 +118,6 @@ for path in sorted(glob.glob(os.path.join(DATA, "*.geojson"))):
             p["county"] = c
         flag = from_geocode(p.get("geocode"))
         flag = UNSURE.get((fname, p.get("name")), flag) if not flag else flag
-        if not flag and fname == "Workforce_Centers.geojson":
-            st = p.get("address_status", "")
-            if st.startswith("from 2022"):
-                flag = "Address unconfirmed - from the 2022 American Job Center list, not re-checked"
-            elif "third-party" in st:
-                flag = "Address unconfirmed - from a third-party listing"
         if flag:
             p["location_accuracy"] = flag; n_flag += 1
         else:

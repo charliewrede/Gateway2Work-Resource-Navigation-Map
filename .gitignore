@@ -8,3 +8,4 @@ __pycache__/
 
 # Local backups made by sync_tracking_log.py
 scripts/backups/
+data_csv/.sharepoint_pending.txt
