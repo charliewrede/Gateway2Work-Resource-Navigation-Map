@@ -1,4 +1,10 @@
 {
+ "0224 COUNTY RD. 333A, RIFLE, CO 81650": {
+  "lat": 39.5159116293169,
+  "lon": -107.716354002803,
+  "matched": "HIFLD Prison Boundaries footprint centroid",
+  "method": "manual"
+ },
  "0244 COUNTY ROAD 333A, RIFLE, CO 81650": {
   "lat": 39.5159116293169,
   "lon": -107.716354002803,
@@ -227,6 +233,12 @@
   "matched": "10500 SMITH RD, DENVER, CO, 80239",
   "method": "census-rooftop"
  },
+ "10500 SMITH ROAD, DENVER, CO 80239": {
+  "lat": 39.76844,
+  "lon": -104.865724,
+  "matched": "10500 SMITH RD, DENVER, CO, 80239",
+  "method": "census-rooftop"
+ },
  "1060 EAST SECOND AVE, DURANGO, CO 81301": {
   "lat": 37.274822,
   "lon": -107.878722,
@@ -437,6 +449,12 @@
   "matched": "11500 W SECURITY AVE, LAKEWOOD, CO, 80215",
   "method": "census-rooftop"
  },
+ "11500 W. SECURITY AVE., LAKEWOOD, CO 80215": {
+  "lat": 39.737319,
+  "lon": -105.126995,
+  "matched": "11500 W SECURITY AVE, LAKEWOOD, CO, 80215",
+  "method": "census-rooftop"
+ },
  "1155 CHEROKEE STREET, DENVER, CO 80204": {
   "lat": 39.734624,
   "lon": -104.991725,
@@ -615,6 +633,12 @@
   "lat": 40.614382,
   "lon": -103.159064,
   "matched": "12220 STATE HWY 61, STERLING, CO, 80751",
+  "method": "census-rooftop"
+ },
+ "1230 N GRAND AVE, MONTROSE, CO 81401": {
+  "lat": 38.489174,
+  "lon": -107.890255,
+  "matched": "1230 N GRAND AVE, MONTROSE, CO, 81401",
   "method": "census-rooftop"
  },
  "1230 N GRAND AVENUE, MONTROSE, CO 81401": {
@@ -935,7 +959,19 @@
   "matched": "14485 E FREMONT AVE, ENGLEWOOD, CO, 80112",
   "method": "census-rooftop"
  },
+ "14485 E. FREMONT AVE, ENGLEWOOD, CO 80112": {
+  "lat": 39.584908,
+  "lon": -104.822677,
+  "matched": "14485 E FREMONT AVE, ENGLEWOOD, CO, 80112",
+  "method": "census-rooftop"
+ },
  "1450 E 62ND AVENUE, DENVER, CO 80216": {
+  "lat": 39.809082,
+  "lon": -104.971007,
+  "matched": "1450 E 62ND AVE, DENVER, CO, 80216",
+  "method": "census-rooftop"
+ },
+ "1450 E. 62ND AVE, DENVER, CO 80216": {
   "lat": 39.809082,
   "lon": -104.971007,
   "matched": "1450 E 62ND AVE, DENVER, CO, 80216",
@@ -1139,6 +1175,12 @@
   "matched": "1650 WEWATTA ST, DENVER, CO, 80202",
   "method": "census-rooftop"
  },
+ "1651 KENDALL ST., LAKEWOOD, CO 80214": {
+  "lat": 39.743367,
+  "lon": -105.066196,
+  "matched": "1651 KENDALL ST, LAKEWOOD, CO, 80214",
+  "method": "census-rooftop"
+ },
  "1651 KENDALL STREET, LAKEWOOD, CO 80214": {
   "lat": 39.743367,
   "lon": -105.066196,
@@ -1284,6 +1326,12 @@
   "method": "census-rooftop"
  },
  "1901 N HUDSON AVENUE, PUEBLO, CO 81001": {
+  "lat": 38.28469,
+  "lon": -104.595914,
+  "matched": "1901 N HUDSON AVE, PUEBLO, CO, 81001",
+  "method": "census-rooftop"
+ },
+ "1901 N. HUDSON AVE, PUEBLO, CO 81001": {
   "lat": 38.28469,
   "lon": -104.595914,
   "matched": "1901 N HUDSON AVE, PUEBLO, CO, 81001",
@@ -1607,6 +1655,12 @@
   "matched": "2135 W CHENANGO AVE, LITTLETON, CO, 80120",
   "method": "census-rooftop"
  },
+ "2135 W. CHENANGO AVE, LITTLETON, CO 80120": {
+  "lat": 39.627835,
+  "lon": -105.01354,
+  "matched": "2135 W CHENANGO AVE, LITTLETON, CO, 80120",
+  "method": "census-rooftop"
+ },
  "215 COTTON ST, FORT MORGAN, CO 80701": {
   "lat": 40.245601,
   "lon": -103.783101,
@@ -1744,6 +1798,18 @@
   "lon": -102.30233,
   "matched": "US Highway 385, Holyoke, Phillips County, Colorado, 80734, United States",
   "method": "osm-street-approx"
+ },
+ "2255 LAVA LANE, ALAMOSA, CO 81101": {
+  "lat": 37.449258,
+  "lon": -105.869324,
+  "matched": "2255 LAVA LN, ALAMOSA, CO, 81101",
+  "method": "census-rooftop"
+ },
+ "2255 MIDPOINT DR., FORT COLLINS, CO 80525": {
+  "lat": 40.565345,
+  "lon": -105.036349,
+  "matched": "2255 MIDPOINT DR, FORT COLLINS, CO, 80525",
+  "method": "census-rooftop"
  },
  "2255 MIDPOINT DRIVE, FORT COLLINS, CO 80525": {
   "lat": 40.565345,
@@ -2069,6 +2135,12 @@
   "matched": "2945 E LAS VEGAS ST, COLORADO SPRINGS, CO, 80906",
   "method": "census-rooftop"
  },
+ "2945 E. LAS VEGAS ST., COLORADO SPRINGS, CO 80906": {
+  "lat": 38.782315,
+  "lon": -104.774101,
+  "matched": "2945 E LAS VEGAS ST, COLORADO SPRINGS, CO, 80906",
+  "method": "census-rooftop"
+ },
  "2950 9TH STREET, FORT LUPTON, CO 80621": {
   "lat": 40.08729,
   "lon": -104.774807,
@@ -2273,7 +2345,19 @@
   "matched": "324 REMINGTON ST, FORT COLLINS, CO, 80524",
   "method": "census-rooftop"
  },
+ "3260 AIRPORT RD, BOULDER, CO 80301": {
+  "lat": 40.034522,
+  "lon": -105.233532,
+  "matched": "3260 AIRPORT RD, BOULDER, CO, 80301",
+  "method": "census-rooftop"
+ },
  "3265 W GIRARD AVENUE, ENGLEWOOD, CO 80110": {
+  "lat": 39.655361,
+  "lon": -105.029135,
+  "matched": "3265 W GIRARD AVE, ENGLEWOOD, CO, 80110",
+  "method": "census-rooftop"
+ },
+ "3265 W. GIRARD AVE, ENGLEWOOD, CO 80110": {
   "lat": 39.655361,
   "lon": -105.029135,
   "matched": "3265 W GIRARD AVE, ENGLEWOOD, CO, 80110",
@@ -2495,6 +2579,12 @@
   "matched": "361 CENTENNIAL PKWY, LOUISVILLE, CO, 80027",
   "method": "census-rooftop"
  },
+ "3615 ROBERTS RD., COLORADO SPRINGS, CO 80907": {
+  "lat": 38.883636,
+  "lon": -104.818064,
+  "matched": "3615 ROBERTS RD, COLORADO SPRINGS, CO, 80907",
+  "method": "census-rooftop"
+ },
  "3615 ROBERTS ROAD, COLORADO SPRINGS, CO 80907": {
   "lat": 38.883636,
   "lon": -104.818064,
@@ -2687,6 +2777,12 @@
   "matched": "41 MONTEBELLO RD, PUEBLO, CO, 81001",
   "method": "census-rooftop"
  },
+ "4101 PECOS ST., DENVER, CO 80211": {
+  "lat": 39.773097,
+  "lon": -105.0068,
+  "matched": "4101, North Pecos Street, Sunnyside, Denver, Colorado, 80211, United States",
+  "method": "osm-nominatim"
+ },
  "4101 PECOS STREET, DENVER, CO 80211": {
   "lat": 39.773097,
   "lon": -105.0068,
@@ -2775,6 +2871,12 @@
   "lat": 40.251633,
   "lon": -103.802702,
   "matched": "426 ENSIGN ST, FORT MORGAN, CO, 80701",
+  "method": "census-rooftop"
+ },
+ "4280 KEARNEY ST., DENVER, CO 80216": {
+  "lat": 39.776153,
+  "lon": -104.917544,
+  "matched": "4280 KEARNEY ST, DENVER, CO, 80216",
   "method": "census-rooftop"
  },
  "4280 KEARNEY STREET, DENVER, CO 80216": {
@@ -2931,6 +3033,12 @@
   "lat": 39.739958,
   "lon": -104.993948,
   "matched": "490 W COLFAX AVE, DENVER, CO, 80204",
+  "method": "census-rooftop"
+ },
+ "4901 KRAMERIA ST., COMMERCE CITY, CO 80022": {
+  "lat": 39.785588,
+  "lon": -104.916824,
+  "matched": "4901 KRAMERIA ST, COMMERCE CITY, CO, 80022",
   "method": "census-rooftop"
  },
  "4901 KRAMERIA STREET, COMMERCE CITY, CO 80022": {
@@ -3203,6 +3311,12 @@
   "matched": "570 W 44TH AVE, DENVER, CO, 80216",
   "method": "census-rooftop"
  },
+ "570 WEST 44TH AVENUE, DENVER, CO 80216": {
+  "lat": 39.776552,
+  "lon": -104.994463,
+  "matched": "570 W 44TH AVE, DENVER, CO, 80216",
+  "method": "census-rooftop"
+ },
  "57500 EAST HIGHWAY 50 & EVANS ROAD, CANON CITY, CO 81212": {
   "lat": 38.440785,
   "lon": -105.155858,
@@ -3321,6 +3435,12 @@
   "lat": 39.726573,
   "lon": -105.002781,
   "matched": "646 MARIPOSA ST, DENVER, CO, 80204",
+  "method": "census-rooftop"
+ },
+ "650 SOUTH AVE, GRAND JUNCTION, CO 81501": {
+  "lat": 39.06349,
+  "lon": -108.561637,
+  "matched": "650 SOUTH AVE, GRAND JUNCTION, CO, 81501",
   "method": "census-rooftop"
  },
  "650 SOUTH AVENUE, GRAND JUNCTION, CO 81501": {
@@ -3689,6 +3809,12 @@
   "matched": "800 W MAPLE ST, LAMAR, CO, 81052",
   "method": "census-rooftop"
  },
+ "800 E. MAPLE ST., LAMAR, CO 81052": {
+  "lat": 38.091938,
+  "lon": -102.628856,
+  "matched": "800 W MAPLE ST, LAMAR, CO, 81052",
+  "method": "census-rooftop"
+ },
  "800 WEST 1ST STREET, CRAIG, CO 81625": {
   "lat": 40.506842,
   "lon": -107.555684,
@@ -3720,6 +3846,12 @@
   "method": "census-rooftop"
  },
  "8031 I-76 FRONTAGE ROAD, HENDERSON, CO 80640": {
+  "lat": 39.842112,
+  "lon": -104.928896,
+  "matched": "8031 I- 76 SVC RD, HENDERSON, CO, 80640",
+  "method": "census-rooftop"
+ },
+ "8031 I-76 SERVICE RD, HENDERSON, CO 80640": {
   "lat": 39.842112,
   "lon": -104.928896,
   "matched": "8031 I- 76 SVC RD, HENDERSON, CO, 80640",

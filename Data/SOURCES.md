@@ -5,7 +5,7 @@
 
 Statewide GeoJSON layers for the 25 categories in TSRG's *Colorado Workforce Development Ecosystem: Proposed statewide GIS categories* (Gateway2Work). Built 2026-11-13.
 
-**Totals:** 23 layers built, **1,083 mapped locations**. 2 layers are documented but not yet built (L19, L21).
+**Totals:** 23 layers built, **1,080 mapped locations**. 2 layers are documented but not yet built (L19, L21).
 
 > **The framework's own caveat applies:** *"This is a proposed classification framework, not a verified statewide inventory. Organization participation, service areas, and current program status should be confirmed before GIS publication."* Every record carries its source so it can be checked.
 
@@ -21,7 +21,7 @@ Statewide GeoJSON layers for the 25 categories in TSRG's *Colorado Workforce Dev
 | 2 | Workforce Centers | Workforce_Centers.geojson | 44 | **Yes** (official CDLE list, copied by project staff 2026-11-24) | CDLE Workforce Centers contact list | [02](sources/02_Workforce_Centers.md) |
 | 3 | Workforce Development Providers | Workforce_Development_Training_Providers.geojson | 96 | **Yes** | US DOL TrainingProviderResults.gov, Colorado WIOA ETPL (2024) | [03](sources/03_Workforce_Development_Providers.md) |
 | 4 | Substance Use Treatment & Mental Health | Substance_Use_and_Mental_Health_Treatment.geojson | 350 | **Yes** | SAMHSA FindTreatment.gov export API | [04](sources/04_Treatment_and_Mental_Health.md) |
-| 5 | Community Corrections | Community_Corrections.geojson | 28 | Partial | DCJ 2017 program list, re-verified program by program (operators and county boards) | [05](sources/05_Community_Corrections.md) |
+| 5 | Community Corrections | Community_Corrections.geojson | 25 | **Yes** (official DCJ OCC list, copied by project staff 2026-11-24) | DCJ OCC Community Corrections Boards, Program & Specialized Programs page | [05](sources/05_Community_Corrections.md) |
 | 6 | Jails | Jails.geojson | 54 | **Yes** (dated) | HIFLD Prison Boundaries + DCJ HB19-1297 county jail list + closure news | [06](sources/06_Jails.md) |
 | 7 | Prisons | Prisons.geojson | 26 | **Yes** (dated) | CDOC facility list (Mar 2025), CoreCivic, BOP feed; HIFLD footprints | [07](sources/07_Prisons.md) |
 | 8 | IPS Agencies | IPS_Agencies.geojson | 10 | No | BHA IPS page, SOR IPS evaluation report (2022–23), older state list | [08](sources/08_IPS.md) |
@@ -47,7 +47,7 @@ Statewide GeoJSON layers for the 25 categories in TSRG's *Colorado Workforce Dev
 | Method | Count | Meaning |
 |---|---|---|
 | Source coordinates | 504 | Supplied by the dataset itself (SAMHSA, IPEDS, VA, BOP) or HIFLD facility-footprint centroids (prisons and jails, each checked against a Census geocode) |
-| `census-rooftop` | 499 | U.S. Census Bureau geocoder, exact address match |
+| `census-rooftop` | 496 | U.S. Census Bureau geocoder, exact address match |
 | `census-nonexact` | 1 | Census geocoder, best of several candidates |
 | `osm-nominatim` | 27 | OpenStreetMap, matched the house number (used only when Census failed) |
 | approximate | 50 | `osm-street-approx` (on the right street, no house number), `approx-city-center` / `APPROXIMATE - city center` (parole offices without a published street address; recovery residences aggregated by city for privacy) |

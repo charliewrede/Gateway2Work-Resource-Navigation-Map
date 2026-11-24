@@ -95,10 +95,6 @@ UNSURE = {
      "Address unconfirmed - from a regional directory, not DVR",
  ("DVR_Offices.geojson", "DVR Montrose Office"):
      "Address unconfirmed - from an older listing",
- ("Community_Corrections.geojson", "Advantage Treatment Centers - Alamosa (San Luis Valley Community Corrections)"):
-     "Address partly unconfirmed - operator lists 2017 Lava Lane; 2017 state list had 2255 Lava Lane",
- ("Community_Corrections.geojson", "Correctional Alternative Placement Services (CAPS)"):
-     "Location unconfirmed - only recent source is a third-party directory; program may not be operating",
 }
 
 stats = {}

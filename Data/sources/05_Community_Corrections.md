@@ -1,49 +1,67 @@
-# Layer 5 — Community Corrections
+# Layer 5: Community Corrections
 
-**Output:** `Data/Community_Corrections.geojson` (28 residential facilities) · **Build script:** `scripts/build_05_community_corrections.py` · **Built:** 2026-11-13
+**Output:** `Data/Community_Corrections.geojson` (25 residential programs) · **Build script:** `scripts/build_05_community_corrections.py` · **Rebuilt:** 2026-11-24
 
 In Colorado, "community corrections" means the residential programs ("halfway houses") regulated by the Division of Criminal Justice (DCJ), Office of Community Corrections (OCC). Placements are approved by each judicial district's Community Corrections Board.
 
-## 1. Is there a statewide dataset?
-| Searched | Result |
+## 1. Source (since 2026-11-24)
+**DCJ OCC, "Community Corrections Boards, Program & Specialized Programs":** https://dcj.colorado.gov/dcj-offices/occ/corrections-boards-programs
+
+This is the official state list of every board and program. dcj.colorado.gov blocks automated tools (HTTP 403), so project staff copied the page on **2026-11-24**. The copy is saved unchanged in **`Data/raw/dcj_occ_2026-11-24/`**:
+
+| File | Contents |
 |---|---|
-| data.colorado.gov | No location dataset (only client counts and fees). |
-| DCJ OCC "Community Corrections Boards, Programs & Specialized Programs" page | The current official list, but dcj.colorado.gov returns HTTP 403 to automated requests. It was seen only through search-engine snippets. |
-| DCJ OCC FY24 Annual Report (Colorado State Publications Library) | spl.cde.state.co.us refused connections from both tools, so it couldn't be read. |
-| DCJ OCC "Colorado Community Corrections Programs 02-13-2017" (cdpsdocs.state.co.us) | **Downloaded** (`Data/raw/dcj_occ_residential_program_list_2017-02-13.pdf`): 33 programs with director, address and phone. **Nine years old**, so used only as a baseline. |
-| HIFLD Prison Boundaries | Has 6 community corrections buildings (Mesa, Garfield, Colorado Springs). Incomplete. |
+| `1_boards_and_programs_1st_JD.txt` | 1st JD (Gilpin and Jefferson): board and programs |
+| `2_boards_and_programs_2nd_to_23rd_JD.txt` | 2nd JD (Denver) through the 23rd JD: boards and programs |
+| `3_specialized_programs.txt` | Eligibility for the three specialized programs: IRT, SOSTCC and RDDT. |
 
-**Decision:** Start from the 2017 DCJ list and **re-verify every program** against the operator's own website or the county Community Corrections Board page. Programs that couldn't be confirmed were dropped, and replacements were added.
+The build script reads these files directly. Every program on the list is mapped, and no program that is not on the list is mapped. 7 districts have no program: the 3rd, 5th, 11th, 14th, 16th, 22nd and 23rd.
 
-## 2. What changed since 2017 (verified)
-| 2017 entry | Status in 2026 | Evidence |
-|---|---|---|
-| CoreCivic Columbine, Dahlia, Ulster (Denver) | Closed; Denver ended private contracts in 2019–20 | CCJRC 2021 report; Gazette; Denver facilities page |
-| CoreCivic Fox, 570 W 44th Ave | Now the city's **MOORE Center** (with Second Chance Center) | denvergov.org Community Corrections Facilities page |
-| CEC/GEO Tooley Hall, 4280 Kearney | Bought by Denver in 2019, now **Project: Elevate** (with The Empowerment Program), for women | denvergov.org; NextCity |
-| CEC/GEO Williams Street Center | Closed (2020) | Gazette 2020 |
-| Peer I, The Haven, Independence House Fillmore | Not on Denver's current list; Independence House consolidated at Pecos | denvergov.org |
-| (new) IMPACT Center, 10500 Smith Rd | Added | denvergov.org |
-| Com Cor Inc. (Colorado Springs) | Rebranded **Embrave**: Roberts Rd (225 beds) + 3950 N Nevada (135 beds) | embrave.org/facilities; El Paso County Justice Services page; Gazette |
-| Gateway: Through the Rockies (El Paso) | Not on El Paso County's current list (only Embrave and CAE) | justiceservices.elpasoco.com |
-| CoreCivic Boulder Community Treatment Center | Now **ICCS-Boulder** | bouldercounty.gov Halfway Houses page |
-| Time to Change – Adams / Commerce City | Now listed by CoreCivic as **Adams Transitional Center** and **Commerce Transitional Center** | corecivic.com; Adams County page (102 and 136 beds) |
-| Time to Change – Henderson | Now **ICCS Adams County Opportunity Center** (184 beds) | Adams County page; int-cjs.org/locations |
-| San Luis Valley Community Corrections, 2255 Lava Lane | Now Advantage Treatment Centers, 2017 Lava Lane | atreatmentcenters.com/alamosa-co; Alamosa News ("New corrections owner") |
-| (new) Advantage Treatment Centers – Lamar | Added: Advantage's site lists community corrections in Montrose, Lamar, Alamosa, Sterling | atreatmentcenters.com |
+**What each popup shows:**
+- **From the program list:** address, phone, population served (male/female), director, and the program's email where one is listed.
+- **District:** the judicial district and the counties in it.
+- **Board:** the district's Community Corrections Board contacts (names, phone and email), as published by DCJ.
+- **Specialized programs (12 facilities):** IRT, SOSTCC or RDDT eligibility from the specialized-programs list. This includes gender, length of stay, substance-use and mental-health levels, sex/violent offender acceptance, notes, and the intake contact. Facility names on that list differ slightly from the program list, so they are matched by an explicit table (`ALIASES` in the build script), and the script stops if any listing doesn't match.
 
-## 3. Sources for each facility (in each feature's `source` / `source_url` properties)
-- **Operator sites:** int-cjs.org/locations (ICCS: Kendall, West, Weld, Pueblo, Adams); corecivic.com facility pages (Adams TC, Commerce TC, Arapahoe CTC, Centennial CTC, Longmont CTC; CoreCivic's Colorado list was checked to confirm these are its only community corrections sites); embrave.org/facilities; atreatmentcenters.com location pages (Montrose, Alamosa, Sterling, Lamar).
-- **County/city board pages:** denvergov.org (4 facilities); bouldercounty.gov; adamscountyco.gov; justiceservices.elpasoco.com; weld.gov; larimer.gov (2025 annual report); garfieldcountyco.gov (2026 handbooks, 2025–26 PREA report); mesacounty.us.
+Every feature has `verified` = "Official DCJ OCC list, copied from the DCJ page by project staff 2026-11-24".
+
+## 2. Fixes to the copied text (each recorded in the feature's `corrections_note`)
+| Program | DCJ list says | Map uses | Why |
+|---|---|---|---|
+| Independence House Pecos | ZIP 80218 | 80211 | 4101 Pecos St is in 80211; 80218 is Capitol Hill. |
+| Mesa County Community Corrections | ZIP 81502 | 81501 | 81502 is a PO-box ZIP. |
+| Garfield County Community Corrections | program at **0224** County Rd 333A; board at **0244** County Road 333A | 0224 shown; placed at the facility's HIFLD footprint | The two numbers on the DCJ page disagree, and the rural address doesn't geocode. The popup says the point was placed by hand. |
+| Joe Pelle Center | "Joe Pelle Center- Boulder County" | "Joe Pelle Center - Boulder County" | Spacing only. |
+
+## 3. Changes from the previous version (28 → 25)
+The earlier layer (2026-11-13) was built from DCJ's 2017 program list, re-checked against operator sites and county board pages, because the current DCJ page couldn't be read. Compared with the official list:
+
+**Removed (4; not on the DCJ list):**
+- CoreCivic – Longmont Community Treatment Center (236 Main St, Longmont)
+- Correctional Alternative Placement Services (CAPS), Craig. The DCJ list says the 14th JD has no program.
+- Embrave – 3950 N Nevada Ave, Colorado Springs. DCJ lists ComCor/EMBRAVE once, at 3615 Roberts Rd. The 3950 building may still be part of the same program; see §5.
+- ICCS – Boulder (1770 21st St)
+
+**Added (1):** Joe Pelle Center – Boulder County, 3260 Airport Rd, Boulder (20th JD).
+
+**Same location, now under the DCJ name (24):** for example, Hilltop House is now listed as Advantage Treatment Center – Durango, and MOORE Center as Moore Center.
+
+**Old open questions settled:**
+- **Alamosa** is at 2255 Lava Lane, not 2017.
+- **Arapahoe County Residential Center** is operated by GEO.
+- **CAPS** is not on the list.
+- **Pueblo** has only ICCS–Pueblo; there is no second program.
+
+The old version is in git history.
 
 ## 4. Coordinates
-- 25 by Census geocoder (exact match).
-- 2 by OpenStreetMap Nominatim (Census found no match). Both matched the exact house number: "1050 Avenida del Sol, Durango" and "4101 North Pecos Street, Denver".
-- 1 (Garfield County, rural road address) from its HIFLD facility footprint.
+- **Census geocoder:** 22.
+- **OpenStreetMap:** 2, both matching the house number: 1050 Avenida del Sol, Durango, and 4101 Pecos St, Denver.
+- **Manual:** 1. Garfield County, from its HIFLD facility footprint.
 
-## 5. Open items (flagged with `status_note`)
-- **CAPS, Craig (14th JD):** the only recent evidence is a third-party directory updated July 2025. Confirm with the 14th JD board.
-- **Arapahoe County Residential Center:** the operator is listed as GEO by GEO-affiliated listings and as CoreCivic by one directory, and it isn't on CoreCivic's own list. Confirm with the 18th JD board.
-- **Pueblo (10th JD):** Pueblo County says it contracts with **two** private programs. Only ICCS-Pueblo could be confirmed. "Minnequa Community Corrections" appears in directories with no address, so it's not mapped.
-- DCJ's FAQ says there are **33 residential programs**. Several sites run more than one program (e.g., separate men's and women's programs at Larimer), so 28 facilities is consistent with that.
+## 5. Remaining questions
+- **Garfield County:** is the street number 0224 or 0244 County Rd 333A? The map position doesn't depend on it.
+- **Embrave 3950 N Nevada:** Embrave's own site listed two residential buildings. Ask the 4th JD board (719-520-6987) whether 3950 N Nevada should be mapped as a second site of ComCor/EMBRAVE.
+- **Joe Pelle Center:** the only phone on the DCJ list is the director's (970-449-2781). For referrals, the list gives 303-441-4711, which appears as the board's referral line.
+- **Updating:** when the DCJ page changes, copy it into a new `Data/raw/dcj_occ_<date>/` folder with the same three file names, change `DIR` in the build script, and run `python3 scripts/run_all.py`.
 - Federal BOP Residential Reentry Centers (halfway houses under federal contract) are in Layer 12, not here.

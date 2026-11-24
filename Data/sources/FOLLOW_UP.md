@@ -13,7 +13,7 @@ These steps would complete or strengthen the layers. Most only need a person wit
 | Medium | 24 Veterans | Add the 64 County Veterans Service Officers | vets.colorado.gov/services/county-veterans-service-offices |
 | Medium | 16 Colleges | Add branch campuses (IPEDS lists main campuses only) | each college's locations page |
 | Medium | 13 RCOs | Get BHA's licensed Recovery Support Services Organization list; add The Phoenix locations | BHA LADDERS; thephoenix.org |
-| Medium | 5 Community Corrections | Confirm CAPS (Craig) status, ACRC operator, and Pueblo's second program (Minnequa) | 14th/18th/10th JD Community Corrections Boards |
+| Low | 5 Community Corrections | Done 2026-11-24: rebuilt from the official DCJ OCC list. Remaining: confirm the Garfield County street number (0224 vs 0244 County Rd 333A) and whether Embrave's 3950 N Nevada building is still in use; re-copy the DCJ page when it changes | https://dcj.colorado.gov/dcj-offices/occ/corrections-boards-programs |
 | Medium | 7 Prisons | Confirm status of Rifle, Delta, and The Beacon at Skyline (closure proposals) | CDOC |
 | Medium | 23 CMH | Identify the safety-net provider for Delta/Gunnison/Montrose/Ouray/San Miguel; confirm Axis Health's main office | BHA safety-net provider list |
 | Low | 21 Staffing / Second-Chance | Build from WAGEES/CEO hiring partners and ReHire Colorado host sites | program staff |

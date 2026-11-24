@@ -371,7 +371,11 @@ export const POPUP_LAYOUT = {
         po_box_only: "PO Box Only", org_type: "Organization Type", area_served: "Area Served",
         mailing_address: "Mailing Address", tdd: "TDD", employer_phone: "Employer Phone",
         employer_fax: "Employer Fax", job_hotline: "Job Hotline", appointment_note: "Note",
-        building: "Building"
+        building: "Building",
+        population: "Population Served", director: "Director", district_counties: "Counties in District",
+        specialized_programs: "Specialized Programs", irt: "Intensive Residential Treatment (IRT)",
+        sostcc: "Sex Offender Supervision and Treatment (SOSTCC)", rddt: "Residential Dual Diagnosis Treatment (RDDT)",
+        board_contact: "Community Corrections Board", board_phone: "Board Phone", board_email: "Board Email"
     }
 };
 

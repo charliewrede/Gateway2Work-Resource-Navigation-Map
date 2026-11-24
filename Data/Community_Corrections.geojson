@@ -4,45 +4,93 @@
   {
    "type": "Feature",
    "properties": {
-    "name": "Advantage Treatment Centers - Alamosa (San Luis Valley Community Corrections)",
+    "name": "Advantage Treatment Center - Alamosa",
     "category": "Community Corrections",
-    "address": "2017 Lava Lane",
+    "address": "2255 Lava Lane",
     "city": "Alamosa",
     "zip": "81101",
-    "county": "Alamosa",
     "phone": "719-589-7500",
-    "source": "Advantage Treatment Centers location page; DCJ 2017 list had SLV Community Corrections at 2255 Lava Lane",
-    "source_url": "https://atreatmentcenters.com/alamosa-co/",
+    "source": "Colorado Division of Criminal Justice, Office of Community Corrections - Community Corrections Boards, Program & Specialized Programs",
+    "source_url": "https://dcj.colorado.gov/dcj-offices/occ/corrections-boards-programs",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "operator": "Advantage Treatment Centers Inc.",
+    "verified": "Official DCJ OCC list, copied from the DCJ page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "population": "Male/Female",
+    "director": "Antonio Ornelas",
     "judicial_district": "12th",
-    "location_accuracy": "Address partly unconfirmed - operator lists 2017 Lava Lane; 2017 state list had 2255 Lava Lane"
+    "district_counties": "Alamosa, Conejos, Costilla, Mineral, Rio Grande & Saguache County",
+    "specialized_programs": "IRT; SOSTCC",
+    "irt": "Gender: Males & Females; Length: 90 Days; Substance Abuse: SOA-R Level 4c; Mental Health: P1 - P3 Preferred; Medical: M1 - M2 Preferred; Sex Offenders: Yes; Violent Offenders: Will consider in Jurisdiction only; Additional Information: *Must have medications upon intake, Will consider all referrals; Contact: Roman Rivera, 970-580-1165",
+    "sostcc": "Gender: Male; Length: Open Ended; Mental Health: P1 - P3; Violent Offenders: Will Be Considered; SVP: No; Outside Jurisdiction: Board decision, will consider; Additional Information: Accepts determinate and indeterminate sentences; Contact: Dallas Albrecht, 970-964-2785",
+    "board_contact": "Pat Stanford; Alamosa County Court House; 702 Fourth Street; Alamosa CO 81101",
+    "board_phone": "719-587-5631",
+    "board_email": "pstanford79@gmail.com",
+    "county": "Alamosa"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -105.86885,
-     37.450656
+     -105.869324,
+     37.449258
     ]
    }
   },
   {
    "type": "Feature",
    "properties": {
-    "name": "Advantage Treatment Centers - Lamar",
+    "name": "Advantage Treatment Center - Durango",
     "category": "Community Corrections",
-    "address": "800 E Maple Street",
+    "address": "1050 Avenida Del Sol",
+    "city": "Durango",
+    "zip": "81301",
+    "phone": "970-247-1342",
+    "source": "Colorado Division of Criminal Justice, Office of Community Corrections - Community Corrections Boards, Program & Specialized Programs",
+    "source_url": "https://dcj.colorado.gov/dcj-offices/occ/corrections-boards-programs",
+    "geocode": "osm-nominatim",
+    "verified": "Official DCJ OCC list, copied from the DCJ page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "population": "Male/Female",
+    "director": "Sally Frey",
+    "judicial_district": "6th",
+    "district_counties": "La Plata, San Juan, & Archuleta County",
+    "board_contact": "Caitlin Dye, CCB Administrator; Denice Ledesma , CCB Screening Committee; Durango LaPlata Community Corrections Board; 1050 Avenida del Sol; Durango CO 81301",
+    "board_phone": "970-247-1342 (office)",
+    "board_email": "caitlin.dye@judicial.state.co.us; denice.ledesma@atreatmentcenters.com",
+    "county": "La Plata"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.885963,
+     37.277529
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Advantage Treatment Center - Lamar",
+    "category": "Community Corrections",
+    "address": "800 E. Maple St.",
     "city": "Lamar",
     "zip": "81052",
-    "county": "Prowers",
     "phone": "719-336-0650",
-    "source": "Advantage Treatment Centers location page",
-    "source_url": "https://atreatmentcenters.com/lamar-co/",
+    "source": "Colorado Division of Criminal Justice, Office of Community Corrections - Community Corrections Boards, Program & Specialized Programs",
+    "source_url": "https://dcj.colorado.gov/dcj-offices/occ/corrections-boards-programs",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "operator": "Advantage Treatment Centers Inc.",
-    "judicial_district": "15th"
+    "verified": "Official DCJ OCC list, copied from the DCJ page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "population": "Male",
+    "director": "Marci Amrine",
+    "judicial_district": "15th",
+    "district_counties": "Baca, Cheyenne, Kiowa & Prowers County",
+    "specialized_programs": "IRT; SOSTCC",
+    "irt": "Gender: Males & Females; Length: 90 Days; Substance Abuse: SOA-R Level 4c; Mental Health: P1 - P3 Preferred; Medical: M1 - M2 Preferred; Sex Offenders: Yes; Violent Offenders: Will consider in Jurisdiction only; Additional Information: *Must have medications upon intake, Will consider all referrals; Contact: Roman Rivera, 970-580-1165",
+    "sostcc": "Gender: Male; Length: Open Ended; Mental Health: P1 - P3; SVP: No; Outside Jurisdiction: Board decision; Additional Information: Awaiting Board Approval; Contact: Dallas Albrecht, 970-964-2785",
+    "board_contact": "Sam Zordel; Stephanie Hofmeister; 301 S. Main, #110; Lamar, CO 81052",
+    "board_phone": "719-336-8340",
+    "board_email": "szordel@prowerscounty.net; stephanie.hofmeister@judicial.state.co.us",
+    "county": "Prowers"
    },
    "geometry": {
     "type": "Point",
@@ -55,19 +103,25 @@
   {
    "type": "Feature",
    "properties": {
-    "name": "Advantage Treatment Centers - Montrose",
+    "name": "Advantage Treatment Center - Montrose",
     "category": "Community Corrections",
-    "address": "1230 N Grand Avenue",
+    "address": "1230 N Grand Ave",
     "city": "Montrose",
     "zip": "81401",
-    "county": "Montrose",
     "phone": "970-964-2777",
-    "source": "Advantage Treatment Centers location page (lists community corrections in Montrose, Lamar, Alamosa, Sterling)",
-    "source_url": "https://atreatmentcenters.com/montrose-co/",
+    "source": "Colorado Division of Criminal Justice, Office of Community Corrections - Community Corrections Boards, Program & Specialized Programs",
+    "source_url": "https://dcj.colorado.gov/dcj-offices/occ/corrections-boards-programs",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "operator": "Advantage Treatment Centers Inc.",
-    "judicial_district": "7th"
+    "verified": "Official DCJ OCC list, copied from the DCJ page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "population": "Male/Female",
+    "director": "Tyson Berry",
+    "judicial_district": "7th",
+    "district_counties": "Montrose, Delta, Gunnison, San Miguel, Ouray & Hinsdale County",
+    "board_contact": "Karen Williams; Paul Gottlieb; 1200 N. Grand Ave., Bin B; Montrose CO 81402",
+    "board_phone": "970-318-6215",
+    "board_email": "st7dccb@yahoo.com; Pmgottlieb4@gmail.com",
+    "county": "Montrose"
    },
    "geometry": {
     "type": "Point",
@@ -80,19 +134,28 @@
   {
    "type": "Feature",
    "properties": {
-    "name": "Advantage Treatment Centers - Sterling",
+    "name": "Advantage Treatment Center - Sterling",
     "category": "Community Corrections",
     "address": "12220 Highway 61",
     "city": "Sterling",
     "zip": "80751",
-    "county": "Logan",
     "phone": "970-522-7383",
-    "source": "Advantage Treatment Centers location page",
-    "source_url": "https://atreatmentcenters.com/sterling-co/",
+    "source": "Colorado Division of Criminal Justice, Office of Community Corrections - Community Corrections Boards, Program & Specialized Programs",
+    "source_url": "https://dcj.colorado.gov/dcj-offices/occ/corrections-boards-programs",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "operator": "Advantage Treatment Centers Inc.",
-    "judicial_district": "13th"
+    "verified": "Official DCJ OCC list, copied from the DCJ page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "population": "Male",
+    "director": "Sam Lambert",
+    "judicial_district": "13th",
+    "district_counties": "Kit Carson, Logan Morgan, Phillips, Sedgwick, Washington & Yuma County",
+    "specialized_programs": "IRT; SOSTCC",
+    "irt": "Gender: Males; Length: 90 Days; Substance Abuse: SOA-R Level 4c; Mental Health: P1 - P3*; Medical: M1 - M2 Preferred; Sex Offenders: Yes; Violent Offenders: Will consider in Jurisdiction only; Additional Information: *Must have medications upon intake, Will consider all referrals; Contact: Roman Rivera, 970-580-1165",
+    "sostcc": "Gender: Male; Length: Open Ended; Mental Health: P1 - P3; Violent Offenders: Will Be Considered; SVP: No; Outside Jurisdiction: Board decision, will consider; Additional Information: Accepts determinate and indeterminate sentences; Contact: Dallas Albrecht, 970-964-2785",
+    "board_contact": "Lindy Barnhill; Logan County Justice Center; 110 N. Riverview Rd, Rm 100; Sterling, CO 80152",
+    "board_phone": "970-526-3988",
+    "board_email": "lindy.barnhill@judicial.state.co.us",
+    "county": "Logan"
    },
    "geometry": {
     "type": "Point",
@@ -105,71 +168,60 @@
   {
    "type": "Feature",
    "properties": {
-    "name": "Arapahoe County Residential Center (ACRC)",
+    "name": "ComCor Inc./EMBRAVE",
     "category": "Community Corrections",
-    "address": "2135 W Chenango Avenue",
-    "city": "Littleton",
-    "zip": "80120",
-    "county": "Arapahoe",
-    "phone": "303-795-6975",
-    "source": "DCJ 2017 program list; Remerg/GEO listing; reentry directory updated 2025-07-21",
-    "source_url": "https://remerg.com/resources/geo-arapahoe-county-residential-center/",
-    "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "operator": "GEO Group (GEO Reentry) - one directory says CoreCivic; not on CoreCivic's own facility list",
-    "judicial_district": "18th",
-    "status_note": "Operator reported inconsistently; confirm with 18th JD Community Corrections Board."
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -105.01354,
-     39.627835
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "name": "Community Alternatives of El Paso County (CAE)",
-    "category": "Community Corrections",
-    "address": "2945 E Las Vegas Street",
+    "address": "3615 Roberts Rd.",
     "city": "Colorado Springs",
-    "zip": "80906",
-    "county": "El Paso",
-    "phone": "719-318-5586",
-    "source": "El Paso County Justice Services Community Corrections page",
-    "source_url": "https://justiceservices.elpasoco.com/community-corrections/",
+    "zip": "80907",
+    "phone": "719-473-4460",
+    "source": "Colorado Division of Criminal Justice, Office of Community Corrections - Community Corrections Boards, Program & Specialized Programs",
+    "source_url": "https://dcj.colorado.gov/dcj-offices/occ/corrections-boards-programs",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "operator": "GEO Group (GEO Reentry)",
-    "judicial_district": "4th"
+    "verified": "Official DCJ OCC list, copied from the DCJ page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "population": "Male/Female",
+    "director": "Mark Wester",
+    "judicial_district": "4th",
+    "district_counties": "Teller & El Paso County",
+    "specialized_programs": "IRT; SOSTCC; RDDT",
+    "irt": "Gender: Males & Females; Length: 90 Days; Substance Abuse: SOA-R Level 4c; Mental Health: P1 - P3 Preferred; Medical: M1 - M2 Preferred; Sex Offenders: On case by case; Violent Offenders: Yes; Additional Information: *Must have 90 day supply of medication upon intake; Contact: Carrie Gavitt, 719-473-4460 ext. 903",
+    "sostcc": "Gender: Male; Length: 6 - 12 months; Violent Offenders: Will Be Considered; SVP: Yes; Outside Jurisdiction: Yes; Additional Information: Accepts determinate and indeterminate sentences. DOC Case Mgr and SOTP Team sends referral; Contact: Kristi Foss, 719-473-4460 ext. 500",
+    "rddt": "Gender: Male; Length: Open Ended; Substance Abuse: SOA-R Level 4a - 4d; Mental Health: P3 - P4; Sex Offenders: Will be considered; Violent Offenders: Will be considered; Additional Information: Phone/in-person interview required; Contact: Carrie Gavitt, 719-473-4460 ext. 903",
+    "board_contact": "MaCain Hildebrand; 17 N. Spruce Street; Colorado Springs CO 80905",
+    "board_phone": "719-520-6987",
+    "board_email": "MacainHildebrand@elpasoco.com",
+    "county": "El Paso"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -104.774101,
-     38.782315
+     -104.818064,
+     38.883636
     ]
    }
   },
   {
    "type": "Feature",
    "properties": {
-    "name": "CoreCivic - Adams Transitional Center (Time to Change)",
+    "name": "CoreCivic - Adams Transitional Center",
     "category": "Community Corrections",
-    "address": "1450 E 62nd Avenue",
+    "address": "1450 E. 62nd Ave",
     "city": "Denver",
     "zip": "80216",
-    "county": "Adams",
     "phone": "720-377-0900",
-    "source": "CoreCivic facility page; Adams County Community Corrections page",
-    "source_url": "https://www.corecivic.com/facilities/adams-transitional-center",
+    "source": "Colorado Division of Criminal Justice, Office of Community Corrections - Community Corrections Boards, Program & Specialized Programs",
+    "source_url": "https://dcj.colorado.gov/dcj-offices/occ/corrections-boards-programs",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "operator": "CoreCivic (private)",
-    "population": "Men, 102 beds",
-    "judicial_district": "17th"
+    "verified": "Official DCJ OCC list, copied from the DCJ page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "population": "Male",
+    "director": "Mike Gardner",
+    "judicial_district": "17th",
+    "district_counties": "Broomfield & Adams County",
+    "board_contact": "Johanna Siens; 4430 Adams County Parkway; Brighton CO 80601",
+    "board_phone": "720-523-6950",
+    "board_email": "jsiens@adcogov.org",
+    "county": "Adams"
    },
    "geometry": {
     "type": "Point",
@@ -184,17 +236,25 @@
    "properties": {
     "name": "CoreCivic - Arapahoe Community Treatment Center",
     "category": "Community Corrections",
-    "address": "3265 W Girard Avenue",
+    "address": "3265 W. Girard Ave",
     "city": "Englewood",
     "zip": "80110",
-    "county": "Arapahoe",
     "phone": "303-761-7685",
-    "source": "CoreCivic facility page",
-    "source_url": "https://www.corecivic.com/facilities/arapahoe-community-treatment-center",
+    "source": "Colorado Division of Criminal Justice, Office of Community Corrections - Community Corrections Boards, Program & Specialized Programs",
+    "source_url": "https://dcj.colorado.gov/dcj-offices/occ/corrections-boards-programs",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "operator": "CoreCivic (private)",
-    "judicial_district": "18th"
+    "verified": "Official DCJ OCC list, copied from the DCJ page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "population": "Male",
+    "director": "Victoria Longstrom",
+    "judicial_district": "18th",
+    "district_counties": "Arapahoe, Douglas, Elbert & Lincoln County",
+    "specialized_programs": "SOSTCC",
+    "sostcc": "Gender: Male; Length: Opened Ended; Violent Offenders: Will be considered; SVP: Yes; Outside Jurisdiction: Yes; Additional Information: Accepts determinate and indeterminate sentences; Contact: Victoria Longstrom, 720-602-1562",
+    "board_contact": "Brad Kamby; 6984 South Lima Street, Suite A; Englewood CO 80112",
+    "board_phone": "720-874-3350",
+    "board_email": "bkamby@co.arapahoe.co.us",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
@@ -209,17 +269,23 @@
    "properties": {
     "name": "CoreCivic - Centennial Community Transition Center",
     "category": "Community Corrections",
-    "address": "14485 E Fremont Avenue",
+    "address": "14485 E. Fremont Ave",
     "city": "Englewood",
     "zip": "80112",
-    "county": "Arapahoe",
     "phone": "303-627-0987",
-    "source": "CoreCivic facility page",
-    "source_url": "https://www.corecivic.com/facilities/centennial-community-transition-center",
+    "source": "Colorado Division of Criminal Justice, Office of Community Corrections - Community Corrections Boards, Program & Specialized Programs",
+    "source_url": "https://dcj.colorado.gov/dcj-offices/occ/corrections-boards-programs",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "operator": "CoreCivic (private)",
-    "judicial_district": "18th"
+    "verified": "Official DCJ OCC list, copied from the DCJ page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "population": "Male",
+    "director": "Ericka Gillespie",
+    "judicial_district": "18th",
+    "district_counties": "Arapahoe, Douglas, Elbert & Lincoln County",
+    "board_contact": "Brad Kamby; 6984 South Lima Street, Suite A; Englewood CO 80112",
+    "board_phone": "720-874-3350",
+    "board_email": "bkamby@co.arapahoe.co.us",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
@@ -234,18 +300,23 @@
    "properties": {
     "name": "CoreCivic - Commerce Transitional Center",
     "category": "Community Corrections",
-    "address": "4901 Krameria Street",
+    "address": "4901 Krameria St.",
     "city": "Commerce City",
     "zip": "80022",
-    "county": "Adams",
     "phone": "720-407-8061",
-    "source": "CoreCivic facility page; Adams County Community Corrections page",
-    "source_url": "https://www.corecivic.com/facilities/commerce-transitional-center",
+    "source": "Colorado Division of Criminal Justice, Office of Community Corrections - Community Corrections Boards, Program & Specialized Programs",
+    "source_url": "https://dcj.colorado.gov/dcj-offices/occ/corrections-boards-programs",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "operator": "CoreCivic (private)",
-    "population": "Men, 136 beds",
-    "judicial_district": "17th"
+    "verified": "Official DCJ OCC list, copied from the DCJ page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "population": "Male",
+    "director": "Melissa Torres",
+    "judicial_district": "17th",
+    "district_counties": "Broomfield & Adams County",
+    "board_contact": "Johanna Siens; 4430 Adams County Parkway; Brighton CO 80601",
+    "board_phone": "720-523-6950",
+    "board_email": "jsiens@adcogov.org",
+    "county": "Adams"
    },
    "geometry": {
     "type": "Point",
@@ -258,102 +329,66 @@
   {
    "type": "Feature",
    "properties": {
-    "name": "CoreCivic - Longmont Community Treatment Center",
+    "name": "GEO - Arapahoe County Residential Center",
     "category": "Community Corrections",
-    "address": "236 Main Street",
-    "city": "Longmont",
-    "zip": "80501",
-    "county": "Boulder",
-    "phone": "303-651-7071",
-    "source": "Boulder County Halfway Houses page; CoreCivic facility page",
-    "source_url": "https://www.corecivic.com/facilities/longmont-community-treatment-center",
+    "address": "2135 W. Chenango Ave",
+    "city": "Littleton",
+    "zip": "80120",
+    "phone": "303-795-6975",
+    "source": "Colorado Division of Criminal Justice, Office of Community Corrections - Community Corrections Boards, Program & Specialized Programs",
+    "source_url": "https://dcj.colorado.gov/dcj-offices/occ/corrections-boards-programs",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "operator": "CoreCivic (private)",
-    "judicial_district": "20th"
+    "verified": "Official DCJ OCC list, copied from the DCJ page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "population": "Female/Male",
+    "director": "Angie Phebus",
+    "judicial_district": "18th",
+    "district_counties": "Arapahoe, Douglas, Elbert & Lincoln County",
+    "board_contact": "Brad Kamby; 6984 South Lima Street, Suite A; Englewood CO 80112",
+    "board_phone": "720-874-3350",
+    "board_email": "bkamby@co.arapahoe.co.us",
+    "county": "Arapahoe"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -105.102442,
-     40.162647
+     -105.01354,
+     39.627835
     ]
    }
   },
   {
    "type": "Feature",
    "properties": {
-    "name": "Correctional Alternative Placement Services (CAPS)",
+    "name": "GEO - Community Alternatives of El Paso County, Inc",
     "category": "Community Corrections",
-    "address": "445 Ranney Street",
-    "city": "Craig",
-    "zip": "81625",
-    "county": "Moffat",
-    "phone": "970-824-8166",
-    "source": "DCJ 2017 program list; reentry directory listing updated 2025-07-21 (third-party)",
-    "source_url": "https://cdpsdocs.state.co.us/occ/Programs/Updated-ResidentialProgramList-021317.pdf",
-    "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "operator": "GEO Group (GEO Reentry)",
-    "judicial_district": "14th",
-    "status_note": "No official 2024-26 source found confirming current operation; confirm with 14th JD Community Corrections Board.",
-    "location_accuracy": "Location unconfirmed - only recent source is a third-party directory; program may not be operating"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -107.553006,
-     40.513227
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "name": "Embrave - 3950 Residential Facility",
-    "category": "Community Corrections",
-    "address": "3950 N Nevada Avenue",
+    "address": "2945 E. Las Vegas St.",
     "city": "Colorado Springs",
-    "zip": "80907",
-    "county": "El Paso",
-    "phone": "719-260-8002",
-    "source": "Embrave facilities page",
-    "source_url": "https://embrave.org/facilities",
+    "zip": "80906",
+    "phone": "719-318-5586",
+    "source": "Colorado Division of Criminal Justice, Office of Community Corrections - Community Corrections Boards, Program & Specialized Programs",
+    "source_url": "https://dcj.colorado.gov/dcj-offices/occ/corrections-boards-programs",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "operator": "Embrave (formerly ComCor Inc., nonprofit)",
-    "judicial_district": "4th"
+    "verified": "Official DCJ OCC list, copied from the DCJ page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "population": "Male/Female",
+    "director": "Steven Owens",
+    "email": "steven.owens@geogroup.com",
+    "judicial_district": "4th",
+    "district_counties": "Teller & El Paso County",
+    "specialized_programs": "IRT; SOSTCC",
+    "irt": "Gender: Male; Length: 90 Days; Substance Abuse: SOA-R Level 4c; Mental Health: P1 - P3*; Medical: M1 - M2*; Sex Offenders: Yes; Violent Offenders: Will consider in Jurisdiction only; Additional Information: Not Currently Accepting Clients; Contact: Evan Burton, 719-318-5586 ext. 39",
+    "sostcc": "Gender: Male; Length: Opened Ended; Violent Offenders: Will be Considered; Outside Jurisdiction: Yes; Additional Information: Accepts determinate and indeterminate sentences; Contact: David Gonzales, 719-318-5586 ext. 20",
+    "board_contact": "MaCain Hildebrand; 17 N. Spruce Street; Colorado Springs CO 80905",
+    "board_phone": "719-520-6987",
+    "board_email": "MacainHildebrand@elpasoco.com",
+    "county": "El Paso"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -104.819139,
-     38.890282
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "name": "Embrave - Roberts Road Residential Facility",
-    "category": "Community Corrections",
-    "address": "3615 Roberts Road",
-    "city": "Colorado Springs",
-    "zip": "80907",
-    "county": "El Paso",
-    "phone": "719-473-3033",
-    "source": "Embrave facilities page; El Paso County Justice Services Community Corrections page",
-    "source_url": "https://embrave.org/facilities",
-    "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "operator": "Embrave (formerly ComCor Inc., nonprofit)",
-    "judicial_district": "4th"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -104.818064,
-     38.883636
+     -104.774101,
+     38.782315
     ]
    }
   },
@@ -362,18 +397,24 @@
    "properties": {
     "name": "Garfield County Community Corrections",
     "category": "Community Corrections",
-    "address": "0244 County Road 333A",
+    "address": "0224 County Rd. 333A",
     "city": "Rifle",
     "zip": "81650",
-    "county": "Garfield",
-    "phone": "970-625-0334",
-    "source": "Garfield County Criminal Justice Services (2026 residential handbook; PREA report 2025-26)",
-    "source_url": "https://www.garfieldcountyco.gov/criminal-justice",
+    "phone": "970-625-0334 ext. 100",
+    "source": "Colorado Division of Criminal Justice, Office of Community Corrections - Community Corrections Boards, Program & Specialized Programs",
+    "source_url": "https://dcj.colorado.gov/dcj-offices/occ/corrections-boards-programs",
     "geocode": "manual",
-    "retrieved": "2026-11-13",
-    "operator": "Garfield County (county)",
-    "population": "Men and women, 60 beds",
+    "verified": "Official DCJ OCC list, copied from the DCJ page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "population": "Male/Female",
+    "director": "Travis Horton",
     "judicial_district": "9th",
+    "district_counties": "Rio Blanco, Garfield & Pitkin County",
+    "board_contact": "Katie Ross-Biorn; 0244 County Road 333A; Rifle CO 81650",
+    "board_phone": "970-379-4782",
+    "board_email": "rossbailbondsapp@gmail.com",
+    "corrections_note": "DCJ list gives the program at 0224 County Rd 333A and the board at 0244 County Road 333A; placed at the facility's HIFLD footprint.",
+    "county": "Garfield",
     "location_accuracy": "Approximate - placed by hand (address did not geocode; see layer write-up)"
    },
    "geometry": {
@@ -387,45 +428,28 @@
   {
    "type": "Feature",
    "properties": {
-    "name": "Hilltop House",
+    "name": "ICCS - Adams",
     "category": "Community Corrections",
-    "address": "1050 Avenida Del Sol",
-    "city": "Durango",
-    "zip": "81301",
-    "county": "La Plata",
-    "phone": "970-247-1342",
-    "source": "DCJ 2017 program list; ColoradoGives nonprofit profile; Feb 2025 job posting confirms operating",
-    "source_url": "https://www.coloradogives.org/organization/Southwest-Colorado-Community-Corrections-Center",
-    "geocode": "osm-nominatim",
-    "retrieved": "2026-11-13",
-    "operator": "Southwest Colorado Community Corrections Center Inc. (nonprofit)",
-    "judicial_district": "6th"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -107.885963,
-     37.277529
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "name": "ICCS - Adams County Opportunity Center",
-    "category": "Community Corrections",
-    "address": "8031 I-76 Frontage Road",
+    "address": "8031 I-76 Service Rd",
     "city": "Henderson",
     "zip": "80640",
-    "county": "Adams",
     "phone": "720-523-7463",
-    "source": "Adams County Community Corrections page; ICCS locations page",
-    "source_url": "https://adamscountyco.gov/our-county/community-safety-wellbeing/community-corrections/",
+    "source": "Colorado Division of Criminal Justice, Office of Community Corrections - Community Corrections Boards, Program & Specialized Programs",
+    "source_url": "https://dcj.colorado.gov/dcj-offices/occ/corrections-boards-programs",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "operator": "Intervention Community Corrections Services (nonprofit)",
-    "population": "Men and women, 184 beds",
-    "judicial_district": "17th"
+    "verified": "Official DCJ OCC list, copied from the DCJ page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "population": "Male/Female",
+    "director": "Jessica Fields",
+    "judicial_district": "17th",
+    "district_counties": "Broomfield & Adams County",
+    "specialized_programs": "SOSTCC; RDDT",
+    "sostcc": "Gender: Male; Length: Open Ended; Violent Offenders: Yes; SVP: No; Outside Jurisdiction: Yes; Additional Information: Accepts determinate and indeterminate sentences; Contact: Jessica Fields, 720-523-7463",
+    "rddt": "Gender: Male & Female; Length: Open Ended; Substance Abuse: SOA-R Level 4a - 4d; Mental Health: P3 - P4; Sex Offenders: Will be considered; Violent Offenders: Will be considered; Contact: Jessica Fields, 720-523-7463",
+    "board_contact": "Johanna Siens; 4430 Adams County Parkway; Brighton CO 80601",
+    "board_phone": "720-523-6950",
+    "board_email": "jsiens@adcogov.org",
+    "county": "Adams"
    },
    "geometry": {
     "type": "Point",
@@ -438,145 +462,25 @@
   {
    "type": "Feature",
    "properties": {
-    "name": "ICCS - Boulder (formerly Boulder Community Treatment Center)",
-    "category": "Community Corrections",
-    "address": "1770 21st Street",
-    "city": "Boulder",
-    "zip": "80302",
-    "county": "Boulder",
-    "phone": "303-449-2539",
-    "source": "Boulder County Community Justice Services - Halfway Houses page",
-    "source_url": "https://bouldercounty.gov/safety/community-justice-services/community-corrections/halfway-houses/",
-    "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "operator": "Intervention Community Corrections Services (nonprofit)",
-    "judicial_district": "20th"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -105.267762,
-     40.016931
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "name": "ICCS - Kendall (Intervention Community Corrections Services)",
-    "category": "Community Corrections",
-    "address": "1651 Kendall Street",
-    "city": "Lakewood",
-    "zip": "80214",
-    "county": "Jefferson",
-    "phone": "303-232-4002",
-    "source": "ICCS locations page; Jefferson County Community Corrections page",
-    "source_url": "https://int-cjs.org/locations",
-    "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "operator": "Intervention Community Corrections Services (nonprofit)",
-    "judicial_district": "1st"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -105.066196,
-     39.743367
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "name": "ICCS - Pueblo (Intervention Community Corrections Services)",
-    "category": "Community Corrections",
-    "address": "1901 N Hudson Avenue",
-    "city": "Pueblo",
-    "zip": "81001",
-    "county": "Pueblo",
-    "phone": "719-569-3020",
-    "source": "ICCS locations page",
-    "source_url": "https://int-cjs.org/locations",
-    "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "operator": "Intervention Community Corrections Services (nonprofit)",
-    "judicial_district": "10th"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -104.595914,
-     38.28469
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "name": "ICCS - Weld (Intervention Community Corrections Services)",
-    "category": "Community Corrections",
-    "address": "1101 H Street",
-    "city": "Greeley",
-    "zip": "80631",
-    "county": "Weld",
-    "phone": "970-584-2520",
-    "source": "Weld County Community Corrections page; ICCS locations page",
-    "source_url": "https://weld.gov/government/departments/justice-services/community-corrections",
-    "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "operator": "Intervention Community Corrections Services (nonprofit)",
-    "judicial_district": "19th"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -104.696914,
-     40.444298
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "name": "ICCS - West (Intervention Community Corrections Services)",
-    "category": "Community Corrections",
-    "address": "11500 W Security Avenue",
-    "city": "Lakewood",
-    "zip": "80215",
-    "county": "Jefferson",
-    "phone": "303-407-6200",
-    "source": "ICCS locations page; Jefferson County Community Corrections page",
-    "source_url": "https://int-cjs.org/locations",
-    "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "operator": "Intervention Community Corrections Services (nonprofit)",
-    "judicial_district": "1st"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -105.126995,
-     39.737319
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
     "name": "IMPACT Center",
     "category": "Community Corrections",
-    "address": "10500 E Smith Road",
+    "address": "10500 Smith Road",
     "city": "Denver",
     "zip": "80239",
-    "county": "Denver",
     "phone": "720-913-3825",
-    "source": "City and County of Denver, Community Corrections Facilities page",
-    "source_url": "https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Department-of-Public-Safety/Community-Corrections/Residential-Programs/Community-Corrections-Facilities",
+    "source": "Colorado Division of Criminal Justice, Office of Community Corrections - Community Corrections Boards, Program & Specialized Programs",
+    "source_url": "https://dcj.colorado.gov/dcj-offices/occ/corrections-boards-programs",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "operator": "City and County of Denver",
-    "population": "Adult men",
-    "judicial_district": "2nd"
+    "verified": "Official DCJ OCC list, copied from the DCJ page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "population": "Male",
+    "director": "Maxwell Abagulum",
+    "judicial_district": "2nd",
+    "district_counties": "Denver County",
+    "board_contact": "Greg Mauro; Esther Smith; Denver CO 80204",
+    "board_phone": "720-913-8252",
+    "board_email": "greg.mauro@denvergov.org; esther.smith@denvergov.org",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -589,19 +493,26 @@
   {
    "type": "Feature",
    "properties": {
-    "name": "Independence House - Pecos",
+    "name": "Independence House Pecos",
     "category": "Community Corrections",
-    "address": "4101 Pecos Street",
+    "address": "4101 Pecos St.",
     "city": "Denver",
     "zip": "80211",
-    "county": "Denver",
-    "source": "City and County of Denver, Community Corrections Facilities page",
-    "source_url": "https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Department-of-Public-Safety/Community-Corrections/Residential-Programs/Community-Corrections-Facilities",
+    "phone": "303-455-7667",
+    "source": "Colorado Division of Criminal Justice, Office of Community Corrections - Community Corrections Boards, Program & Specialized Programs",
+    "source_url": "https://dcj.colorado.gov/dcj-offices/occ/corrections-boards-programs",
     "geocode": "osm-nominatim",
-    "retrieved": "2026-11-13",
-    "operator": "Independence House Inc. (nonprofit)",
-    "population": "Adult men",
-    "judicial_district": "2nd"
+    "verified": "Official DCJ OCC list, copied from the DCJ page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "population": "Male",
+    "director": "Jennifer Tegart",
+    "judicial_district": "2nd",
+    "district_counties": "Denver County",
+    "board_contact": "Greg Mauro; Esther Smith; Denver CO 80204",
+    "board_phone": "720-913-8252",
+    "board_email": "greg.mauro@denvergov.org; esther.smith@denvergov.org",
+    "corrections_note": "DCJ list gives ZIP 80218; 4101 Pecos St is in ZIP 80211 (80218 is Capitol Hill).",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",
@@ -614,20 +525,193 @@
   {
    "type": "Feature",
    "properties": {
-    "name": "Larimer County Community Corrections (Residential)",
+    "name": "Intervention Community Corrections Services - Jefferson",
     "category": "Community Corrections",
-    "address": "2255 Midpoint Drive",
+    "address": "1651 Kendall St.",
+    "city": "Lakewood",
+    "zip": "80214",
+    "phone": "303-232-4002",
+    "source": "Colorado Division of Criminal Justice, Office of Community Corrections - Community Corrections Boards, Program & Specialized Programs",
+    "source_url": "https://dcj.colorado.gov/dcj-offices/occ/corrections-boards-programs",
+    "geocode": "census-rooftop",
+    "verified": "Official DCJ OCC list, copied from the DCJ page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "population": "Male",
+    "director": "Josey Hall",
+    "judicial_district": "1st",
+    "district_counties": "Gilpin and Jefferson County",
+    "specialized_programs": "SOSTCC; RDDT",
+    "sostcc": "Gender: Male and Female; Length: Minimum 12 months; Violent Offenders: Yes; SVP: No; Outside Jurisdiction: Yes; Additional Information: Accepts determinate and indeterminate sentences; Contact: Josey Hall, 303-232-4002 ext. 2092",
+    "rddt": "Gender: Male & Female; Length: Open Ended; Substance Abuse: SOA-R Level 4a - 4d; Mental Health: P3 - P4; Sex Offenders: Will be considered; Violent Offenders: Will be considered; Contact: Josey Hall, 303-232-4002 ext. 2092",
+    "board_contact": "Kristin Heath; Connor Guenthner; 3500 Illinois Street, Ste 2800; Golden CO 80401",
+    "board_phone": "303-271-4840",
+    "board_email": "kheath@co.jefferson.co.us; cguenthn@co.jefferson.co.us",
+    "county": "Jefferson"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.066196,
+     39.743367
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Intervention Community Corrections Services - Pueblo",
+    "category": "Community Corrections",
+    "address": "1901 N. Hudson Ave",
+    "city": "Pueblo",
+    "zip": "81001",
+    "phone": "719-569-3044",
+    "source": "Colorado Division of Criminal Justice, Office of Community Corrections - Community Corrections Boards, Program & Specialized Programs",
+    "source_url": "https://dcj.colorado.gov/dcj-offices/occ/corrections-boards-programs",
+    "geocode": "census-rooftop",
+    "verified": "Official DCJ OCC list, copied from the DCJ page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "population": "Male/Female",
+    "director": "Cecilia Kear",
+    "judicial_district": "10th",
+    "district_counties": "Pueblo County",
+    "specialized_programs": "RDDT",
+    "rddt": "Gender: Male & Female; Length: Open Ended; Substance Abuse: SOA-R Level 4a - 4d; Mental Health: P3 - P4; Sex Offenders: Will be considered; Violent Offenders: Will be considered; Contact: Allison Warren, 719-569-3020",
+    "board_contact": "Brian Gomez; 215 W. 10th Street Ste 336; Pueblo CO 81003",
+    "board_phone": "719-583-6546",
+    "board_email": "gomezb@pueblocounty.us",
+    "county": "Pueblo"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.595914,
+     38.28469
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Intervention Community Corrections Services - Weld",
+    "category": "Community Corrections",
+    "address": "1101 H Street",
+    "city": "Greeley",
+    "zip": "80631",
+    "phone": "970-584-2520",
+    "source": "Colorado Division of Criminal Justice, Office of Community Corrections - Community Corrections Boards, Program & Specialized Programs",
+    "source_url": "https://dcj.colorado.gov/dcj-offices/occ/corrections-boards-programs",
+    "geocode": "census-rooftop",
+    "verified": "Official DCJ OCC list, copied from the DCJ page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "population": "Male/Female",
+    "director": "Raquel DeNaeyer",
+    "judicial_district": "19th",
+    "district_counties": "Weld County",
+    "specialized_programs": "SOSTCC; RDDT",
+    "sostcc": "Gender: Male; Length: Minimum 12 months; Violent Offenders: Yes; SVP: No; Outside Jurisdiction: Yes; Additional Information: Accepts determinate and indeterminate sentences; Contact: Raquel DeNaeyer, 970-584-2526",
+    "rddt": "Gender: Male; Length: Open Ended; Substance Abuse: SOA-R Level 4a - 4d; Mental Health: P3 - P4; Sex Offenders: Will be considered; Violent Offenders: Will be considered; Contact: Raquel DeNaeyer, 970-584-2526",
+    "board_contact": "Doug Erler; Lindsey Caro; Weld County Justice Services Department; 934 9th Ave.; PO Box 758; Greeley, CO 80632",
+    "board_phone": "970-400-4848",
+    "board_email": "derler@weld.gov; lcaro@weld.gov",
+    "county": "Weld"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.696914,
+     40.444298
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Intervention Community Corrections Services - West",
+    "category": "Community Corrections",
+    "address": "11500 W. Security Ave.",
+    "city": "Lakewood",
+    "zip": "80215",
+    "phone": "303-407-6200",
+    "source": "Colorado Division of Criminal Justice, Office of Community Corrections - Community Corrections Boards, Program & Specialized Programs",
+    "source_url": "https://dcj.colorado.gov/dcj-offices/occ/corrections-boards-programs",
+    "geocode": "census-rooftop",
+    "verified": "Official DCJ OCC list, copied from the DCJ page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "population": "Male/Female",
+    "director": "Judie Kunze",
+    "judicial_district": "1st",
+    "district_counties": "Gilpin and Jefferson County",
+    "board_contact": "Kristin Heath; Connor Guenthner; 3500 Illinois Street, Ste 2800; Golden CO 80401",
+    "board_phone": "303-271-4840",
+    "board_email": "kheath@co.jefferson.co.us; cguenthn@co.jefferson.co.us",
+    "county": "Jefferson"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.126995,
+     39.737319
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Joe Pelle Center - Boulder County",
+    "category": "Community Corrections",
+    "address": "3260 Airport Rd",
+    "city": "Boulder",
+    "zip": "80301",
+    "phone": "970-449-2781",
+    "source": "Colorado Division of Criminal Justice, Office of Community Corrections - Community Corrections Boards, Program & Specialized Programs",
+    "source_url": "https://dcj.colorado.gov/dcj-offices/occ/corrections-boards-programs",
+    "geocode": "census-rooftop",
+    "verified": "Official DCJ OCC list, copied from the DCJ page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "population": "Male/Female",
+    "director": "Timothy Hand",
+    "email": "thand@bouldercounty.gov",
+    "judicial_district": "20th",
+    "district_counties": "Boulder County",
+    "board_contact": "Cynthia Gabriel; 3260 Airport Rd; Boulder, CO 80301",
+    "board_phone": "720-737-5150; Referrals: 303-441-4711",
+    "board_email": "cyngabriel@bouldercounty.gov; cjscomcor@bouldercounty.gov",
+    "county": "Boulder"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.233532,
+     40.034522
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Larimer County Residential Facility",
+    "category": "Community Corrections",
+    "address": "2255 Midpoint Dr.",
     "city": "Fort Collins",
     "zip": "80525",
-    "county": "Larimer",
-    "phone": "970-498-7530",
-    "source": "Larimer County Community Corrections 2025 Annual Report",
-    "source_url": "https://www.larimer.gov/cja/comcor/annual-report",
+    "phone": "970-498-7566",
+    "source": "Colorado Division of Criminal Justice, Office of Community Corrections - Community Corrections Boards, Program & Specialized Programs",
+    "source_url": "https://dcj.colorado.gov/dcj-offices/occ/corrections-boards-programs",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "operator": "Larimer County Community Justice Alternatives (county)",
-    "population": "Men and women (434-bed capacity, 2025)",
-    "judicial_district": "8th"
+    "verified": "Official DCJ OCC list, copied from the DCJ page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "population": "Male/Female",
+    "director": "Alexis Ongley",
+    "judicial_district": "8th",
+    "district_counties": "Jackson & Larimer County",
+    "specialized_programs": "IRT; SOSTCC; RDDT",
+    "irt": "Gender: Males & Females; Length: 90 Days; Substance Abuse: SOA-R Level 4c; Mental Health: P1-P3; Sex Offenders: No; Violent Offenders: Will Be Considered; Additional Information: Adequate TABE & IQ Scores; Escape in past 2 years considered *Must have all prescription medications needed for 90 stay upon intake; Contact: Misty Perry, 970-498-7488",
+    "sostcc": "Gender: Male & Female; Length: 12 Months; Mental Health: P1-P2; Violent Offenders: Will Be Considered; SVP: Yes; Outside Jurisdiction: Will Be Considered; Additional Information: Accepts determinate and indeterminate sentences; Contact: Alexis Ongley, 970-498-7566",
+    "rddt": "Gender: Male & Female; Length: Open (Approx. 150 Days); Substance Abuse: SOA-R Level 4a - 4d; Mental Health: P3-P4; Sex Offenders: No; Violent Offenders: Will Be Considered; Additional Information: DOC - Accurate diagnosis and medication info OR MH referral with releases signed; Contact: Misty Perry, 970-498-7488",
+    "board_contact": "Jason Helms; 2255 Midpoint; Fort Collins CO 80525; Erin Caldwell; 2255 Midpoint; Fort Collins CO 80525",
+    "board_phone": "970-498-6811; 970-498-7534",
+    "board_email": "helmsjm@co.larimer.co.us; caldweem@co.larimer.co.us",
+    "county": "Larimer"
    },
    "geometry": {
     "type": "Point",
@@ -640,46 +724,30 @@
   {
    "type": "Feature",
    "properties": {
-    "name": "MOORE Center (Men Overcoming Obstacles Reentry Center)",
+    "name": "Mesa County Community Corrections",
     "category": "Community Corrections",
-    "address": "570 W 44th Avenue",
-    "city": "Denver",
-    "zip": "80216",
-    "county": "Denver",
-    "phone": "720-913-8243",
-    "source": "City and County of Denver, Community Corrections Facilities page",
-    "source_url": "https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Department-of-Public-Safety/Community-Corrections/Residential-Programs/Community-Corrections-Facilities",
-    "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "operator": "City and County of Denver with Second Chance Center",
-    "population": "Adult men",
-    "judicial_district": "2nd"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -104.994463,
-     39.776552
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "name": "Mesa County Community Corrections (Residential Services)",
-    "category": "Community Corrections",
-    "address": "650 South Avenue",
+    "address": "650 South Ave",
     "city": "Grand Junction",
     "zip": "81501",
-    "county": "Mesa",
     "phone": "970-244-3301",
-    "source": "Mesa County Criminal Justice Services contact page",
-    "source_url": "https://www.mesacounty.us/departments-and-services/criminal-justice-services/contact-information-cjsd",
+    "source": "Colorado Division of Criminal Justice, Office of Community Corrections - Community Corrections Boards, Program & Specialized Programs",
+    "source_url": "https://dcj.colorado.gov/dcj-offices/occ/corrections-boards-programs",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "operator": "Mesa County Criminal Justice Services (county)",
-    "population": "Men and women",
-    "judicial_district": "21st"
+    "verified": "Official DCJ OCC list, copied from the DCJ page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "population": "Male/Female",
+    "director": "Nick Brutosky",
+    "judicial_district": "21st",
+    "district_counties": "Mesa County",
+    "specialized_programs": "IRT; SOSTCC; RDDT",
+    "irt": "Gender: Males & Females; Length: 90 Days; Substance Abuse: SOA-R Level 4c; Mental Health: P3*; Medical: M-2; Sex Offenders: Yes; Violent Offenders: Yes; Additional Information: *Arrive with 90 days of medication; Contact: Eileen Wygant, 970-244-3302",
+    "sostcc": "Gender: Male & Female; Length: Open Ended; Mental Health: P3-P4; Violent Offenders: Yes; SVP: Yes; Outside Jurisdiction: Yes; Additional Information: Accepts determinate and indeterminate sentences, Conf. call needed for transition from DOC.; Contact: Eileen Wygant, 970-244-3302",
+    "rddt": "Gender: Male & Female; Length: Open Ended; Substance Abuse: SOA-R Level 4a - 4d; Mental Health: P3-P4; Sex Offenders: Will be considered; Violent Offenders: Will Be Considered; Additional Information: Conf. call needed for transition from DOC to RDDT; Contact: Eileen Wygant, 970-244-3302",
+    "board_contact": "Libby Raisch (Admin); P.O. Box 20,000; Grand Junction CO 81502-5018",
+    "board_phone": "970-244-3340",
+    "board_email": "libby.raisch@mesacounty.us",
+    "corrections_note": "DCJ list gives ZIP 81502 (a PO-box ZIP); the building at 650 South Ave is in 81501.",
+    "county": "Mesa"
    },
    "geometry": {
     "type": "Point",
@@ -692,20 +760,57 @@
   {
    "type": "Feature",
    "properties": {
-    "name": "Project: Elevate",
+    "name": "Moore Center",
     "category": "Community Corrections",
-    "address": "4280 Kearney Street",
+    "address": "570 West 44th Avenue",
     "city": "Denver",
     "zip": "80216",
-    "county": "Denver",
-    "phone": "720-337-2240",
-    "source": "City and County of Denver, Community Corrections Facilities page",
-    "source_url": "https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Department-of-Public-Safety/Community-Corrections/Residential-Programs/Community-Corrections-Facilities",
+    "phone": "720-913-3825",
+    "source": "Colorado Division of Criminal Justice, Office of Community Corrections - Community Corrections Boards, Program & Specialized Programs",
+    "source_url": "https://dcj.colorado.gov/dcj-offices/occ/corrections-boards-programs",
     "geocode": "census-rooftop",
-    "retrieved": "2026-11-13",
-    "operator": "City and County of Denver with The Empowerment Program",
-    "population": "Adult women",
-    "judicial_district": "2nd"
+    "verified": "Official DCJ OCC list, copied from the DCJ page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "population": "Male",
+    "director": "Carrie Barton",
+    "judicial_district": "2nd",
+    "district_counties": "Denver County",
+    "board_contact": "Greg Mauro; Esther Smith; Denver CO 80204",
+    "board_phone": "720-913-8252",
+    "board_email": "greg.mauro@denvergov.org; esther.smith@denvergov.org",
+    "county": "Denver"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.994463,
+     39.776552
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Project: Elevate",
+    "category": "Community Corrections",
+    "address": "4280 Kearney St.",
+    "city": "Denver",
+    "zip": "80216",
+    "phone": "720-337-2240",
+    "source": "Colorado Division of Criminal Justice, Office of Community Corrections - Community Corrections Boards, Program & Specialized Programs",
+    "source_url": "https://dcj.colorado.gov/dcj-offices/occ/corrections-boards-programs",
+    "geocode": "census-rooftop",
+    "verified": "Official DCJ OCC list, copied from the DCJ page by project staff 2026-11-24",
+    "retrieved": "2026-11-24",
+    "population": "Female",
+    "director": "Lauren Beaugh",
+    "email": "Lauren.Beaugh@denvergov.org",
+    "judicial_district": "2nd",
+    "district_counties": "Denver County",
+    "board_contact": "Greg Mauro; Esther Smith; Denver CO 80204",
+    "board_phone": "720-913-8252",
+    "board_email": "greg.mauro@denvergov.org; esther.smith@denvergov.org",
+    "county": "Denver"
    },
    "geometry": {
     "type": "Point",

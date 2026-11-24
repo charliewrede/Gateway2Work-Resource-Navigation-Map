@@ -3,7 +3,7 @@
 Every source and link behind the map points, in framework order (layers 1-25).
 Generated from the GeoJSON by `scripts/make_source_links.py`; do not edit by hand.
 For how each source was found, checked and corrected, open the layer's write-up.
-**Totals:** 1083 points, 174 distinct source/link pairs across 23 built layers.
+**Totals:** 1080 points, 151 distinct source/link pairs across 23 built layers.
 
 
 ## 1. Recovery-Friendly Employers
@@ -45,34 +45,11 @@ Write-up: [sources/04_Treatment_and_Mental_Health.md](sources/04_Treatment_and_M
 ## 5. Community Corrections
 Write-up: [sources/05_Community_Corrections.md](sources/05_Community_Corrections.md)
 
-`Community_Corrections.geojson` - 28 points, 24 source(s)
+`Community_Corrections.geojson` - 25 points, 1 source(s)
 
 | # | Source | Link | Points | Used for |
 |---|---|---|---|---|
-| 1 | City and County of Denver, Community Corrections Facilities page | [https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Department-of-Public-Safety/Community-Corrections/Residential-Programs/Community-Corrections-Facilities](https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Department-of-Public-Safety/Community-Corrections/Residential-Programs/Community-Corrections-Facilities) | 4 | (all points in this group) |
-| 2 | ICCS locations page; Jefferson County Community Corrections page | [https://int-cjs.org/locations](https://int-cjs.org/locations) | 2 | ICCS - Kendall (Intervention Community Corrections Services); ICCS - West (Intervention Community Corrections Services) |
-| 3 | Adams County Community Corrections page; ICCS locations page | [https://adamscountyco.gov/our-county/community-safety-wellbeing/community-corrections/](https://adamscountyco.gov/our-county/community-safety-wellbeing/community-corrections/) | 1 | ICCS - Adams County Opportunity Center |
-| 4 | Advantage Treatment Centers location page | [https://atreatmentcenters.com/lamar-co/](https://atreatmentcenters.com/lamar-co/) | 1 | Advantage Treatment Centers - Lamar |
-| 5 | Advantage Treatment Centers location page | [https://atreatmentcenters.com/sterling-co/](https://atreatmentcenters.com/sterling-co/) | 1 | Advantage Treatment Centers - Sterling |
-| 6 | Advantage Treatment Centers location page (lists community corrections in Montrose, Lamar, Alamosa, Sterling) | [https://atreatmentcenters.com/montrose-co/](https://atreatmentcenters.com/montrose-co/) | 1 | Advantage Treatment Centers - Montrose |
-| 7 | Advantage Treatment Centers location page; DCJ 2017 list had SLV Community Corrections at 2255 Lava Lane | [https://atreatmentcenters.com/alamosa-co/](https://atreatmentcenters.com/alamosa-co/) | 1 | Advantage Treatment Centers - Alamosa (San Luis Valley Community Corrections) |
-| 8 | Boulder County Community Justice Services - Halfway Houses page | [https://bouldercounty.gov/safety/community-justice-services/community-corrections/halfway-houses/](https://bouldercounty.gov/safety/community-justice-services/community-corrections/halfway-houses/) | 1 | ICCS - Boulder (formerly Boulder Community Treatment Center) |
-| 9 | Boulder County Halfway Houses page; CoreCivic facility page | [https://www.corecivic.com/facilities/longmont-community-treatment-center](https://www.corecivic.com/facilities/longmont-community-treatment-center) | 1 | CoreCivic - Longmont Community Treatment Center |
-| 10 | CoreCivic facility page | [https://www.corecivic.com/facilities/arapahoe-community-treatment-center](https://www.corecivic.com/facilities/arapahoe-community-treatment-center) | 1 | CoreCivic - Arapahoe Community Treatment Center |
-| 11 | CoreCivic facility page | [https://www.corecivic.com/facilities/centennial-community-transition-center](https://www.corecivic.com/facilities/centennial-community-transition-center) | 1 | CoreCivic - Centennial Community Transition Center |
-| 12 | CoreCivic facility page; Adams County Community Corrections page | [https://www.corecivic.com/facilities/adams-transitional-center](https://www.corecivic.com/facilities/adams-transitional-center) | 1 | CoreCivic - Adams Transitional Center (Time to Change) |
-| 13 | CoreCivic facility page; Adams County Community Corrections page | [https://www.corecivic.com/facilities/commerce-transitional-center](https://www.corecivic.com/facilities/commerce-transitional-center) | 1 | CoreCivic - Commerce Transitional Center |
-| 14 | DCJ 2017 program list; ColoradoGives nonprofit profile; Feb 2025 job posting confirms operating | [https://www.coloradogives.org/organization/Southwest-Colorado-Community-Corrections-Center](https://www.coloradogives.org/organization/Southwest-Colorado-Community-Corrections-Center) | 1 | Hilltop House |
-| 15 | DCJ 2017 program list; Remerg/GEO listing; reentry directory updated 2025-07-21 | [https://remerg.com/resources/geo-arapahoe-county-residential-center/](https://remerg.com/resources/geo-arapahoe-county-residential-center/) | 1 | Arapahoe County Residential Center (ACRC) |
-| 16 | DCJ 2017 program list; reentry directory listing updated 2025-07-21 (third-party) | [https://cdpsdocs.state.co.us/occ/Programs/Updated-ResidentialProgramList-021317.pdf](https://cdpsdocs.state.co.us/occ/Programs/Updated-ResidentialProgramList-021317.pdf) | 1 | Correctional Alternative Placement Services (CAPS) |
-| 17 | El Paso County Justice Services Community Corrections page | [https://justiceservices.elpasoco.com/community-corrections/](https://justiceservices.elpasoco.com/community-corrections/) | 1 | Community Alternatives of El Paso County (CAE) |
-| 18 | Embrave facilities page | [https://embrave.org/facilities](https://embrave.org/facilities) | 1 | Embrave - 3950 Residential Facility |
-| 19 | Embrave facilities page; El Paso County Justice Services Community Corrections page | [https://embrave.org/facilities](https://embrave.org/facilities) | 1 | Embrave - Roberts Road Residential Facility |
-| 20 | Garfield County Criminal Justice Services (2026 residential handbook; PREA report 2025-26) | [https://www.garfieldcountyco.gov/criminal-justice](https://www.garfieldcountyco.gov/criminal-justice) | 1 | Garfield County Community Corrections |
-| 21 | ICCS locations page | [https://int-cjs.org/locations](https://int-cjs.org/locations) | 1 | ICCS - Pueblo (Intervention Community Corrections Services) |
-| 22 | Larimer County Community Corrections 2025 Annual Report | [https://www.larimer.gov/cja/comcor/annual-report](https://www.larimer.gov/cja/comcor/annual-report) | 1 | Larimer County Community Corrections (Residential) |
-| 23 | Mesa County Criminal Justice Services contact page | [https://www.mesacounty.us/departments-and-services/criminal-justice-services/contact-information-cjsd](https://www.mesacounty.us/departments-and-services/criminal-justice-services/contact-information-cjsd) | 1 | Mesa County Community Corrections (Residential Services) |
-| 24 | Weld County Community Corrections page; ICCS locations page | [https://weld.gov/government/departments/justice-services/community-corrections](https://weld.gov/government/departments/justice-services/community-corrections) | 1 | ICCS - Weld (Intervention Community Corrections Services) |
+| 1 | Colorado Division of Criminal Justice, Office of Community Corrections - Community Corrections Boards, Program & Specialized Programs | [https://dcj.colorado.gov/dcj-offices/occ/corrections-boards-programs](https://dcj.colorado.gov/dcj-offices/occ/corrections-boards-programs) | 25 | (all points in this group) |
 
 ## 6. Jails
 Write-up: [sources/06_Jails.md](sources/06_Jails.md)
